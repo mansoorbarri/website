@@ -31,5 +31,14 @@ Machine I am using: Step 1: Confirm virtualization Open terminal and type
 grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://www.mansoor.cf/projects/flask-notetaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/projects/flask-notetaking/</guid>
+      <description>aabc </description>
+    </item>
+    
   </channel>
 </rss>
