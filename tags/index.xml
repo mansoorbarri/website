@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/tags/</link>
+    <description>Recent content in Tags on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Jan 2022 23:39:49 +0530</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://www.mansoor.cf/tags/linux/</link>
+      <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>https://www.mansoor.cf/tags/terminal/</link>
+      <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wifi</title>
+      <link>https://www.mansoor.cf/tags/wifi/</link>
+      <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/wifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vert Manager</title>
+      <link>https://www.mansoor.cf/tags/vert-manager/</link>
+      <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/vert-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://www.mansoor.cf/tags/windows/</link>
+      <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

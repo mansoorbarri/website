@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/posts/</link>
+    <description>Recent content in Posts on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Jan 2022 23:39:49 +0530</lastBuildDate><atom:link href="https://www.mansoor.cf/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>View Saved WiFi Passwords in Linux</title>
+      <link>https://www.mansoor.cf/posts/savedwifipwdlinux/</link>
+      <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/savedwifipwdlinux/</guid>
+      <description>Brief A way to see WiFi password for linux.
+Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
+ Share Twitter
+Linkedin</description>
+    </item>
+    
+    <item>
+      <title>Install Windows 7 on Linux</title>
+      <link>https://www.mansoor.cf/posts/windows7onlinux/</link>
+      <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/windows7onlinux/</guid>
+      <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
+Today we will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
+Machine I am using: Step 1: Confirm virtualization Open terminal and type
+grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
+    </item>
+    
+  </channel>
+</rss>
