@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 16 Jan 2022 23:39:49 +0530</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>View Saved WiFi Passwords in Linux</title>
-      <link>https://www.mansoor.cf/posts/savedwifipwdlinux/</link>
+      <link>https://www.mansoor.cf/posts/saved-wifi-pwd/</link>
       <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/savedwifipwdlinux/</guid>
+      <guid>https://www.mansoor.cf/posts/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
  Share Twitter
