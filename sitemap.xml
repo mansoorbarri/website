@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.mansoor.cf/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/posts/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/python/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/selenium/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/twitter/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/posts/twitter-bot/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/webscrapping/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.mansoor.cf/tags/hacking/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/linux/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mansoor.cf/tags/nmap/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/posts/nmap/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/posts/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/tags/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/cloudflare/</loc>
