@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian</title>
+      <link>https://www.mansoor.cf/tags/debian/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://www.mansoor.cf/tags/linux/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updates</title>
+      <link>https://www.mansoor.cf/tags/updates/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/updates/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Python</title>
       <link>https://www.mansoor.cf/tags/python/</link>
@@ -49,15 +76,6 @@
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/tags/hacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://www.mansoor.cf/tags/linux/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/linux/</guid>
       <description></description>
     </item>
     
