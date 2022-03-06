@@ -67,7 +67,8 @@ nmap -sP 172.67.208.3/24 2. Simple TCP scan A TCP is what makes the internet. TC
       <guid>https://www.mansoor.cf/posts/email-forwarding-cloudflare/</guid>
       <description>BRIEF You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
 By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
-Step 1: Setup Cloudflaee The first step is to setup cloudflare so it can route email. In this case my domain is mansoor.cf and I will be routing test@mansoor.</description>
+You will need to enable 2 Step verification on your google account for this to work.
+Step 1: Setup Cloudflaee The first step is to setup cloudflare so it can route email.</description>
     </item>
     
     <item>
