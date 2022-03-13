@@ -6,7 +6,21 @@
     <description>Recent content in linux on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Completely remove dualboot linux</title>
+      <link>https://www.mansoor.cf/posts/remove-dualboot/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/remove-dualboot/</guid>
+      <description>Requirements Windows 10 PC
+I - Delete partition Right click on the start button (bottom left corner) and click on &amp;ldquo;Disk Management&amp;rdquo;
+ideally there should be 2 linux partition, one swap area and other is main disk partition. These are the two partitions I have
+right click on one of them and click on &amp;ldquo;Delete Volume&amp;rdquo;
+click yes on the pop up
+repeat the last two steps for the second partition.</description>
+    </item>
+    
     <item>
       <title>Automatic Updates</title>
       <link>https://www.mansoor.cf/posts/auto-updates/</link>
