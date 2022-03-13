@@ -2,28 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.mansoor.cf/tags/dualboot/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/tags/linux/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <loc>https://www.mansoor.cf/posts/disable-updates/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/posts/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/posts/remove-dualboot/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/tags/windows/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/posts/disable-updates/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/trash/</loc>
@@ -32,10 +20,16 @@
     <loc>https://www.mansoor.cf/tags/updates/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.mansoor.cf/tags/windows/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.mansoor.cf/posts/auto-updates/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/debian/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/linux/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/python/</loc>
