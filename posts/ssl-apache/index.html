@@ -17,25 +17,25 @@
     
 
     
-    <title>Posts</title>
+    <title>SSL Certificate with Certbot</title>
     <meta name="description" content="Hacking, Tech &amp; IT">
-    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking'>
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, Apache, Certbot, Linux'>
 
-    <meta property="og:url" content="https://www.mansoor.cf/posts/">
+    <meta property="og:url" content="https://www.mansoor.cf/posts/ssl-apache/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Posts">
+    <meta property="og:title" content="SSL Certificate with Certbot">
     <meta property="og:description" content="Hacking, Tech &amp; IT">
     <meta property="og:image" content="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Posts">
+    <meta name="twitter:title" content="SSL Certificate with Certbot">
     <meta name="twitter:description" content="Hacking, Tech &amp; IT">
-    <meta property="twitter:domain" content="https://www.mansoor.cf/posts/">
-    <meta property="twitter:url" content="https://www.mansoor.cf/posts/">
+    <meta property="twitter:domain" content="https://www.mansoor.cf/posts/ssl-apache/">
+    <meta property="twitter:url" content="https://www.mansoor.cf/posts/ssl-apache/">
     <meta name="twitter:image" content="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp">
 
     
-    <link rel="canonical" href="https://www.mansoor.cf/posts/" />
+    <link rel="canonical" href="https://www.mansoor.cf/posts/ssl-apache/" />
 
     <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -145,67 +145,67 @@
     </nav>
 </header>
 <main id="content">
-    <div class="container list-posts">
+    <div class="post container">
 
-    <h1 class="list-title">Posts</h2>
+    <div class="post-header-section">
+        <h1>SSL Certificate with Certbot</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            March 17, 2022
+        </p>
 
-    
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="/tags/apache">Apache</a></li>
+        
+            <li class="post-tag"><a href="/tags/certbot">Certbot</a></li>
+        
+            <li class="post-tag"><a href="/tags/linux">Linux</a></li>
+        
+        </ul>
+    </div>
 
-    <h2 class="posts-year">2022</h2><article class="post-title">
-    <a href="/posts/ssl-apache/" class="post-link">SSL Certificate with Certbot</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 17, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/remove-dualboot/" class="post-link">Remove Debian from Windows DualBoot</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 15, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/disable-updates/" class="post-link">Disable Windows Updates</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 27, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/auto-updates/" class="post-link">Automatic Updates</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 23, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/twitter-bot/" class="post-link">Twitter Bot in Python (without API)</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 21, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/nmap/" class="post-link">Nmap quick start</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 19, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/email-forwarding-cloudflare/" class="post-link">Email forwarding with cloudflare</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 17, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/beef-debian/" class="post-link">Install BeEF on Debian Linux</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 15, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/saved-wifi-pwd/" class="post-link">View Saved WiFi Passwords in Linux</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 16, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/posts/windows7onlinux/" class="post-link">Install Windows 7 on Linux</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 2, 2022</span>
-</article>
+    <div class="post-content">
+        <p>
+            <h2 id="requirements">Requirements</h2>
+<p>Debian, Apache2, Snapd, Certbot</p>
+<h2 id="install">Install</h2>
+<p>First, update your repositories</p>
+<pre tabindex="0"><code>sudo apt update -y
+</code></pre><p>Install snapd</p>
+<pre tabindex="0"><code>sudo apt install snapd -y 
+</code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022.png?raw=true" alt="Screenshot of the command"></p>
+<p>install certbot</p>
+<pre tabindex="0"><code>sudo snap install certbot --classic
+</code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_1.png?raw=true" alt="Screenshot of the command"></p>
+<p>Create symbolic link so you can run certbot command from the terminal</p>
+<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_2.png?raw=true" alt="Screenshot of the command"></p>
+<p>Run certbot command</p>
+<pre tabindex="0"><code>sudo certbot --apache
+</code></pre><p><em>you can change &ldquo;&ndash;apache&rdquo; to &ldquo;&ndash;nginx&rdquo; if you are using nginx instead of apache</em>
+<img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_3.png?raw=true" alt="Screenshot of the command"></p>
+<p>Enter your valid email address so certbot can contact you for renewal and security notices</p>
+<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_4.png?raw=true" alt="Screenshot of the command"></p>
+<p>agree all the T&amp;Cs</p>
+<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_5.png?raw=true" alt="Screenshot of the command"></p>
+<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_6.png?raw=true" alt="Screenshot of the command"></p>
+<p>enter your domain name
+<img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_7.png?raw=true" alt="Screenshot of the command"></p>
+<p>that&rsquo;s it ✌🏽</p>
+<hr>
+<h3 id="contribution">Contribution</h3>
+<p>Open for contributions, Contact <a href="/socials">mansoor.cf/socials</a></p>
+<h3 id="share">Share</h3>
+<p><a href="https://twitter.com/intent/tweet?original_referer=%5BURL%5D&amp;url=https://www.mansoor.cf/posts/remove-dualboot">Twitter</a></p>
+<p><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://mansoor.cf&amp;source=https://www.mansoor.cf">Linkedin</a></p>
 
-    
-
+        </p>
+    </div>
 </div>
 
+
+
+    
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>
