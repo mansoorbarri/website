@@ -59,5 +59,20 @@ Question 4: Which private range is typically used by businesses? ~ A
 Question 5: There are two commn default private ranges for home routers, what is the first one?</description>
     </item>
     
+    <item>
+      <title>THM | VIM</title>
+      <link>https://www.mansoor.cf/writeups/vim/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/vim/</guid>
+      <description>Room https://tryhackme.com/room/toolboxvim
+Task 1: Task 1 Question 1: Install VIM No Answer Needed
+Question 2: Launch VIM No Answer Needed
+Task 2: Task 2 Question 1: How do wew enter &amp;ldquo;INSERT&amp;rdquo; mode? ~ i
+Question 2: How do we start entering text into our new Vim document? ~ typing
+Question 3: How do we return t command mode? ~ esc
+Question 4: How do we move the cursor left? ~ h</description>
+    </item>
+    
   </channel>
 </rss>
