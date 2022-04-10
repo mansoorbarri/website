@@ -217,5 +217,18 @@ Machine I am using: Step 1: Confirm virtualization Open terminal and type
 grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
     </item>
     
+    <item>
+      <title>THM | nmap</title>
+      <link>https://www.mansoor.cf/writeups/furthernmap/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/furthernmap/</guid>
+      <description>Room https://tryhackme.com/room/furthernmap
+Task 1: Deploy Question 1: Deploy the attached VM No Answer Needed
+Task 2: Introduction Question 1: What networking constructs are used to direct traffic to the right application on a server? ~ Ports
+Question 2: How many of these are available on any network-enabled computer? ~ 65535
+Question 3: [Research] How many of these are considered &amp;ldquo;well-known&amp;rdquo;? (These are the &amp;ldquo;standard&amp;rdquo; numbers mentioned in the task) ~ 1024</description>
+    </item>
+    
   </channel>
 </rss>
