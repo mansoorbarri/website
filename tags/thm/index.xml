@@ -6,16 +6,43 @@
     <description>Recent content in thm on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/thm/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intro to Digital Forensics</title>
-      <link>https://www.mansoor.cf/writeups/auto-updates/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <title>THM | Intro to Digital Forensics</title>
+      <link>https://www.mansoor.cf/writeups/introdigitalforensics/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/writeups/auto-updates/</guid>
+      <guid>https://www.mansoor.cf/writeups/introdigitalforensics/</guid>
       <description>Room https://tryhackme.com/room/introdigitalforensics
 Task 1: Introduction to Digital Forensics Question 1: Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics? ~ laptop
 Task 2: Digital Forensics Process Question 1: It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that?</description>
+    </item>
+    
+    <item>
+      <title>THM | Red Team Fundamentals</title>
+      <link>https://www.mansoor.cf/writeups/redteamfundamentals/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/redteamfundamentals/</guid>
+      <description>Room https://tryhackme.com/room/redteamfundamentals
+Task 1: Introduction Question 1: Click to continue to the next task No Answer Needed
+Task 2: Vulnerability Assessment and Penetration Tests Limitations Question 1: Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay) ~ Nay
+Question 2: During a penetration test, are you concerned about being detected by the client? (Yay/Nay) ~ Nay
+Question 3: Highly organised groups of skilled attackers are nowadays referred to as … ~ advanced persistent theats</description>
+    </item>
+    
+    <item>
+      <title>THM | Wreath</title>
+      <link>https://www.mansoor.cf/writeups/wreath/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/wreath/</guid>
+      <description>Room https://tryhackme.com/room/wreath
+Task 1-4: Intro No Answer Needed
+Task 5: Webserver Enumeration Question 1: How many of the first 15000 ports are open on the target? ~ 4
+Question 2: What OS does nmap think is running? ~ CentOS
+Question 3: Open the IP in your browser — what site does the sever try to redirect you to? ~ https://thomaswreath.thm
+Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
     </item>
     
   </channel>
