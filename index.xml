@@ -164,6 +164,20 @@ Linkedin</description>
     </item>
     
     <item>
+      <title>THM | Networking</title>
+      <link>https://www.mansoor.cf/writeups/networking/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/networking/</guid>
+      <description>Room https://tryhackme.com/room/bpnetworking
+Task 1: Kinda like a street address, just cooler. Question 1: How many categories of IPV4 addresses are there? ~ 5
+Question 2: Which type is for research *Looking for a letter rather than a number here? ~ E
+Question 3: How many private address ranges are there? ~ 3
+Question 4: Which private range is typically used by businesses? ~ A
+Question 5: There are two commn default private ranges for home routers, what is the first one?</description>
+    </item>
+    
+    <item>
       <title>Install Windows 7 on Linux</title>
       <link>https://www.mansoor.cf/posts/windows7onlinux/</link>
       <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
