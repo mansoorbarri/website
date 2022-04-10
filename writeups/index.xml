@@ -47,10 +47,10 @@ Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
     
     <item>
       <title>THM | Networking</title>
-      <link>https://www.mansoor.cf/writeups/networking/</link>
+      <link>https://www.mansoor.cf/writeups/bpnetworking/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/writeups/networking/</guid>
+      <guid>https://www.mansoor.cf/writeups/bpnetworking/</guid>
       <description>Room https://tryhackme.com/room/bpnetworking
 Task 1: Kinda like a street address, just cooler. Question 1: How many categories of IPV4 addresses are there? ~ 5
 Question 2: Which type is for research *Looking for a letter rather than a number here? ~ E
@@ -61,10 +61,10 @@ Question 5: There are two commn default private ranges for home routers, what is
     
     <item>
       <title>THM | VIM</title>
-      <link>https://www.mansoor.cf/writeups/vim/</link>
+      <link>https://www.mansoor.cf/writeups/toolboxvim/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/writeups/vim/</guid>
+      <guid>https://www.mansoor.cf/writeups/toolboxvim/</guid>
       <description>Room https://tryhackme.com/room/toolboxvim
 Task 1: Task 1 Question 1: Install VIM No Answer Needed
 Question 2: Launch VIM No Answer Needed
