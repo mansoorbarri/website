@@ -17,25 +17,25 @@
     
 
     
-    <title>writeups</title>
+    <title>THM | Bypassing UAC</title>
     <meta name="description" content="Hacking, Tech &amp; IT">
-    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking'>
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, writeups, thm'>
 
-    <meta property="og:url" content="https://www.mansoor.cf/tags/writeups/">
+    <meta property="og:url" content="https://www.mansoor.cf/write-ups/bypassinguac/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="writeups">
+    <meta property="og:title" content="THM | Bypassing UAC">
     <meta property="og:description" content="Hacking, Tech &amp; IT">
     <meta property="og:image" content="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="writeups">
+    <meta name="twitter:title" content="THM | Bypassing UAC">
     <meta name="twitter:description" content="Hacking, Tech &amp; IT">
-    <meta property="twitter:domain" content="https://www.mansoor.cf/tags/writeups/">
-    <meta property="twitter:url" content="https://www.mansoor.cf/tags/writeups/">
+    <meta property="twitter:domain" content="https://www.mansoor.cf/write-ups/bypassinguac/">
+    <meta property="twitter:url" content="https://www.mansoor.cf/write-ups/bypassinguac/">
     <meta name="twitter:image" content="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp">
 
     
-    <link rel="canonical" href="https://www.mansoor.cf/tags/writeups/" />
+    <link rel="canonical" href="https://www.mansoor.cf/write-ups/bypassinguac/" />
 
     <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -145,62 +145,67 @@
     </nav>
 </header>
 <main id="content">
-    <div class="container list-posts">
+    <div class="post container">
 
-    <h1 class="list-title">writeups</h2>
+    <div class="post-header-section">
+        <h1>THM | Bypassing UAC</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            April 11, 2022
+        </p>
 
-    
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="/tags/writeups">writeups</a></li>
+        
+            <li class="post-tag"><a href="/tags/thm">thm</a></li>
+        
+        </ul>
+    </div>
 
-    <h2 class="posts-year">2022</h2><article class="post-title">
-    <a href="/write-ups/rptmux/" class="post-link">THM | tmux</a>
-    <div class="flex-break"></div>
-    <span class="post-date">April 12, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/bypassinguac/" class="post-link">THM | Bypassing UAC</a>
-    <div class="flex-break"></div>
-    <span class="post-date">April 11, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/introdigitalforensics/" class="post-link">THM | Intro to Digital Forensics</a>
-    <div class="flex-break"></div>
-    <span class="post-date">April 10, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/redteamfundamentals/" class="post-link">THM | Red Team Fundamentals</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 16, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/wreath/" class="post-link">THM | Wreath</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 20, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/bpnetworking/" class="post-link">THM | Networking</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 9, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/toolboxvim/" class="post-link">THM | VIM</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 6, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/basicpentestingjt/" class="post-link">THM | Basic Pentesting</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 4, 2022</span>
-</article>
-<article class="post-title">
-    <a href="/write-ups/furthernmap/" class="post-link">THM | nmap</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 2, 2022</span>
-</article>
+    <div class="post-content">
+        <p>
+            <h2 id="room">Room</h2>
+<p><a href="https://tryhackme.com/room/bypassinguac">https://tryhackme.com/room/bypassinguac</a></p>
+<p>steps won&rsquo;t be explained since the room has walkthrough*</p>
+<h2 id="task-1-introduction">Task 1: Introduction</h2>
+<h3 id="question-1-click-and-continue-learning">Question 1: Click and continue learning!</h3>
+<p><em>No answer needed</em></p>
+<h2 id="task-2-user-account-control-uac">Task 2: User Account Control (UAC)</h2>
+<h3 id="question-1-what-is-the-highest-integrity-level-il-available-on-windows">Question 1: What is the highest integrity level (IL) available on Windows?</h3>
+<p><em>~ system</em></p>
+<h3 id="question-2-what-is-the-il-associated-with-an-administrators-elevated-token">Question 2: What is the IL associated with an administrator&rsquo;s elevated token?</h3>
+<p><em>~ high</em></p>
+<h3 id="question-3-what-is-the-full-name-of-the-service-in-charge-of-dealing-with-uac-elevation-requests">Question 3: What is the full name of the service in charge of dealing with UAC elevation requests?</h3>
+<p><em>~ Application Information Service</em></p>
+<h2 id="task-3-uac-gui-based-bypasses">Task 3: UAC: GUI based bypasses</h2>
+<h3 id="question-1-what-flag-is-returned-by-running-the-msconfig-exploit">Question 1: What flag is returned by running the msconfig exploit?</h3>
+<p><em>~ THM{UAC_HELLO_WORLD}</em></p>
+<h3 id="question-2-what-flag-is-returned-by-running-the-azmanmsc-exploit">Question 2: What flag is returned by running the azman.msc exploit?</h3>
+<p><em>~ THM{GUI_UAC_BYPASSED_AGAIN}</em></p>
+<h2 id="task-4-uac-auto-elevating-processes">Task 4: UAC: Auto-Elevating Processes</h2>
+<h3 id="question-1-what-flag-is-returned-by-running-the-fodhelper-exploit">Question 1: What flag is returned by running the fodhelper exploit?</h3>
+<p><em>~ THM{AUTOELEVATE4THEWIN}</em></p>
+<h2 id="task-5-uac-improving-the-fodhelper-exploit-to-bypass-windows-defender">Task 5: UAC: Improving the Fodhelper Exploit to Bypass Windows Defender</h2>
+<h3 id="question-1-what-flag-is-returned-by-running-the-fodhelper-curver-exploit">Question 1: What flag is returned by running the fodhelper-curver exploit?</h3>
+<p><em>~ THM{AV_UAC_BYPASS_4_ALL}</em></p>
+<h2 id="task-6-uac-environment-variable-expansion">Task 6: UAC: Environment Variable Expansion</h2>
+<h3 id="question-1-what-flag-is-returned-by-running-the-diskcleanup-exploit">Question 1: What flag is returned by running the DiskCleanup exploit?</h3>
+<p><em>~ THM{SCHEDULED_TASKS_AND_ENVIRONMENT_VARS}</em></p>
+<h2 id="task-7-8">Task 7-8</h2>
+<p><em>No answer needed</em></p>
+<p>that&rsquo;s it :)</p>
+<hr>
+<h3 id="contribution">Contribution</h3>
+<p>Open for contributions, Contact <a href="https://mansoor.cf/socials">mansoor.cf/socials</a></p>
 
-    
-
+        </p>
+    </div>
 </div>
 
+
+
+    
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>

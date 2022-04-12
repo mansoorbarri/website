@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thm on Mansoor Barri</title>
-    <link>https://www.mansoor.cf/tags/thm/</link>
-    <description>Recent content in thm on Mansoor Barri</description>
+    <title>Write-ups on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/write-ups/</link>
+    <description>Recent content in Write-ups on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/write-ups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>THM | tmux</title>
       <link>https://www.mansoor.cf/write-ups/rptmux/</link>
