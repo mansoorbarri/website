@@ -6,7 +6,20 @@
     <description>Recent content in writeups on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Command Attacks</title>
+      <link>https://www.mansoor.cf/write-ups/commonattacks/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/write-ups/commonattacks/</guid>
+      <description>Room https://tryhackme.com/room/commonattacks
+Task 1: Information Introduction Question 1: Let&amp;rsquo;s get started! No answer needed
+Task 2: Common Attacks Social Engineering Question 1: Read the task information and watch the attached videos No answer needed
+Question 2: What was the original target of Stuxnet? ~ iran nuclear programme
+Task 3: Common Attacks Social Engineering Phishing Question 1: Click the green &amp;ldquo;View Site&amp;rdquo; button at the top of this task if you haven&amp;rsquo;t already done so.</description>
+    </item>
+    
     <item>
       <title>THM | tmux</title>
       <link>https://www.mansoor.cf/write-ups/rptmux/</link>
