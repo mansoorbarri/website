@@ -6,7 +6,21 @@
     <description>Recent content in thm on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | DNS Manipulation</title>
+      <link>https://www.mansoor.cf/write-ups/dnsmanipulation/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/write-ups/dnsmanipulation/</guid>
+      <description>Room https://tryhackme.com/room/dnsmanipulation
+Task 1: Introduction No answer needed
+Task 2: Installation No answer needed
+Task 3: [Setup] Custom Public DNS Server No answer needed
+Task 4: What is DNS? Question 1: If you were on Windows, what command could you use to query a txt record for &amp;ldquo;youtube.com&amp;rdquo;? ~ nslookup -type=txt youtube.com
+Question 2: If you were on Linux, what command could you use to query a txt record for &amp;lsquo;facebook.</description>
+    </item>
+    
     <item>
       <title>THM | Red Team Engagements</title>
       <link>https://www.mansoor.cf/write-ups/redteamengagements/</link>
