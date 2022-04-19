@@ -25,23 +25,6 @@ Question 3: Send the request.</description>
     </item>
     
     <item>
-      <title>THM | Burp Suite: Repeater</title>
-      <link>https://www.mansoor.cf/write-ups/linuxmodules/</link>
-      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/write-ups/linuxmodules/</guid>
-      <description>Room https://tryhackme.com/room/burpsuiterepeater
-Task 1: Introduction Outline No answer needed
-Task 2: Repeater What is Repeater? No answer needed
-Task 3: Repeater Basic Usage? No answer needed
-Task 4: Repeater Views Question 1: No answer needed
-Question 2: Which view option displays the response in the same format as your browser would? ~ Render
-Task 5: Repeater Inspector No answer needed
-Task 6: Practical Example No answer needed
-Question 3: Send the request.</description>
-    </item>
-    
-    <item>
       <title>THM | Burp Suite: The Basics</title>
       <link>https://www.mansoor.cf/write-ups/burpsuitebasics/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
