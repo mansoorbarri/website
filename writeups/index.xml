@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writeups on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/writeups/</link>
+    <description>Recent content in Writeups on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Linux Modules</title>
+      <link>https://www.mansoor.cf/writeups/linuxmodules/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/linuxmodules/</guid>
+      <description>Room https://tryhackme.com/room/linuxmodules
+Task 1: Let&amp;rsquo;s Introduce No answer needed
+Task 2: du No answer needed
+Task 3: Grep, Egrep, Fgrep Read the above No answer needed
+Question 1: Is there a difference between egrep and fgrep? (Yea/Nay) ~ Yea
+Question 2: Which flag do you use to list out all the lines NOT containing the &amp;lsquo;PATTERN&amp;rsquo;? ~ -v
+Download the above given file and answer the following questions. ~ No answer needed</description>
+    </item>
+    
+    <item>
+      <title>THM | Burp Suite: Repeater</title>
+      <link>https://www.mansoor.cf/writeups/burpsuiterepeater/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/burpsuiterepeater/</guid>
+      <description>Room https://tryhackme.com/room/burpsuiterepeater
+Task 1: Introduction Outline No answer needed
+Task 2: Repeater What is Repeater? No answer needed
+Task 3: Repeater Basic Usage? No answer needed
+Task 4: Repeater Views Question 1: No answer needed
+Question 2: Which view option displays the response in the same format as your browser would? ~ Render
+Task 5: Repeater Inspector No answer needed
+Task 6: Practical Example No answer needed
+Question 3: Send the request.</description>
+    </item>
+    
+    <item>
+      <title>THM | Burp Suite: The Basics</title>
+      <link>https://www.mansoor.cf/writeups/burpsuitebasics/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/burpsuitebasics/</guid>
+      <description>Room https://tryhackme.com/room/burpsuitebasics
+Task 1: Introduction Outline No answer needed
+Task 2: Getting Started What is Burp Suite? Question 1: Which edition of Burp Suite will we be using in this module? ~ Burp Suite Community
+Question 2: Which edition of Burp Suite runs on a server and provides constant scanning for target web apps? ~ burp suite enterprise
+Question 3: Burp Suite is frequently used when attacking web applications and ______ applications.</description>
+    </item>
+    
+    <item>
+      <title>THM | DNS Manipulation</title>
+      <link>https://www.mansoor.cf/writeups/dnsmanipulation/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/dnsmanipulation/</guid>
+      <description>Room https://tryhackme.com/room/dnsmanipulation
+Task 1: Introduction No answer needed
+Task 2: Installation No answer needed
+Task 3: [Setup] Custom Public DNS Server No answer needed
+Task 4: What is DNS? Question 1: If you were on Windows, what command could you use to query a txt record for &amp;ldquo;youtube.com&amp;rdquo;? ~ nslookup -type=txt youtube.com
+Question 2: If you were on Linux, what command could you use to query a txt record for &amp;lsquo;facebook.</description>
+    </item>
+    
+    <item>
+      <title>THM | Red Team Engagements</title>
+      <link>https://www.mansoor.cf/writeups/redteamengagements/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/redteamengagements/</guid>
+      <description>Room https://tryhackme.com/room/redteamengagements
+Task 1: Introduction No answer needed
+Task 2: Defining Scope and Objectives Question 1-2: No answer needd
+Question 3: What CIDR range is permitted to be attacked? ~ 10.0.4.0/22
+Question 4: Is the use of white cards permitted? (Y/N) ~ Y
+Question 5: Are you permitted to access &amp;ldquo;*.bethechange.xyz?&amp;rdquo; (Y/N) ~ N
+Task 3: Rules of Engagement Question 1: Once downloaded, read the sample document and answer the questions below.</description>
+    </item>
+    
+    <item>
+      <title>THM | Red Team Recon</title>
+      <link>https://www.mansoor.cf/writeups/redteamrecon/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/redteamrecon/</guid>
+      <description>Room https://tryhackme.com/room/redteamrecon
+Task 1: Introduction No answer needed
+Task 2: Taxonomy of Reconnaissance No answer needed
+Task 3: Built-in Tools Question 1: When was thmredteam.com created (registered)? (YYYY-MM-DD) ~ 2021-09-24
+whois thmredteam.com Question 2: To how many IPv4 addresses does clinic.thmredteam.com resolve? ~ 2
+host clinic.thmredteam.com Question 3: To how many IPv6 addresses does clinic.thmredteam.com resolve? ~ 2
+host clinic.thmredteam.com Task 4: Advanced Searching Question 1: How would you search using Google for xls indexed for http://clinic.</description>
+    </item>
+    
+    <item>
+      <title>THM | Cryptography for Dummies</title>
+      <link>https://www.mansoor.cf/writeups/cryptographyfordummies/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/cryptographyfordummies/</guid>
+      <description>Room https://tryhackme.com/room/cryptographyfordummies
+Task 1: Intro No answer needed
+Task 2: Types of cryptography Question 1: What type of cryptography is more secure? ~ asymmetric
+Question 2: What type of cryptography is faster? ~ symmetric
+Question 3: What type of cryptography will a Bank site use? ~ symmetric
+Question 4: What will you use to encrypt your messages in asymmetric cryptography? ~ public key
+Question 5: What will you use to decrypt messages in asymmetric cryptography?</description>
+    </item>
+    
+    <item>
+      <title>THM | Common Attacks</title>
+      <link>https://www.mansoor.cf/writeups/commonattacks/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/commonattacks/</guid>
+      <description>Room https://tryhackme.com/room/commonattacks
+Task 1: Information Introduction Question 1: Let&amp;rsquo;s get started! No answer needed
+Task 2: Common Attacks Social Engineering Question 1: Read the task information and watch the attached videos No answer needed
+Question 2: What was the original target of Stuxnet? ~ iran nuclear programme
+Task 3: Common Attacks Social Engineering Phishing Question 1: Click the green &amp;ldquo;View Site&amp;rdquo; button at the top of this task if you haven&amp;rsquo;t already done so.</description>
+    </item>
+    
+    <item>
+      <title>THM | tmux</title>
+      <link>https://www.mansoor.cf/writeups/rptmux/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/rptmux/</guid>
+      <description>Room https://tryhackme.com/room/rptmux
+Task 1: Screens wishes it was this cool Question 1: First things first, let&amp;rsquo;s go ahead and install tmux. This can be done on Ubuntu/Kali with the command: apt-get install tmux No answer needed
+Question 2: Once tmux is installed, let&amp;rsquo;s launch a new session. What command do we use to launch a new session without a custom name? ~ tmux
+Question 3: All tmux commands start with a keyboard button combination.</description>
+    </item>
+    
+    <item>
+      <title>THM | Bypassing UAC</title>
+      <link>https://www.mansoor.cf/writeups/bypassinguac/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/bypassinguac/</guid>
+      <description>Room https://tryhackme.com/room/bypassinguac
+steps won&amp;rsquo;t be explained since the room has walkthrough*
+Task 1: Introduction Question 1: Click and continue learning! No answer needed
+Task 2: User Account Control (UAC) Question 1: What is the highest integrity level (IL) available on Windows? ~ system
+Question 2: What is the IL associated with an administrator&amp;rsquo;s elevated token? ~ high
+Question 3: What is the full name of the service in charge of dealing with UAC elevation requests?</description>
+    </item>
+    
+    <item>
+      <title>THM | Intro to Digital Forensics</title>
+      <link>https://www.mansoor.cf/writeups/introdigitalforensics/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/introdigitalforensics/</guid>
+      <description>Room https://tryhackme.com/room/introdigitalforensics
+Task 1: Introduction to Digital Forensics Question 1: Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics? ~ laptop
+Task 2: Digital Forensics Process Question 1: It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that?</description>
+    </item>
+    
+    <item>
+      <title>THM | Red Team Fundamentals</title>
+      <link>https://www.mansoor.cf/writeups/redteamfundamentals/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/redteamfundamentals/</guid>
+      <description>Room https://tryhackme.com/room/redteamfundamentals
+Task 1: Introduction Question 1: Click to continue to the next task No Answer Needed
+Task 2: Vulnerability Assessment and Penetration Tests Limitations Question 1: Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay) ~ Nay
+Question 2: During a penetration test, are you concerned about being detected by the client? (Yay/Nay) ~ Nay
+Question 3: Highly organised groups of skilled attackers are nowadays referred to as … ~ advanced persistent theats</description>
+    </item>
+    
+    <item>
+      <title>THM | Wreath</title>
+      <link>https://www.mansoor.cf/writeups/wreath/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/wreath/</guid>
+      <description>Room https://tryhackme.com/room/wreath
+Task 1-4: Intro No Answer Needed
+Task 5: Webserver Enumeration Question 1: How many of the first 15000 ports are open on the target? ~ 4
+Question 2: What OS does nmap think is running? ~ CentOS
+Question 3: Open the IP in your browser — what site does the sever try to redirect you to? ~ https://thomaswreath.thm
+Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
+    </item>
+    
+    <item>
+      <title>THM | Networking</title>
+      <link>https://www.mansoor.cf/writeups/bpnetworking/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/bpnetworking/</guid>
+      <description>Room https://tryhackme.com/room/bpnetworking
+Task 1: Kinda like a street address, just cooler. Question 1: How many categories of IPV4 addresses are there? ~ 5
+Question 2: Which type is for research *Looking for a letter rather than a number here? ~ E
+Question 3: How many private address ranges are there? ~ 3
+Question 4: Which private range is typically used by businesses? ~ A
+Question 5: There are two commn default private ranges for home routers, what is the first one?</description>
+    </item>
+    
+    <item>
+      <title>THM | VIM</title>
+      <link>https://www.mansoor.cf/writeups/toolboxvim/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/toolboxvim/</guid>
+      <description>Room https://tryhackme.com/room/toolboxvim
+Task 1: Task 1 Question 1: Install VIM No Answer Needed
+Question 2: Launch VIM No Answer Needed
+Task 2: Task 2 Question 1: How do wew enter &amp;ldquo;INSERT&amp;rdquo; mode? ~ i
+Question 2: How do we start entering text into our new Vim document? ~ typing
+Question 3: How do we return t command mode? ~ esc
+Question 4: How do we move the cursor left? ~ h</description>
+    </item>
+    
+    <item>
+      <title>THM | Basic Pentesting</title>
+      <link>https://www.mansoor.cf/writeups/basicpentestingjt/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/basicpentestingjt/</guid>
+      <description>Room https://tryhackme.com/room/basicpentestingjt
+Task 1: Web App Testing and Privilege Esclation Question 1: Question 1: Deploy he machine and connect to our network No Answer Needed
+Question 2: Find the services exposed by the machine No Answer Needed
+nmap -Pn -sC -sV -oN nmap &amp;lt;machine-ip&amp;gt; Question 3: What is the name of the hidden directory on the web server(enter name without /)? ~ development
+gobuster dir -u &amp;lt;machine-ip&amp;gt; -w &amp;lt;[dir-to-directory-list-2.3-medium.txt](https://gitlab.com/kalilinux/packages/dirbuster/-/raw/kali/master/directory-list-2.3-medium.txt)&amp;gt; wordlist used^</description>
+    </item>
+    
+    <item>
+      <title>THM | nmap</title>
+      <link>https://www.mansoor.cf/writeups/furthernmap/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/furthernmap/</guid>
+      <description>Room https://tryhackme.com/room/furthernmap
+Task 1: Deploy Question 1: Deploy the attached VM No Answer Needed
+Task 2: Introduction Question 1: What networking constructs are used to direct traffic to the right application on a server? ~ Ports
+Question 2: How many of these are available on any network-enabled computer? ~ 65535
+Question 3: [Research] How many of these are considered &amp;ldquo;well-known&amp;rdquo;? (These are the &amp;ldquo;standard&amp;rdquo; numbers mentioned in the task) ~ 1024</description>
+    </item>
+    
+  </channel>
+</rss>

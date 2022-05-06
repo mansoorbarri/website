@@ -3,39 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mansoor.cf/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/thm/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/burpsuiterepeater/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+    <loc>https://www.mansoor.cf/writeups/linuxmodules/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+    <loc>https://www.mansoor.cf/writeups/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/writeups/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/writeups/burpsuiterepeater/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/burpsuitebasics/</loc>
+    <loc>https://www.mansoor.cf/writeups/burpsuitebasics/</loc>
     <lastmod>2022-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/dnsmanipulation/</loc>
+    <loc>https://www.mansoor.cf/writeups/dnsmanipulation/</loc>
     <lastmod>2022-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/redteamengagements/</loc>
+    <loc>https://www.mansoor.cf/writeups/redteamengagements/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/redteamrecon/</loc>
+    <loc>https://www.mansoor.cf/writeups/redteamrecon/</loc>
     <lastmod>2022-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/cryptographyfordummies/</loc>
+    <loc>https://www.mansoor.cf/writeups/cryptographyfordummies/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/commonattacks/</loc>
+    <loc>https://www.mansoor.cf/writeups/commonattacks/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/posts/hosting/</loc>
@@ -53,13 +56,13 @@
     <loc>https://www.mansoor.cf/posts/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/rptmux/</loc>
+    <loc>https://www.mansoor.cf/writeups/rptmux/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/bypassinguac/</loc>
+    <loc>https://www.mansoor.cf/writeups/bypassinguac/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/introdigitalforensics/</loc>
+    <loc>https://www.mansoor.cf/writeups/introdigitalforensics/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/apache/</loc>
@@ -131,7 +134,7 @@
     <loc>https://www.mansoor.cf/tags/gmail/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/redteamfundamentals/</loc>
+    <loc>https://www.mansoor.cf/writeups/redteamfundamentals/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/beef/</loc>
@@ -140,7 +143,7 @@
     <loc>https://www.mansoor.cf/posts/beef-debian/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/wreath/</loc>
+    <loc>https://www.mansoor.cf/writeups/wreath/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/terminal/</loc>
@@ -152,13 +155,13 @@
     <loc>https://www.mansoor.cf/tags/wifi/</loc>
     <lastmod>2022-01-16T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/bpnetworking/</loc>
+    <loc>https://www.mansoor.cf/writeups/bpnetworking/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/toolboxvim/</loc>
+    <loc>https://www.mansoor.cf/writeups/toolboxvim/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/basicpentestingjt/</loc>
+    <loc>https://www.mansoor.cf/writeups/basicpentestingjt/</loc>
     <lastmod>2022-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/posts/windows7onlinux/</loc>
@@ -167,7 +170,7 @@
     <loc>https://www.mansoor.cf/tags/vert-manager/</loc>
     <lastmod>2022-01-02T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/write-ups/furthernmap/</loc>
+    <loc>https://www.mansoor.cf/writeups/furthernmap/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/categories/</loc>
