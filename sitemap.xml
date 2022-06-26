@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.mansoor.cf/tags/dark-mode/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/posts/dark-instagram/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/instagram/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.mansoor.cf/</loc>
-    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/posts/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/</loc>
-    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/web/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/thm/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
@@ -41,12 +56,6 @@
     <loc>https://www.mansoor.cf/writeups/commonattacks/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/tags/dark-mode/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/posts/dark-instagram/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mansoor.cf/posts/hosting/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,19 +65,10 @@
     <loc>https://www.mansoor.cf/tags/hosting/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/tags/instagram/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mansoor.cf/tags/linux/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mansoor.cf/posts/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mansoor.cf/writeups/rptmux/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/tags/web/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/writeups/bypassinguac/</loc>
