@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apt</title>
+      <link>https://www.mansoor.cf/tags/apt/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/apt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://www.mansoor.cf/tags/linux/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://www.mansoor.cf/tags/ubuntu/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dark Mode</title>
       <link>https://www.mansoor.cf/tags/dark-mode/</link>
@@ -94,15 +121,6 @@
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/tags/hosting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://www.mansoor.cf/tags/linux/</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/linux/</guid>
       <description></description>
     </item>
     
