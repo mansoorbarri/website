@@ -2,28 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.mansoor.cf/tags/linux/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/posts/linux-firewall/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.mansoor.cf/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/posts/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/tags/security/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/tags/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mansoor.cf/tags/ufw/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/posts/remove-viruses/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/tron/</loc>
@@ -39,6 +27,9 @@
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/posts/better-apt/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mansoor.cf/tags/linux/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mansoor.cf/tags/ubuntu/</loc>
