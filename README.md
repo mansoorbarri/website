@@ -17,7 +17,7 @@ www.mansoor.cf
 
 Contributions are always welcome!
 
-visit [mansoor.cf/socials](https://www.mansoor.cf/socials) for ways to get started.
+visit [mansoor.cf/socials](https://www.mansoor.cf/) for ways to get started.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.mansoor.cf/)
