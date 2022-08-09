@@ -6,7 +6,22 @@
     <description>Recent content in thm on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Threat Intelligence Tools</title>
+      <link>https://www.mansoor.cf/writeups/threatinteltools/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/writeups/threatinteltools/</guid>
+      <description>Room https://tryhackme.com/room/threatinteltools
+Task 1-2 no answer needed
+Task 3 - UrlScan.io [answers are from the image right above] Question 1: What is TryHackMe&amp;rsquo;s Cisco Umbrella Rank? ~ 345612
+Question 2: How many domains did UrlScan.io identify? ~ 13
+Question 3: What is the main domain registrar listed? ~ NAMECHEAP INC
+Question 4: What is the main IP address identified? ~ 2606:4700:10::ac43:1b0a
+Task 4 - Abuse.ch Question 1: The IOC 212.192.246.30:5555 is linked to which malware on ThreatFox?</description>
+    </item>
+    
     <item>
       <title>THM | Introduction to Antivirus</title>
       <link>https://www.mansoor.cf/writeups/introtoav/</link>
