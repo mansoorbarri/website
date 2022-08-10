@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certbot on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/tags/certbot/</link>
+    <description>Recent content in Certbot on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/certbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSL Certificate with Certbot</title>
+      <link>https://www.mansoor.cf/posts/ssl-apache/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/ssl-apache/</guid>
+      <description>Requirements Debian, Apache2, Snapd, Certbot
+Install First, update your repositories
+sudo apt update -y Install snapd
+sudo apt install snapd -y install certbot
+sudo snap install certbot --classic Create symbolic link so you can run certbot command from the terminal
+Run certbot command
+sudo certbot --apache you can change &amp;ldquo;&amp;ndash;apache&amp;rdquo; to &amp;ldquo;&amp;ndash;nginx&amp;rdquo; if you are using nginx instead of apache Enter your valid email address so certbot can contact you for renewal and security notices</description>
+    </item>
+    
+  </channel>
+</rss>

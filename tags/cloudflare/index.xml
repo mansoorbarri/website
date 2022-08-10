@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudflare on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email forwarding with cloudflare</title>
+      <link>https://www.mansoor.cf/posts/email-forwarding-cloudflare/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/email-forwarding-cloudflare/</guid>
+      <description>BRIEF You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
+By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
+You will need to enable 2 Step verification on your google account for this to work.
+Step 1: Setup Cloudflaee The first step is to setup cloudflare so it can route email.</description>
+    </item>
+    
+  </channel>
+</rss>
