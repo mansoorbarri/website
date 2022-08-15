@@ -37,13 +37,13 @@
     
     <link rel="canonical" href="https://www.mansoor.cf/posts/twitter-bot/" />
 
-    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link disabled id="dark-theme" rel="stylesheet" href="/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://www.mansoor.cf/css/dark.css">
 
-    <script src="/js/svg-injector.min.js"></script>
-    <script src="/js/feather-icons.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="https://www.mansoor.cf/js/svg-injector.min.js"></script>
+    <script src="https://www.mansoor.cf/js/feather-icons.min.js"></script>
+    <script src="https://www.mansoor.cf/js/main.js"></script>
 
     
     
@@ -58,7 +58,7 @@
         
         <div class="avatar">
             <a href="https://www.mansoor.cf">
-                <img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
+                <img src="https://www.mansoor.cfhttps://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
             </a>
         </div>
         
@@ -70,23 +70,23 @@
         <div class="nav-links">
             
             <div class="nav-link">
-                <a href="/"> Home </a>
+                <a href="https://www.mansoor.cf/"> Home </a>
             </div>
             
             <div class="nav-link">
-                <a href="/posts/"> Posts </a>
+                <a href="https://www.mansoor.cf/posts/"> Posts </a>
             </div>
             
             <div class="nav-link">
-                <a href="/writeups/"> Writeups </a>
+                <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
             </div>
             
             <div class="nav-link">
-                <a href="/projects/"> Projects </a>
+                <a href="https://www.mansoor.cf/projects/"> Projects </a>
             </div>
             
             <div class="nav-link">
-                <a href="/tags/"> Tags </a>
+                <a href="https://www.mansoor.cf/tags/"> Tags </a>
             </div>
             
             <div class="nav-link">
@@ -111,23 +111,23 @@
             <ul class="nav-hamburger-list visibility-hidden">
                 
                 <li class="nav-item">
-                    <a href="/"> Home </a>
+                    <a href="https://www.mansoor.cf/"> Home </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/posts/"> Posts </a>
+                    <a href="https://www.mansoor.cf/posts/"> Posts </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/writeups/"> Writeups </a>
+                    <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/projects/"> Projects </a>
+                    <a href="https://www.mansoor.cf/projects/"> Projects </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/tags/"> Tags </a>
+                    <a href="https://www.mansoor.cf/tags/"> Tags </a>
                 </li>
                 
                 <li class="nav-item">
@@ -146,7 +146,6 @@
 </header>
 <main id="content">
     <div class="post container">
-
     <div class="post-header-section">
         <h1>Twitter Bot in Python (without API)</h1>
         <small role="doc-subtitle"></small>
@@ -156,13 +155,13 @@
 
         <ul class="post-tags">
         
-            <li class="post-tag"><a href="/tags/selenium">Selenium</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/selenium">Selenium</a></li>
         
-            <li class="post-tag"><a href="/tags/python">Python</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/python">Python</a></li>
         
-            <li class="post-tag"><a href="/tags/twitter">Twitter</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/twitter">Twitter</a></li>
         
-            <li class="post-tag"><a href="/tags/webscrapping">WebScrapping</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/webscrapping">WebScrapping</a></li>
         
         </ul>
     </div>
@@ -351,13 +350,56 @@ print(<span style="color:#e6db74">&#34;time to complete tweeting&#34;</span>, ti
     </div>
 </div>
 
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#brief">Brief</a></li>
+        <li><a href="#code-breakdown">Code Breakdown</a>
+          <ul>
+            <li><a href="#modules">Modules</a></li>
+            <li><a href="#ignore-warnings">Ignore Warnings</a></li>
+            <li><a href="#set-options-optional">Set Options (optional)</a></li>
+            <li><a href="#message-input">Message Input</a></li>
+            <li><a href="#twitter-credentials">Twitter Credentials</a></li>
+            <li><a href="#open-firefox">Open Firefox</a></li>
+            <li><a href="#open-login-page">Open Login Page</a></li>
+            <li><a href="#select-the-username-field">Select the Username Field</a></li>
+            <li><a href="#enter-username">Enter Username</a></li>
+            <li><a href="#proceed">Proceed</a></li>
+            <li><a href="#select-the-password-field">Select the Password Field</a></li>
+            <li><a href="#enter-the-password-in-the-password-field">Enter the password in the password field</a></li>
+            <li><a href="#click-login-button">Click Login Button</a></li>
+            <li><a href="#click-the-text-box">Click the Text Box</a></li>
+            <li><a href="#type-the-message">Type the Message</a></li>
+            <li><a href="#click-the-tweet-button">Click the Tweet Button</a></li>
+            <li><a href="#close-the-browser">Close the Browser</a></li>
+          </ul>
+        </li>
+        <li><a href="#entire-code">Entire Code</a>
+          <ul>
+            <li><a href="#contributions">Contributions</a></li>
+            <li><a href="#share">Share</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
 
 
     
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>
-    
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
 </footer>
 </body>
 </html>

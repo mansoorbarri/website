@@ -37,13 +37,13 @@
     
     <link rel="canonical" href="https://www.mansoor.cf/writeups/burpsuitebasics/" />
 
-    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link disabled id="dark-theme" rel="stylesheet" href="/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://www.mansoor.cf/css/dark.css">
 
-    <script src="/js/svg-injector.min.js"></script>
-    <script src="/js/feather-icons.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="https://www.mansoor.cf/js/svg-injector.min.js"></script>
+    <script src="https://www.mansoor.cf/js/feather-icons.min.js"></script>
+    <script src="https://www.mansoor.cf/js/main.js"></script>
 
     
     
@@ -58,7 +58,7 @@
         
         <div class="avatar">
             <a href="https://www.mansoor.cf">
-                <img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
+                <img src="https://www.mansoor.cfhttps://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
             </a>
         </div>
         
@@ -70,23 +70,23 @@
         <div class="nav-links">
             
             <div class="nav-link">
-                <a href="/"> Home </a>
+                <a href="https://www.mansoor.cf/"> Home </a>
             </div>
             
             <div class="nav-link">
-                <a href="/posts/"> Posts </a>
+                <a href="https://www.mansoor.cf/posts/"> Posts </a>
             </div>
             
             <div class="nav-link">
-                <a href="/writeups/"> Writeups </a>
+                <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
             </div>
             
             <div class="nav-link">
-                <a href="/projects/"> Projects </a>
+                <a href="https://www.mansoor.cf/projects/"> Projects </a>
             </div>
             
             <div class="nav-link">
-                <a href="/tags/"> Tags </a>
+                <a href="https://www.mansoor.cf/tags/"> Tags </a>
             </div>
             
             <div class="nav-link">
@@ -111,23 +111,23 @@
             <ul class="nav-hamburger-list visibility-hidden">
                 
                 <li class="nav-item">
-                    <a href="/"> Home </a>
+                    <a href="https://www.mansoor.cf/"> Home </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/posts/"> Posts </a>
+                    <a href="https://www.mansoor.cf/posts/"> Posts </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/writeups/"> Writeups </a>
+                    <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/projects/"> Projects </a>
+                    <a href="https://www.mansoor.cf/projects/"> Projects </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/tags/"> Tags </a>
+                    <a href="https://www.mansoor.cf/tags/"> Tags </a>
                 </li>
                 
                 <li class="nav-item">
@@ -146,7 +146,6 @@
 </header>
 <main id="content">
     <div class="post container">
-
     <div class="post-header-section">
         <h1>THM | Burp Suite: The Basics</h1>
         <small role="doc-subtitle"></small>
@@ -156,9 +155,9 @@
 
         <ul class="post-tags">
         
-            <li class="post-tag"><a href="/tags/writeups">writeups</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/writeups">writeups</a></li>
         
-            <li class="post-tag"><a href="/tags/thm">thm</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/thm">thm</a></li>
         
         </ul>
     </div>
@@ -239,13 +238,80 @@
     </div>
 </div>
 
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-introduction-outline">Task 1: <code>Introduction</code> Outline</a></li>
+        <li><a href="#task-2--getting-started-what-is-burp-suite">Task 2:  <code>Getting Started</code> What is Burp Suite?</a>
+          <ul>
+            <li><a href="#question-1-which-edition-of-burp-suite-will-we-be-using-in-this-module">Question 1: Which edition of Burp Suite will we be using in this module?</a></li>
+            <li><a href="#question-2-which-edition-of-burp-suite-runs-on-a-server-and-provides-constant-scanning-for-target-web-apps">Question 2: Which edition of Burp Suite runs on a server and provides constant scanning for target web apps?</a></li>
+            <li><a href="#question-3-burp-suite-is-frequently-used-when-attacking-web-applications-and-______-applications">Question 3: Burp Suite is frequently used when attacking web applications and ______ applications.</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-3-getting-started-features-of-burp-community">Task 3: <code>Getting Started</code> Features of Burp Community</a>
+          <ul>
+            <li><a href="#question-1-which-burp-suite-feature-allows-us-to-intercept-requests-between-ourselves-and-the-target">Question 1: Which Burp Suite feature allows us to intercept requests between ourselves and the target?</a></li>
+            <li><a href="#question-2-which-burp-tool-would-we-use-if-we-wanted-to-bruteforce-a-login-form">Question 2: Which Burp tool would we use if we wanted to bruteforce a login form?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-4-getting-started-installation">Task 4: <code>Getting Started</code> Installation</a></li>
+        <li><a href="#task-5-getting-started-the-dashboard">Task 5: <code>Getting Started</code> The Dashboard</a></li>
+        <li><a href="#task-6-getting-started-navigation">Task 6: <code>Getting Started</code> Navigation</a></li>
+        <li><a href="#task-7-getting-started-options">Task 7: <code>Getting Started</code> Options</a>
+          <ul>
+            <li><a href="#question-1-change-the-burp-suite-theme-to-dark-mode">Question 1: Change the Burp Suite theme to dark mode</a></li>
+            <li><a href="#question-2-in-which-project-options-sub-tab-can-you-find-reference-to-a-cookie-jar">Question 2: In which Project options sub-tab can you find reference to a &ldquo;Cookie jar&rdquo;?</a></li>
+            <li><a href="#question-3-in-which-user-options-sub-tab-can-you-change-the-burp-suite-update-behaviour">Question 3: In which User options sub-tab can you change the Burp Suite update behaviour?</a></li>
+            <li><a href="#question-4-what-is-the-name-of-the-section-within-the-user-options-misc-sub-tab-which-allows-you-to-change-the-burp-suite-keybindings">Question 4: What is the name of the section within the User options &ldquo;Misc&rdquo; sub-tab which allows you to change the Burp Suite keybindings?</a></li>
+            <li><a href="#question-5-if-we-have-uploaded-client-side-tls-certificates-in-the-user-options-tab-can-we-override-these-on-a-per-project-basis-ayenay">Question 5: If we have uploaded Client-Side TLS certificates in the User options tab, can we override these on a per-project basis (Aye/Nay)?</a></li>
+            <li><a href="#question-6-in-the-next-section-we-will-cover-the-burp-proxy----a-much-more-hands-on-aspect-of-the-room">Question 6: In the next section, we will cover the Burp Proxy &ndash; a much more hands-on aspect of the room.</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-8-proxy-introduction-to-the-burp-proxy">Task 8: <code>Proxy</code> Introduction to the Burp Proxy</a>
+          <ul>
+            <li><a href="#question-1-which-button-would-we-choose-to-send-an-intercepted-request-to-the-target-in-burp-proxy">Question 1: Which button would we choose to send an intercepted request to the target in Burp Proxy?</a></li>
+            <li><a href="#question-2-research-what-is-the-default-keybind-for-this">Question 2: [Research] What is the default keybind for this?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-9-proxy-connecting-through-the-proxy-foxyproxy">Task 9: <code>Proxy</code> Connecting through the Proxy (FoxyProxy)</a>
+          <ul>
+            <li><a href="#question-1-what-is-this-option">Question 1: What is this option?</a></li>
+            <li><a href="#bonus-question">Bonus Question</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-10-12-proxy">Task 10-12: <code>Proxy</code></a></li>
+        <li><a href="#task-13-proxy-site-map-and-issue-definitions">Task 13: <code>Proxy</code> Site Map and Issue Definitions</a>
+          <ul>
+            <li><a href="#question-1-what-is-the-flag-you-receive">Question 1: What is the flag you receive?</a></li>
+            <li><a href="#question-2-what-is-the-typical-severity-of-a-vulnerable-javascript-dependency">Question 2: What is the typical severity of a Vulnerable JavaScript dependency?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-14-15-practical--conclusion">Task 14-15: <code>Practical</code> &amp; <code>Conclusion</code></a>
+          <ul>
+            <li><a href="#contribution">Contribution</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
 
 
     
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>
-    
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
 </footer>
 </body>
 </html>

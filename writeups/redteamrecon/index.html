@@ -37,13 +37,13 @@
     
     <link rel="canonical" href="https://www.mansoor.cf/writeups/redteamrecon/" />
 
-    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link disabled id="dark-theme" rel="stylesheet" href="/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://www.mansoor.cf/css/dark.css">
 
-    <script src="/js/svg-injector.min.js"></script>
-    <script src="/js/feather-icons.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="https://www.mansoor.cf/js/svg-injector.min.js"></script>
+    <script src="https://www.mansoor.cf/js/feather-icons.min.js"></script>
+    <script src="https://www.mansoor.cf/js/main.js"></script>
 
     
     
@@ -58,7 +58,7 @@
         
         <div class="avatar">
             <a href="https://www.mansoor.cf">
-                <img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
+                <img src="https://www.mansoor.cfhttps://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
             </a>
         </div>
         
@@ -70,23 +70,23 @@
         <div class="nav-links">
             
             <div class="nav-link">
-                <a href="/"> Home </a>
+                <a href="https://www.mansoor.cf/"> Home </a>
             </div>
             
             <div class="nav-link">
-                <a href="/posts/"> Posts </a>
+                <a href="https://www.mansoor.cf/posts/"> Posts </a>
             </div>
             
             <div class="nav-link">
-                <a href="/writeups/"> Writeups </a>
+                <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
             </div>
             
             <div class="nav-link">
-                <a href="/projects/"> Projects </a>
+                <a href="https://www.mansoor.cf/projects/"> Projects </a>
             </div>
             
             <div class="nav-link">
-                <a href="/tags/"> Tags </a>
+                <a href="https://www.mansoor.cf/tags/"> Tags </a>
             </div>
             
             <div class="nav-link">
@@ -111,23 +111,23 @@
             <ul class="nav-hamburger-list visibility-hidden">
                 
                 <li class="nav-item">
-                    <a href="/"> Home </a>
+                    <a href="https://www.mansoor.cf/"> Home </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/posts/"> Posts </a>
+                    <a href="https://www.mansoor.cf/posts/"> Posts </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/writeups/"> Writeups </a>
+                    <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/projects/"> Projects </a>
+                    <a href="https://www.mansoor.cf/projects/"> Projects </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/tags/"> Tags </a>
+                    <a href="https://www.mansoor.cf/tags/"> Tags </a>
                 </li>
                 
                 <li class="nav-item">
@@ -146,7 +146,6 @@
 </header>
 <main id="content">
     <div class="post container">
-
     <div class="post-header-section">
         <h1>THM | Red Team Recon</h1>
         <small role="doc-subtitle"></small>
@@ -156,9 +155,9 @@
 
         <ul class="post-tags">
         
-            <li class="post-tag"><a href="/tags/writeups">writeups</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/writeups">writeups</a></li>
         
-            <li class="post-tag"><a href="/tags/thm">thm</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/thm">thm</a></li>
         
         </ul>
     </div>
@@ -250,13 +249,68 @@
     </div>
 </div>
 
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-introduction">Task 1: Introduction</a></li>
+        <li><a href="#task-2--taxonomy-of-reconnaissance">Task 2:  Taxonomy of Reconnaissance</a></li>
+        <li><a href="#task-3-built-in-tools">Task 3: Built-in Tools</a>
+          <ul>
+            <li><a href="#question-1-when-was-thmredteamcom-created-registered-yyyy-mm-dd">Question 1: When was <code>thmredteam.com</code> created (registered)? (YYYY-MM-DD)</a></li>
+            <li><a href="#question-2-to-how-many-ipv4-addresses-does-clinicthmredteamcom-resolve">Question 2: To how many IPv4 addresses does <code>clinic.thmredteam.com</code> resolve?</a></li>
+            <li><a href="#question-3-to-how-many-ipv6-addresses-does-clinicthmredteamcom-resolve">Question 3: To how many IPv6 addresses does <code>clinic.thmredteam.com</code> resolve?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-4-advanced-searching">Task 4: Advanced Searching</a>
+          <ul>
+            <li><a href="#question-1-how-would-you-search-using-google-for-xls-indexed-for-httpclinicthmredteamcom">Question 1: How would you search using Google for <code>xls</code> indexed for <a href="http://clinic.thmredteam.com">http://clinic.thmredteam.com</a>?</a></li>
+            <li><a href="#question-2-how-would-you-search-using-google-for-files-with-the-word-passwords-for-httpclinicthmredteamcom">Question 2: How would you search using Google for files with the word passwords for <a href="http://clinic.thmredteam.com">http://clinic.thmredteam.com</a>?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-5-specialized-search-engines">Task 5: Specialized Search Engines</a>
+          <ul>
+            <li><a href="#question-1-what-is-the-shodan-command-to-get-your-internet-facing-ip-address">Question 1: What is the shodan command to get your Internet-facing IP address?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-6-recon-ng">Task 6: Recon-ng</a>
+          <ul>
+            <li><a href="#question-1-how-do-you-start-recon-ng-with-workspace-clinicredteam">Question 1: How do you start <code>recon-ng</code> with workspace <code>clinicredteam</code></a></li>
+            <li><a href="#question-2-how-many-modules-with-the-name-virustotal-exist">Question 2: How many modules with the name <code>virustotal</code> exist?</a></li>
+            <li><a href="#question-3-there-is-a-single-module-under-hosts-domains-what-is-its-name">Question 3: There is a single module under <code>hosts-domains</code>. What is its name?</a></li>
+            <li><a href="#question-4-censys_email_address-is-a-module-that-retrieves-email-addresses-from-the-tls-certificates-for-a-company-who-is-the-author">Question 4: <code>censys_email_address</code> is a module that “retrieves email addresses from the TLS certificates for a company.” Who is the author?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-7-maltego">Task 7: Maltego</a>
+          <ul>
+            <li><a href="#question-1-what-is-the-name-of-the-transform-that-queries-nists-national-vulnerability-database">Question 1: What is the name of the transform that queries NIST’s National Vulnerability Database?</a></li>
+            <li><a href="#question-2-what-is-the-name-of-the-project-that-offers-a-transform-based-on-attck">Question 2: What is the name of the project that offers a transform based on ATT&amp;CK?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-8-summary">Task 8: Summary</a>
+          <ul>
+            <li><a href="#contribution">Contribution</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
 
 
     
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>
-    
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
 </footer>
 </body>
 </html>

@@ -37,13 +37,13 @@
     
     <link rel="canonical" href="https://www.mansoor.cf/writeups/furthernmap/" />
 
-    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link disabled id="dark-theme" rel="stylesheet" href="/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://www.mansoor.cf/css/dark.css">
 
-    <script src="/js/svg-injector.min.js"></script>
-    <script src="/js/feather-icons.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="https://www.mansoor.cf/js/svg-injector.min.js"></script>
+    <script src="https://www.mansoor.cf/js/feather-icons.min.js"></script>
+    <script src="https://www.mansoor.cf/js/main.js"></script>
 
     
     
@@ -58,7 +58,7 @@
         
         <div class="avatar">
             <a href="https://www.mansoor.cf">
-                <img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
+                <img src="https://www.mansoor.cfhttps://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
             </a>
         </div>
         
@@ -70,23 +70,23 @@
         <div class="nav-links">
             
             <div class="nav-link">
-                <a href="/"> Home </a>
+                <a href="https://www.mansoor.cf/"> Home </a>
             </div>
             
             <div class="nav-link">
-                <a href="/posts/"> Posts </a>
+                <a href="https://www.mansoor.cf/posts/"> Posts </a>
             </div>
             
             <div class="nav-link">
-                <a href="/writeups/"> Writeups </a>
+                <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
             </div>
             
             <div class="nav-link">
-                <a href="/projects/"> Projects </a>
+                <a href="https://www.mansoor.cf/projects/"> Projects </a>
             </div>
             
             <div class="nav-link">
-                <a href="/tags/"> Tags </a>
+                <a href="https://www.mansoor.cf/tags/"> Tags </a>
             </div>
             
             <div class="nav-link">
@@ -111,23 +111,23 @@
             <ul class="nav-hamburger-list visibility-hidden">
                 
                 <li class="nav-item">
-                    <a href="/"> Home </a>
+                    <a href="https://www.mansoor.cf/"> Home </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/posts/"> Posts </a>
+                    <a href="https://www.mansoor.cf/posts/"> Posts </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/writeups/"> Writeups </a>
+                    <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/projects/"> Projects </a>
+                    <a href="https://www.mansoor.cf/projects/"> Projects </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/tags/"> Tags </a>
+                    <a href="https://www.mansoor.cf/tags/"> Tags </a>
                 </li>
                 
                 <li class="nav-item">
@@ -146,7 +146,6 @@
 </header>
 <main id="content">
     <div class="post container">
-
     <div class="post-header-section">
         <h1>THM | nmap</h1>
         <small role="doc-subtitle"></small>
@@ -156,9 +155,9 @@
 
         <ul class="post-tags">
         
-            <li class="post-tag"><a href="/tags/writeups">writeups</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/writeups">writeups</a></li>
         
-            <li class="post-tag"><a href="/tags/thm">thm</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/thm">thm</a></li>
         
         </ul>
     </div>
@@ -379,13 +378,135 @@
     </div>
 </div>
 
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-deploy">Task 1: Deploy</a>
+          <ul>
+            <li><a href="#question-1-deploy-the-attached-vm">Question 1: Deploy the attached VM</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-2-introduction">Task 2: Introduction</a>
+          <ul>
+            <li><a href="#question-1-what-networking-constructs-are-used-to-direct-traffic-to-the-right-application-on-a-server">Question 1: What networking constructs are used to direct traffic to the right application on a server?</a></li>
+            <li><a href="#question-2-how-many-of-these-are-available-on-any-network-enabled-computer">Question 2: How many of these are available on any network-enabled computer?</a></li>
+            <li><a href="#question-3-research-how-many-of-these-are-considered-well-known-these-are-the-standard-numbers-mentioned-in-the-task">Question 3: [Research] How many of these are considered &ldquo;well-known&rdquo;? (These are the &ldquo;standard&rdquo; numbers mentioned in the task)</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-3-nmap-switches">Task 3: Nmap Switches</a>
+          <ul>
+            <li><a href="#question-1-what-is-the-first-switch-listed-in-the-help-menu-for-a-syn-scan-more-on-this-later">Question 1: What is the first switch listed in the help menu for a &lsquo;Syn Scan&rsquo; (more on this later!)?</a></li>
+            <li><a href="#question-2-which-switch-would-you-use-for-a-udp-scan">Question 2: Which switch would you use for a &ldquo;UDP scan&rdquo;?</a></li>
+            <li><a href="#question-3-if-you-wanted-to-detect-which-operating-system-the-target-is-running-on-which-switch-would-you-use">Question 3: If you wanted to detect which operating system the target is running on, which switch would you use?</a></li>
+            <li><a href="#question-4-nmap-provides-a-switch-to-detect-the-version-of-the-services-running-on-the-target-what-is-this-switch">Question 4: Nmap provides a switch to detect the version of the services running on the target. What is this switch?</a></li>
+            <li><a href="#question-5-the-default-output-provided-by-nmap-often-does-not-provide-enough-information-for-a-pentester-how-would-you-increase-the-verbosity">Question 5: The default output provided by nmap often does not provide enough information for a pentester. How would you increase the verbosity?</a></li>
+            <li><a href="#question-6-verbosity-level-one-is-good-but-verbosity-level-two-is-better-how-would-you-set-the-verbosity-level-to-two">Question 6: Verbosity level one is good, but verbosity level two is better! How would you set the verbosity level to two?</a></li>
+            <li><a href="#question-7-what-switch-would-you-use-to-save-the-nmap-results-in-three-major-formats">Question 7: What switch would you use to save the nmap results in three major formats?</a></li>
+            <li><a href="#question-8-what-switch-would-you-use-to-save-the-nmap-results-in-a-normal-format">Question 8: What switch would you use to save the nmap results in a &ldquo;normal&rdquo; format?</a></li>
+            <li><a href="#question-9-a-very-useful-output-format-how-would-you-save-results-in-a-grepable-format">Question 9: A very useful output format: how would you save results in a &ldquo;grepable&rdquo; format?</a></li>
+            <li><a href="#question-10-how-would-you-activate-this-setting">Question 10: How would you activate this setting?</a></li>
+            <li><a href="#question-11-how-would-you-set-the-timing-template-to-level-5">Question 11: How would you set the timing template to level 5?</a></li>
+            <li><a href="#question-12-how-would-you-tell-nmap-to-only-scan-port-80">Question 12: How would you tell nmap to only scan port 80?</a></li>
+            <li><a href="#question-13-how-would-you-tell-nmap-to-scan-ports-1000-1500">Question 13: How would you tell nmap to scan ports 1000-1500?</a></li>
+            <li><a href="#question-14-how-would-you-tell-nmap-to-scan-all-ports">Question 14: How would you tell nmap to scan all ports?</a></li>
+            <li><a href="#question-15-how-would-you-activate-a-script-from-the-nmap-scripting-library-lots-more-on-this-later">Question 15: How would you activate a script from the nmap scripting library (lots more on this later!)?</a></li>
+            <li><a href="#question-16-how-would-you-activate-all-of-the-scripts-in-the-vuln-category">Question 16: How would you activate all of the scripts in the &ldquo;vuln&rdquo; category?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-4-scan-types-overview">Task 4: <code>Scan types</code> Overview</a>
+          <ul>
+            <li><a href="#question-1-read-the-scan-types-introduction">Question 1: Read the Scan Types Introduction</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-5-scan-types-tcp-connect-scans">Task 5: <code>Scan types</code> TCP Connect Scans</a>
+          <ul>
+            <li><a href="#question-1-which-rfc-defines-the-appropriate-behaviour-for-the-tcp-protocol">Question 1: Which RFC defines the appropriate behaviour for the TCP protocol?</a></li>
+            <li><a href="#question-2-if-a-port-is-closed-which-flag-should-the-server-send-back-to-indicate-this">Question 2: If a port is closed, which flag should the server send back to indicate this?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-6-scan-types-syn-scans">Task 6: <code>Scan Types</code> SYN Scans</a>
+          <ul>
+            <li><a href="#question-1-there-are-two-other-names-for-a-syn-scan-what-are-they">Question 1: There are two other names for a SYN scan, what are they?</a></li>
+            <li><a href="#question-2-can-nmap-use-a-syn-scan-without-sudo-permissions-yn">Question 2: Can Nmap use a SYN scan without Sudo permissions (Y/N)?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-7-scan-types-udp-scans">Task 7: <code>Scan Types</code> UDP Scans</a>
+          <ul>
+            <li><a href="#question-1-if-a-udp-port-doesnt-respond-to-an-nmap-scan-what-will-it-be-marked-as">Question 1: If a UDP port doesn&rsquo;t respond to an Nmap scan, what will it be marked as?</a></li>
+            <li><a href="#question-2-when-a-udp-port-is-closed-by-convention-the-target-should-send-back-a-port-unreachable-message-which-protocol-would-it-use-to-do-so">Question 2: When a UDP port is closed, by convention the target should send back a &ldquo;port unreachable&rdquo; message. Which protocol would it use to do so?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-8-scan-types-null-fin-and-xmas">Task 8: <code>Scan Types</code> NULL, FIN and Xmas</a>
+          <ul>
+            <li><a href="#question-1-which-of-the-three-shown-scan-types-uses-the-urg-flag">Question 1: Which of the three shown scan types uses the URG flag?</a></li>
+            <li><a href="#question-2-why-are-null-fin-and-xmas-scans-generally-used">Question 2: Why are NULL, FIN and Xmas scans generally used?</a></li>
+            <li><a href="#question-3-which-common-os-may-respond-to-a-null-fin-or-xmas-scan-with-a-rst-for-every-port">Question 3: Which common OS may respond to a NULL, FIN or Xmas scan with a RST for every port?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-9-scan-types-icmp-network-scanning">Task 9: <code>Scan Types</code> ICMP Network Scanning</a>
+          <ul>
+            <li><a href="#question-1-how-would-you-perform-a-ping-sweep-on-the-17216xx-network-netmask-25525500-using-nmap-cidr-notation">Question 1: How would you perform a ping sweep on the 172.16.x.x network (Netmask: 255.255.0.0) using Nmap? (CIDR notation)</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-10-nse-scripts-overview">Task 10: <code>NSE Scripts</code> Overview</a>
+          <ul>
+            <li><a href="#question-1-what-language-are-nse-scripts-written-in">Question 1: What language are NSE scripts written in?</a></li>
+            <li><a href="#question-2-which-category-of-scripts-would-be-a-very-bad-idea-to-run-in-a-production-environment">Question 2: Which category of scripts would be a very bad idea to run in a production environment?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-11-nse-scripts-working-with-the-nse">Task 11: <code>NSE Scripts</code> Working with the NSE</a>
+          <ul>
+            <li><a href="#question-1-what-optional-argument-can-the-ftp-anonnse-script-take">Question 1: What optional argument can the <code>ftp-anon.nse</code> script take?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-12-nse-scripts-searching-for-scripts">Task 12: <code>NSE Scripts</code> Searching for Scripts</a>
+          <ul>
+            <li><a href="#question-1-what-is-the-filename-of-the-script-which-determines-the-underlying-os-of-the-smb-server">Question 1: What is the filename of the script which determines the underlying OS of the SMB server?</a></li>
+            <li><a href="#question-2-read-through-this-script-what-does-it-depend-on">Question 2: Read through this script. What does it depend on?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-13-firewall-evasion">Task 13: Firewall Evasion</a>
+          <ul>
+            <li><a href="#question-1-which-simple-and-frequently-relied-upon-protocol-is-often-blocked-requiring-the-use-of-the--pn-switch">Question 1: Which simple (and frequently relied upon) protocol is often blocked, requiring the use of the <code>-Pn</code> switch?</a></li>
+            <li><a href="#question-2-research-which-nmap-switch-allows-you-to-append-an-arbitrary-length-of-random-data-to-the-end-of-packets">Question 2: [Research] Which Nmap switch allows you to append an arbitrary length of random data to the end of packets?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-14-practical">Task 14: Practical</a>
+          <ul>
+            <li><a href="#question-1-does-the-target-machine_ip-respond-to-icmp-ping-requests-yn">Question 1: Does the target <code>(MACHINE_IP)</code> respond to ICMP (ping) requests (Y/N)?</a></li>
+            <li><a href="#question-2-perform-an-xmas-scan-on-the-first-999-ports-of-the-target----how-many-ports-are-shown-to-be-open-or-filtered">Question 2: Perform an Xmas scan on the first 999 ports of the target &ndash; how many ports are shown to be open or filtered?</a></li>
+            <li><a href="#question-3-there-is-a-reason-given-for-this----what-is-it">Question 3: There is a reason given for this &ndash; what is it?</a></li>
+            <li><a href="#question-4-perform-a-tcp-syn-scan-on-the-first-5000-ports-of-the-target----how-many-ports-are-shown-to-be-open">Question 4: Perform a TCP SYN scan on the first 5000 ports of the target &ndash; how many ports are shown to be open?</a></li>
+            <li><a href="#question-5-open-wireshark-see-cryillics-wireshark-room-for-instructions-and-perform-a-tcp-connect-scan-against-port-80-on-the-target-monitoring-the-results-make-sure-you-understand-whats-going-on">Question 5: Open Wireshark (see Cryillic&rsquo;s Wireshark Room for instructions) and perform a TCP Connect scan against port 80 on the target, monitoring the results. Make sure you understand what&rsquo;s going on.</a></li>
+            <li><a href="#question-6-deploy-the-ftp-anon-script-against-the-box-can-nmap-login-successfully-to-the-ftp-server-on-port-21-yn">Question 6: Deploy the <code>ftp-anon</code> script against the box. Can Nmap login successfully to the FTP server on port 21? (Y/N)</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-15-conclusion">Task 15: Conclusion</a>
+          <ul>
+            <li><a href="#question-1-read-the-conclusion">Question 1: Read the conclusion</a></li>
+            <li><a href="#contribution">Contribution</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
 
 
     
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>
-    
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
 </footer>
 </body>
 </html>

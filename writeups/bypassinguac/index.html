@@ -37,13 +37,13 @@
     
     <link rel="canonical" href="https://www.mansoor.cf/writeups/bypassinguac/" />
 
-    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link disabled id="dark-theme" rel="stylesheet" href="/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://www.mansoor.cf/css/dark.css">
 
-    <script src="/js/svg-injector.min.js"></script>
-    <script src="/js/feather-icons.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="https://www.mansoor.cf/js/svg-injector.min.js"></script>
+    <script src="https://www.mansoor.cf/js/feather-icons.min.js"></script>
+    <script src="https://www.mansoor.cf/js/main.js"></script>
 
     
     
@@ -58,7 +58,7 @@
         
         <div class="avatar">
             <a href="https://www.mansoor.cf">
-                <img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
+                <img src="https://www.mansoor.cfhttps://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
             </a>
         </div>
         
@@ -70,23 +70,23 @@
         <div class="nav-links">
             
             <div class="nav-link">
-                <a href="/"> Home </a>
+                <a href="https://www.mansoor.cf/"> Home </a>
             </div>
             
             <div class="nav-link">
-                <a href="/posts/"> Posts </a>
+                <a href="https://www.mansoor.cf/posts/"> Posts </a>
             </div>
             
             <div class="nav-link">
-                <a href="/writeups/"> Writeups </a>
+                <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
             </div>
             
             <div class="nav-link">
-                <a href="/projects/"> Projects </a>
+                <a href="https://www.mansoor.cf/projects/"> Projects </a>
             </div>
             
             <div class="nav-link">
-                <a href="/tags/"> Tags </a>
+                <a href="https://www.mansoor.cf/tags/"> Tags </a>
             </div>
             
             <div class="nav-link">
@@ -111,23 +111,23 @@
             <ul class="nav-hamburger-list visibility-hidden">
                 
                 <li class="nav-item">
-                    <a href="/"> Home </a>
+                    <a href="https://www.mansoor.cf/"> Home </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/posts/"> Posts </a>
+                    <a href="https://www.mansoor.cf/posts/"> Posts </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/writeups/"> Writeups </a>
+                    <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/projects/"> Projects </a>
+                    <a href="https://www.mansoor.cf/projects/"> Projects </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/tags/"> Tags </a>
+                    <a href="https://www.mansoor.cf/tags/"> Tags </a>
                 </li>
                 
                 <li class="nav-item">
@@ -146,7 +146,6 @@
 </header>
 <main id="content">
     <div class="post container">
-
     <div class="post-header-section">
         <h1>THM | Bypassing UAC</h1>
         <small role="doc-subtitle"></small>
@@ -156,9 +155,9 @@
 
         <ul class="post-tags">
         
-            <li class="post-tag"><a href="/tags/writeups">writeups</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/writeups">writeups</a></li>
         
-            <li class="post-tag"><a href="/tags/thm">thm</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/thm">thm</a></li>
         
         </ul>
     </div>
@@ -203,13 +202,67 @@
     </div>
 </div>
 
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-introduction">Task 1: Introduction</a>
+          <ul>
+            <li><a href="#question-1-click-and-continue-learning">Question 1: Click and continue learning!</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-2-user-account-control-uac">Task 2: User Account Control (UAC)</a>
+          <ul>
+            <li><a href="#question-1-what-is-the-highest-integrity-level-il-available-on-windows">Question 1: What is the highest integrity level (IL) available on Windows?</a></li>
+            <li><a href="#question-2-what-is-the-il-associated-with-an-administrators-elevated-token">Question 2: What is the IL associated with an administrator&rsquo;s elevated token?</a></li>
+            <li><a href="#question-3-what-is-the-full-name-of-the-service-in-charge-of-dealing-with-uac-elevation-requests">Question 3: What is the full name of the service in charge of dealing with UAC elevation requests?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-3-uac-gui-based-bypasses">Task 3: UAC: GUI based bypasses</a>
+          <ul>
+            <li><a href="#question-1-what-flag-is-returned-by-running-the-msconfig-exploit">Question 1: What flag is returned by running the msconfig exploit?</a></li>
+            <li><a href="#question-2-what-flag-is-returned-by-running-the-azmanmsc-exploit">Question 2: What flag is returned by running the azman.msc exploit?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-4-uac-auto-elevating-processes">Task 4: UAC: Auto-Elevating Processes</a>
+          <ul>
+            <li><a href="#question-1-what-flag-is-returned-by-running-the-fodhelper-exploit">Question 1: What flag is returned by running the fodhelper exploit?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-5-uac-improving-the-fodhelper-exploit-to-bypass-windows-defender">Task 5: UAC: Improving the Fodhelper Exploit to Bypass Windows Defender</a>
+          <ul>
+            <li><a href="#question-1-what-flag-is-returned-by-running-the-fodhelper-curver-exploit">Question 1: What flag is returned by running the fodhelper-curver exploit?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-6-uac-environment-variable-expansion">Task 6: UAC: Environment Variable Expansion</a>
+          <ul>
+            <li><a href="#question-1-what-flag-is-returned-by-running-the-diskcleanup-exploit">Question 1: What flag is returned by running the DiskCleanup exploit?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-7-8">Task 7-8</a>
+          <ul>
+            <li><a href="#contribution">Contribution</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
 
 
     
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>
-    
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
 </footer>
 </body>
 </html>

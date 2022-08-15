@@ -37,13 +37,13 @@
     
     <link rel="canonical" href="https://www.mansoor.cf/writeups/cryptographyfordummies/" />
 
-    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link disabled id="dark-theme" rel="stylesheet" href="/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://www.mansoor.cf/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://www.mansoor.cf/css/dark.css">
 
-    <script src="/js/svg-injector.min.js"></script>
-    <script src="/js/feather-icons.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="https://www.mansoor.cf/js/svg-injector.min.js"></script>
+    <script src="https://www.mansoor.cf/js/feather-icons.min.js"></script>
+    <script src="https://www.mansoor.cf/js/main.js"></script>
 
     
     
@@ -58,7 +58,7 @@
         
         <div class="avatar">
             <a href="https://www.mansoor.cf">
-                <img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
+                <img src="https://www.mansoor.cfhttps://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/main.webp" alt="avatar" />
             </a>
         </div>
         
@@ -70,23 +70,23 @@
         <div class="nav-links">
             
             <div class="nav-link">
-                <a href="/"> Home </a>
+                <a href="https://www.mansoor.cf/"> Home </a>
             </div>
             
             <div class="nav-link">
-                <a href="/posts/"> Posts </a>
+                <a href="https://www.mansoor.cf/posts/"> Posts </a>
             </div>
             
             <div class="nav-link">
-                <a href="/writeups/"> Writeups </a>
+                <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
             </div>
             
             <div class="nav-link">
-                <a href="/projects/"> Projects </a>
+                <a href="https://www.mansoor.cf/projects/"> Projects </a>
             </div>
             
             <div class="nav-link">
-                <a href="/tags/"> Tags </a>
+                <a href="https://www.mansoor.cf/tags/"> Tags </a>
             </div>
             
             <div class="nav-link">
@@ -111,23 +111,23 @@
             <ul class="nav-hamburger-list visibility-hidden">
                 
                 <li class="nav-item">
-                    <a href="/"> Home </a>
+                    <a href="https://www.mansoor.cf/"> Home </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/posts/"> Posts </a>
+                    <a href="https://www.mansoor.cf/posts/"> Posts </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/writeups/"> Writeups </a>
+                    <a href="https://www.mansoor.cf/writeups/"> Writeups </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/projects/"> Projects </a>
+                    <a href="https://www.mansoor.cf/projects/"> Projects </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="/tags/"> Tags </a>
+                    <a href="https://www.mansoor.cf/tags/"> Tags </a>
                 </li>
                 
                 <li class="nav-item">
@@ -146,7 +146,6 @@
 </header>
 <main id="content">
     <div class="post container">
-
     <div class="post-header-section">
         <h1>THM | Cryptography for Dummies</h1>
         <small role="doc-subtitle"></small>
@@ -156,9 +155,9 @@
 
         <ul class="post-tags">
         
-            <li class="post-tag"><a href="/tags/writeups">writeups</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/writeups">writeups</a></li>
         
-            <li class="post-tag"><a href="/tags/thm">thm</a></li>
+            <li class="post-tag"><a href="https://www.mansoor.cf/tags/thm">thm</a></li>
         
         </ul>
     </div>
@@ -209,13 +208,59 @@
     </div>
 </div>
 
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-intro">Task 1: Intro</a></li>
+        <li><a href="#task-2-types-of-cryptography">Task 2: Types of cryptography</a>
+          <ul>
+            <li><a href="#question-1-what-type-of-cryptography-is-more-secure">Question 1: What type of cryptography is more secure?</a></li>
+            <li><a href="#question-2-what-type-of-cryptography-is-faster">Question 2: What type of cryptography is faster?</a></li>
+            <li><a href="#question-3-what-type-of-cryptography-will-a-bank-site-use">Question 3: What type of cryptography will a Bank site use?</a></li>
+            <li><a href="#question-4-what-will-you-use-to-encrypt-your-messages-in-asymmetric-cryptography">Question 4: What will you use to encrypt your messages in asymmetric cryptography?</a></li>
+            <li><a href="#question-5-what-will-you-use-to-decrypt-messages-in-asymmetric-cryptography">Question 5: What will you use to decrypt messages in asymmetric cryptography?</a></li>
+            <li><a href="#question-6-does-symmetric-cryptography-use-two-different-keys-for-encryptiondecryption-ayenay">Question 6: Does symmetric cryptography use two different keys for encryption/decryption? (aye/nay)</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-3-what-is-a-hash">Task 3: What is a hash?</a>
+          <ul>
+            <li><a href="#question-1-i-understand-what-are-hashes">Question 1: I understand what are hashes!</a></li>
+            <li><a href="#question-2-whats-the-md5-hash-of-hashes-are-cool">Question 2: What&rsquo;s the MD5 hash of &ldquo;hashes are cool&rdquo;?</a></li>
+            <li><a href="#question-3-what-does-md5-stand-for">Question 3: What does MD5 stand for?</a></li>
+            <li><a href="#question-4-who-created-md5">Question 4: Who created MD5?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-4-decodingencoding">Task 4: Decoding/encoding</a>
+          <ul>
+            <li><a href="#question-1-encode-the-string-cryptographyisuseful-with-base64">Question 1: Encode the string &ldquo;cryptographyisuseful&rdquo; with Base64</a></li>
+            <li><a href="#question-2-decode-the-string-dghlihnly3jldcb3b3jkiglzidogd2f0zxjtzwxvbg-whats-the-secret-word">Question 2: Decode the string &ldquo;dGhlIHNlY3JldCB3b3JkIGlzIDogd2F0ZXJtZWxvbg==&rdquo;. What&rsquo;s the secret word?</a></li>
+          </ul>
+        </li>
+        <li><a href="#task-5-thanks-for-reading">Task 5: Thanks for reading!</a>
+          <ul>
+            <li><a href="#contribution">Contribution</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
 
 
     
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>
-    
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
 </footer>
 </body>
 </html>
