@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>repository on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/tags/repository/</link>
+    <description>Recent content in repository on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/repository/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixed | Termux Repository Under Maintenance Issue</title>
+      <link>https://www.mansoor.cf/posts/termux-repo/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/termux-repo/</guid>
+      <description>Error error looks something like this:
+This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest &amp;amp; greatest version.
+Fix visit []Termux on F-Droid](Termux | F-Droid - Free and Open Source Android App Repository) and install the APK normally.
+NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT
+that&amp;rsquo;s it ✌🏽</description>
+    </item>
+    
+  </channel>
+</rss>
