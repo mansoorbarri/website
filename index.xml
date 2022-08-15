@@ -38,7 +38,8 @@ A VPN isn&amp;rsquo;t important since there is just enough they can do by findin
       <guid>https://www.mansoor.cf/writeups/threatinteltools/</guid>
       <description>Room https://tryhackme.com/room/threatinteltools
 Task 1-2 no answer needed
-Task 3 - UrlScan.io [answers are from the image right above] Question 1: What is TryHackMe&amp;rsquo;s Cisco Umbrella Rank? ~ 345612
+Task 3 - UrlScan.io answers are from the image right above*
+Question 1: What is TryHackMe&amp;rsquo;s Cisco Umbrella Rank? ~ 345612
 Question 2: How many domains did UrlScan.io identify? ~ 13
 Question 3: What is the main domain registrar listed? ~ NAMECHEAP INC
 Question 4: What is the main IP address identified? ~ 2606:4700:10::ac43:1b0a
@@ -53,10 +54,11 @@ Task 4 - Abuse.ch Question 1: The IOC 212.192.246.30:5555 is linked to which mal
       <guid>https://www.mansoor.cf/writeups/introtoav/</guid>
       <description>Room https://tryhackme.com/room/introtoav
 Task 1 - Introduction no answer needed
-Task 2 - Antivirus Software [answers are from the text] Question 1: What was the virus name that infected John McAfee&amp;rsquo;s PC? ~ brain
+Task 2 - Antivirus Software answers are from the text*
+Question 1: What was the virus name that infected John McAfee&amp;rsquo;s PC? ~ brain
 Question 2: Which PC Antivirus vendor implemented the first AV software on the market? ~ McAfee
 Question 3: Antivirus software is a _____-based security solution. ~ host
-Task 3 - Antivirus Features [answers are from the text] Question 1: Which AV feature analyzes malware in a safe and isolated environment?</description>
+Task 3 - Antivirus Features answers are from the text*</description>
     </item>
     
     <item>
