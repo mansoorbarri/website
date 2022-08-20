@@ -6,7 +6,24 @@
     <description>Recent content in Posts on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started | PhoneInFoga</title>
+      <link>https://www.mansoor.cf/posts/phoneinfoga/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/phoneinfoga/</guid>
+      <description>Brief PhoneInFoga - Information gathering &amp;amp; OSINT framework for phone numbers.
+Install Installation documentation
+run these command:
+Install the latest version
+curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install | bash Confirm/Check install
+./phoneinfoga version Copy it to bash for global install
+sudo mv ./phoneinfoga /usr/bin/phoneinfoga Usage Scan with &amp;ldquo;phoneinfoga -n [NUMBER WITH COUNTRY CODE]&amp;rdquo;
+Example:
+phoneinfoga -n +1234567891 The output is kinda weird and messy so using the web GUI is a better way.</description>
+    </item>
+    
     <item>
       <title>Hugo Server on LAN</title>
       <link>https://www.mansoor.cf/posts/hugo-lan/</link>
