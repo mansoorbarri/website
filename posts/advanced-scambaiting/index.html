@@ -180,7 +180,7 @@
 </code></pre><p>Debian/Ubuntu:</p>
 <pre tabindex="0"><code>sudo apt install wireshark
 </code></pre><h4 id="when-connected-via-anydesk">When connected via Anydesk:</h4>
-<p>run a scan before accepting scammer&rsquo;s anydesk request, accept the request and save the wireshark capture (just in case). enter &ldquo;ip.src == [your-local-ip] &amp;&amp; tcp.port 7070&rdquo; as filter, this will narrow down capture results to packet from the given ip and only tcp packets.</p>
+<p>run a scan before scammer&rsquo;s request, accept the request and save the wireshark capture (just in case). enter &ldquo;ip.src == [your-local-ip] &amp;&amp; tcp.port 7070&rdquo; as filter, this will narrow down capture results to packet from the given ip and only tcp packets.</p>
 <p>In most cases, the scammer&rsquo;s IP would be from the result as shown here:</p>
 <p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/advanced-scambaiting/2022_1.png?raw=true" alt="wireshark with the filter"></p>
 <p>You might have to look-up all the IPs to know the exact one.</p>
