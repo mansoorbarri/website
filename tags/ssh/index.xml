@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ssh on Mansoor Barri</title>
+    <link>https://www.mansoor.cf/tags/ssh/</link>
+    <description>Recent content in ssh on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH into Termux</title>
+      <link>https://www.mansoor.cf/posts/termux-ssh/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/termux-ssh/</guid>
+      <description>Just do the following steps:
+Install OpenSSH on Termux:
+pkg upgrade &amp;amp;&amp;amp; pkg install openssh Setup a password for Termux:
+passwd Get your username:
+whoami Start SSH server
+sshd From your computer ssh like usual; the default port Termux uses for SSH is 8022.
+example:
+my IP is 192.168.0.10
+username: u0_a231
+so my command would be:
+ssh u0_a231@192.168.0.10 -p 8022 that&amp;rsquo;s it ✌🏽
+ </description>
+    </item>
+    
+  </channel>
+</rss>
