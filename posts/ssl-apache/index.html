@@ -170,17 +170,17 @@
 <p>Debian, Apache2, Snapd, Certbot</p>
 <h2 id="install">Install</h2>
 <p>First, update your repositories</p>
-<pre tabindex="0"><code>sudo apt update -y
+<pre><code>sudo apt update -y
 </code></pre><p>Install snapd</p>
-<pre tabindex="0"><code>sudo apt install snapd -y 
+<pre><code>sudo apt install snapd -y 
 </code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022.png?raw=true" alt="Screenshot of the command"></p>
 <p>install certbot</p>
-<pre tabindex="0"><code>sudo snap install certbot --classic
+<pre><code>sudo snap install certbot --classic
 </code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_1.png?raw=true" alt="Screenshot of the command"></p>
 <p>Create symbolic link so you can run certbot command from the terminal</p>
 <p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_2.png?raw=true" alt="Screenshot of the command"></p>
 <p>Run certbot command</p>
-<pre tabindex="0"><code>sudo certbot --apache
+<pre><code>sudo certbot --apache
 </code></pre><p><em>you can change &ldquo;&ndash;apache&rdquo; to &ldquo;&ndash;nginx&rdquo; if you are using nginx instead of apache</em>
 <img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_3.png?raw=true" alt="Screenshot of the command"></p>
 <p>Enter your valid email address so certbot can contact you for renewal and security notices</p>

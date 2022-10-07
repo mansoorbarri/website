@@ -176,9 +176,9 @@
 <h2 id="getting-their-ip">Getting their IP</h2>
 <p>For this you need a software known as <a href="https://www.wireshark.org/">Wireshark</a></p>
 <p>Windows:</p>
-<pre tabindex="0"><code>winget install -e --id WiresharkFoundation.Wireshark
+<pre><code>winget install -e --id WiresharkFoundation.Wireshark
 </code></pre><p>Debian/Ubuntu:</p>
-<pre tabindex="0"><code>sudo apt install wireshark
+<pre><code>sudo apt install wireshark
 </code></pre><h4 id="when-connected-via-anydesk">When connected via Anydesk:</h4>
 <p>run a scan before scammer&rsquo;s request, accept the request and save the wireshark capture (just in case). enter &ldquo;ip.src == [your-local-ip] &amp;&amp; tcp.port 7070&rdquo; as filter, this will narrow down capture results to packet from the given ip and only tcp packets.</p>
 <p>In most cases, the scammer&rsquo;s IP would be from the result as shown here:</p>
@@ -191,7 +191,7 @@
 <p>We can use <a href="https://nmap.org/">Nmap</a> to scan for ports. I have an <a href="https://mansoor.cf/posts/nmap">article</a> explaining the tool in general. You can also watch this video for more help: <a href="https://www.youtube.com/watch?v=4t4kBkMsDbQ">Nmap Tutorial to find Network Vulnerabilities
 | NetworkChuck</a></p>
 <p>You can install nmap on Debian/Ubuntu:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt install nmap
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt install nmap
 </code></pre></div><p>for other installation options, visit <a href="https://nmap.org/download.html">nmap.org</a>.</p>
 <p>You can also lookup their IP address for more information like their city/coutry &amp; ISP.</p>
 <p>I use <a href="https://whatismyipaddress.com/ip-lookup">whatismyipaddress.com</a> for this.</p>

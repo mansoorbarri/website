@@ -187,31 +187,31 @@
 <p>Click on the start button, search for &ldquo;cmd&rdquo; and run cmd as admin</p>
 <p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_7.png?raw=true" alt="Screenshot of the step"></p>
 <p>In the command prompt type</p>
-<pre tabindex="0"><code>diskpart
+<pre><code>diskpart
 </code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_8.png?raw=true" alt="Screenshot of the step"></p>
 <p>type</p>
-<pre tabindex="0"><code>list disk
+<pre><code>list disk
 </code></pre><p>to list all the disks on your system</p>
 <p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_9.png?raw=true" alt="Screenshot of the step"></p>
 <p>Select the disk where you installed your linux OS, in my case it&rsquo;s Disk 0 (zero)</p>
-<pre tabindex="0"><code>select &lt;DISK NUMBER&gt;
+<pre><code>select &lt;DISK NUMBER&gt;
 </code></pre><p>Next, list the partitions by typing</p>
-<pre tabindex="0"><code>list part
+<pre><code>list part
 </code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_10.png?raw=true" alt="Screenshot of the step"></p>
 <p>Select the &ldquo;System&rdquo; partition by specifying it by partition number, in my case its partition 2</p>
-<pre tabindex="0"><code>select part &lt;PARTITION NUMBER&gt;
+<pre><code>select part &lt;PARTITION NUMBER&gt;
 </code></pre><p>then assign a drive letter to the partition. The drive letter should not be in use already, I will go with letter X</p>
 <p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_11.png?raw=true" alt="Screenshot of the step"></p>
 <p>Exit diskpart by typing</p>
-<pre tabindex="0"><code>exit
+<pre><code>exit
 </code></pre><p>You will be back in command prompt, here type</p>
-<pre tabindex="0"><code>&lt;YOUR DRIVE LETTER&gt;:
+<pre><code>&lt;YOUR DRIVE LETTER&gt;:
 </code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_12.png?raw=true" alt="Screenshot of the step"></p>
 <p>list the folders in the directory by typing</p>
-<pre tabindex="0"><code>dir
+<pre><code>dir
 </code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_13.png?raw=true" alt="Screenshot of the step"></p>
 <p>I am removing debian, so I will be typing</p>
-<pre tabindex="0"><code>rd debian /s
+<pre><code>rd debian /s
 </code></pre><p><em>change &ldquo;debian&rdquo; with your OS</em></p>
 <p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/remove-dualboot/2022_14.png?raw=true" alt="Screenshot of the step"></p>
 <p>Once done, you will have a new &ldquo;Local Disk&rdquo;. It will be removed once you restart your PC.</p>

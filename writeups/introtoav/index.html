@@ -191,12 +191,12 @@
 <h4 id="question-1-what-is-the-sigtool-tool-output-to-generate-an-md5-of-the-av-checkexe-binary">Question 1: What is the sigtool tool output to generate an MD5 of the AV-Check.exe binary?</h4>
 <p>~ <em>f4a974b0cf25dca7fbce8701b7ab3a88:6144:AV-Check.exe</em></p>
 <p>explaination: open cmd and type this command:</p>
-<pre tabindex="0"><code>c:\Program Files\ClamAV\sigtool.exe&quot; --md5 c:\Users\thm\Desktop\Samples\AV-Check.exe&quot;
+<pre><code>c:\Program Files\ClamAV\sigtool.exe&quot; --md5 c:\Users\thm\Desktop\Samples\AV-Check.exe&quot;
 </code></pre><p>it uses sigtool.exe to generate md5 hash for AV-Check.exe</p>
 <h4 id="question-2-use-the-strings-tool-to-list-all-human-readable-strings-of-the-av-check-binary-what-is-the-flag">Question 2: Use the strings tool to list all human-readable strings of the AV-Check binary. What is the flag?</h4>
 <p>~ <em>THM{Y0uC4nC-5tr16s}</em></p>
 <p>explaination open cmd and type these commands:</p>
-<pre tabindex="0"><code>cd Desktop/Samples
+<pre><code>cd Desktop/Samples
 strings AV-Checks.exe | findstr &quot;THM&quot;
 </code></pre><p>change directory to Desktop/Samples then check strings in the file AV-Checks.exe. Since thm flags starts with &ldquo;THM&rdquo; we can specify that as well to make it easier by &ldquo;| findstr &ldquo;THM&rdquo;&rdquo;.</p>
 <p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/introtoav/2022_1.png?raw=true" alt=""></p>

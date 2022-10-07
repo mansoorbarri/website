@@ -173,15 +173,15 @@
 <img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/machine-windows7Linux.png" alt="Machine ScreenShot" title="Machine ScreenShot"></p>
 <h2 id="step-1-confirm-virtualization">Step 1: Confirm virtualization</h2>
 <p>Open terminal and type</p>
-<pre tabindex="0"><code>grep -o &quot;vm\|sum&quot; /proc/cpuinfo
+<pre><code>grep -o &quot;vm\|sum&quot; /proc/cpuinfo
 </code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/virtualization-confirmation.png" alt="Output ScreenShot" title="Output ScreenShot"></p>
 <p>here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead. If it doesn’t show anything that means virtualization is not enabled. (search for your make and model and how to enable virtualization in this case since the BIOS menu looks different for every system).</p>
 <h2 id="step-2-downloading">Step 2: Downloading</h2>
 <p>Start downloading <a href="https://bit.ly/2R8XFXO">Windows 7</a>
 Next, install qemu-kvm and its dependencies</p>
-<pre tabindex="0"><code>sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils libguestfs-tools genisoimage virtinst libosinfo-bin virt-manager -y
+<pre><code>sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils libguestfs-tools genisoimage virtinst libosinfo-bin virt-manager -y
 </code></pre><p>then run</p>
-<pre tabindex="0"><code>sudo adduser $USER libvirt &amp;&amp; sudo adduser $USER libvirt-qemu
+<pre><code>sudo adduser $USER libvirt &amp;&amp; sudo adduser $USER libvirt-qemu
 </code></pre><p>This command adds user to KVM group</p>
 <p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/KVM-group.png" alt="ScreenShot of command output" title="ScreenShot of command output"></p>
 <h2 id="step-3-installation">Step 3: Installation</h2>
