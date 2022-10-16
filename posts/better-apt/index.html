@@ -185,7 +185,20 @@ wget -qO - https://deb.volian.org/volian/scar.key | sudo tee /etc/apt/trusted.gp
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nala history
 </code></pre></div><p>Undo [sudo nala history undo ID]</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo nala history undo <span style="color:#ae81ff">1</span>
-</code></pre></div><h1 id="conclusion">Conclusion</h1>
+</code></pre></div><h1 id="bashrc-change-for-apt---nala">.bashrc change for apt -&gt; nala</h1>
+<p>copy this to your .bashrc so it uses nala even when you type &ldquo;apt&rdquo;</p>
+<pre><code>apt() { 
+  command nala &quot;$@&quot;
+}
+sudo() {
+  if [ &quot;$1&quot; = &quot;apt&quot; ]; then
+    shift
+    command sudo nala &quot;$@&quot;
+  else
+    command sudo &quot;$@&quot;
+  fi
+}
+</code></pre><h1 id="conclusion">Conclusion</h1>
 <p>Nala is something I use personally and it has dramatically decreased the time I spend managing packages on Debian machines, This is something you wish you had before.</p>
 <p>that&rsquo;s it ✌🏽</p>
 <hr>
@@ -202,6 +215,7 @@ wget -qO - https://deb.volian.org/volian/scar.key | sudo tee /etc/apt/trusted.gp
     <li><a href="#choosing-the-right-mirrors">Choosing The Right Mirrors</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#view-update-history">View Update History</a></li>
+    <li><a href="#bashrc-change-for-apt---nala">.bashrc change for apt -&gt; nala</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
