@@ -385,7 +385,7 @@ If you check for updates now in windows settings you will see this error</descri
       <description>Brief Unattendeed Upgrades - Automatic installation of security upgrades on apt based systems.
 install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic Updates enable automatic updates by:
 sudo dpkg-reconfigure -plow unattended-upgrades  &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.  select &amp;ldquo;yes&amp;rdquo; from these options:
-Video Other config/sources For more about configuration, go through this blog by Hayden James.
+Other config/sources For more about configuration, go through this blog by Hayden James.
 that’s it ✌🏽
  </description>
     </item>
