@@ -17,18 +17,18 @@
     
 
     
-    <title>Automatic Updates</title>
+    <title>Linux | Automatic Updates</title>
     <meta name="description" content="Cyber Security, Tech &amp; IT">
     <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, Updates, Debian, linux'>
 
     <meta property="og:url" content="https://www.mansoor.cf/posts/auto-updates/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Automatic Updates">
+    <meta property="og:title" content="Linux | Automatic Updates">
     <meta property="og:description" content="Cyber Security, Tech &amp; IT">
     <meta property="og:image" content="/main.webp">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Automatic Updates">
+    <meta name="twitter:title" content="Linux | Automatic Updates">
     <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
     <meta property="twitter:domain" content="https://www.mansoor.cf/posts/auto-updates/">
     <meta property="twitter:url" content="https://www.mansoor.cf/posts/auto-updates/">
@@ -147,7 +147,7 @@
 <main id="content">
     <div class="post container">
     <div class="post-header-section">
-        <h1>Automatic Updates</h1>
+        <h1>Linux | Automatic Updates</h1>
         <small role="doc-subtitle"></small>
         <p class="post-date">
             February 23, 2022
@@ -166,22 +166,25 @@
 
     <div class="post-content">
         <p>
-            <h2 id="brief">Brief</h2>
+            <h1 id="brief">Brief</h1>
 <p><a href="https://github.com/mvo5/unattended-upgrades">Unattendeed Upgrades</a> - Automatic installation of security upgrades on apt based systems.</p>
-<h2 id="install">install</h2>
-<h3 id="debian">Debian</h3>
+<h1 id="install">install</h1>
 <pre><code>sudo apt update
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/auto-updates/1.png" alt="Screenshot of the command"></p>
-<pre><code>sudo apt install unattended-upgrades -y
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/auto-updates/2.png" alt="Screenshot of the command"></p>
-<h2 id="config">Config</h2>
+
+sudo apt install unattended-upgrades -y
+</code></pre><h1 id="enable-automatic-updates">Enable Automatic Updates</h1>
+<p>enable automatic updates by:</p>
+<pre><code>sudo dpkg-reconfigure -plow unattended-upgrades 
+</code></pre><ul>
+<li>&ldquo;-plow&rdquo; is to set prorioty as low for unattended upgrades.</li>
+</ul>
+<p>select &ldquo;yes&rdquo; from these options:</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/auto-updates/2022.png" alt="Screenshot of the command"></p>
+<h1 id="video">Video</h1>
+<h1 id="other-configsources">Other config/sources</h1>
 <p>For more about configuration, go through <a href="https://haydenjames.io/how-to-enable-unattended-upgrades-on-ubuntu-debian/">this blog</a> by Hayden James.</p>
+<p>that’s it ✌🏽</p>
 <hr>
-<h3 id="contribution">Contribution</h3>
-<p>Open for contributions, Contact <a href="/socials">mansoor.cf/socials</a></p>
-<h3 id="share">Share</h3>
-<p><a href="https://twitter.com/intent/tweet?original_referer=%5BURL%5D&amp;url=https://www.mansoor.cf/posts/auto-updates">Twitter</a></p>
-<p><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://mansoor.cf/posts/auto-updates&amp;source=https://www.mansoor.cf">Linkedin</a></p>
 
         </p>
     </div>
@@ -191,22 +194,11 @@
     <nav id="toc">
         <nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li><a href="#brief">Brief</a></li>
-        <li><a href="#install">install</a>
-          <ul>
-            <li><a href="#debian">Debian</a></li>
-          </ul>
-        </li>
-        <li><a href="#config">Config</a>
-          <ul>
-            <li><a href="#contribution">Contribution</a></li>
-            <li><a href="#share">Share</a></li>
-          </ul>
-        </li>
-      </ul>
-    </li>
+    <li><a href="#brief">Brief</a></li>
+    <li><a href="#install">install</a></li>
+    <li><a href="#enable-automatic-updates">Enable Automatic Updates</a></li>
+    <li><a href="#video">Video</a></li>
+    <li><a href="#other-configsources">Other config/sources</a></li>
   </ul>
 </nav>
     </nav>

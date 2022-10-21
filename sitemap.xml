@@ -168,11 +168,6 @@
   </url>
   
   <url>
-    <loc>https://www.mansoor.cf/posts/remove-viruses/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.mansoor.cf/tags/tron/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url>
@@ -184,6 +179,11 @@
   
   <url>
     <loc>https://www.mansoor.cf/tags/windows/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mansoor.cf/posts/remove-viruses/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -318,11 +318,6 @@
   </url>
   
   <url>
-    <loc>https://www.mansoor.cf/posts/disable-updates/</loc>
-    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.mansoor.cf/tags/trash/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
@@ -333,12 +328,17 @@
   </url>
   
   <url>
-    <loc>https://www.mansoor.cf/posts/auto-updates/</loc>
-    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+    <loc>https://www.mansoor.cf/posts/disable-updates/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.mansoor.cf/tags/debian/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mansoor.cf/posts/auto-updates/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -423,12 +423,12 @@
   </url>
   
   <url>
-    <loc>https://www.mansoor.cf/tags/terminal/</loc>
+    <loc>https://www.mansoor.cf/posts/saved-wifi-pwd/</loc>
     <lastmod>2022-01-16T23:39:49+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mansoor.cf/posts/saved-wifi-pwd/</loc>
+    <loc>https://www.mansoor.cf/tags/terminal/</loc>
     <lastmod>2022-01-16T23:39:49+05:30</lastmod>
   </url>
   

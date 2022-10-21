@@ -20,7 +20,7 @@ nmap -sP 172.67.208.3/24 2. Simple TCP scan A TCP is what makes the internet. TC
     </item>
     
     <item>
-      <title>Install BeEF on Debian Linux</title>
+      <title>Linux | Install BeEF on Debian</title>
       <link>https://www.mansoor.cf/posts/beef-debian/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       

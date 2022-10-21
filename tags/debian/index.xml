@@ -8,16 +8,17 @@
     <language>en</language>
     <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automatic Updates</title>
+      <title>Linux | Automatic Updates</title>
       <link>https://www.mansoor.cf/posts/auto-updates/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/posts/auto-updates/</guid>
       <description>Brief Unattendeed Upgrades - Automatic installation of security upgrades on apt based systems.
-install Debian sudo apt update sudo apt install unattended-upgrades -y Config For more about configuration, go through this blog by Hayden James.
- Contribution Open for contributions, Contact mansoor.cf/socials
-Share Twitter
-Linkedin</description>
+install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic Updates enable automatic updates by:
+sudo dpkg-reconfigure -plow unattended-upgrades  &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.  select &amp;ldquo;yes&amp;rdquo; from these options:
+Video Other config/sources For more about configuration, go through this blog by Hayden James.
+that’s it ✌🏽
+ </description>
     </item>
     
   </channel>
