@@ -71,20 +71,20 @@
     </item>
     
     <item>
-      <title>getting-started</title>
-      <link>https://www.mansoor.cf/tags/getting-started/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/getting-started/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>phoneinfoga</title>
       <link>https://www.mansoor.cf/tags/phoneinfoga/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/tags/phoneinfoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://www.mansoor.cf/tags/ubuntu/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/ubuntu/</guid>
       <description></description>
     </item>
     
@@ -161,7 +161,7 @@
     </item>
     
     <item>
-      <title>linux</title>
+      <title>Linux</title>
       <link>https://www.mansoor.cf/tags/linux/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -224,11 +224,11 @@
     </item>
     
     <item>
-      <title>ubuntu</title>
-      <link>https://www.mansoor.cf/tags/ubuntu/</link>
+      <title>Debian</title>
+      <link>https://www.mansoor.cf/tags/debian/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/ubuntu/</guid>
+      <guid>https://www.mansoor.cf/tags/debian/</guid>
       <description></description>
     </item>
     
@@ -319,15 +319,6 @@
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/tags/updates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debian</title>
-      <link>https://www.mansoor.cf/tags/debian/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/debian/</guid>
       <description></description>
     </item>
     
