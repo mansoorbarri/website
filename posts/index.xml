@@ -262,8 +262,7 @@ sudo apt install ruby ruby-dev git -y Step 2: Installation Clone BeEF repo</desc
       <guid>https://www.mansoor.cf/posts/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
- Share Twitter
-Linkedin</description>
+ </description>
     </item>
     
     <item>
@@ -276,6 +275,15 @@ Linkedin</description>
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type
 grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.mansoor.cf/posts/android-screen-mirror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/android-screen-mirror/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -474,8 +474,7 @@ Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
       <guid>https://www.mansoor.cf/posts/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
- Share Twitter
-Linkedin</description>
+ </description>
     </item>
     
     <item>
@@ -543,6 +542,15 @@ Task 1: Deploy Question 1: Deploy the attached VM No Answer Needed
 Task 2: Introduction Question 1: What networking constructs are used to direct traffic to the right application on a server? ~ Ports
 Question 2: How many of these are available on any network-enabled computer? ~ 65535
 Question 3: [Research] How many of these are considered &amp;ldquo;well-known&amp;rdquo;? (These are the &amp;ldquo;standard&amp;rdquo; numbers mentioned in the task) ~ 1024</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.mansoor.cf/posts/android-screen-mirror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/android-screen-mirror/</guid>
+      <description></description>
     </item>
     
   </channel>
