@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>android</title>
       <link>https://www.mansoor.cf/tags/android/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debian</title>
+      <link>https://www.mansoor.cf/tags/debian/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://www.mansoor.cf/tags/ubuntu/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/tags/ubuntu/</guid>
       <description></description>
     </item>
     
@@ -76,15 +94,6 @@
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/tags/phoneinfoga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://www.mansoor.cf/tags/ubuntu/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/ubuntu/</guid>
       <description></description>
     </item>
     
@@ -220,15 +229,6 @@
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mansoor.cf/tags/apt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debian</title>
-      <link>https://www.mansoor.cf/tags/debian/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/debian/</guid>
       <description></description>
     </item>
     

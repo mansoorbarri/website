@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ubuntu on Mansoor Barri</title>
+    <title>ubuntu on Mansoor Barri</title>
     <link>https://www.mansoor.cf/tags/ubuntu/</link>
-    <description>Recent content in Ubuntu on Mansoor Barri</description>
+    <description>Recent content in ubuntu on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirror Android Screen with Sound</title>
+      <link>https://www.mansoor.cf/posts/android-screen-mirror/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mansoor.cf/posts/android-screen-mirror/</guid>
+      <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
+Tools Scrcpy - for screen mirror
+sndcpy - for sound
+Install Scrcpy:
+sudo apt install Scrcpy Sndcpy: download the latest release and extract the files
+Mirror Screen with Scrcpy First, go to your device settings and enable developer mode then, connect your Android device to your computer with your charger.</description>
+    </item>
+    
     <item>
       <title>Getting Started - PhoneInFoga</title>
       <link>https://www.mansoor.cf/posts/phoneinfoga/</link>
