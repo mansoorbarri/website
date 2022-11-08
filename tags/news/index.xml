@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>news on Mansoor Barri</title>
-    <link>https://www.mansoor.cf/tags/news/</link>
+    <link>https://www.mansoorbarri.com/tags/news/</link>
     <description>Recent content in news on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoorbarri.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SideWinder&#39;s attack on Pakistan&#39;s NEPRA</title>
-      <link>https://www.mansoor.cf/posts/nepra-sidewinder/</link>
+      <link>https://www.mansoorbarri.com/posts/nepra-sidewinder/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/nepra-sidewinder/</guid>
+      <guid>https://www.mansoorbarri.com/posts/nepra-sidewinder/</guid>
       <description>Background SideWinder is an Indian state-backed Hacker group predominantly known for targetting Pakistan military and other organisations for intel for their own national security. They are also known to target other South &amp;amp; East Asian countries and their institutions like: Nepali Ministry of Defence and Foreign Affairs, Nepali Army, Afghanistan National Security Council &amp;amp; Sri Lankan Defence Ministry.
 July 2022 Recently, SideWinder targetted Pakistan&amp;rsquo;s National Electric Power Regulatory Authority (NEPRA) with a personalised malware named WarHawk.</description>
     </item>

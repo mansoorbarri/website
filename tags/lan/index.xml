@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LAN on Mansoor Barri</title>
-    <link>https://www.mansoor.cf/tags/lan/</link>
+    <link>https://www.mansoorbarri.com/tags/lan/</link>
     <description>Recent content in LAN on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/lan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoorbarri.com/tags/lan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Server on LAN</title>
-      <link>https://www.mansoor.cf/posts/hugo-lan/</link>
+      <link>https://www.mansoorbarri.com/posts/hugo-lan/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/hugo-lan/</guid>
+      <guid>https://www.mansoorbarri.com/posts/hugo-lan/</guid>
       <description>Brief [IP-ADD] is your local IP address.
 Command use this command instead of &amp;ldquo;hugo server&amp;rdquo;
 hugo server --bind [IP-ADD] --baseURL http://[IP-ADD] Conclusion visit http://[IP-ADD] from any device on your LAN to view the temporary hugo site.

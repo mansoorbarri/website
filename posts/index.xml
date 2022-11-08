@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mansoor Barri</title>
-    <link>https://www.mansoor.cf/posts/</link>
+    <link>https://www.mansoorbarri.com/posts/</link>
     <description>Recent content in Posts on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoorbarri.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SideWinder&#39;s attack on Pakistan&#39;s NEPRA</title>
-      <link>https://www.mansoor.cf/posts/nepra-sidewinder/</link>
+      <link>https://www.mansoorbarri.com/posts/nepra-sidewinder/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/nepra-sidewinder/</guid>
+      <guid>https://www.mansoorbarri.com/posts/nepra-sidewinder/</guid>
       <description>Background SideWinder is an Indian state-backed Hacker group predominantly known for targetting Pakistan military and other organisations for intel for their own national security. They are also known to target other South &amp;amp; East Asian countries and their institutions like: Nepali Ministry of Defence and Foreign Affairs, Nepali Army, Afghanistan National Security Council &amp;amp; Sri Lankan Defence Ministry.
 July 2022 Recently, SideWinder targetted Pakistan&amp;rsquo;s National Electric Power Regulatory Authority (NEPRA) with a personalised malware named WarHawk.</description>
     </item>
     
     <item>
       <title>Mirror Android Screen with Sound</title>
-      <link>https://www.mansoor.cf/posts/android-screen-mirror/</link>
+      <link>https://www.mansoorbarri.com/posts/android-screen-mirror/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/android-screen-mirror/</guid>
+      <guid>https://www.mansoorbarri.com/posts/android-screen-mirror/</guid>
       <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
 Tools Scrcpy - for screen mirror
 sndcpy - for sound
@@ -33,10 +33,10 @@ Mirror Screen with Scrcpy First, go to your device settings and enable developer
     
     <item>
       <title>SSH into Termux</title>
-      <link>https://www.mansoor.cf/posts/termux-ssh/</link>
+      <link>https://www.mansoorbarri.com/posts/termux-ssh/</link>
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/termux-ssh/</guid>
+      <guid>https://www.mansoorbarri.com/posts/termux-ssh/</guid>
       <description>Just do the following steps:
 Install OpenSSH on Termux: pkg upgrade &amp;amp;&amp;amp; pkg install openssh Setup a password for Termux: passwd Get your username: whoami Start SSH server sshd Connect! From your computer ssh like usual; the default port Termux uses for SSH is 8022.
 example:
@@ -48,10 +48,10 @@ ssh u0_a231@192.168.0.10 -p 8022 Video your browser doesn&#39;t support video ta
     
     <item>
       <title>Advanced Scambaiting</title>
-      <link>https://www.mansoor.cf/posts/advanced-scambaiting/</link>
+      <link>https://www.mansoorbarri.com/posts/advanced-scambaiting/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/advanced-scambaiting/</guid>
+      <guid>https://www.mansoorbarri.com/posts/advanced-scambaiting/</guid>
       <description>Disclaimer DO THESE THINGS AT YOUR OWN RISK
 IT IS NOT RECOMMENDED TO DO THESE THINGS AS SCAMBAITING
 Reverse Anydesk connection First you have to let them connect to your PC, make sure you see their anydesk ID before accepting their connection request.
@@ -60,10 +60,10 @@ then send them anydesk request from another PC or the host PC (if you are using 
     
     <item>
       <title>Getting Started - PhoneInFoga</title>
-      <link>https://www.mansoor.cf/posts/phoneinfoga/</link>
+      <link>https://www.mansoorbarri.com/posts/phoneinfoga/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/phoneinfoga/</guid>
+      <guid>https://www.mansoorbarri.com/posts/phoneinfoga/</guid>
       <description>Brief PhoneInFoga - Information gathering &amp;amp; OSINT framework for phone numbers.
 This install guide is specific to Debian/Ubuntu machines, for other installation options, visit PhoneInfoga&amp;rsquo;s install page.
 Install Installation documentation
@@ -78,10 +78,10 @@ phoneinfoga -n +1234567891 The output is kinda weird and messy so using the web 
     
     <item>
       <title>Hugo Server on LAN</title>
-      <link>https://www.mansoor.cf/posts/hugo-lan/</link>
+      <link>https://www.mansoorbarri.com/posts/hugo-lan/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/hugo-lan/</guid>
+      <guid>https://www.mansoorbarri.com/posts/hugo-lan/</guid>
       <description>Brief [IP-ADD] is your local IP address.
 Command use this command instead of &amp;ldquo;hugo server&amp;rdquo;
 hugo server --bind [IP-ADD] --baseURL http://[IP-ADD] Conclusion visit http://[IP-ADD] from any device on your LAN to view the temporary hugo site.
@@ -91,10 +91,10 @@ that&amp;rsquo;s it ✌🏽
     
     <item>
       <title>Fixed - Termux Repository Under Maintenance Issue</title>
-      <link>https://www.mansoor.cf/posts/termux-repo/</link>
+      <link>https://www.mansoorbarri.com/posts/termux-repo/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/termux-repo/</guid>
+      <guid>https://www.mansoorbarri.com/posts/termux-repo/</guid>
       <description>Error error looks something like this:
 This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest &amp;amp; greatest version.
 Fix visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and install the APK normally.
@@ -105,20 +105,20 @@ that&amp;rsquo;s it ✌🏽
     
     <item>
       <title>Getting Started with Scambaiting</title>
-      <link>https://www.mansoor.cf/posts/scambaiting101/</link>
+      <link>https://www.mansoorbarri.com/posts/scambaiting101/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/scambaiting101/</guid>
+      <guid>https://www.mansoorbarri.com/posts/scambaiting101/</guid>
       <description>Getting started Keep in mind that you are dealing with people who are criminals, giving your personal information is stupid to say the least. Making a fake persona here is helpful and what most people do.
 A VPN isn&amp;rsquo;t important since there is just enough they can do by finding your IP. A free vpn I suggest is cloudflare&amp;rsquo;s WARP furthermore, there are many cheap VPNs which work great: Private Internet Access &amp;amp; OpenVPN are two of many.</description>
     </item>
     
     <item>
       <title>Linux | UFW</title>
-      <link>https://www.mansoor.cf/posts/linux-firewall/</link>
+      <link>https://www.mansoorbarri.com/posts/linux-firewall/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/linux-firewall/</guid>
+      <guid>https://www.mansoorbarri.com/posts/linux-firewall/</guid>
       <description>Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux systems.
 Install sudo apt-get update sudo apt-get install ufw Verify Install sudo ufw status Basic Blocks sudo ufw default deny incoming sudo ufw default allow outgoing Enable Firewall sudo ufw enable Blocking Ports you can block any port by &amp;ldquo;sudo ufw deny PORT&amp;rdquo; for example, to block port 76 type:
 sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow PORT&amp;rdquo; for example, to allow port 22 (default SSH port) type:</description>
@@ -126,10 +126,10 @@ sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow
     
     <item>
       <title>Windows | Remove Viruses From Windows</title>
-      <link>https://www.mansoor.cf/posts/remove-viruses/</link>
+      <link>https://www.mansoorbarri.com/posts/remove-viruses/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/remove-viruses/</guid>
+      <guid>https://www.mansoorbarri.com/posts/remove-viruses/</guid>
       <description>Tron is a all in one program to remove any viruses from windows and get windows &amp;ldquo;back on it&amp;rsquo;s feet&amp;rdquo;
 Install https://www.reddit.com/r/TronScript/
 Reference Chris Titus has a great video on this explaining everything so I will just link it.
@@ -139,10 +139,10 @@ Reference Chris Titus has a great video on this explaining everything so I will 
     
     <item>
       <title>Linux | Better APT</title>
-      <link>https://www.mansoor.cf/posts/better-apt/</link>
+      <link>https://www.mansoorbarri.com/posts/better-apt/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/better-apt/</guid>
+      <guid>https://www.mansoorbarri.com/posts/better-apt/</guid>
       <description>why not APT? APT has slow mirrors, APT isn&amp;rsquo;t optimised for performance right out of the box, rolling back updates or installs is pain because there is no concept of history and last but not the least, the look of APT is just mehhh.
 Nala is just better. Nala fixes all these problems right from the start while having APT is the backend.
 Install add repository
@@ -151,10 +151,10 @@ echo &amp;#34;deb http://deb.volian.org/volian/ scar main&amp;#34; | sudo tee /e
     
     <item>
       <title>Dark mode for Instagram Web</title>
-      <link>https://www.mansoor.cf/posts/dark-instagram/</link>
+      <link>https://www.mansoorbarri.com/posts/dark-instagram/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/dark-instagram/</guid>
+      <guid>https://www.mansoorbarri.com/posts/dark-instagram/</guid>
       <description>just add &amp;ldquo;?theme=dark&amp;rdquo; add the end of instagram url
 for example, www.instagram.com?theme=dark
 that&amp;rsquo;s it ✌🏽
@@ -163,10 +163,10 @@ that&amp;rsquo;s it ✌🏽
     
     <item>
       <title>Free Website Hosting</title>
-      <link>https://www.mansoor.cf/posts/hosting/</link>
+      <link>https://www.mansoorbarri.com/posts/hosting/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/hosting/</guid>
+      <guid>https://www.mansoorbarri.com/posts/hosting/</guid>
       <description>Disclaimer There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*
 Prerequisites  Github account Website code  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important
 Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
@@ -174,10 +174,10 @@ Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
     
     <item>
       <title>Linux | SSL Certificate with Certbot</title>
-      <link>https://www.mansoor.cf/posts/ssl-apache/</link>
+      <link>https://www.mansoorbarri.com/posts/ssl-apache/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/ssl-apache/</guid>
+      <guid>https://www.mansoorbarri.com/posts/ssl-apache/</guid>
       <description>Requirements Debian, Apache2, Snapd, Certbot
 Install sudo apt update -y sudo apt install snapd -y install certbot
 sudo snap install certbot --classic Create symbolic link so you can run certbot command from the terminal
@@ -188,10 +188,10 @@ Getting the Cert Enter your valid email address so certbot can contact you for r
     
     <item>
       <title>Windows | Remove Debian comepletely from DualBoot</title>
-      <link>https://www.mansoor.cf/posts/remove-dualboot/</link>
+      <link>https://www.mansoorbarri.com/posts/remove-dualboot/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/remove-dualboot/</guid>
+      <guid>https://www.mansoorbarri.com/posts/remove-dualboot/</guid>
       <description>Requirements Windows 10 PC
 I - Delete partition Right click on the start button (bottom left corner) and click on &amp;ldquo;Disk Management&amp;rdquo;
 ideally there should be 2 linux partition, one swap area and other is main disk partition. These are the two partitions I have
@@ -202,10 +202,10 @@ repeat the last two steps for the second partition.</description>
     
     <item>
       <title>Windows | Disable Updates</title>
-      <link>https://www.mansoor.cf/posts/disable-updates/</link>
+      <link>https://www.mansoorbarri.com/posts/disable-updates/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/disable-updates/</guid>
+      <guid>https://www.mansoorbarri.com/posts/disable-updates/</guid>
       <description>Brief Windows Update BLocker(Wub) - A minimal tool to block windows updates.
 Download You can download the latest version from the official website
 Extract the zip file and open the Wub_x64.exe file as adminstator
@@ -217,10 +217,10 @@ If you check for updates now in windows settings you will see this error</descri
     
     <item>
       <title>Linux | Automatic Updates</title>
-      <link>https://www.mansoor.cf/posts/auto-updates/</link>
+      <link>https://www.mansoorbarri.com/posts/auto-updates/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/auto-updates/</guid>
+      <guid>https://www.mansoorbarri.com/posts/auto-updates/</guid>
       <description>Brief Unattendeed Upgrades - Automatic installation of security upgrades on apt based systems.
 install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic Updates enable automatic updates by:
 sudo dpkg-reconfigure -plow unattended-upgrades  &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.  select &amp;ldquo;yes&amp;rdquo; from these options:
@@ -231,10 +231,10 @@ that’s it ✌🏽
     
     <item>
       <title>Twitter Bot in Python (without API)</title>
-      <link>https://www.mansoor.cf/posts/twitter-bot/</link>
+      <link>https://www.mansoorbarri.com/posts/twitter-bot/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/twitter-bot/</guid>
+      <guid>https://www.mansoorbarri.com/posts/twitter-bot/</guid>
       <description>Brief I wanted to make a python script which would share my latest blog on Twitter &amp;amp; Linkedin, So I made one.
 We will use firefox as the browser thus, we would need geckodriver. The tutorial assumes you already have it.
 Code Breakdown Modules from selenium import webdriver from selenium.webdriver.firefox.options import Options import warnings import time   We are gonna use Selenium for webscrapping
@@ -243,10 +243,10 @@ Code Breakdown Modules from selenium import webdriver from selenium.webdriver.fi
     
     <item>
       <title>Nmap quick start</title>
-      <link>https://www.mansoor.cf/posts/nmap/</link>
+      <link>https://www.mansoorbarri.com/posts/nmap/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/nmap/</guid>
+      <guid>https://www.mansoorbarri.com/posts/nmap/</guid>
       <description>DISCLAIMER THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL OR ETHICAL HACKING PURPOSE. MISUSE OF THIS TOOL WILL LEAD TO PROSECUTION.
 Brief Nmap - the network mapper.
 install Debian sudo apt install nmap Snap sudo snap install nmap Basic Arguments 1. pingging whole network -sP nmap -sP &amp;lt;ip/24&amp;gt; For example:
@@ -255,10 +255,10 @@ nmap -sP 172.67.208.3/24 2. Simple TCP scan A TCP is what makes the internet. TC
     
     <item>
       <title>Email forwarding with cloudflare</title>
-      <link>https://www.mansoor.cf/posts/email-forwarding-cloudflare/</link>
+      <link>https://www.mansoorbarri.com/posts/email-forwarding-cloudflare/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/email-forwarding-cloudflare/</guid>
+      <guid>https://www.mansoorbarri.com/posts/email-forwarding-cloudflare/</guid>
       <description>BRIEF You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
 By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
 You will need to enable 2 Step verification on your google account for this to work.
@@ -267,10 +267,10 @@ Step 1: Setup Cloudflaee The first step is to setup cloudflare so it can route e
     
     <item>
       <title>Linux | Install BeEF on Debian</title>
-      <link>https://www.mansoor.cf/posts/beef-debian/</link>
+      <link>https://www.mansoorbarri.com/posts/beef-debian/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/beef-debian/</guid>
+      <guid>https://www.mansoorbarri.com/posts/beef-debian/</guid>
       <description>DISCLAIMER THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL OR ETHICAL HACKING PURPOSE. MISUSE OF THIS TOOL WILL LEAD TO PROSECUTION.
 BRIEF BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 Step 1: installing dependencies Before installing anything update your repositories.
@@ -280,10 +280,10 @@ sudo apt install ruby ruby-dev git -y Step 2: Installation Clone BeEF repo</desc
     
     <item>
       <title>Linux | View Saved WiFi Passwords</title>
-      <link>https://www.mansoor.cf/posts/saved-wifi-pwd/</link>
+      <link>https://www.mansoorbarri.com/posts/saved-wifi-pwd/</link>
       <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/saved-wifi-pwd/</guid>
+      <guid>https://www.mansoorbarri.com/posts/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
  </description>
@@ -291,10 +291,10 @@ Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [
     
     <item>
       <title>Linux | Install Windows 7</title>
-      <link>https://www.mansoor.cf/posts/windows7onlinux/</link>
+      <link>https://www.mansoorbarri.com/posts/windows7onlinux/</link>
       <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://www.mansoor.cf/posts/windows7onlinux/</guid>
+      <guid>https://www.mansoorbarri.com/posts/windows7onlinux/</guid>
       <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type
