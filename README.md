@@ -10,14 +10,14 @@ A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokar
 
 ## Demo
 
-www.mansoor.cf
+www.mansoorbarri.com
 
 
 ## Contributing
 
 Contributions are always welcome!
 
-visit [mansoor.cf/socials](https://www.mansoor.cf/) for ways to get started.
+visit [mansoor.cf/socials](https://www.mansoorbarri.com/) for ways to get started.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.mansoor.cf/)
