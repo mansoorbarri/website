@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitter on Mansoor Barri</title>
-    <link>https://www.mansoorbarri.com/tags/twitter/</link>
+    <link>https://mansoorbarri.com/tags/twitter/</link>
     <description>Recent content in Twitter on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoorbarri.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twitter Bot in Python (without API)</title>
-      <link>https://www.mansoorbarri.com/posts/twitter-bot/</link>
+      <link>https://mansoorbarri.com/posts/twitter-bot/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/posts/twitter-bot/</guid>
+      <guid>https://mansoorbarri.com/posts/twitter-bot/</guid>
       <description>Brief I wanted to make a python script which would share my latest blog on Twitter &amp;amp; Linkedin, So I made one.
 We will use firefox as the browser thus, we would need geckodriver. The tutorial assumes you already have it.
 Code Breakdown Modules from selenium import webdriver from selenium.webdriver.firefox.options import Options import warnings import time   We are gonna use Selenium for webscrapping

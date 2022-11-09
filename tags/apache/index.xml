@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apache on Mansoor Barri</title>
-    <link>https://www.mansoorbarri.com/tags/apache/</link>
+    <link>https://mansoorbarri.com/tags/apache/</link>
     <description>Recent content in Apache on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoorbarri.com/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/apache/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux | SSL Certificate with Certbot</title>
-      <link>https://www.mansoorbarri.com/posts/ssl-apache/</link>
+      <link>https://mansoorbarri.com/posts/ssl-apache/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/posts/ssl-apache/</guid>
+      <guid>https://mansoorbarri.com/posts/ssl-apache/</guid>
       <description>Requirements Debian, Apache2, Snapd, Certbot
 Install sudo apt update -y sudo apt install snapd -y install certbot
 sudo snap install certbot --classic Create symbolic link so you can run certbot command from the terminal

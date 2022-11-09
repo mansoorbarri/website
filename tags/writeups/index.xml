@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writeups on Mansoor Barri</title>
-    <link>https://www.mansoorbarri.com/tags/writeups/</link>
+    <link>https://mansoorbarri.com/tags/writeups/</link>
     <description>Recent content in writeups on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>THM | Threat Intelligence Tools</title>
-      <link>https://www.mansoorbarri.com/writeups/threatinteltools/</link>
+      <link>https://mansoorbarri.com/writeups/threatinteltools/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/threatinteltools/</guid>
+      <guid>https://mansoorbarri.com/writeups/threatinteltools/</guid>
       <description>Room https://tryhackme.com/room/threatinteltools
 Task 1-2 no answer needed
 Task 3 - UrlScan.io answers are from the image right above*
@@ -25,10 +25,10 @@ Task 4 - Abuse.ch Question 1: The IOC 212.192.246.30:5555 is linked to which mal
     
     <item>
       <title>THM | Introduction to Antivirus</title>
-      <link>https://www.mansoorbarri.com/writeups/introtoav/</link>
+      <link>https://mansoorbarri.com/writeups/introtoav/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/introtoav/</guid>
+      <guid>https://mansoorbarri.com/writeups/introtoav/</guid>
       <description>Room https://tryhackme.com/room/introtoav
 Task 1 - Introduction no answer needed
 Task 2 - Antivirus Software answers are from the text*
@@ -40,10 +40,10 @@ Task 3 - Antivirus Features answers are from the text*</description>
     
     <item>
       <title>THM | Linux Modules</title>
-      <link>https://www.mansoorbarri.com/writeups/linuxmodules/</link>
+      <link>https://mansoorbarri.com/writeups/linuxmodules/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/linuxmodules/</guid>
+      <guid>https://mansoorbarri.com/writeups/linuxmodules/</guid>
       <description>Room https://tryhackme.com/room/linuxmodules
 Task 1: Let&amp;rsquo;s Introduce No answer needed
 Task 2: du No answer needed
@@ -55,10 +55,10 @@ Download the above given file and answer the following questions. ~ No answer ne
     
     <item>
       <title>THM | Burp Suite: Repeater</title>
-      <link>https://www.mansoorbarri.com/writeups/burpsuiterepeater/</link>
+      <link>https://mansoorbarri.com/writeups/burpsuiterepeater/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/burpsuiterepeater/</guid>
+      <guid>https://mansoorbarri.com/writeups/burpsuiterepeater/</guid>
       <description>Room https://tryhackme.com/room/burpsuiterepeater
 Task 1: Introduction Outline No answer needed
 Task 2: Repeater What is Repeater? No answer needed
@@ -72,10 +72,10 @@ Question 3: Send the request.</description>
     
     <item>
       <title>THM | Burp Suite: The Basics</title>
-      <link>https://www.mansoorbarri.com/writeups/burpsuitebasics/</link>
+      <link>https://mansoorbarri.com/writeups/burpsuitebasics/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/burpsuitebasics/</guid>
+      <guid>https://mansoorbarri.com/writeups/burpsuitebasics/</guid>
       <description>Room https://tryhackme.com/room/burpsuitebasics
 Task 1: Introduction Outline No answer needed
 Task 2: Getting Started What is Burp Suite? Question 1: Which edition of Burp Suite will we be using in this module? ~ Burp Suite Community
@@ -85,10 +85,10 @@ Question 3: Burp Suite is frequently used when attacking web applications and __
     
     <item>
       <title>THM | DNS Manipulation</title>
-      <link>https://www.mansoorbarri.com/writeups/dnsmanipulation/</link>
+      <link>https://mansoorbarri.com/writeups/dnsmanipulation/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/dnsmanipulation/</guid>
+      <guid>https://mansoorbarri.com/writeups/dnsmanipulation/</guid>
       <description>Room https://tryhackme.com/room/dnsmanipulation
 Task 1: Introduction No answer needed
 Task 2: Installation No answer needed
@@ -99,10 +99,10 @@ Question 2: If you were on Linux, what command could you use to query a txt reco
     
     <item>
       <title>THM | Red Team Engagements</title>
-      <link>https://www.mansoorbarri.com/writeups/redteamengagements/</link>
+      <link>https://mansoorbarri.com/writeups/redteamengagements/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/redteamengagements/</guid>
+      <guid>https://mansoorbarri.com/writeups/redteamengagements/</guid>
       <description>Room https://tryhackme.com/room/redteamengagements
 Task 1: Introduction No answer needed
 Task 2: Defining Scope and Objectives Question 1-2: No answer needd
@@ -114,10 +114,10 @@ Task 3: Rules of Engagement Question 1: Once downloaded, read the sample documen
     
     <item>
       <title>THM | Red Team Recon</title>
-      <link>https://www.mansoorbarri.com/writeups/redteamrecon/</link>
+      <link>https://mansoorbarri.com/writeups/redteamrecon/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/redteamrecon/</guid>
+      <guid>https://mansoorbarri.com/writeups/redteamrecon/</guid>
       <description>Room https://tryhackme.com/room/redteamrecon
 Task 1: Introduction No answer needed
 Task 2: Taxonomy of Reconnaissance No answer needed
@@ -129,10 +129,10 @@ host clinic.thmredteam.com Task 4: Advanced Searching Question 1: How would you 
     
     <item>
       <title>THM | Cryptography for Dummies</title>
-      <link>https://www.mansoorbarri.com/writeups/cryptographyfordummies/</link>
+      <link>https://mansoorbarri.com/writeups/cryptographyfordummies/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/cryptographyfordummies/</guid>
+      <guid>https://mansoorbarri.com/writeups/cryptographyfordummies/</guid>
       <description>Room https://tryhackme.com/room/cryptographyfordummies
 Task 1: Intro No answer needed
 Task 2: Types of cryptography Question 1: What type of cryptography is more secure? ~ asymmetric
@@ -144,10 +144,10 @@ Question 5: What will you use to decrypt messages in asymmetric cryptography?</d
     
     <item>
       <title>THM | Common Attacks</title>
-      <link>https://www.mansoorbarri.com/writeups/commonattacks/</link>
+      <link>https://mansoorbarri.com/writeups/commonattacks/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/commonattacks/</guid>
+      <guid>https://mansoorbarri.com/writeups/commonattacks/</guid>
       <description>Room https://tryhackme.com/room/commonattacks
 Task 1: Information Introduction Question 1: Let&amp;rsquo;s get started! No answer needed
 Task 2: Common Attacks Social Engineering Question 1: Read the task information and watch the attached videos No answer needed
@@ -157,10 +157,10 @@ Task 3: Common Attacks Social Engineering Phishing Question 1: Click the green &
     
     <item>
       <title>THM | tmux</title>
-      <link>https://www.mansoorbarri.com/writeups/rptmux/</link>
+      <link>https://mansoorbarri.com/writeups/rptmux/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/rptmux/</guid>
+      <guid>https://mansoorbarri.com/writeups/rptmux/</guid>
       <description>Room https://tryhackme.com/room/rptmux
 Task 1: Screens wishes it was this cool Question 1: First things first, let&amp;rsquo;s go ahead and install tmux. This can be done on Ubuntu/Kali with the command: apt-get install tmux No answer needed
 Question 2: Once tmux is installed, let&amp;rsquo;s launch a new session. What command do we use to launch a new session without a custom name? ~ tmux
@@ -169,10 +169,10 @@ Question 3: All tmux commands start with a keyboard button combination.</descrip
     
     <item>
       <title>THM | Bypassing UAC</title>
-      <link>https://www.mansoorbarri.com/writeups/bypassinguac/</link>
+      <link>https://mansoorbarri.com/writeups/bypassinguac/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/bypassinguac/</guid>
+      <guid>https://mansoorbarri.com/writeups/bypassinguac/</guid>
       <description>Room https://tryhackme.com/room/bypassinguac
 steps won&amp;rsquo;t be explained since the room has walkthrough*
 Task 1: Introduction Question 1: Click and continue learning! No answer needed
@@ -183,10 +183,10 @@ Question 3: What is the full name of the service in charge of dealing with UAC e
     
     <item>
       <title>THM | Intro to Digital Forensics</title>
-      <link>https://www.mansoorbarri.com/writeups/introdigitalforensics/</link>
+      <link>https://mansoorbarri.com/writeups/introdigitalforensics/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/introdigitalforensics/</guid>
+      <guid>https://mansoorbarri.com/writeups/introdigitalforensics/</guid>
       <description>Room https://tryhackme.com/room/introdigitalforensics
 Task 1: Introduction to Digital Forensics Question 1: Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics? ~ laptop
 Task 2: Digital Forensics Process Question 1: It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that?</description>
@@ -194,10 +194,10 @@ Task 2: Digital Forensics Process Question 1: It is essential to keep track of w
     
     <item>
       <title>THM | Red Team Fundamentals</title>
-      <link>https://www.mansoorbarri.com/writeups/redteamfundamentals/</link>
+      <link>https://mansoorbarri.com/writeups/redteamfundamentals/</link>
       <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/redteamfundamentals/</guid>
+      <guid>https://mansoorbarri.com/writeups/redteamfundamentals/</guid>
       <description>Room https://tryhackme.com/room/redteamfundamentals
 Task 1: Introduction Question 1: Click to continue to the next task No Answer Needed
 Task 2: Vulnerability Assessment and Penetration Tests Limitations Question 1: Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay) ~ Nay
@@ -207,10 +207,10 @@ Question 3: Highly organised groups of skilled attackers are nowadays referred t
     
     <item>
       <title>THM | Wreath</title>
-      <link>https://www.mansoorbarri.com/writeups/wreath/</link>
+      <link>https://mansoorbarri.com/writeups/wreath/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/wreath/</guid>
+      <guid>https://mansoorbarri.com/writeups/wreath/</guid>
       <description>Room https://tryhackme.com/room/wreath
 Task 1-4: Intro No Answer Needed
 Task 5: Webserver Enumeration Question 1: How many of the first 15000 ports are open on the target? ~ 4
@@ -221,10 +221,10 @@ Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
     
     <item>
       <title>THM | Networking</title>
-      <link>https://www.mansoorbarri.com/writeups/bpnetworking/</link>
+      <link>https://mansoorbarri.com/writeups/bpnetworking/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/bpnetworking/</guid>
+      <guid>https://mansoorbarri.com/writeups/bpnetworking/</guid>
       <description>Room https://tryhackme.com/room/bpnetworking
 Task 1: Kinda like a street address, just cooler. Question 1: How many categories of IPV4 addresses are there? ~ 5
 Question 2: Which type is for research *Looking for a letter rather than a number here? ~ E
@@ -235,10 +235,10 @@ Question 5: There are two commn default private ranges for home routers, what is
     
     <item>
       <title>THM | VIM</title>
-      <link>https://www.mansoorbarri.com/writeups/toolboxvim/</link>
+      <link>https://mansoorbarri.com/writeups/toolboxvim/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/toolboxvim/</guid>
+      <guid>https://mansoorbarri.com/writeups/toolboxvim/</guid>
       <description>Room https://tryhackme.com/room/toolboxvim
 Task 1: Task 1 Question 1: Install VIM No Answer Needed
 Question 2: Launch VIM No Answer Needed
@@ -250,10 +250,10 @@ Question 4: How do we move the cursor left? ~ h</description>
     
     <item>
       <title>THM | Basic Pentesting</title>
-      <link>https://www.mansoorbarri.com/writeups/basicpentestingjt/</link>
+      <link>https://mansoorbarri.com/writeups/basicpentestingjt/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/basicpentestingjt/</guid>
+      <guid>https://mansoorbarri.com/writeups/basicpentestingjt/</guid>
       <description>Room https://tryhackme.com/room/basicpentestingjt
 Task 1: Web App Testing and Privilege Esclation Question 1: Question 1: Deploy he machine and connect to our network No Answer Needed
 Question 2: Find the services exposed by the machine No Answer Needed
@@ -263,10 +263,10 @@ gobuster dir -u &amp;lt;machine-ip&amp;gt; -w &amp;lt;[dir-to-directory-list-2.3
     
     <item>
       <title>THM | nmap</title>
-      <link>https://www.mansoorbarri.com/writeups/furthernmap/</link>
+      <link>https://mansoorbarri.com/writeups/furthernmap/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoorbarri.com/writeups/furthernmap/</guid>
+      <guid>https://mansoorbarri.com/writeups/furthernmap/</guid>
       <description>Room https://tryhackme.com/room/furthernmap
 Task 1: Deploy Question 1: Deploy the attached VM No Answer Needed
 Task 2: Introduction Question 1: What networking constructs are used to direct traffic to the right application on a server? ~ Ports
