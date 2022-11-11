@@ -1,4 +1,4 @@
-# mansoor.cf
+# mansoorbarri.com
 A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokarna)
 
 
