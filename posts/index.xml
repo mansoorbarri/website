@@ -158,7 +158,7 @@ echo &amp;#34;deb http://deb.volian.org/volian/ scar main&amp;#34; | sudo tee /e
       <description>just add &amp;ldquo;?theme=dark&amp;rdquo; add the end of instagram url
 for example, www.instagram.com?theme=dark
 that&amp;rsquo;s it ✌🏽
- Contribution Open for contributions, Contact mansoor.cf/socials</description>
+ </description>
     </item>
     
     <item>
@@ -286,6 +286,7 @@ sudo apt install ruby ruby-dev git -y Step 2: Installation Clone BeEF repo</desc
       <guid>https://mansoorbarri.com/posts/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
+that’s it ✌🏽
  </description>
     </item>
     
