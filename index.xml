@@ -571,6 +571,20 @@ Question 3: [Research] How many of these are considered &amp;ldquo;well-known&am
     
     <item>
       <title>Terminal Commands</title>
+      <link>https://mansoorbarri.com/posts/comments-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/comments-hugo/</guid>
+      <description>Here I&amp;rsquo;m using Hugo theme called GoKarna but you can pretty much do this with any Hugo theme.
+HUGO Setup make a file with the name &amp;ldquo;rawhtml.html&amp;rdquo; in /layours.shortcodes directory of your theme and put the follwing line.
+*if your don&amp;rsquo;t have the shortcodes directory, you can make one.
+{{.Inner}} Utterances Setup Add utterances to your github repository from github.com/apps/utterances
+then get your HTML code from utteranc.es
+Add comments Now add the raw html tag followed by your HTML code from utteranc.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Commands</title>
       <link>https://mansoorbarri.com/posts/terminal-commands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

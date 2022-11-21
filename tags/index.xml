@@ -134,7 +134,7 @@
     </item>
     
     <item>
-      <title>hugo</title>
+      <title>HUGO</title>
       <link>https://mansoorbarri.com/tags/hugo/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -490,6 +490,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/commands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>https://mansoorbarri.com/tags/comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/comments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utterance</title>
+      <link>https://mansoorbarri.com/tags/utterance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/utterance/</guid>
       <description></description>
     </item>
     
