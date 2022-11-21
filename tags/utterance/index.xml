@@ -5,11 +5,12 @@
     <link>https://mansoorbarri.com/tags/utterance/</link>
     <description>Recent content in Utterance on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://mansoorbarri.com/tags/utterance/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/utterance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal Commands</title>
       <link>https://mansoorbarri.com/posts/comments-hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/posts/comments-hugo/</guid>
       <description>Here I&amp;rsquo;m using Hugo theme called GoKarna but you can pretty much do this with any Hugo theme.
