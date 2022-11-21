@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mansoorbarri.com/tags/bash/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/commands/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/posts/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/terminal/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/posts/terminal-commands/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mansoorbarri.com/tags/india/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mansoorbarri.com/tags/infosec/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,17 +58,7 @@
   </url>
   
   <url>
-    <loc>https://mansoorbarri.com/posts/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mansoorbarri.com/posts/nepra-sidewinder/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -449,11 +469,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/posts/saved-wifi-pwd/</loc>
-    <lastmod>2022-01-16T23:39:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/terminal/</loc>
     <lastmod>2022-01-16T23:39:49+05:30</lastmod>
   </url>
   

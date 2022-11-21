@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/terminal/</link>
-    <description>Recent content in Terminal on Mansoor Barri</description>
+    <title>Commands on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/commands/</link>
+    <description>Recent content in Commands on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/commands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal Commands</title>
       <link>https://mansoorbarri.com/posts/terminal-commands/</link>
@@ -18,18 +18,6 @@ Install pip3 install tldr AutoJump A faster way to navigate your filesystem. Sav
 Install sudo apt install autojump Trash-CLI Deletes the files to recycle bin in terminal.
 Install sudo apt install trash-cli You can make a alias for &amp;ldquo;rm&amp;rdquo; to trash-cli by adding the following alias to ~/.bashrc file.
 alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of files and streams.</description>
-    </item>
-    
-    <item>
-      <title>Linux | View Saved WiFi Passwords</title>
-      <link>https://mansoorbarri.com/posts/saved-wifi-pwd/</link>
-      <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
-      
-      <guid>https://mansoorbarri.com/posts/saved-wifi-pwd/</guid>
-      <description>Brief A way to see WiFi password for linux.
-Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
-that’s it ✌🏽
- </description>
     </item>
     
   </channel>
