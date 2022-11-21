@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GH on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/gh/</link>
+    <description>Recent content in GH on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://mansoorbarri.com/tags/gh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better Github</title>
+      <link>https://mansoorbarri.com/posts/better-github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/better-github/</guid>
+      <description>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.
+Install Debian
+sudo apt install gh Windows
+winget install -e --id Github.cli Setup gh auth login Follow the prompts but choose SSH as authentication method.
+Set your repo to use GH auth git remote set-url origin git@github.com:mansoorbarri/website.git change &amp;ldquo;mansoorbarri.website.git&amp;rdquo; to your repo name*</description>
+    </item>
+    
+  </channel>
+</rss>

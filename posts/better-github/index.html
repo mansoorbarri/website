@@ -17,25 +17,25 @@
     
 
     
-    <title>Abc</title>
+    <title>Better Github</title>
     <meta name="description" content="Cyber Security, Tech &amp; IT">
-    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking'>
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, GitHub, GH, git'>
 
-    <meta property="og:url" content="https://mansoorbarri.com/posts/abc/">
+    <meta property="og:url" content="https://mansoorbarri.com/posts/better-github/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Abc">
+    <meta property="og:title" content="Better Github">
     <meta property="og:description" content="Cyber Security, Tech &amp; IT">
-    <meta property="og:image" content="/images//main.png">
+    <meta property="og:image" content="/images/better-github/main.png">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Abc">
+    <meta name="twitter:title" content="Better Github">
     <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
-    <meta property="twitter:domain" content="https://mansoorbarri.com/posts/abc/">
-    <meta property="twitter:url" content="https://mansoorbarri.com/posts/abc/">
-    <meta name="twitter:image" content="/images//main.png">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/posts/better-github/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/posts/better-github/">
+    <meta name="twitter:image" content="/images/better-github/main.png">
 
     
-    <link rel="canonical" href="https://mansoorbarri.com/posts/abc/" />
+    <link rel="canonical" href="https://mansoorbarri.com/posts/better-github/" />
 
     <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
@@ -158,7 +158,7 @@
 <main id="content">
     <div class="post container">
     <div class="post-header-section">
-        <h1>Abc</h1>
+        <h1>Better Github</h1>
         <small role="doc-subtitle"></small>
         <p class="post-date">
             January 1, 0001
@@ -166,12 +166,41 @@
 
         <ul class="post-tags">
         
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/github">GitHub</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/gh">GH</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/git">git</a></li>
+        
         </ul>
     </div>
 
     <div class="post-content">
         <p>
-            <p>that&rsquo;s it ✌🏽</p>
+            <p>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.</p>
+<h2 id="install">Install</h2>
+<p>Debian</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt install gh
+</code></pre></div><p>Windows</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-powershell" data-lang="powershell">winget install -e --id Github.cli
+</code></pre></div><h2 id="setup">Setup</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gh auth login
+</code></pre></div><p>Follow the prompts but choose SSH as authentication method.</p>
+<h2 id="set-your-repo-to-use-gh-auth">Set your repo to use GH auth</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git remote set-url origin git@github.com:mansoorbarri/website.git
+</code></pre></div><p><em>change &ldquo;mansoorbarri.website.git&rdquo; to your repo name</em>*</p>
+<h2 id="bash-alias">Bash Alias</h2>
+<p>You can add aliases when using linux to make it much more alias, I have added the following lines in my <code>~/.bashrc</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">gcom<span style="color:#f92672">()</span> <span style="color:#f92672">{</span>
+	git add .
+	git commit -m <span style="color:#e6db74">&#34;</span>$1<span style="color:#e6db74">&#34;</span>
+	<span style="color:#f92672">}</span>
+lazyg<span style="color:#f92672">()</span> <span style="color:#f92672">{</span>
+	git add .
+	git commit -m <span style="color:#e6db74">&#34;</span>$1<span style="color:#e6db74">&#34;</span>
+	git push
+<span style="color:#f92672">}</span>
+</code></pre></div><p>that&rsquo;s it ✌🏽</p>
 <hr>
  
 <script src="https://utteranc.es/client.js"
@@ -190,7 +219,18 @@
 
 <aside class="post-toc">
     <nav id="toc">
-        <nav id="TableOfContents"></nav>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#install">Install</a></li>
+        <li><a href="#setup">Setup</a></li>
+        <li><a href="#set-your-repo-to-use-gh-auth">Set your repo to use GH auth</a></li>
+        <li><a href="#bash-alias">Bash Alias</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
     </nav>
 </aside>
 
