@@ -99,7 +99,7 @@ phoneinfoga -n +1234567891 The output is kinda weird and messy so using the web 
 Command use this command instead of &amp;ldquo;hugo server&amp;rdquo;
 hugo server --bind [IP-ADD] --baseURL http://[IP-ADD] Conclusion visit http://[IP-ADD] from any device on your LAN to view the temporary hugo site.
 that&amp;rsquo;s it ✌🏽
- </description>
+  </description>
     </item>
     
     <item>
@@ -113,7 +113,7 @@ This error usually occurs on older version of termux specially when you install 
 Fix visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and install the APK normally.
 NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT
 that&amp;rsquo;s it ✌🏽
- </description>
+  </description>
     </item>
     
     <item>
@@ -178,7 +178,7 @@ sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow
 Install https://www.reddit.com/r/TronScript/
 Reference Chris Titus has a great video on this explaining everything so I will just link it.
   that&amp;rsquo;s it ✌🏽
- </description>
+  </description>
     </item>
     
     <item>
@@ -202,7 +202,7 @@ echo &amp;#34;deb http://deb.volian.org/volian/ scar main&amp;#34; | sudo tee /e
       <description>just add &amp;ldquo;?theme=dark&amp;rdquo; add the end of instagram url
 for example, www.instagram.com?theme=dark
 that&amp;rsquo;s it ✌🏽
- </description>
+  </description>
     </item>
     
     <item>
@@ -424,7 +424,7 @@ install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic
 sudo dpkg-reconfigure -plow unattended-upgrades  &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.  select &amp;ldquo;yes&amp;rdquo; from these options:
 Other config/sources For more about configuration, go through this blog by Hayden James.
 that’s it ✌🏽
- </description>
+  </description>
     </item>
     
     <item>
@@ -512,7 +512,7 @@ Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
 that’s it ✌🏽
- </description>
+  </description>
     </item>
     
     <item>

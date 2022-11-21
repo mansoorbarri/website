@@ -29,7 +29,7 @@ alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of file
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
 that’s it ✌🏽
- </description>
+  </description>
     </item>
     
   </channel>

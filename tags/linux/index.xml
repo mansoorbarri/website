@@ -64,7 +64,7 @@ nmap -sP 172.67.208.3/24 2. Simple TCP scan A TCP is what makes the internet. TC
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
 that’s it ✌🏽
- </description>
+  </description>
     </item>
     
   </channel>

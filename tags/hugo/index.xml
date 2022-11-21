@@ -17,7 +17,7 @@
 Command use this command instead of &amp;ldquo;hugo server&amp;rdquo;
 hugo server --bind [IP-ADD] --baseURL http://[IP-ADD] Conclusion visit http://[IP-ADD] from any device on your LAN to view the temporary hugo site.
 that&amp;rsquo;s it ✌🏽
- </description>
+  </description>
     </item>
     
   </channel>

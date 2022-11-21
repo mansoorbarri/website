@@ -33,7 +33,7 @@ install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic
 sudo dpkg-reconfigure -plow unattended-upgrades  &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.  select &amp;ldquo;yes&amp;rdquo; from these options:
 Other config/sources For more about configuration, go through this blog by Hayden James.
 that’s it ✌🏽
- </description>
+  </description>
     </item>
     
   </channel>
