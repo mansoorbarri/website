@@ -118,7 +118,7 @@ function setThemeByUserPref() {
 
 function setTheme(themeToSet, targets) {
     localStorage.setItem(THEME_PREF_STORAGE_KEY, themeToSet);
-    darkThemeCss.disabled = themeToSet === 'light';
+    darkThemeCss.disabled = themeToSet === 'dark';
     targets.forEach((target) => {
             target.querySelector('a').innerHTML = feather.icons[THEME_TO_ICON_CLASS[themeToSet].split('-')[1]].toSvg();
     });
