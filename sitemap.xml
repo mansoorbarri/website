@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mansoorbarri.com/posts/better-github/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/gh/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/git/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/github/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/posts/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mansoorbarri.com/tags/comments/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
@@ -14,21 +49,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/tags/hugo/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/posts/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -309,11 +329,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/posts/hosting/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/github/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,7 +6,20 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better Github</title>
+      <link>https://mansoorbarri.com/posts/better-github/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/better-github/</guid>
+      <description>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.
+Install Debian
+sudo apt install gh Windows
+winget install -e --id Github.cli Setup gh auth login Follow the prompts but choose SSH as authentication method.
+Set your repo to use GH auth git remote set-url origin git@github.com:mansoorbarri/website.git change &amp;ldquo;mansoorbarri.website.git&amp;rdquo; to your repo name*</description>
+    </item>
+    
     <item>
       <title>Comments on HUGO site</title>
       <link>https://mansoorbarri.com/posts/comments-hugo/</link>
