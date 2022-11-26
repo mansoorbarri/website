@@ -6,7 +6,20 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terminal Commands</title>
+      <link>https://mansoorbarri.com/posts/terminal-commands/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/terminal-commands/</guid>
+      <description>TLDR A humane version of man pages.
+Install pip3 install tldr AutoJump A faster way to navigate your filesystem. Saves a lot of time.
+Install sudo apt install autojump Trash-CLI Deletes the files to recycle bin in terminal.
+Install sudo apt install trash-cli You can make a alias for &amp;ldquo;rm&amp;rdquo; to trash-cli by adding the following alias to ~/.bashrc file.
+alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of files and streams.</description>
+    </item>
+    
     <item>
       <title>Better Way To Use GitHub</title>
       <link>https://mansoorbarri.com/posts/better-way-to-use-github/</link>
