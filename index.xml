@@ -6,9 +6,20 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Useful Terminal Commands</title>
+      <title>How To Get a Email Verified Badge</title>
+      <link>https://mansoorbarri.com/posts/email-cert/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/email-cert/</guid>
+      <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it&amp;rsquo;s not really necessary plus it&amp;rsquo;s a pain to set it up correctly.
+Getting Email Certificate Go to Actalis&#39;s website Enter the email you want to verify, click on &amp;ldquo;send verification email&amp;rdquo; and enter the OTP from the email.
+*Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
+    </item>
+    
+    <item>
+      <title>Vital Terminal Tools</title>
       <link>https://mansoorbarri.com/posts/terminal-commands/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       

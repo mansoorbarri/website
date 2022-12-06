@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>actalis</title>
+      <link>https://mansoorbarri.com/tags/actalis/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/actalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>email</title>
+      <link>https://mansoorbarri.com/tags/email/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verified</title>
+      <link>https://mansoorbarri.com/tags/verified/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/verified/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bash</title>
       <link>https://mansoorbarri.com/tags/bash/</link>
@@ -17,20 +44,20 @@
     </item>
     
     <item>
-      <title>Commands</title>
-      <link>https://mansoorbarri.com/tags/commands/</link>
-      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/commands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Terminal</title>
       <link>https://mansoorbarri.com/tags/terminal/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://mansoorbarri.com/tags/tools/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/tools/</guid>
       <description></description>
     </item>
     
@@ -481,15 +508,6 @@
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/cloudflare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>email</title>
-      <link>https://mansoorbarri.com/tags/email/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/email/</guid>
       <description></description>
     </item>
     
