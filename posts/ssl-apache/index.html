@@ -183,13 +183,7 @@
             <h1 id="requirements">Requirements</h1>
 <p>Debian, Apache2, Snapd, Certbot</p>
 <h1 id="install">Install</h1>
-<<<<<<< HEAD
-<p>Install certbot</p>
-<pre><code>sudo apt update &amp;&amp; sudo apt install certbot --classic
-</code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022.png?raw=true" alt="Screenshot of the command"></p>
-<p>Run certbot command</p>
-=======
-<pre><code>sudo apt update -y
+<pre><code>sudo apt update 
 
 sudo apt install snapd -y 
 </code></pre><p>install certbot</p>
@@ -198,7 +192,6 @@ sudo apt install snapd -y
 <p>Create symbolic link so you can run certbot command from the terminal</p>
 <pre><code>sudo ln -s /snap/bin/certbot /usr/bin/certbot
 </code></pre><p>Run certbot command</p>
->>>>>>> parent of 541ba96 (-+ /posts/ssl-apache/)
 <pre><code>sudo certbot --apache
 </code></pre><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/ssl-apache/2022_3.png?raw=true" alt="Screenshot of the command">
 <em>you can change &ldquo;&ndash;apache&rdquo; to &ldquo;&ndash;nginx&rdquo; if you are using nginx instead of apache</em></p>
