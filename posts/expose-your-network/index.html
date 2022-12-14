@@ -17,25 +17,25 @@
     
 
     
-    <title>Cloudflare</title>
+    <title>Expose Your Network To The Internet Without Port Forwarding</title>
     <meta name="description" content="Cyber Security, Tech &amp; IT">
-    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking'>
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, Cloudflare, Port Forwarding, Zero Trust'>
 
-    <meta property="og:url" content="https://mansoorbarri.com/tags/cloudflare/">
+    <meta property="og:url" content="https://mansoorbarri.com/posts/expose-your-network/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Cloudflare">
+    <meta property="og:title" content="Expose Your Network To The Internet Without Port Forwarding">
     <meta property="og:description" content="Cyber Security, Tech &amp; IT">
-    <meta property="og:image" content="/main.webp">
+    <meta property="og:image" content="/images//main.png">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Cloudflare">
+    <meta name="twitter:title" content="Expose Your Network To The Internet Without Port Forwarding">
     <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
-    <meta property="twitter:domain" content="https://mansoorbarri.com/tags/cloudflare/">
-    <meta property="twitter:url" content="https://mansoorbarri.com/tags/cloudflare/">
-    <meta name="twitter:image" content="/main.webp">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/posts/expose-your-network/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/posts/expose-your-network/">
+    <meta name="twitter:image" content="/images//main.png">
 
     
-    <link rel="canonical" href="https://mansoorbarri.com/tags/cloudflare/" />
+    <link rel="canonical" href="https://mansoorbarri.com/posts/expose-your-network/" />
 
     <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
@@ -159,27 +159,104 @@
     </nav>
 </header>
 <main id="content">
-    <div class="container list-posts">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Expose Your Network To The Internet Without Port Forwarding</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            December 14, 2022
+        </p>
 
-    <h1 class="list-title">Cloudflare</h2>
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/cloudflare">Cloudflare</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/port-forwarding">Port Forwarding</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/zero-trust">Zero Trust</a></li>
+        
+        </ul>
+    </div>
 
-    
+    <div class="post-content">
+        <p>
+            <h2 id="prerequisite">Prerequisite</h2>
+<p>This method is entirely free of costs however, you will just need a cloudflare account and a domain which is using Cloudflare&rsquo;s nameserver&rsquo;s or is bought with Cloudflare. You can signup with cloudflare on <a href="https://dash.cloudflare.com/sign-up">cloudflare.com/signup</a>.</p>
+<p>Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you to expose anything to the internet securely. This can be a website, proxmox server, plex server, docker container or just about anything which requires you to port forward from your router. This is significant especially for those people who&rsquo;s ISPs don&rsquo;t allow port forwarding.</p>
+<h2 id="steps">Steps</h2>
+<ul>
+<li>
+<p>From the side panel, go to &ldquo;Zero Trust&rdquo;</p>
+</li>
+<li>
+<p>Click on the &ldquo;Access&rdquo; tab from the side panel followed by &ldquo;Tunnels&rdquo;</p>
+</li>
+<li>
+<p>Follow the prompts, select the free plan when it comes to that screen as the free plan is more than enough</p>
+</li>
+<li>
+<p>Now go back to &ldquo;Tunnels&rdquo; under &ldquo;Access&rdquo; from the side bar</p>
+</li>
+<li>
+<p>&ldquo;Create Tunnel&rdquo; and name your tunnel</p>
+</li>
+<li>
+<p>Follow through the instruction to instal a connector for your specific device and click &ldquo;next&rdquo;</p>
+</li>
+<li>
+<p>Now fill in the subdomain, domain and IP u wanna forward on. Here it should be localhost and not your public IP. Mine looks something like this:</p>
+</li>
+</ul>
+<p><img src="https://github.com/mansoorbarri/website/blob/main/images/expose-your-network/2022.png?raw=true" alt=""></p>
+<ul>
+<li>Under &ldquo;Additional application settings&rdquo;, enable &ldquo;NO TLS Verify&rdquo; this option will generate a SSL vertificate for the webpage and click on &ldquo;Save&rdquo;</li>
+</ul>
+<p>Now you can access your service from outside your network without port forwarding on your router or device.</p>
+<h3 id="videosource">Video/Source</h3>
 
-    <h2 class="posts-year">2022</h2><article class="post-title">
-    <a href="https://mansoorbarri.com/posts/expose-your-network/" class="post-link">Expose Your Network To The Internet Without Port Forwarding</a>
-    <div class="flex-break"></div>
-    <span class="post-date">December 14, 2022</span>
-</article>
-<article class="post-title">
-    <a href="https://mansoorbarri.com/posts/email-forwarding-cloudflare/" class="post-link">Email forwarding with cloudflare</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 17, 2022</span>
-</article>
-
-    
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ey4u7OUAF3c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
+<p>that&rsquo;s it ✌🏽</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+        </p>
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#prerequisite">Prerequisite</a></li>
+        <li><a href="#steps">Steps</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
 
         </main><footer class="footer">
     <span>&copy; 2022 Mansoor Barri</span>

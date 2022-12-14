@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudflare</title>
+      <link>https://mansoorbarri.com/tags/cloudflare/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/cloudflare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Port Forwarding</title>
+      <link>https://mansoorbarri.com/tags/port-forwarding/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/port-forwarding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Trust</title>
+      <link>https://mansoorbarri.com/tags/zero-trust/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/zero-trust/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>actalis</title>
       <link>https://mansoorbarri.com/tags/actalis/</link>
@@ -499,15 +526,6 @@
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/nmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloudflare</title>
-      <link>https://mansoorbarri.com/tags/cloudflare/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/cloudflare/</guid>
       <description></description>
     </item>
     

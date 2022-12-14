@@ -6,7 +6,17 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expose Your Network To The Internet Without Port Forwarding</title>
+      <link>https://mansoorbarri.com/posts/expose-your-network/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/expose-your-network/</guid>
+      <description>Prerequisite This method is entirely free of costs however, you will just need a cloudflare account and a domain which is using Cloudflare&amp;rsquo;s nameserver&amp;rsquo;s or is bought with Cloudflare. You can signup with cloudflare on cloudflare.com/signup.
+Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you to expose anything to the internet securely. This can be a website, proxmox server, plex server, docker container or just about anything which requires you to port forward from your router.</description>
+    </item>
+    
     <item>
       <title>How To Get a Email Verified Badge</title>
       <link>https://mansoorbarri.com/posts/email-cert/</link>
