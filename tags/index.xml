@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AdventOfCyber4</title>
+      <link>https://mansoorbarri.com/tags/adventofcyber4/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/adventofcyber4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TryHackMe</title>
+      <link>https://mansoorbarri.com/tags/tryhackme/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/tryhackme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writeups</title>
+      <link>https://mansoorbarri.com/tags/writeups/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/writeups/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Cloudflare</title>
       <link>https://mansoorbarri.com/tags/cloudflare/</link>
@@ -35,7 +62,7 @@
     </item>
     
     <item>
-      <title>actalis</title>
+      <title>Actalis</title>
       <link>https://mansoorbarri.com/tags/actalis/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -44,7 +71,7 @@
     </item>
     
     <item>
-      <title>email</title>
+      <title>Email</title>
       <link>https://mansoorbarri.com/tags/email/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -53,7 +80,7 @@
     </item>
     
     <item>
-      <title>verified</title>
+      <title>Verified</title>
       <link>https://mansoorbarri.com/tags/verified/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -319,15 +346,6 @@
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/thm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writeups</title>
-      <link>https://mansoorbarri.com/tags/writeups/</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/writeups/</guid>
       <description></description>
     </item>
     

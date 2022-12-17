@@ -23,8 +23,9 @@ Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you 
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/posts/email-cert/</guid>
-      <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it&amp;rsquo;s not really necessary plus it&amp;rsquo;s a pain to set it up correctly.
-Getting Email Certificate Go to Actalis&#39;s website Enter the email you want to verify, click on &amp;ldquo;send verification email&amp;rdquo; and enter the OTP from the email.
+      <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it’s not really necessary plus it’s a pain to set it up correctly.
+Getting Email Certificate Go to Actalis&amp;rsquo;s website
+Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.
 *Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
     </item>
     
@@ -361,6 +362,16 @@ that’s it ✌🏽
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type
 grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>https://mansoorbarri.com/posts/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/text/</guid>
+      <description>that&amp;rsquo;s it ✌🏽
+  </description>
     </item>
     
   </channel>
