@@ -6,27 +6,9 @@
     <description>Recent content in TryHackMe on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>THM | Advent Of Cyber 4</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/</guid>
-      <description>Room Advent Of Cyber 4
-Chapters Day 1 Someone&amp;rsquo;s coming to town!
-Day 2 Santa&amp;rsquo;s Naughty &amp;amp; Nice Log
-Day 3 Nothing escapes detective McRed
-Day 4 Scanning through the snow
-Day 5 He knows when you&amp;rsquo;re awake
-Day 6 It&amp;rsquo;s beginning to look a lot like phishing
-Day 7 Maldocs roasting on an open fire
-Day 8 Last Christmas I gave you my ETH
-Day 9 Dock the halls</description>
-    </item>
-    
-    <item>
-      <title>Day 13 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 13 | Simply having a wonderful pcap time</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday13/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -35,7 +17,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 12 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 12 | Forensic McBlue to the REVscue!</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday12/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -44,7 +26,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 11 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 11 | Not all gifts are nice</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday11/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -54,7 +36,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 10 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 10 | You&#39;re a mean one, Mr. Yeti</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday10/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -64,7 +46,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 9 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 9 | Dock the halls</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday9/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -73,7 +55,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 8 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 8 | Last Christmas I gave you my ETH</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday8/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -83,7 +65,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 7 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 7 | Maldocs roasting on an open fire</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday7/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -92,7 +74,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 6 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 6 | It&#39;s beginning to look a lot like phishing</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday6/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -101,7 +83,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 5 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 5 | He knows when you&#39;re awake]</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday5/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -110,7 +92,7 @@ Day 9 Dock the halls</description>
     </item>
     
     <item>
-      <title>Day 4 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 4 | Scanning through the snow</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday4/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -120,7 +102,7 @@ that&amp;rsquo;s it ✌🏽</description>
     </item>
     
     <item>
-      <title>Day 3 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 3 | Nothing escapes detective McRed</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday3/</link>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -129,7 +111,7 @@ that&amp;rsquo;s it ✌🏽</description>
     </item>
     
     <item>
-      <title>Day 2 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 2 | Santa&#39;s Naughty &amp; Nice Log</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday2/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -139,7 +121,7 @@ Use the ls command to list the files present in the current directory. How many 
     </item>
     
     <item>
-      <title>Day 1 | Advent Of Cyber 4</title>
+      <title>THM | Advent Of Cyber Day 1 | Someone&#39;s coming to town!</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/aocday1/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       

@@ -3,47 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mansoorbarri.com/tags/adventofcyber4/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/writeups/adventofcyber4/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/tryhackme/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/writeups/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/writeups/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mansoorbarri.com/tags/cloudflare/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mansoorbarri.com/posts/expose-your-network/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,12 +28,37 @@
   </url>
   
   <url>
+    <loc>https://mansoorbarri.com/tags/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mansoorbarri.com/tags/zero-trust/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://mansoorbarri.com/tags/adventofcyber4/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/aocday13/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/tryhackme/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/writeups/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/writeups/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,17 +98,17 @@
   </url>
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/adventofcyber4/aocday6/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mansoorbarri.com/tags/email/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mansoorbarri.com/posts/email-cert/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/writeups/adventofcyber4/aocday6/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
   
