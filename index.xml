@@ -90,8 +90,7 @@ Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you 
       
       <guid>https://mansoorbarri.com/posts/email-cert/</guid>
       <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it’s not really necessary plus it’s a pain to set it up correctly.
-Getting Email Certificate Go to Actalis&amp;rsquo;s website
-Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.
+Getting Email Certificate Go to Actalis&#39;s website Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.
 *Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
     </item>
     
