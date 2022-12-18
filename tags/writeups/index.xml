@@ -6,7 +6,27 @@
     <description>Recent content in writeups on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Advent Of Cyber Day 17 | Filtering for Order Amidst Chao</title>
+      <link>https://mansoorbarri.com/writeups/adventofcyber4/day17/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day17/</guid>
+      <description>Filtering for Usernames: How many usernames fit the syntax above? 8 Filtering for Usernames: One username consists of a readable word concatenated with a number. What is it? User35 Filtering for Emails: How many emails fit the syntax above? 11 Filtering for Emails: How many unique domains are there? 8 Filtering for Emails: What is the domain of the email with the local-part “lewisham44”? amg.com Filtering for Emails: What is the domain of the email with the local-part “maxximax”?</description>
+    </item>
+    
+    <item>
+      <title>THM | Advent Of Cyber Day 16 | SQLi’s the king, the carolers sings</title>
+      <link>https://mansoorbarri.com/writeups/adventofcyber4/day16/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day16/</guid>
+      <description>What is the value of Flag1? THM{McCode, Elf McCode} What is the value of Flag2? THM{KodeNRoll} What is the value of Flag3? THM{Are we secure yet?} What is the value of Flag4? THM{SQLi_who???} that&amp;rsquo;s it ✌🏽
+Click here for Day 17
+  </description>
+    </item>
+    
     <item>
       <title>THM | Advent Of Cyber Day 15 | Santa is looking for a Sidekick</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day15/</link>
