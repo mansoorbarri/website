@@ -1,9 +1,6 @@
 # mansoorbarri.com
 A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokarna)
 
-## Uptime
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/kai4.svg)](https://betteruptime.com/?utm_source=status_badge)
-
 ## Screenshots
 
 ![site Screenshot](https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/master/image.png)
