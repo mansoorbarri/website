@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mansoorbarri.com/tags/apis/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/fbi/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/posts/fbi-hack/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/infragard/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/posts/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mansoorbarri.com/tags/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mansoorbarri.com/tags/cloudflare/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
@@ -13,22 +48,7 @@
   </url>
   
   <url>
-    <loc>https://mansoorbarri.com/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mansoorbarri.com/tags/port-forwarding/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/posts/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -648,10 +668,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mansoorbarri.com/posts/text/</loc>
   </url>
   
 </urlset>

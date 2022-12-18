@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FBI Just Got Hacked</title>
+      <link>https://mansoorbarri.com/posts/fbi-hack/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/fbi-hack/</guid>
+      <description>Background As there webstie says, &amp;ldquo;InfraGard is a partnership between the Federal Bureau of Investigation (FBI) and members of the private sector for the protection of U.S. Critical Infrastructure. Through seamless collaboration, InfraGard connects owners and operators within critical infrastructure to the FBI, to provide education, information sharing, networking, and workshops on emerging technologies and threats. InfraGard’s membership includes: business executives, entrepreneurs, lawyers, security personnel, military and government officials, IT professionals, academia and state and local law enforcement—all dedicated to contributing industry-specific insight and advancing national security.</description>
+    </item>
+    
     <item>
       <title>Expose Your Network To The Internet Without Port Forwarding</title>
       <link>https://mansoorbarri.com/posts/expose-your-network/</link>
@@ -361,16 +370,6 @@ that’s it ✌🏽
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type
 grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
-    </item>
-    
-    <item>
-      <title>Text</title>
-      <link>https://mansoorbarri.com/posts/text/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/posts/text/</guid>
-      <description>that&amp;rsquo;s it ✌🏽
-  </description>
     </item>
     
   </channel>

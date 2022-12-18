@@ -6,7 +6,16 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FBI Just Got Hacked</title>
+      <link>https://mansoorbarri.com/posts/fbi-hack/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/posts/fbi-hack/</guid>
+      <description>Background As there webstie says, &amp;ldquo;InfraGard is a partnership between the Federal Bureau of Investigation (FBI) and members of the private sector for the protection of U.S. Critical Infrastructure. Through seamless collaboration, InfraGard connects owners and operators within critical infrastructure to the FBI, to provide education, information sharing, networking, and workshops on emerging technologies and threats. InfraGard’s membership includes: business executives, entrepreneurs, lawyers, security personnel, military and government officials, IT professionals, academia and state and local law enforcement—all dedicated to contributing industry-specific insight and advancing national security.</description>
+    </item>
+    
     <item>
       <title>Expose Your Network To The Internet Without Port Forwarding</title>
       <link>https://mansoorbarri.com/posts/expose-your-network/</link>
@@ -752,16 +761,6 @@ Task 1: Deploy Question 1: Deploy the attached VM No Answer Needed
 Task 2: Introduction Question 1: What networking constructs are used to direct traffic to the right application on a server? ~ Ports
 Question 2: How many of these are available on any network-enabled computer? ~ 65535
 Question 3: [Research] How many of these are considered &amp;ldquo;well-known&amp;rdquo;? (These are the &amp;ldquo;standard&amp;rdquo; numbers mentioned in the task) ~ 1024</description>
-    </item>
-    
-    <item>
-      <title>Text</title>
-      <link>https://mansoorbarri.com/posts/text/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/posts/text/</guid>
-      <description>that&amp;rsquo;s it ✌🏽
-  </description>
     </item>
     
   </channel>
