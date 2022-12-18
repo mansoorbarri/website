@@ -8,17 +8,18 @@
     <language>en</language>
     <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>THM | Advent Of Cyber Day 13 |  Santa is looking for a Sidekick</title>
+      <title>THM | Advent Of Cyber Day 15 | Santa is looking for a Sidekick</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day15/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/writeups/adventofcyber4/day15/</guid>
       <description>What is the office number of Elf Pivot McRed? 134 what is the hidden flag? THM{CLOSE_THE_DOOR} that&amp;rsquo;s it ✌🏽
+Click here for Day 16
   </description>
     </item>
     
     <item>
-      <title>THM | Advent Of Cyber Day 13 |  I&#39;m dreaming of secure web apps</title>
+      <title>THM | Advent Of Cyber Day 14 |  I&#39;m dreaming of secure web apps</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day14/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -51,6 +52,7 @@
       
       <guid>https://mansoorbarri.com/writeups/adventofcyber4/day11/</guid>
       <description>What is the Windows version number that the memory image captured? 10 What is the name of the binary/gift that secret Santa left? mysterygift.ex What is the Process ID (PID) of this binary? 2040 Dump the contents of this binary. How many files are dumped? 16 that&amp;rsquo;s it ✌🏽
+Click here for Day 12
   </description>
     </item>
     
@@ -61,6 +63,7 @@
       
       <guid>https://mansoorbarri.com/writeups/adventofcyber4/day10/</guid>
       <description>What is the Guard&amp;rsquo;s flag? THM{5_star_Fl4gzzz} What is the Yeti&amp;rsquo;s flag? THM{yetiyetiyetiflagflagflag} that&amp;rsquo;s it ✌🏽
+Click here for Day 11
   </description>
     </item>
     
@@ -80,6 +83,7 @@
       
       <guid>https://mansoorbarri.com/writeups/adventofcyber4/day8/</guid>
       <description>What flag is found after attacking the provided EtherStore Contract? flag{411_ur_37h_15_m1n3} that&amp;rsquo;s it ✌🏽
+Click here for Day 9
   </description>
     </item>
     
@@ -147,6 +151,7 @@ Use the ls command to list the files present in the current directory. How many 
       <guid>https://mansoorbarri.com/writeups/adventofcyber4/day1/</guid>
       <description>Who is the adversary that attacked Santa&amp;rsquo;s network this year? The Bandit Yeti What&amp;rsquo;s the flag that they left behind? THM{IT&#39;S A Y3T1 CHR1$TMA$} Looking to learn more? Check out the rooms on Unified Kill Chain, Cyber Kill Chain, MITRE, or the whole Cyber Defence Frameworks module! No answer needed
 that&amp;rsquo;s it ✌🏽
+Click here for Day 2
   </description>
     </item>
     
