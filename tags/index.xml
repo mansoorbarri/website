@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuitka</title>
+      <link>https://mansoorbarri.com/tags/nuitka/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/nuitka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mansoorbarri.com/tags/python/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://mansoorbarri.com/tags/windows/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>APIs</title>
       <link>https://mansoorbarri.com/tags/apis/</link>
@@ -422,15 +449,6 @@
     </item>
     
     <item>
-      <title>Windows</title>
-      <link>https://mansoorbarri.com/tags/windows/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/windows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>apt</title>
       <link>https://mansoorbarri.com/tags/apt/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
@@ -517,15 +535,6 @@
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/updates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://mansoorbarri.com/tags/python/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/python/</guid>
       <description></description>
     </item>
     
