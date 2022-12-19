@@ -1,8 +1,6 @@
 # mansoorbarri.com
 A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokarna)
 
-
-
 ## Screenshots
 
 ![site Screenshot](https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/master/image.png)
