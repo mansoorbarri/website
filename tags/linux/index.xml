@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/linux/</link>
+    <link>https://beta.mansoorbarri.com/tags/linux/</link>
     <description>Recent content in Linux on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux | UFW</title>
-      <link>https://mansoorbarri.com/posts/linux-firewall/</link>
+      <link>https://beta.mansoorbarri.com/posts/linux-firewall/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/linux-firewall/</guid>
+      <guid>https://beta.mansoorbarri.com/posts/linux-firewall/</guid>
       <description>Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux systems.
 Install sudo apt-get update sudo apt-get install ufw Verify Install sudo ufw status Basic Blocks sudo ufw default deny incoming sudo ufw default allow outgoing Enable Firewall sudo ufw enable Blocking Ports you can block any port by &amp;ldquo;sudo ufw deny PORT&amp;rdquo; for example, to block port 76 type:
 sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow PORT&amp;rdquo; for example, to allow port 22 (default SSH port) type:</description>
@@ -20,10 +20,10 @@ sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow
     
     <item>
       <title>Free Website Hosting</title>
-      <link>https://mansoorbarri.com/posts/hosting/</link>
+      <link>https://beta.mansoorbarri.com/posts/hosting/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/hosting/</guid>
+      <guid>https://beta.mansoorbarri.com/posts/hosting/</guid>
       <description>Disclaimer There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*
 Prerequisites  Github account Website code  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important
 Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
@@ -31,10 +31,10 @@ Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
     
     <item>
       <title>Windows | Remove Debian comepletely from DualBoot</title>
-      <link>https://mansoorbarri.com/posts/remove-dualboot/</link>
+      <link>https://beta.mansoorbarri.com/posts/remove-dualboot/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/remove-dualboot/</guid>
+      <guid>https://beta.mansoorbarri.com/posts/remove-dualboot/</guid>
       <description>Requirements Windows 10 PC
 I - Delete partition Right click on the start button (bottom left corner) and click on &amp;ldquo;Disk Management&amp;rdquo;
 ideally there should be 2 linux partition, one swap area and other is main disk partition. These are the two partitions I have
@@ -45,10 +45,10 @@ repeat the last two steps for the second partition.</description>
     
     <item>
       <title>Nmap quick start</title>
-      <link>https://mansoorbarri.com/posts/nmap/</link>
+      <link>https://beta.mansoorbarri.com/posts/nmap/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/nmap/</guid>
+      <guid>https://beta.mansoorbarri.com/posts/nmap/</guid>
       <description>DISCLAIMER THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL OR ETHICAL HACKING PURPOSE. MISUSE OF THIS TOOL WILL LEAD TO PROSECUTION.
 Brief Nmap - the network mapper.
 install Debian sudo apt install nmap Snap sudo snap install nmap Basic Arguments 1. pingging whole network -sP nmap -sP &amp;lt;ip/24&amp;gt; For example:
@@ -57,10 +57,10 @@ nmap -sP 172.67.208.3/24 2. Simple TCP scan A TCP is what makes the internet. TC
     
     <item>
       <title>Linux | View Saved WiFi Passwords</title>
-      <link>https://mansoorbarri.com/posts/saved-wifi-pwd/</link>
+      <link>https://beta.mansoorbarri.com/posts/saved-wifi-pwd/</link>
       <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/saved-wifi-pwd/</guid>
+      <guid>https://beta.mansoorbarri.com/posts/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
 that’s it ✌🏽

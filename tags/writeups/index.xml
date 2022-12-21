@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writeups on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/writeups/</link>
+    <link>https://beta.mansoorbarri.com/tags/writeups/</link>
     <description>Recent content in writeups on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>THM | Advent Of Cyber Day 17 | Filtering for Order Amidst Chao</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day17/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day17/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day17/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day17/</guid>
       <description>Filtering for Usernames: How many usernames fit the syntax above? 8 Filtering for Usernames: One username consists of a readable word concatenated with a number. What is it? User35 Filtering for Emails: How many emails fit the syntax above? 11 Filtering for Emails: How many unique domains are there? 8 Filtering for Emails: What is the domain of the email with the local-part “lewisham44”? amg.com Filtering for Emails: What is the domain of the email with the local-part “maxximax”?</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 16 | SQLi’s the king, the carolers sings</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day16/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day16/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day16/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day16/</guid>
       <description>What is the value of Flag1? THM{McCode, Elf McCode} What is the value of Flag2? THM{KodeNRoll} What is the value of Flag3? THM{Are we secure yet?} What is the value of Flag4? THM{SQLi_who???} that&amp;rsquo;s it ✌🏽
 Click here for Day 17
   </description>
@@ -29,10 +29,10 @@ Click here for Day 17
     
     <item>
       <title>THM | Advent Of Cyber Day 15 | Santa is looking for a Sidekick</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day15/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day15/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day15/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day15/</guid>
       <description>What is the office number of Elf Pivot McRed? 134 what is the hidden flag? THM{CLOSE_THE_DOOR} that&amp;rsquo;s it ✌🏽
 Click here for Day 16
   </description>
@@ -40,37 +40,37 @@ Click here for Day 16
     
     <item>
       <title>THM | Advent Of Cyber Day 14 |  I&#39;m dreaming of secure web apps</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day14/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day14/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day14/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day14/</guid>
       <description>What is the name given to file uploads that allow threat actors to upload any files that they want? Unrestricted What is the title of the web application developed by Santa’s freelancer? SantaSideKick2 What is the value of the flag stored in the HR Elf&amp;rsquo;s Documents directory? THM{Naughty.File.Uploads.Can.Get.You.RCE} What defense technique can be implemented to ensure that specific file types can be uploaded? File Extension Validation What defense technique can be used to make sure the threat actor cannot recover their file again by simply using the file name?</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 13 | Simply having a wonderful pcap time</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day13/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day13/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day13/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day13/</guid>
       <description>What is the &amp;ldquo;Percent Packets&amp;rdquo; value of the &amp;ldquo;Hypertext Transfer Protocol&amp;rdquo;? 0.3 Which port number has received more than 1000 packets? 3389 What is the service name of the used protocol that received more than 1000 packets? rdp What are the domain names? bestfestivalcompany[.]thm,cdn[.]bandityeti[.]thm What are the names of the requested files? favicon[.]ico,mysterygift[.]exe Which IP address downloaded the executable file? 10[.]10[.]29[.]186 Which domain address hosts the malicious file? cdn[.]bandityeti[.]thm What is the &amp;ldquo;user-agent&amp;rdquo; value used to download the non-executable file?</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 12 | Forensic McBlue to the REVscue!</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day12/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day12/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day12/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day12/</guid>
       <description>What is the architecture of the malware sample? (32-bit/64-bit) 64-bit What is the packer used in the malware sample? (format: lowercase) upx What is the compiler used to build the malware sample? (format: lowercase) nim How many MITRE ATT&amp;amp;CK techniques have been discovered attributed to the DISCOVERY tactic? 2 What is the registry key abused by the malware? HKCU\Software\Microsoft\Windows\CurrentVersion\Run What is the value written on the registry key based on the previous question?</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 11 | Not all gifts are nice</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day11/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day11/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day11/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day11/</guid>
       <description>What is the Windows version number that the memory image captured? 10 What is the name of the binary/gift that secret Santa left? mysterygift.ex What is the Process ID (PID) of this binary? 2040 Dump the contents of this binary. How many files are dumped? 16 that&amp;rsquo;s it ✌🏽
 Click here for Day 12
   </description>
@@ -78,10 +78,10 @@ Click here for Day 12
     
     <item>
       <title>THM | Advent Of Cyber Day 10 | You&#39;re a mean one, Mr. Yeti</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day10/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day10/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day10/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day10/</guid>
       <description>What is the Guard&amp;rsquo;s flag? THM{5_star_Fl4gzzz} What is the Yeti&amp;rsquo;s flag? THM{yetiyetiyetiflagflagflag} that&amp;rsquo;s it ✌🏽
 Click here for Day 11
   </description>
@@ -89,19 +89,19 @@ Click here for Day 11
     
     <item>
       <title>THM | Advent Of Cyber Day 9 | Dock the halls</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day9/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day9/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day9/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day9/</guid>
       <description>Deploy the attached VM, and wait a few minutes. What ports are open? 80 What framework is the web application developed with? laravel What CVE is the application vulnerable to? CVE-2021-3129 What command can be used to upgrade the last opened session to a Meterpreter session? sessions -u -1 What file indicates a session has been opened within a Docker container? /.dockerenv What file often contains useful credentials for web applications?</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 8 | Last Christmas I gave you my ETH</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day8/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day8/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day8/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day8/</guid>
       <description>What flag is found after attacking the provided EtherStore Contract? flag{411_ur_37h_15_m1n3} that&amp;rsquo;s it ✌🏽
 Click here for Day 9
   </description>
@@ -109,66 +109,66 @@ Click here for Day 9
     
     <item>
       <title>THM | Advent Of Cyber Day 7 | Maldocs roasting on an open fire</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day7/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day7/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day7/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day7/</guid>
       <description>What is the version of CyberChef found in the attached VM? 9.49.0 How many recipes were used to extract URLs from the malicious doc? 10 We found a URL that was downloading a suspicious file; what is the name of that malware? mysterygift.exe What is the last defanged URL of the bandityeti domain found in the last step? hxxps[://]cdn[.]bandityeti[.]THM/files/index/ What is the ticket found in one of the domains? (Format: Domain/&amp;lt;GOLDEN_FLAG&amp;gt;) THM_MYSTERY_FLAG that&amp;rsquo;s it ✌🏽</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 6 | It&#39;s beginning to look a lot like phishing</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day6/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day6/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day6/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day6/</guid>
       <description>What is the email address of the sender? chief.elf@santaclaus.thm What is the return address? murphy.evident@bandityeti.thm On whose behalf was the email sent? Chief Elf What is the X-spam score? 3 What is hidden in the value of the Message-ID field? AoC2022_Email_Analysis What is the reputation result of the sender&amp;rsquo;s email address? RISKY What is the filename of the attachment? Division_of_labour-Load_share_plan.doc What is the hash value of the attachment? 0827bb9a2e7c0628b82256759f0f888ca1abd6a2d903acdb8e44aca6a1a03467 What is the second tactic marked in the Mitre ATT&amp;amp;CK section?</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 5 | He knows when you&#39;re awake]</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day5/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day5/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day5/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day5/</guid>
       <description>Use Hydra to find the VNC password of the target with IP address MACHINE_IP. What is the password? 1q2w3e4r Using a VNC client on the AttackBox, connect to the target of IP address MACHINE_IP. What is the flag written on the target’s screen? THM{I_SEE_YOUR_SCREEN} If you liked the topics presented in this task, check out these rooms next: Protocols and Servers 2, Hydra, Password Attacks, John the Ripper. No answer needed</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 4 | Scanning through the snow</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day4/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day4/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day4/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day4/</guid>
       <description>What is the name of the HTTP server running on the remote host? Apache What is the name of the service running on port 22 on the QA server? ssh What flag can you find after successfully accessing the Samba service? {THM_SANTA_SMB_SERVER} What is the password for the username santahr? santa25 If you want to learn more scanning techniques, we have a module dedicated to Nmap! No answer needed
 that&amp;rsquo;s it ✌🏽</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 3 | Nothing escapes detective McRed</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day3/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day3/</link>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day3/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day3/</guid>
       <description>What is the name of the Registrar for the domain santagift.shop? NAMECHEAP INC Find the website&amp;rsquo;s source code (repository) on github.com and open the file containing sensitive credentials. Can you find the flag? {THM_OSINT_WORKS} What is the name of the file containing passwords? config.php What is the name of the QA server associated with the website? qa.santagift.shop What is the DB_PASSWORD that is being reused between the QA and PROD environments?</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 2 | Santa&#39;s Naughty &amp; Nice Log</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day2/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day2/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day2/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day2/</guid>
       <description>Ensure you are connected to the deployable machine in this task. No answer needed
 Use the ls command to list the files present in the current directory. How many log files are present? 2 Elf McSkidy managed to capture the logs generated by the web server. What is the name of this log file? webserver.log Begin investigating the log file from question #3 to answer the following questions. No answer needed</description>
     </item>
     
     <item>
       <title>THM | Advent Of Cyber Day 1 | Someone&#39;s coming to town!</title>
-      <link>https://mansoorbarri.com/writeups/adventofcyber4/day1/</link>
+      <link>https://beta.mansoorbarri.com/writeups/adventofcyber4/day1/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day1/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/adventofcyber4/day1/</guid>
       <description>Who is the adversary that attacked Santa&amp;rsquo;s network this year? The Bandit Yeti What&amp;rsquo;s the flag that they left behind? THM{IT&#39;S A Y3T1 CHR1$TMA$} Looking to learn more? Check out the rooms on Unified Kill Chain, Cyber Kill Chain, MITRE, or the whole Cyber Defence Frameworks module! No answer needed
 that&amp;rsquo;s it ✌🏽
 Click here for Day 2
@@ -177,10 +177,10 @@ Click here for Day 2
     
     <item>
       <title>THM | Threat Intelligence Tools</title>
-      <link>https://mansoorbarri.com/writeups/threatinteltools/</link>
+      <link>https://beta.mansoorbarri.com/writeups/threatinteltools/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/threatinteltools/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/threatinteltools/</guid>
       <description>Room https://tryhackme.com/room/threatinteltools
 Task 1-2 no answer needed
 Task 3 - UrlScan.io answers are from the image right above*
@@ -193,10 +193,10 @@ Task 4 - Abuse.ch Question 1: The IOC 212.192.246.30:5555 is linked to which mal
     
     <item>
       <title>THM | Introduction to Antivirus</title>
-      <link>https://mansoorbarri.com/writeups/introtoav/</link>
+      <link>https://beta.mansoorbarri.com/writeups/introtoav/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/introtoav/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/introtoav/</guid>
       <description>Room https://tryhackme.com/room/introtoav
 Task 1 - Introduction no answer needed
 Task 2 - Antivirus Software answers are from the text*
@@ -208,10 +208,10 @@ Task 3 - Antivirus Features answers are from the text*</description>
     
     <item>
       <title>THM | Linux Modules</title>
-      <link>https://mansoorbarri.com/writeups/linuxmodules/</link>
+      <link>https://beta.mansoorbarri.com/writeups/linuxmodules/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/linuxmodules/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/linuxmodules/</guid>
       <description>Room https://tryhackme.com/room/linuxmodules
 Task 1: Let&amp;rsquo;s Introduce No answer needed
 Task 2: du No answer needed
@@ -223,10 +223,10 @@ Download the above given file and answer the following questions. ~ No answer ne
     
     <item>
       <title>THM | Burp Suite: Repeater</title>
-      <link>https://mansoorbarri.com/writeups/burpsuiterepeater/</link>
+      <link>https://beta.mansoorbarri.com/writeups/burpsuiterepeater/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/burpsuiterepeater/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/burpsuiterepeater/</guid>
       <description>Room https://tryhackme.com/room/burpsuiterepeater
 Task 1: Introduction Outline No answer needed
 Task 2: Repeater What is Repeater? No answer needed
@@ -240,10 +240,10 @@ Question 3: Send the request.</description>
     
     <item>
       <title>THM | Burp Suite: The Basics</title>
-      <link>https://mansoorbarri.com/writeups/burpsuitebasics/</link>
+      <link>https://beta.mansoorbarri.com/writeups/burpsuitebasics/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/burpsuitebasics/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/burpsuitebasics/</guid>
       <description>Room https://tryhackme.com/room/burpsuitebasics
 Task 1: Introduction Outline No answer needed
 Task 2: Getting Started What is Burp Suite? Question 1: Which edition of Burp Suite will we be using in this module? ~ Burp Suite Community
@@ -253,10 +253,10 @@ Question 3: Burp Suite is frequently used when attacking web applications and __
     
     <item>
       <title>THM | DNS Manipulation</title>
-      <link>https://mansoorbarri.com/writeups/dnsmanipulation/</link>
+      <link>https://beta.mansoorbarri.com/writeups/dnsmanipulation/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/dnsmanipulation/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/dnsmanipulation/</guid>
       <description>Room https://tryhackme.com/room/dnsmanipulation
 Task 1: Introduction No answer needed
 Task 2: Installation No answer needed
@@ -267,10 +267,10 @@ Question 2: If you were on Linux, what command could you use to query a txt reco
     
     <item>
       <title>THM | Red Team Engagements</title>
-      <link>https://mansoorbarri.com/writeups/redteamengagements/</link>
+      <link>https://beta.mansoorbarri.com/writeups/redteamengagements/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/redteamengagements/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/redteamengagements/</guid>
       <description>Room https://tryhackme.com/room/redteamengagements
 Task 1: Introduction No answer needed
 Task 2: Defining Scope and Objectives Question 1-2: No answer needd
@@ -282,10 +282,10 @@ Task 3: Rules of Engagement Question 1: Once downloaded, read the sample documen
     
     <item>
       <title>THM | Red Team Recon</title>
-      <link>https://mansoorbarri.com/writeups/redteamrecon/</link>
+      <link>https://beta.mansoorbarri.com/writeups/redteamrecon/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/redteamrecon/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/redteamrecon/</guid>
       <description>Room https://tryhackme.com/room/redteamrecon
 Task 1: Introduction No answer needed
 Task 2: Taxonomy of Reconnaissance No answer needed
@@ -297,10 +297,10 @@ host clinic.thmredteam.com Task 4: Advanced Searching Question 1: How would you 
     
     <item>
       <title>THM | Cryptography for Dummies</title>
-      <link>https://mansoorbarri.com/writeups/cryptographyfordummies/</link>
+      <link>https://beta.mansoorbarri.com/writeups/cryptographyfordummies/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/cryptographyfordummies/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/cryptographyfordummies/</guid>
       <description>Room https://tryhackme.com/room/cryptographyfordummies
 Task 1: Intro No answer needed
 Task 2: Types of cryptography Question 1: What type of cryptography is more secure? ~ asymmetric
@@ -312,10 +312,10 @@ Question 5: What will you use to decrypt messages in asymmetric cryptography?</d
     
     <item>
       <title>THM | Common Attacks</title>
-      <link>https://mansoorbarri.com/writeups/commonattacks/</link>
+      <link>https://beta.mansoorbarri.com/writeups/commonattacks/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/commonattacks/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/commonattacks/</guid>
       <description>Room https://tryhackme.com/room/commonattacks
 Task 1: Information Introduction Question 1: Let&amp;rsquo;s get started! No answer needed
 Task 2: Common Attacks Social Engineering Question 1: Read the task information and watch the attached videos No answer needed
@@ -325,10 +325,10 @@ Task 3: Common Attacks Social Engineering Phishing Question 1: Click the green &
     
     <item>
       <title>THM | tmux</title>
-      <link>https://mansoorbarri.com/writeups/rptmux/</link>
+      <link>https://beta.mansoorbarri.com/writeups/rptmux/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/rptmux/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/rptmux/</guid>
       <description>Room https://tryhackme.com/room/rptmux
 Task 1: Screens wishes it was this cool Question 1: First things first, let&amp;rsquo;s go ahead and install tmux. This can be done on Ubuntu/Kali with the command: apt-get install tmux No answer needed
 Question 2: Once tmux is installed, let&amp;rsquo;s launch a new session. What command do we use to launch a new session without a custom name? ~ tmux
@@ -337,10 +337,10 @@ Question 3: All tmux commands start with a keyboard button combination.</descrip
     
     <item>
       <title>THM | Bypassing UAC</title>
-      <link>https://mansoorbarri.com/writeups/bypassinguac/</link>
+      <link>https://beta.mansoorbarri.com/writeups/bypassinguac/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/bypassinguac/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/bypassinguac/</guid>
       <description>Room https://tryhackme.com/room/bypassinguac
 steps won&amp;rsquo;t be explained since the room has walkthrough*
 Task 1: Introduction Question 1: Click and continue learning! No answer needed
@@ -351,10 +351,10 @@ Question 3: What is the full name of the service in charge of dealing with UAC e
     
     <item>
       <title>THM | Intro to Digital Forensics</title>
-      <link>https://mansoorbarri.com/writeups/introdigitalforensics/</link>
+      <link>https://beta.mansoorbarri.com/writeups/introdigitalforensics/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/introdigitalforensics/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/introdigitalforensics/</guid>
       <description>Room https://tryhackme.com/room/introdigitalforensics
 Task 1: Introduction to Digital Forensics Question 1: Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics? ~ laptop
 Task 2: Digital Forensics Process Question 1: It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that?</description>
@@ -362,10 +362,10 @@ Task 2: Digital Forensics Process Question 1: It is essential to keep track of w
     
     <item>
       <title>THM | Red Team Fundamentals</title>
-      <link>https://mansoorbarri.com/writeups/redteamfundamentals/</link>
+      <link>https://beta.mansoorbarri.com/writeups/redteamfundamentals/</link>
       <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/redteamfundamentals/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/redteamfundamentals/</guid>
       <description>Room https://tryhackme.com/room/redteamfundamentals
 Task 1: Introduction Question 1: Click to continue to the next task No Answer Needed
 Task 2: Vulnerability Assessment and Penetration Tests Limitations Question 1: Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay) ~ Nay
@@ -375,10 +375,10 @@ Question 3: Highly organised groups of skilled attackers are nowadays referred t
     
     <item>
       <title>THM | Wreath</title>
-      <link>https://mansoorbarri.com/writeups/wreath/</link>
+      <link>https://beta.mansoorbarri.com/writeups/wreath/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/wreath/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/wreath/</guid>
       <description>Room https://tryhackme.com/room/wreath
 Task 1-4: Intro No Answer Needed
 Task 5: Webserver Enumeration Question 1: How many of the first 15000 ports are open on the target? ~ 4
@@ -389,10 +389,10 @@ Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
     
     <item>
       <title>THM | Networking</title>
-      <link>https://mansoorbarri.com/writeups/bpnetworking/</link>
+      <link>https://beta.mansoorbarri.com/writeups/bpnetworking/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/bpnetworking/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/bpnetworking/</guid>
       <description>Room https://tryhackme.com/room/bpnetworking
 Task 1: Kinda like a street address, just cooler. Question 1: How many categories of IPV4 addresses are there? ~ 5
 Question 2: Which type is for research *Looking for a letter rather than a number here? ~ E
@@ -403,10 +403,10 @@ Question 5: There are two commn default private ranges for home routers, what is
     
     <item>
       <title>THM | VIM</title>
-      <link>https://mansoorbarri.com/writeups/toolboxvim/</link>
+      <link>https://beta.mansoorbarri.com/writeups/toolboxvim/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/toolboxvim/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/toolboxvim/</guid>
       <description>Room https://tryhackme.com/room/toolboxvim
 Task 1: Task 1 Question 1: Install VIM No Answer Needed
 Question 2: Launch VIM No Answer Needed
@@ -418,10 +418,10 @@ Question 4: How do we move the cursor left? ~ h</description>
     
     <item>
       <title>THM | Basic Pentesting</title>
-      <link>https://mansoorbarri.com/writeups/basicpentestingjt/</link>
+      <link>https://beta.mansoorbarri.com/writeups/basicpentestingjt/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/basicpentestingjt/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/basicpentestingjt/</guid>
       <description>Room https://tryhackme.com/room/basicpentestingjt
 Task 1: Web App Testing and Privilege Esclation Question 1: Question 1: Deploy he machine and connect to our network No Answer Needed
 Question 2: Find the services exposed by the machine No Answer Needed
@@ -431,10 +431,10 @@ gobuster dir -u &amp;lt;machine-ip&amp;gt; -w &amp;lt;[dir-to-directory-list-2.3
     
     <item>
       <title>THM | nmap</title>
-      <link>https://mansoorbarri.com/writeups/furthernmap/</link>
+      <link>https://beta.mansoorbarri.com/writeups/furthernmap/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/writeups/furthernmap/</guid>
+      <guid>https://beta.mansoorbarri.com/writeups/furthernmap/</guid>
       <description>Room https://tryhackme.com/room/furthernmap
 Task 1: Deploy Question 1: Deploy the attached VM No Answer Needed
 Task 2: Introduction Question 1: What networking constructs are used to direct traffic to the right application on a server? ~ Ports

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hosting on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/hosting/</link>
+    <link>https://beta.mansoorbarri.com/tags/hosting/</link>
     <description>Recent content in Hosting on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Free Website Hosting</title>
-      <link>https://mansoorbarri.com/posts/hosting/</link>
+      <link>https://beta.mansoorbarri.com/posts/hosting/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/hosting/</guid>
+      <guid>https://beta.mansoorbarri.com/posts/hosting/</guid>
       <description>Disclaimer There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*
 Prerequisites  Github account Website code  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important
 Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
