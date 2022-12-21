@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/windows/</link>
+    <link>https://mansoorbarri.com/tags/windows/</link>
     <description>Recent content in Windows on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convert Python files to Windows executable files</title>
-      <link>https://beta.mansoorbarri.com/posts/py-to-exe/</link>
+      <link>https://mansoorbarri.com/posts/py-to-exe/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/py-to-exe/</guid>
+      <guid>https://mansoorbarri.com/posts/py-to-exe/</guid>
       <description>Prerequisites  You should have all the modules installed before compiling You should have all the requirements for the python file before compiling it  Install Nuitka on Windows   Go to Go to nuitka.net/download/windows which will download a .msi file
   Run the file and click on &amp;ldquo;More info&amp;rdquo;
   Click on &amp;ldquo;Run anyway&amp;rdquo;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Windows | Remove Viruses From Windows</title>
-      <link>https://beta.mansoorbarri.com/posts/remove-viruses/</link>
+      <link>https://mansoorbarri.com/posts/remove-viruses/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/remove-viruses/</guid>
+      <guid>https://mansoorbarri.com/posts/remove-viruses/</guid>
       <description>Tron is a all in one program to remove any viruses from windows and get windows &amp;ldquo;back on it&amp;rsquo;s feet&amp;rdquo;
 Install https://www.reddit.com/r/TronScript/
 Reference Chris Titus has a great video on this explaining everything so I will just link it.
@@ -35,10 +35,10 @@ Reference Chris Titus has a great video on this explaining everything so I will 
     
     <item>
       <title>Windows | Remove Debian comepletely from DualBoot</title>
-      <link>https://beta.mansoorbarri.com/posts/remove-dualboot/</link>
+      <link>https://mansoorbarri.com/posts/remove-dualboot/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/remove-dualboot/</guid>
+      <guid>https://mansoorbarri.com/posts/remove-dualboot/</guid>
       <description>Requirements Windows 10 PC
 I - Delete partition Right click on the start button (bottom left corner) and click on &amp;ldquo;Disk Management&amp;rdquo;
 ideally there should be 2 linux partition, one swap area and other is main disk partition. These are the two partitions I have
@@ -49,10 +49,10 @@ repeat the last two steps for the second partition.</description>
     
     <item>
       <title>Windows | Disable Updates</title>
-      <link>https://beta.mansoorbarri.com/posts/disable-updates/</link>
+      <link>https://mansoorbarri.com/posts/disable-updates/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/disable-updates/</guid>
+      <guid>https://mansoorbarri.com/posts/disable-updates/</guid>
       <description>Brief Windows Update BLocker(Wub) - A minimal tool to block windows updates.
 Download You can download the latest version from the official website
 Extract the zip file and open the Wub_x64.exe file as adminstator
@@ -64,10 +64,10 @@ If you check for updates now in windows settings you will see this error</descri
     
     <item>
       <title>Linux | Install Windows 7</title>
-      <link>https://beta.mansoorbarri.com/posts/windows7onlinux/</link>
+      <link>https://mansoorbarri.com/posts/windows7onlinux/</link>
       <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/windows7onlinux/</guid>
+      <guid>https://mansoorbarri.com/posts/windows7onlinux/</guid>
       <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type

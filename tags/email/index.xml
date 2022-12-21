@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/email/</link>
+    <link>https://mansoorbarri.com/tags/email/</link>
     <description>Recent content in Email on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/email/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Get a Email Verified Badge</title>
-      <link>https://beta.mansoorbarri.com/posts/email-cert/</link>
+      <link>https://mansoorbarri.com/posts/email-cert/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/email-cert/</guid>
+      <guid>https://mansoorbarri.com/posts/email-cert/</guid>
       <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it’s not really necessary plus it’s a pain to set it up correctly.
 Getting Email Certificate Go to Actalis&#39;s website Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.
 *Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
@@ -20,10 +20,10 @@ Getting Email Certificate Go to Actalis&#39;s website Enter the email you want t
     
     <item>
       <title>Email forwarding with cloudflare</title>
-      <link>https://beta.mansoorbarri.com/posts/email-forwarding-cloudflare/</link>
+      <link>https://mansoorbarri.com/posts/email-forwarding-cloudflare/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/email-forwarding-cloudflare/</guid>
+      <guid>https://mansoorbarri.com/posts/email-forwarding-cloudflare/</guid>
       <description>BRIEF You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
 By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
 You will need to enable 2 Step verification on your google account for this to work.

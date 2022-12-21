@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BeEF on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/beef/</link>
+    <link>https://mansoorbarri.com/tags/beef/</link>
     <description>Recent content in BeEF on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/beef/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/beef/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux | Install BeEF on Debian</title>
-      <link>https://beta.mansoorbarri.com/posts/beef-debian/</link>
+      <link>https://mansoorbarri.com/posts/beef-debian/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/beef-debian/</guid>
+      <guid>https://mansoorbarri.com/posts/beef-debian/</guid>
       <description>DISCLAIMER THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL OR ETHICAL HACKING PURPOSE. MISUSE OF THIS TOOL WILL LEAD TO PROSECUTION.
 BRIEF BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 Step 1: installing dependencies Before installing anything update your repositories.

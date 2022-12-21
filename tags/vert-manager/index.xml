@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vert Manager on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/vert-manager/</link>
+    <link>https://mansoorbarri.com/tags/vert-manager/</link>
     <description>Recent content in Vert Manager on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Jan 2022 23:39:49 +0530</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/vert-manager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jan 2022 23:39:49 +0530</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/vert-manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux | Install Windows 7</title>
-      <link>https://beta.mansoorbarri.com/posts/windows7onlinux/</link>
+      <link>https://mansoorbarri.com/posts/windows7onlinux/</link>
       <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/windows7onlinux/</guid>
+      <guid>https://mansoorbarri.com/posts/windows7onlinux/</guid>
       <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type

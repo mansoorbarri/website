@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GH on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/gh/</link>
+    <link>https://mansoorbarri.com/tags/gh/</link>
     <description>Recent content in GH on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/gh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/gh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Better Way To Use GitHub</title>
-      <link>https://beta.mansoorbarri.com/posts/better-way-to-use-github/</link>
+      <link>https://mansoorbarri.com/posts/better-way-to-use-github/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/posts/better-way-to-use-github/</guid>
+      <guid>https://mansoorbarri.com/posts/better-way-to-use-github/</guid>
       <description>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.
 Install Debian
 sudo apt install gh Windows
