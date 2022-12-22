@@ -1,715 +1,1013 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/py-to-exe/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/nuitka/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/python/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/windows/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/apis/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/fbi/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/fbi-hack/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/infragard/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/adventofcyber4/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day17/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/tryhackme/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/writeups/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day16/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day15/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/cloudflare/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/expose-your-network/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/port-forwarding/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day14/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/zero-trust/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day13/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day12/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day11/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day10/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day9/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day8/</loc>
     <lastmod>2022-12-08T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day7/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/actalis/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/email/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/email-cert/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day6/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/verified/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day5/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day4/</loc>
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day3/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day2/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/adventofcyber4/day1/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/bash/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/terminal/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/tools/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/terminal-commands/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/better-way-to-use-github/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/gh/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/git/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/github/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/comments/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/comments-hugo/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/hugo/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/utterance/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/india/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/infosec/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/news/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/pakistan/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/nepra-sidewinder/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/android/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/debian/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/android-screen-mirror/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/ubuntu/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/ssh/</loc>
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/termux-ssh/</loc>
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/termux/</loc>
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/advanced/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/advanced-scambaiting/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/scambait/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/vigilante/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/ethical/</loc>
     <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/phoneinfoga/</loc>
     <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/phoneinfoga/</loc>
     <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/hugo-lan/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/lan/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/server/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/fixed/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/termux-repo/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/repository/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/scambaiting101/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/tech/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/thm/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/threatinteltools/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/introtoav/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/linux/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/linux-firewall/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/security/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/ufw/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/tron/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/viruses/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/remove-viruses/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/apt/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/better-apt/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/dark-mode/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/dark-instagram/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/instagram/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/web/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/linuxmodules/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/burpsuiterepeater/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/burpsuitebasics/</loc>
     <lastmod>2022-04-18T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/dnsmanipulation/</loc>
     <lastmod>2022-04-17T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/redteamengagements/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/redteamrecon/</loc>
     <lastmod>2022-04-15T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/cryptographyfordummies/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/commonattacks/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/hosting/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/hosting/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/rptmux/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/bypassinguac/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/introdigitalforensics/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/apache/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/certbot/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/ssl-apache/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/dualboot/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/remove-dualboot/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/trash/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/updates/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/disable-updates/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/auto-updates/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/selenium/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/twitter/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/twitter-bot/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/webscrapping/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/hacking/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/nmap/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/nmap/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/email-forwarding-cloudflare/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/gmail/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/redteamfundamentals/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/beef/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/beef-debian/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/wreath/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/posts/saved-wifi-pwd/</loc>
     <lastmod>2022-01-16T23:39:49+05:30</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/tags/wifi/</loc>
     <lastmod>2022-01-16T23:39:49+05:30</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/bpnetworking/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/toolboxvim/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/writeups/basicpentestingjt/</loc>
     <lastmod>2022-01-04T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/posts/windows7onlinux/</loc>
     <lastmod>2022-01-02T23:39:49+05:30</lastmod>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/tags/vert-manager/</loc>
     <lastmod>2022-01-02T23:39:49+05:30</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/writeups/furthernmap/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/contact-us/</loc>
   </url>
+  
+  
+  
+  <url>
+    <loc>https://mansoorbarri.com/privacy/</loc>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/contact-filled/</loc>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/categories/</loc>
   </url>
+  
+  
   
   <url>
     <loc>https://mansoorbarri.com/privacy-policy/</loc>
   </url>
   
+  
+  
   <url>
     <loc>https://mansoorbarri.com/projects/</loc>
   </url>
+  
   
 </urlset>
