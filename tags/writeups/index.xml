@@ -6,7 +6,16 @@
     <description>Recent content in writeups on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Advent Of Cyber Day 19 | Wiggles go brrr</title>
+      <link>https://mansoorbarri.com/writeups/adventofcyber4/day19/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day19/</guid>
+      <description>What device can be used to probe the signals being sent on electrical wires between two devices? Logic Analyser USART is faster than SPI for communication? (Yea,Nay) Nay USART communication uses fewer wires than SPI? (Yea,Nay) Yea USART is faster than I2C for communication? (Yea,Nay) Nay I2C uses more wires than SPI for communication? (Yea,Nay) Nay SPI is faster than I2C for communication? (Yea,Nay) Yea What is the maximum number of devices that can be connected on a single pair of I2C lines?</description>
+    </item>
+    
     <item>
       <title>THM | Advent Of Cyber Day 18 | Lumberjack Lenny Learns New Rules</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day18/</link>
