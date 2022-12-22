@@ -844,5 +844,16 @@ Others
       <description>Thank you for contacting MansoorBarri.com! One of our staff will with you shortly. Return to main page</description>
     </item>
     
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://mansoorbarri.com/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/privacy-policy/</guid>
+      <description>Mansoor Barri owns and operates the website mansoorbarri.com, which provides this service.
+At mansoorbarri.com, accessible from mansoorbarri.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by mansoorbarri.com and how we use it.
+Log Files mansoorbarri.com follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services&#39; analytics.</description>
+    </item>
+    
   </channel>
 </rss>
