@@ -6,7 +6,18 @@
     <description>Recent content in writeups on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Advent Of Cyber Day 18 | Lumberjack Lenny Learns New Rules</title>
+      <link>https://mansoorbarri.com/writeups/adventofcyber4/day18/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day18/</guid>
+      <description>What is the Challenge #1 flag? THM{n0t_just_your_u$ser} From the Challenge 1 log, what user account was created? BanditYetiMini What is the Challenge #2 flag? THM{wh@t_1s_Runn1ng_H3r3} What was the User’s path in the Challenge #2 log file? SIGMA_AOC2022\Bandit Yeti What is the Challenge #3 flag? THM{sch3dule_0npo1nt_101} What was the MD5 hash associated with Challenge #3 logs? 2F6CE97FAF2D5EEA919E4393BDD416A7 that&amp;rsquo;s it ✌🏽
+Click here for Day 19
+  </description>
+    </item>
+    
     <item>
       <title>THM | Advent Of Cyber Day 17 | Filtering for Order Amidst Chao</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day17/</link>
