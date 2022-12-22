@@ -6,7 +6,18 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Advent Of Cyber Day 20 |Binwalkin’ around the Christmas tree</title>
+      <link>https://mansoorbarri.com/writeups/adventofcyber4/day20/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day20/</guid>
+      <description>What is the flag value after reversing the file firmwarev2.2-encrypted.gpg? THM{WE_GOT_THE_FIRMWARE_CODE} What is the Paraphrase value for the binary firmwarev1.0_unsigned? Santa@2022 After reversing the encrypted firmware, can you find the build number for rootfs? 2.6.31 that&amp;rsquo;s it ✌🏽
+Click here for Day 21
+  </description>
+    </item>
+    
     <item>
       <title>Convert Python files to Windows executable files</title>
       <link>https://mansoorbarri.com/posts/py-to-exe/</link>
