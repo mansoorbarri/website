@@ -6,7 +6,18 @@
     <description>Recent content in TryHackMe on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Advent Of Cyber Day 21 | Have yourself a merry little webcam</title>
+      <link>https://mansoorbarri.com/writeups/adventofcyber4/day21/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day21/</guid>
+      <description>What port is Mosquitto running on? 1883 Is the device/init topic enumerated by Nmap during a script scan of all ports? (y/n) y What Mosquitto version is the device using? 1.6.9 What flag is obtained from viewing the RTSP stream? THM{UR_CAMERA_IS_MINE} that&amp;rsquo;s it ✌🏽
+Click here for Day 22
+  </description>
+    </item>
+    
     <item>
       <title>THM | Advent Of Cyber Day 20 |Binwalkin’ around the Christmas tree</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day20/</link>
