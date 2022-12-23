@@ -6,7 +6,18 @@
     <description>Recent content in AdventOfCyber4 on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/adventofcyber4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/adventofcyber4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM | Advent Of Cyber Day 22 | Threats are failing all around me</title>
+      <link>https://mansoorbarri.com/writeups/adventofcyber4/day22/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/writeups/adventofcyber4/day22/</guid>
+      <description>Follow the instructions in the attached static site to help McSkidy reduce her attack surface against attacks from the Yeti. Use the flag as an answer to complete the task. THM{4TT4CK SURF4C3 R3DUC3D} that&amp;rsquo;s it ✌🏽
+Click here for Day 23
+  </description>
+    </item>
+    
     <item>
       <title>THM | Advent Of Cyber Day 21 | Have yourself a merry little webcam</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day21/</link>
@@ -19,7 +30,7 @@ Click here for Day 22
     </item>
     
     <item>
-      <title>THM | Advent Of Cyber Day 20 |Binwalkin’ around the Christmas tree</title>
+      <title>THM | Advent Of Cyber Day 20 | Binwalkin’ around the Christmas tree</title>
       <link>https://mansoorbarri.com/writeups/adventofcyber4/day20/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       
