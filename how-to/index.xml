@@ -56,10 +56,10 @@ alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of file
     
     <item>
       <title>Better Way To Use GitHub</title>
-      <link>https://mansoorbarri.com/how-to/better-way-to-use-github/</link>
+      <link>https://mansoorbarri.com/how-to/better-gihub/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/better-way-to-use-github/</guid>
+      <guid>https://mansoorbarri.com/how-to/better-gihub/</guid>
       <description>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.
 Install Debian
 sudo apt install gh Windows
