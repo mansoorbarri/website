@@ -195,47 +195,47 @@
 <h2 id="step-1-installing-dependencies">Step 1: installing dependencies</h2>
 <p>Before installing anything update your repositories.</p>
 <pre><code>sudo apt update -y
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/1.png" alt="SS of the command"></p>
+</code></pre><p><img src="/images/how-to/BeEf-Debian/1.png" alt="SS of the command"></p>
 <p>Ruby, Ruby-dev and Git is required for BeEF. Install them using:</p>
 <pre><code>sudo apt install ruby ruby-dev git -y
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/2.png" alt="SS of the command"></p>
+</code></pre><p><img src="/images/how-to/BeEf-Debian/2.png" alt="SS of the command"></p>
 <h2 id="step-2-installation">Step 2: Installation</h2>
 <p>Clone BeEF repo</p>
 <pre><code>git clone https://github.com/beefproject/beef
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/3.png" alt="SS of the command"></p>
+</code></pre><p><img src="/images/how-to/BeEf-Debian/3.png" alt="SS of the command"></p>
 <p>cd into beef folder</p>
 <pre><code>cd beef/
 </code></pre><p>Run the install script with sudo</p>
 <pre><code>sudo ./install
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/4.png" alt="SS of the command"></p>
+</code></pre><p><img src="/images/how-to/BeEf-Debian/4.png" alt="SS of the command"></p>
 <p>Say &lsquo;y&rsquo; to both prompts</p>
-<p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/5.png" alt="SS of the command">
+<p><img src="/images/how-to/BeEf-Debian/5.png" alt="SS of the command">
 .</p>
-<p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/6.png" alt="SS of the command"></p>
+<p><img src="/images/how-to/BeEf-Debian/6.png" alt="SS of the command"></p>
 <h2 id="step-3-setup">Step 3: Setup</h2>
 <p>open config.yaml and change the default credentials. BeEF will not work with default creds</p>
 <pre><code>nano config.yaml
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/7.png" alt="SS of the command"></p>
+</code></pre><p><img src="/images/how-to/BeEf-Debian/7.png" alt="SS of the command"></p>
 <p>Here I am using &ldquo;test&rdquo; as username and &ldquo;beef&rdquo; as password</p>
-<p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/8.png" alt="SS of the command">
+<p><img src="/images/how-to/BeEf-Debian/8.png" alt="SS of the command">
 <em>use ctrl+x then press y then enter/return to save and exit the config file</em></p>
 <p>Now start BeEF by</p>
 <pre><code>./beef
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/9.png" alt="SS of the command"></p>
+</code></pre><p><img src="/images/how-to/BeEf-Debian/9.png" alt="SS of the command"></p>
 <p>Here I got a error. To fix use this command</p>
 <pre><code>bundle install
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/10.png" alt="SS of the command">
+</code></pre><p><img src="/images/how-to/BeEf-Debian/10.png" alt="SS of the command">
 <em>if you don&rsquo;t have bundler use <code>sudo apt install bundler -y</code></em></p>
 <p>Type your sudo password</p>
-<p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/11.png" alt="SS of the command"></p>
+<p><img src="/images/how-to/BeEf-Debian/11.png" alt="SS of the command"></p>
 <p>now start BeEF again</p>
 <pre><code>./beef
-</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/12.png" alt="SS of the command"></p>
-<p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/13.png" alt="SS of the command"></p>
+</code></pre><p><img src="/images/how-to/BeEf-Debian/12.png" alt="SS of the command"></p>
+<p><img src="/images/how-to/BeEf-Debian/13.png" alt="SS of the command"></p>
 <p>Use the link next to &ldquo;UI URL&rdquo; to access the BeEF portal</p>
-<p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/14.png" alt="SS of the command"></p>
+<p><img src="/images/how-to/BeEf-Debian/14.png" alt="SS of the command"></p>
 <p>BeEF portal</p>
-<p><img src="https://raw.githubusercontent.com/mansoorbarri/website/main/images/BeEf-Debian/15.png" alt="SS of the command"></p>
+<p><img src="/images/how-to/BeEf-Debian/15.png" alt="SS of the command"></p>
 <p>Login and use BeEF for <strong>education and pen testing</strong> purposes only</p>
 <p>that’s it ✌🏽</p>
 <hr>
