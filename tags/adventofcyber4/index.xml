@@ -14,8 +14,8 @@
       
       <guid>https://mansoorbarri.com/writeups/aoc4/</guid>
       <description>Room Advent Of Cyber 4
-Day 1 | Someone&amp;rsquo;s coming to town! Who is the adversary that attacked Santa&amp;rsquo;s network this year? The Bandit Yeti What&amp;rsquo;s the flag that they left behind? THM{IT&#39;S A Y3T1 CHR1$TMA$} Looking to learn more? Check out the rooms on Unified Kill Chain, Cyber Kill Chain, MITRE, or the whole Cyber Defence Frameworks module! No answer needed
-Day 2 | Santa&amp;rsquo;s Naughty &amp;amp; Nice Log Ensure you are connected to the deployable machine in this task.</description>
+Day 1 | Someone&amp;rsquo;s coming to town! Question 1: Who is the adversary that attacked Santa&amp;rsquo;s network this year? The Bandit Yeti Question 2: What&amp;rsquo;s the flag that they left behind? THM{IT&#39;S A Y3T1 CHR1$TMA$} Day 2 | Santa&amp;rsquo;s Naughty &amp;amp; Nice Log Question 1: Ensure you are connected to the deployable machine in this task. No answer needed
+Question 2: Use the ls command to list the files present in the current directory.</description>
     </item>
     
   </channel>
