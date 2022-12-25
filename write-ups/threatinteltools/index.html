@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>THM | Threat Intelligence Tools</title>
+    <meta name="description" content="Cyber Security, Tech &amp; IT">
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, writeups, thm'>
+
+    <meta property="og:url" content="https://mansoorbarri.com/write-ups/threatinteltools/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="THM | Threat Intelligence Tools">
+    <meta property="og:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="og:image" content="/main.webp">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="THM | Threat Intelligence Tools">
+    <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/write-ups/threatinteltools/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/write-ups/threatinteltools/">
+    <meta name="twitter:image" content="/main.webp">
+
+    
+    <link rel="canonical" href="https://mansoorbarri.com/write-ups/threatinteltools/" />
+
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://mansoorbarri.com/css/dark.css">
+
+    <script src="https://mansoorbarri.com/js/svg-injector.min.js"></script>
+    <script src="https://mansoorbarri.com/js/feather-icons.min.js"></script>
+    <script src="https://mansoorbarri.com/js/main.js"></script>
+
+    
+    
+      <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RCCJG9ZD5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RCCJG9ZD5L');
+  </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://mansoorbarri.com">
+                <img src="https://mansoorbarri.com/main.webp" alt="avatar" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://mansoorbarri.com">Mansoor Barri</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/"> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/how-to/"> How to </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/articles/"> Articles </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/projects/"> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/tags/"> Tags </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/"> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/how-to/"> How to </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/articles/"> Articles </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/projects/"> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/tags/"> Tags </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>THM | Threat Intelligence Tools</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            August 9, 2022
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/writeups">writeups</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/thm">thm</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <h2 id="room">Room</h2>
+<p><a href="https://tryhackme.com/room/threatinteltools">https://tryhackme.com/room/threatinteltools</a></p>
+<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/threatinteltools/2022.png?raw=true" alt=""></p>
+<h2 id="task-1-2">Task 1-2</h2>
+<p><em>no answer needed</em></p>
+<h2 id="task-3---urlscanio">Task 3 - UrlScan.io</h2>
+<p><em>answers are from the image right above</em>*</p>
+<h5 id="question-1-what-is-tryhackmes-cisco-umbrella-rank">Question 1: What is TryHackMe&rsquo;s Cisco Umbrella Rank?</h5>
+<p>~ <em>345612</em></p>
+<h4 id="question-2-how-many-domains-did-urlscanio-identify">Question 2: How many domains did UrlScan.io identify?</h4>
+<p>~ <em>13</em></p>
+<h4 id="question-3-what-is-the-main-domain-registrar-listed">Question 3: What is the main domain registrar listed?</h4>
+<p>~ <em>NAMECHEAP INC</em></p>
+<h4 id="question-4-what-is-the-main-ip-address-identified">Question 4: What is the main IP address identified?</h4>
+<p>~ <em>2606:4700:10::ac43:1b0a</em></p>
+<h2 id="task-4---abusech">Task 4 - Abuse.ch</h2>
+<h4 id="question-1-the-ioc-212192246305555-is-linked-to-which-malware-on-threatfox">Question 1: The IOC 212.192.246.30:5555 is linked to which malware on ThreatFox?</h4>
+<p>~ <em>Katana</em></p>
+<h4 id="question-2-which-malware-is-associated-with-the-ja3-fingerprint-51c64c77e60f3980eea90869b68c58a8-on-ssl-blacklist">Question 2: Which malware is associated with the JA3 Fingerprint 51c64c77e60f3980eea90869b68c58a8 on SSL Blacklist?</h4>
+<p>~ <em>Dridex</em></p>
+<h4 id="question-3-from-the-statistics-page-on-urlhaus-what-malware-hosting-network-has-the-asn-number-as14061">Question 3: From the statistics page on URLHaus, what malware-hosting network has the ASN number AS14061?</h4>
+<p>~ <em>DIGITALOCEAN-ASN</em></p>
+<h4 id="question-4-which-country-is-the-botnet-ip-address-17813447166-associated-with-according-to-feodotracker">Question 4: Which country is the botnet IP address 178.134.47.166 associated with according to FeodoTracker?</h4>
+<p>~ <em>Georgia</em></p>
+<h2 id="task-5----phishtool">Task 5 -  PhishTool</h2>
+<h4 id="question-1-what-organisation-is-the-attacker-trying-to-pose-as-in-the-email">Question 1: What organisation is the attacker trying to pose as in the email?</h4>
+<p>~ <em>LinkedIn</em></p>
+<h4 id="question-2-what-is-the-senders-email-address">Question 2: What is the senders email address?</h4>
+<p>~ <em><a href="mailto:darkabutla@sc500.whpservers.com">darkabutla@sc500.whpservers.com</a></em></p>
+<h4 id="question-3-what-is-the-recipients-email-address">Question 3: What is the recipient&rsquo;s email address?</h4>
+<p>~ <em><a href="mailto:cabbagecare@hotsmail.com">cabbagecare@hotsmail.com</a></em></p>
+<h4 id="question-4-what-is-the-originating-ip-address-defang-the-ip-address">Question 4: What is the Originating IP address? Defang the IP address.</h4>
+<p>~ <em>204[.]93[.]183[.]11</em></p>
+<h4 id="question-5-how-many-hops-did-the-email-go-through-to-get-to-the-recipient">Question 5: How many hops did the email go through to get to the recipient?</h4>
+<p>~ <em>4</em></p>
+<h2 id="task-6---cisco-talos-intelligence">Task 6 - Cisco Talos Intelligence</h2>
+<h4 id="question-1-what-is-the-listed-domain-of-the-ip-address-from-the-previous-task">Question 1: What is the listed domain of the IP address from the previous task?</h4>
+<p>~ <em>scnet.net</em></p>
+<h4 id="question-2-what-is-the-customer-name-of-the-ip-address">Question 2: What is the customer name of the IP address?</h4>
+<p>~ <em>Complete Web Reviews</em></p>
+<h2 id="task-7---scenario-1">Task 7 - Scenario 1</h2>
+<h4 id="question-1-according-to-email2eml-what-is-the-recipients-email-address">Question 1: According to Email2.eml, what is the recipient&rsquo;s email address?</h4>
+<p>~ <em><a href="mailto:chris.lyons@supercarcenterdetroit.com">chris.lyons@supercarcenterdetroit.com</a></em></p>
+<h4 id="question-2-from-talos-intelligence-the-attached-file-can-also-be-identified-by-the-detection-alias-that-starts-with-an-h">Question 2: From Talos Intelligence, the attached file can also be identified by the Detection Alias that starts with an H&hellip;</h4>
+<p>~ <em>HIDDENEXT/Worm.Gen</em></p>
+<h2 id="task-8---scenario-2">Task 8 - Scenario 2</h2>
+<h4 id="question-1-what-is-the-name-of-the-attachment-on-email3eml">Question 1: What is the name of the attachment on Email3.eml?</h4>
+<p>~ <em>Sales_Receipt 5606.xls</em></p>
+<h4 id="question-2-what-malware-family-is-associated-with-the-attachment-on-email3eml">Question 2: What malware family is associated with the attachment on Email3.eml?</h4>
+<p>~ <em>Dridex</em></p>
+<h2 id="task-9---conclusion">Task 9 - Conclusion</h2>
+<p><em>no answer needed</em></p>
+<p>that&rsquo;s it ✌🏽</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+        </p>
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-2">Task 1-2</a></li>
+        <li><a href="#task-3---urlscanio">Task 3 - UrlScan.io</a></li>
+        <li><a href="#task-4---abusech">Task 4 - Abuse.ch</a></li>
+        <li><a href="#task-5----phishtool">Task 5 -  PhishTool</a></li>
+        <li><a href="#task-6---cisco-talos-intelligence">Task 6 - Cisco Talos Intelligence</a></li>
+        <li><a href="#task-7---scenario-1">Task 7 - Scenario 1</a></li>
+        <li><a href="#task-8---scenario-2">Task 8 - Scenario 2</a></li>
+        <li><a href="#task-9---conclusion">Task 9 - Conclusion</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    <a href="/privacy-policy/">Privacy Policy</a> | <a href="/contact-us/">Contact Us</a>
+
+    <span>&copy; 2022 Mansoor Barri</span>
+
+</footer>
+</body>
+</html>

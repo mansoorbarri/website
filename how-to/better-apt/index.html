@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Linux | Better APT</title>
+    <meta name="description" content="Cyber Security, Tech &amp; IT">
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, apt, debian, ubuntu'>
+
+    <meta property="og:url" content="https://mansoorbarri.com/how-to/better-apt/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Linux | Better APT">
+    <meta property="og:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="og:image" content="/main.webp">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Linux | Better APT">
+    <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/how-to/better-apt/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/how-to/better-apt/">
+    <meta name="twitter:image" content="/main.webp">
+
+    
+    <link rel="canonical" href="https://mansoorbarri.com/how-to/better-apt/" />
+
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://mansoorbarri.com/css/dark.css">
+
+    <script src="https://mansoorbarri.com/js/svg-injector.min.js"></script>
+    <script src="https://mansoorbarri.com/js/feather-icons.min.js"></script>
+    <script src="https://mansoorbarri.com/js/main.js"></script>
+
+    
+    
+      <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RCCJG9ZD5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RCCJG9ZD5L');
+  </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://mansoorbarri.com">
+                <img src="https://mansoorbarri.com/main.webp" alt="avatar" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://mansoorbarri.com">Mansoor Barri</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/"> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/how-to/"> How to </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/articles/"> Articles </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/projects/"> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/tags/"> Tags </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/"> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/how-to/"> How to </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/articles/"> Articles </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/projects/"> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/tags/"> Tags </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Linux | Better APT</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            July 20, 2022
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/apt">apt</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/debian">debian</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/ubuntu">ubuntu</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <p>why not APT? APT has slow mirrors, APT isn&rsquo;t optimised for performance right out of the box, rolling back updates or installs is pain because there is no concept of history and last but not the least, the look of APT is just mehhh.</p>
+<p>Nala is just better. Nala fixes all these problems right from the start while having APT is the backend.</p>
+<h1 id="install">Install</h1>
+<p>add repository</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">echo <span style="color:#e6db74">&#34;deb http://deb.volian.org/volian/ scar main&#34;</span> | sudo tee /etc/apt/sources.list.d/volian-archive-scar-unstable.list
+wget -qO - https://deb.volian.org/volian/scar.key | sudo tee /etc/apt/trusted.gpg.d/volian-archive-scar-unstable.gpg &gt; /dev/null
+</code></pre></div><p>Install on Debian Stable or Ubuntu:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt update <span style="color:#f92672">&amp;&amp;</span> sudo apt install nala-legacy
+</code></pre></div><p><em>for other versions and methods, visit the <a href="https://github.com/volitank/nala#installation">nala repo</a></em></p>
+<h1 id="choosing-the-right-mirrors">Choosing The Right Mirrors</h1>
+<p>In most cases the first three are the best onces. Choose them like so:</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/better-apt/2022.png" alt="reference image"></p>
+<h1 id="usage">Usage</h1>
+<p>Just change &ldquo;nala&rdquo; with &ldquo;apt&rdquo; when installing, removing or updating the system.</p>
+<h1 id="view-update-history">View Update History</h1>
+<p>View the history:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nala history
+</code></pre></div><p>Undo [sudo nala history undo ID]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo nala history undo <span style="color:#ae81ff">1</span>
+</code></pre></div><h1 id="bashrc-change-for-apt---nala">.bashrc change for apt -&gt; nala</h1>
+<p>copy this to your .bashrc so it uses nala even when you type &ldquo;apt&rdquo;</p>
+<pre><code>apt() { 
+  command nala &quot;$@&quot;
+}
+sudo() {
+  if [ &quot;$1&quot; = &quot;apt&quot; ]; then
+    shift
+    command sudo nala &quot;$@&quot;
+  else
+    command sudo &quot;$@&quot;
+  fi
+}
+</code></pre><h1 id="conclusion">Conclusion</h1>
+<p>Nala is something I use personally and it has dramatically decreased the time I spend managing packages on Debian machines, This is something you wish you had before.</p>
+<p>that&rsquo;s it ✌🏽</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+        </p>
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#install">Install</a></li>
+    <li><a href="#choosing-the-right-mirrors">Choosing The Right Mirrors</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#view-update-history">View Update History</a></li>
+    <li><a href="#bashrc-change-for-apt---nala">.bashrc change for apt -&gt; nala</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    <a href="/privacy-policy/">Privacy Policy</a> | <a href="/contact-us/">Contact Us</a>
+
+    <span>&copy; 2022 Mansoor Barri</span>
+
+</footer>
+</body>
+</html>

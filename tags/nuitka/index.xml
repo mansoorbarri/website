@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/nuitka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convert Python files to Windows executable files</title>
-      <link>https://mansoorbarri.com/posts/py-to-exe/</link>
+      <link>https://mansoorbarri.com/how-to/py-to-exe/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/py-to-exe/</guid>
+      <guid>https://mansoorbarri.com/how-to/py-to-exe/</guid>
       <description>Prerequisites  You should have all the modules installed before compiling You should have all the requirements for the python file before compiling it  Install Nuitka on Windows   Go to Go to nuitka.net/download/windows which will download a .msi file
   Run the file and click on &amp;ldquo;More info&amp;rdquo;
   Click on &amp;ldquo;Run anyway&amp;rdquo;

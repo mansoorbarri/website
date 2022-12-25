@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>THM | Networking</title>
+    <meta name="description" content="Cyber Security, Tech &amp; IT">
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, writeups, thm'>
+
+    <meta property="og:url" content="https://mansoorbarri.com/write-ups/bpnetworking/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="THM | Networking">
+    <meta property="og:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="og:image" content="/main.webp">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="THM | Networking">
+    <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/write-ups/bpnetworking/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/write-ups/bpnetworking/">
+    <meta name="twitter:image" content="/main.webp">
+
+    
+    <link rel="canonical" href="https://mansoorbarri.com/write-ups/bpnetworking/" />
+
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://mansoorbarri.com/css/dark.css">
+
+    <script src="https://mansoorbarri.com/js/svg-injector.min.js"></script>
+    <script src="https://mansoorbarri.com/js/feather-icons.min.js"></script>
+    <script src="https://mansoorbarri.com/js/main.js"></script>
+
+    
+    
+      <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RCCJG9ZD5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RCCJG9ZD5L');
+  </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://mansoorbarri.com">
+                <img src="https://mansoorbarri.com/main.webp" alt="avatar" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://mansoorbarri.com">Mansoor Barri</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/"> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/how-to/"> How to </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/articles/"> Articles </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/projects/"> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/tags/"> Tags </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/"> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/how-to/"> How to </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/articles/"> Articles </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/projects/"> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/tags/"> Tags </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>THM | Networking</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            January 9, 2022
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/writeups">writeups</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/thm">thm</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <h2 id="room">Room</h2>
+<p><a href="https://tryhackme.com/room/bpnetworking">https://tryhackme.com/room/bpnetworking</a></p>
+<h2 id="task-1-kinda-like-a-street-address-just-cooler">Task 1: Kinda like a street address, just cooler.</h2>
+<h4 id="question-1-how-many-categories-of-ipv4-addresses-are-there">Question 1: How many categories of IPV4 addresses are there?</h4>
+<p><em>~ 5</em></p>
+<h4 id="question-2-which-type-is-for-research-looking-for-a-letter-rather-than-a-number-here">Question 2: Which type is for research *Looking for a letter rather than a number here?</h4>
+<p><em>~ E</em></p>
+<h4 id="question-3-how-many-private-address-ranges-are-there">Question 3: How many private address ranges are there?</h4>
+<p><em>~ 3</em></p>
+<h4 id="question-4-which-private-range-is-typically-used-by-businesses">Question 4: Which private range is typically used by businesses?</h4>
+<p><em>~ A</em></p>
+<h4 id="question-5-there-are-two-commn-default-private-ranges-for-home-routers-what-is-the-first-one">Question 5: There are two commn default private ranges for home routers, what is the first one?</h4>
+<p><em>~ 192.168.0.0</em></p>
+<h4 id="question-6-how-about-the-second-common-private-home-range">Question 6: How about the second common private home range?</h4>
+<p><em>~ 192.168.1.0</em></p>
+<h4 id="question-7-how-many-address-make-up-a-typical-class-c-range-specifically-a-24">Question 7: How many address make up a typical class C range? Specifically a /24</h4>
+<p><em>~ 256</em></p>
+<h4 id="of-these-addresses-two-are-reserved-what-is-the-first-addresses-typically-reserved-as">Of these addresses two are reserved, what is the first addresses typically reserved as?</h4>
+<p><em>~ Network</em></p>
+<h4 id="the-very-last-address-in-a-range-is-typically-reserved-as-what-address-type">The very last address in a range is typically reserved as what address type?</h4>
+<p><em>~ Broadcast</em></p>
+<h4 id="a-third-predominant-address-type-is-typically-reserved-for-the-router-what-is-the-name-of-this-address-type">A third predominant address type is typically reserved for the router, what is the name of this address type?</h4>
+<p><em>~ Gateway</em></p>
+<h4 id="which-address-is-reserved-for-testing-on-individual-computers">Which address is reserved for testing on individual computers?</h4>
+<p><em>~ 127.0.0.1</em></p>
+<h4 id="a-particularly-unique-address-is-reserved-for-unroutable-packets-what-is-that-address-this-can-also-refer-to-all-ipv4-addresses-on-the-local-machine">A particularly unique address is reserved for unroutable packets, what is that address? This can also refer to all IPv4 addresses on the local machine.</h4>
+<p><em>~ 0.0.0.0</em></p>
+<h2 id="task-2-binary-to-decimal">Task 2: Binary to Decimal</h2>
+<h4 id="question-1-1001-0010">Question 1: 1001 0010</h4>
+<p><em>~ 146</em></p>
+<h4 id="question-2-0111-0111">Question 2: 0111 0111</h4>
+<p><em>~ 119</em></p>
+<h4 id="question-3-1111-1111">Question 3: 1111 1111</h4>
+<p><em>~ 255</em></p>
+<h4 id="question-4-1100-0101">Question 4: 1100 0101</h4>
+<p><em>~ 197</em></p>
+<h4 id="question-5-197-1111-0110">Question 5: 197 1111 0110</h4>
+<p><em>~ 246</em></p>
+<h4 id="question-6-0001-0011">Question 6: 0001 0011</h4>
+<p><em>~ 19</em></p>
+<h4 id="question-7-1000-0001">Question 7: 1000 0001</h4>
+<p><em>~ 129</em></p>
+<h4 id="question-8-0011-0001">Question 8: 0011 0001</h4>
+<p><em>~ 49</em></p>
+<h4 id="question-9-0111-1000">Question 9: 0111 1000</h4>
+<p><em>~ 120</em></p>
+<h4 id="question-10-1111-0000">Question 10: 1111 0000</h4>
+<p><em>~ 240</em></p>
+<h4 id="question-11-0011-1011">Question 11: 0011 1011</h4>
+<p><em>~ 59</em></p>
+<h4 id="question-12-0000-0111">Question 12: 0000 0111</h4>
+<p><em>~ 7</em></p>
+<h2 id="task-3-binary-to-decimel">Task 3: Binary to Decimel</h2>
+<h4 id="question-1-238">Question 1: 238</h4>
+<p><em>~ 11101110</em></p>
+<h4 id="question-2-34">Question 2: 34</h4>
+<p><em>~ 00100010</em></p>
+<h4 id="question-3-123">Question 3: 123</h4>
+<p><em>~ 01111011</em></p>
+<h4 id="question-4-50">Question 4: 50</h4>
+<p><em>~ 00110010</em></p>
+<h4 id="question-5-255">Question 5: 255</h4>
+<p><em>~ 11111111</em></p>
+<h4 id="question-6-200">Question 6: 200</h4>
+<p><em>~ 11001000</em></p>
+<h4 id="question-7-10">Question 7: 10</h4>
+<p><em>~ 00001010</em></p>
+<h4 id="question-8-138">Question 8: 138</h4>
+<p><em>~ 10001010</em></p>
+<h4 id="question-9-1">Question 9: 1</h4>
+<p><em>~ 00000001</em></p>
+<h4 id="question-10-13">Question 10: 13</h4>
+<p><em>~ 00001101</em></p>
+<h4 id="question-11-250">Question 11: 250</h4>
+<p><em>~ 11111010</em></p>
+<h4 id="question-12-114">Question 12: 114</h4>
+<p><em>~ 01110010</em></p>
+<h2 id="task-4-address-class-identification">Task 4: Address Class Identification</h2>
+<h4 id="question-1-1024011">Question 1: 10.240.1.1</h4>
+<p><em>~ A</em></p>
+<h4 id="question-2-15010150">Question 2: 150.10.15.0</h4>
+<p><em>~ B</em></p>
+<h4 id="question-3-1921420">Question 3: 192.14.2.0</h4>
+<p><em>~ C</em></p>
+<h4 id="question-4-1481791">Question 4: 148.17.9.1</h4>
+<p><em>~ B</em></p>
+<h4 id="question-5-1934211">Question 5: 193.42.1.1</h4>
+<p><em>~ C</em></p>
+<h4 id="question-6-12681560">Question 6: 126.8.156.0</h4>
+<p><em>~ A</em></p>
+<h4 id="question-7-220200231">Question 7: 220.200.23.1</h4>
+<p><em>~ C</em></p>
+<h4 id="question-8-2302304558">Question 8: 230.230.45.58</h4>
+<p><em>~ D</em></p>
+<h4 id="question-9-177100184">Question 9: 177.100.18.4</h4>
+<p><em>~ B</em></p>
+<h4 id="question-10-11918450">Question 10: 119.18.45.0</h4>
+<p><em>~ A</em></p>
+<h4 id="question-11-117895645">Question 11: 117.89.56.45</h4>
+<p><em>~ A</em></p>
+<h4 id="question-12-21545450">Question 12: 215.45.45.0</h4>
+<p><em>~ C</em></p>
+<p>that&rsquo;s it ✌🏽</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+        </p>
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-kinda-like-a-street-address-just-cooler">Task 1: Kinda like a street address, just cooler.</a></li>
+        <li><a href="#task-2-binary-to-decimal">Task 2: Binary to Decimal</a></li>
+        <li><a href="#task-3-binary-to-decimel">Task 3: Binary to Decimel</a></li>
+        <li><a href="#task-4-address-class-identification">Task 4: Address Class Identification</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    <a href="/privacy-policy/">Privacy Policy</a> | <a href="/contact-us/">Contact Us</a>
+
+    <span>&copy; 2022 Mansoor Barri</span>
+
+</footer>
+</body>
+</html>

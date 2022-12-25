@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Linux | Install Windows 7</title>
+    <meta name="description" content="Cyber Security, Tech &amp; IT">
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, Windows, debian, ubuntu, Vert Manager'>
+
+    <meta property="og:url" content="https://mansoorbarri.com/how-to/windows7onlinux/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Linux | Install Windows 7">
+    <meta property="og:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="og:image" content="/main.webp">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Linux | Install Windows 7">
+    <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/how-to/windows7onlinux/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/how-to/windows7onlinux/">
+    <meta name="twitter:image" content="/main.webp">
+
+    
+    <link rel="canonical" href="https://mansoorbarri.com/how-to/windows7onlinux/" />
+
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://mansoorbarri.com/css/dark.css">
+
+    <script src="https://mansoorbarri.com/js/svg-injector.min.js"></script>
+    <script src="https://mansoorbarri.com/js/feather-icons.min.js"></script>
+    <script src="https://mansoorbarri.com/js/main.js"></script>
+
+    
+    
+      <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RCCJG9ZD5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RCCJG9ZD5L');
+  </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://mansoorbarri.com">
+                <img src="https://mansoorbarri.com/main.webp" alt="avatar" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://mansoorbarri.com">Mansoor Barri</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/"> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/how-to/"> How to </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/articles/"> Articles </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/projects/"> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/tags/"> Tags </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/"> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/how-to/"> How to </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/articles/"> Articles </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/projects/"> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/tags/"> Tags </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Linux | Install Windows 7</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            January 2, 2022
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/windows">Windows</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/debian">debian</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/ubuntu">ubuntu</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/vert-manager">Vert Manager</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <h1 id="brief">Brief</h1>
+<p>Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.</p>
+<p>We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.</p>
+<p>Machine I am using:
+<img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/machine-windows7Linux.png" alt="Machine ScreenShot" title="Machine ScreenShot"></p>
+<h2 id="step-1-confirm-virtualization">Step 1: Confirm virtualization</h2>
+<p>Open terminal and type</p>
+<pre><code>grep -o &quot;vm\|sum&quot; /proc/cpuinfo
+</code></pre><p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/virtualization-confirmation.png" alt="Output ScreenShot" title="Output ScreenShot"></p>
+<p>here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead. If it doesn’t show anything that means virtualization is not enabled. (search for your make and model and how to enable virtualization in this case since the BIOS menu looks different for every system).</p>
+<h2 id="step-2-downloading">Step 2: Downloading</h2>
+<p>Start downloading <a href="https://bit.ly/2R8XFXO">Windows 7</a>
+Next, install qemu-kvm and its dependencies</p>
+<pre><code>sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils libguestfs-tools genisoimage virtinst libosinfo-bin virt-manager -y
+</code></pre><p>then run</p>
+<pre><code>sudo adduser $USER libvirt &amp;&amp; sudo adduser $USER libvirt-qemu
+</code></pre><p>This command adds user to KVM group</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/KVM-group.png" alt="ScreenShot of command output" title="ScreenShot of command output"></p>
+<h2 id="step-3-installation">Step 3: Installation</h2>
+<ol>
+<li>
+<p>Open Virt Manager</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing1.png" alt=""></p>
+</li>
+<li>
+<p>Go to file -&gt; New Virtual Machine</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing2.png" alt=""></p>
+</li>
+<li>
+<p>Choose &ldquo;Local install media (ISO image or CDROM)&rdquo;</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing3.png" alt=""></p>
+</li>
+<li>
+<p>Browse to your iso file</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing4.png" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing5.png" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing6.png" alt=""></p>
+</li>
+<li>
+<p>In memory give at least half of the host system resources</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing7.png" alt=""></p>
+</li>
+<li>
+<p>Here go with the default options</p>
+<p><img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing8.png" alt=""></p>
+</li>
+<li>
+<p>Here u can change the name of your VM, i am going with win7
+<img src="https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/main/images/windows7onlinux/installing9.png" alt=""></p>
+</li>
+<li>
+<p>Run the Virtual Machine &amp; go with OS install process.</p>
+</li>
+</ol>
+<p>that’s it ✌🏽</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+        </p>
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#brief">Brief</a>
+      <ul>
+        <li><a href="#step-1-confirm-virtualization">Step 1: Confirm virtualization</a></li>
+        <li><a href="#step-2-downloading">Step 2: Downloading</a></li>
+        <li><a href="#step-3-installation">Step 3: Installation</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    <a href="/privacy-policy/">Privacy Policy</a> | <a href="/contact-us/">Contact Us</a>
+
+    <span>&copy; 2022 Mansoor Barri</span>
+
+</footer>
+</body>
+</html>

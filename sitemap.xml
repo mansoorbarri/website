@@ -25,7 +25,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/aoc4/</loc>
+    <loc>https://mansoorbarri.com/write-ups/aoc4/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,7 +39,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/</loc>
+    <loc>https://mansoorbarri.com/write-ups/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,7 +53,14 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/py-to-exe/</loc>
+    <loc>https://mansoorbarri.com/how-to/py-to-exe/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://mansoorbarri.com/how-to/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -61,13 +68,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/tags/nuitka/</loc>
-    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/posts/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,6 +95,13 @@
   
   
   <url>
+    <loc>https://mansoorbarri.com/articles/</loc>
+    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://mansoorbarri.com/tags/fbi/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
@@ -102,7 +109,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/fbi-hack/</loc>
+    <loc>https://mansoorbarri.com/articles/fbi-hack/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +130,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/expose-your-network/</loc>
+    <loc>https://mansoorbarri.com/how-to/expose-your-network/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,7 +165,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/email-cert/</loc>
+    <loc>https://mansoorbarri.com/how-to/email-cert/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,14 +200,14 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/terminal-commands/</loc>
+    <loc>https://mansoorbarri.com/how-to/terminal-commands/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/better-way-to-use-github/</loc>
+    <loc>https://mansoorbarri.com/how-to/better-way-to-use-github/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -235,7 +242,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/comments-hugo/</loc>
+    <loc>https://mansoorbarri.com/how-to/comments-hugo/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -284,7 +291,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/nepra-sidewinder/</loc>
+    <loc>https://mansoorbarri.com/articles/nepra-sidewinder/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -305,7 +312,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/android-screen-mirror/</loc>
+    <loc>https://mansoorbarri.com/how-to/android-screen-mirror/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -326,7 +333,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/termux-ssh/</loc>
+    <loc>https://mansoorbarri.com/how-to/termux-ssh/</loc>
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -347,7 +354,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/advanced-scambaiting/</loc>
+    <loc>https://mansoorbarri.com/how-to/advanced-scambaiting/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -375,7 +382,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/phoneinfoga/</loc>
+    <loc>https://mansoorbarri.com/how-to/phoneinfoga/</loc>
     <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -389,7 +396,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/hugo-lan/</loc>
+    <loc>https://mansoorbarri.com/how-to/hugo-lan/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -417,7 +424,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/termux-repo/</loc>
+    <loc>https://mansoorbarri.com/how-to/termux-repo/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -431,7 +438,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/scambaiting101/</loc>
+    <loc>https://mansoorbarri.com/how-to/scambaiting101/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -452,14 +459,14 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/threatinteltools/</loc>
+    <loc>https://mansoorbarri.com/write-ups/threatinteltools/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/introtoav/</loc>
+    <loc>https://mansoorbarri.com/write-ups/introtoav/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -473,7 +480,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/linux-firewall/</loc>
+    <loc>https://mansoorbarri.com/how-to/linux-firewall/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,7 +515,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/remove-viruses/</loc>
+    <loc>https://mansoorbarri.com/how-to/remove-viruses/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -522,7 +529,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/better-apt/</loc>
+    <loc>https://mansoorbarri.com/how-to/better-apt/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -536,7 +543,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/dark-instagram/</loc>
+    <loc>https://mansoorbarri.com/how-to/dark-instagram/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -557,63 +564,63 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/linuxmodules/</loc>
+    <loc>https://mansoorbarri.com/write-ups/linuxmodules/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/burpsuiterepeater/</loc>
+    <loc>https://mansoorbarri.com/write-ups/burpsuiterepeater/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/burpsuitebasics/</loc>
+    <loc>https://mansoorbarri.com/write-ups/burpsuitebasics/</loc>
     <lastmod>2022-04-18T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/dnsmanipulation/</loc>
+    <loc>https://mansoorbarri.com/write-ups/dnsmanipulation/</loc>
     <lastmod>2022-04-17T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/redteamengagements/</loc>
+    <loc>https://mansoorbarri.com/write-ups/redteamengagements/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/redteamrecon/</loc>
+    <loc>https://mansoorbarri.com/write-ups/redteamrecon/</loc>
     <lastmod>2022-04-15T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/cryptographyfordummies/</loc>
+    <loc>https://mansoorbarri.com/write-ups/cryptographyfordummies/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/commonattacks/</loc>
+    <loc>https://mansoorbarri.com/write-ups/commonattacks/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/hosting/</loc>
+    <loc>https://mansoorbarri.com/how-to/hosting/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -627,21 +634,21 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/rptmux/</loc>
+    <loc>https://mansoorbarri.com/write-ups/rptmux/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/bypassinguac/</loc>
+    <loc>https://mansoorbarri.com/write-ups/bypassinguac/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/introdigitalforensics/</loc>
+    <loc>https://mansoorbarri.com/write-ups/introdigitalforensics/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -662,7 +669,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/ssl-apache/</loc>
+    <loc>https://mansoorbarri.com/how-to/ssl-apache/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -676,7 +683,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/remove-dualboot/</loc>
+    <loc>https://mansoorbarri.com/how-to/remove-dualboot/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -697,14 +704,14 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/disable-updates/</loc>
+    <loc>https://mansoorbarri.com/how-to/disable-updates/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/auto-updates/</loc>
+    <loc>https://mansoorbarri.com/how-to/auto-updates/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -725,7 +732,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/twitter-bot/</loc>
+    <loc>https://mansoorbarri.com/how-to/twitter-bot/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -753,14 +760,14 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/nmap/</loc>
+    <loc>https://mansoorbarri.com/how-to/nmap/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/email-forwarding-cloudflare/</loc>
+    <loc>https://mansoorbarri.com/how-to/email-forwarding-cloudflare/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -774,7 +781,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/redteamfundamentals/</loc>
+    <loc>https://mansoorbarri.com/write-ups/redteamfundamentals/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -788,21 +795,21 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/beef-debian/</loc>
+    <loc>https://mansoorbarri.com/how-to/beef-debian/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/wreath/</loc>
+    <loc>https://mansoorbarri.com/write-ups/wreath/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/saved-wifi-pwd/</loc>
+    <loc>https://mansoorbarri.com/how-to/saved-wifi-pwd/</loc>
     <lastmod>2022-01-16T23:39:49+05:30</lastmod>
   </url>
   
@@ -816,28 +823,28 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/bpnetworking/</loc>
+    <loc>https://mansoorbarri.com/write-ups/bpnetworking/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/toolboxvim/</loc>
+    <loc>https://mansoorbarri.com/write-ups/toolboxvim/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/basicpentestingjt/</loc>
+    <loc>https://mansoorbarri.com/write-ups/basicpentestingjt/</loc>
     <lastmod>2022-01-04T00:00:00+00:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>https://mansoorbarri.com/posts/windows7onlinux/</loc>
+    <loc>https://mansoorbarri.com/how-to/windows7onlinux/</loc>
     <lastmod>2022-01-02T23:39:49+05:30</lastmod>
   </url>
   
@@ -851,7 +858,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/writeups/furthernmap/</loc>
+    <loc>https://mansoorbarri.com/write-ups/furthernmap/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url>
   

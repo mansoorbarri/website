@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Linux | UFW</title>
+    <meta name="description" content="Cyber Security, Tech &amp; IT">
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, ufw, ubuntu, security, linux'>
+
+    <meta property="og:url" content="https://mansoorbarri.com/how-to/linux-firewall/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Linux | UFW">
+    <meta property="og:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="og:image" content="/main.webp">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Linux | UFW">
+    <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/how-to/linux-firewall/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/how-to/linux-firewall/">
+    <meta name="twitter:image" content="/main.webp">
+
+    
+    <link rel="canonical" href="https://mansoorbarri.com/how-to/linux-firewall/" />
+
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://mansoorbarri.com/css/dark.css">
+
+    <script src="https://mansoorbarri.com/js/svg-injector.min.js"></script>
+    <script src="https://mansoorbarri.com/js/feather-icons.min.js"></script>
+    <script src="https://mansoorbarri.com/js/main.js"></script>
+
+    
+    
+      <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RCCJG9ZD5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RCCJG9ZD5L');
+  </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://mansoorbarri.com">
+                <img src="https://mansoorbarri.com/main.webp" alt="avatar" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://mansoorbarri.com">Mansoor Barri</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/"> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/how-to/"> How to </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/articles/"> Articles </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/projects/"> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://mansoorbarri.com/tags/"> Tags </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/"> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/how-to/"> How to </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/articles/"> Articles </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/write-ups/"> Write-ups </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/projects/"> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://mansoorbarri.com/tags/"> Tags </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Linux | UFW</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            August 5, 2022
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/ufw">ufw</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/ubuntu">ubuntu</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/security">security</a></li>
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/linux">linux</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <p>Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux systems.</p>
+<h1 id="install">Install</h1>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt-get update  
+sudo apt-get install ufw  
+</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/linux-firewall/2022.png?raw=true" alt=""></p>
+<h1 id="verify-install">Verify Install</h1>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo ufw status
+</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/linux-firewall/2022_1.png?raw=true" alt=""></p>
+<h1 id="basic-blocks">Basic Blocks</h1>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo ufw default deny incoming  
+sudo ufw default allow outgoing
+</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/linux-firewall/2022_2.png?raw=true" alt=""></p>
+<h1 id="enable-firewall">Enable Firewall</h1>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo ufw enable
+</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/linux-firewall/2022_3.png?raw=true" alt=""></p>
+<h1 id="blocking-ports">Blocking Ports</h1>
+<p>you can block any port by &ldquo;sudo ufw deny PORT&rdquo; for example, to block port 76 type:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo ufw deny <span style="color:#ae81ff">76</span>
+</code></pre></div><h1 id="allow-ports">Allow Ports</h1>
+<p>you can allow any port by &ldquo;sudo ufw allow PORT&rdquo; for example, to allow port 22 (default SSH port) type:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo ufw allow <span style="color:#ae81ff">22</span>
+</code></pre></div><h2 id="video">Video</h2>
+ 
+
+<video width=100% muted autoplay loop>
+    <source src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/linux-firewall/video.m4v?raw=true" type="video/webm">
+        your browser doesn't support video tag.
+</video>
+
+
+
+<p><em>Right click and check &ldquo;Show all controls&rdquo; to see video controls</em>*</p>
+<h1 id="conclusion">Conclusion</h1>
+<p>For a home base user UFW is more than enough. Play around with UFW to learn more, &ldquo;sudo ufw -h&rdquo; is the wayyy :)</p>
+<p>that&rsquo;s it ✌🏽</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+        </p>
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#install">Install</a></li>
+    <li><a href="#verify-install">Verify Install</a></li>
+    <li><a href="#basic-blocks">Basic Blocks</a></li>
+    <li><a href="#enable-firewall">Enable Firewall</a></li>
+    <li><a href="#blocking-ports">Blocking Ports</a></li>
+    <li><a href="#allow-ports">Allow Ports</a>
+      <ul>
+        <li><a href="#video">Video</a></li>
+      </ul>
+    </li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    <a href="/privacy-policy/">Privacy Policy</a> | <a href="/contact-us/">Contact Us</a>
+
+    <span>&copy; 2022 Mansoor Barri</span>
+
+</footer>
+</body>
+</html>

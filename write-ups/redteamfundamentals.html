@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>THM | Red Team Fundamentals</title>
+    <meta name="description" content="Cyber Security, Tech &amp; IT">
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, writeups, thm'>
+
+    <meta property="og:url" content="/write-ups/redteamfundamentals.html">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="THM | Red Team Fundamentals">
+    <meta property="og:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="og:image" content="/main.webp">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="THM | Red Team Fundamentals">
+    <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
+    <meta property="twitter:domain" content="/write-ups/redteamfundamentals.html">
+    <meta property="twitter:url" content="/write-ups/redteamfundamentals.html">
+    <meta name="twitter:image" content="/main.webp">
+
+    
+    <link rel="canonical" href="../write-ups/redteamfundamentals.html" />
+
+    <link rel="stylesheet" type="text/css" href="//css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="//css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="//css/dark.css">
+
+    <script src="//js/svg-injector.min.js"></script>
+    <script src="//js/feather-icons.min.js"></script>
+    <script src="//js/main.js"></script>
+
+    
+    
+      <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RCCJG9ZD5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RCCJG9ZD5L');
+  </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="../">
+                <img src="//main.webp" alt="avatar" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="../">Mansoor Barri</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="../"> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="../how-to/"> How to </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="../articles/"> Articles </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="../write-ups/"> Write-ups </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="../projects/"> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="../tags/"> Tags </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="../"> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="../how-to/"> How to </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="../articles/"> Articles </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="../write-ups/"> Write-ups </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="../projects/"> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="../tags/"> Tags </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/mansoorbarri"><span data-feather='github'></span>  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.buymeacoffee.com/avijitgupta"><span data-feather='coffee'></span>  </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>THM | Red Team Fundamentals</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            February 16, 2022
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="../tags/writeups">writeups</a></li>
+        
+            <li class="post-tag"><a href="../tags/thm">thm</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <h2 id="room">Room</h2>
+<p><a href="https://tryhackme.com/room/redteamfundamentals">https://tryhackme.com/room/redteamfundamentals</a></p>
+<h2 id="task-1-introduction">Task 1: Introduction</h2>
+<h4 id="question-1-click-to-continue-to-the-next-task">Question 1: Click to continue to the next task</h4>
+<p><em>No Answer Needed</em></p>
+<h2 id="task-2-vulnerability-assessment-and-penetration-tests-limitations">Task 2: Vulnerability Assessment and Penetration Tests Limitations</h2>
+<h4 id="question-1-would-vulnerability-assessments-prepare-us-to-detect-a-real-attacker-on-our-networks-yaynay">Question 1: Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay)</h4>
+<p><em>~ Nay</em></p>
+<h4 id="question-2-during-a-penetration-test-are-you-concerned-about-being-detected-by-the-client-yaynay">Question 2: During a penetration test, are you concerned about being detected by the client? (Yay/Nay)</h4>
+<p><em>~ Nay</em></p>
+<h4 id="question-3-highly-organised-groups-of-skilled-attackers-are-nowadays-referred-to-as-">Question 3: Highly organised groups of skilled attackers are nowadays referred to as …</h4>
+<p><em>~ advanced persistent theats</em></p>
+<h2 id="task-3-red-team-engagements">Task 3: Red Team Engagements</h2>
+<h4 id="question-1-the-goals-of-a-red-team-engagement-will-often-be-referred-to-as-flags-or">Question 1: The goals of a red team engagement will often be referred to as flags or..</h4>
+<p><em>~ crown jewels</em></p>
+<h4 id="question-2-during-a-red-team-engagement-common-methods-used-by-attackers-are-emulated-against-the-target-such-methods-are-usually-called-ttps-what-does-ttp-stand-for">Question 2: During a red team engagement, common methods used by attackers are emulated against the target. Such methods are usually called TTPs. What does TTP stand for?</h4>
+<p><em>~ Tactics, techniques and procedures</em></p>
+<h4 id="question-3-the-main-objective-of-a-red-team-engagement-is-to-detect-as-many-vulnerabilities-in-as-many-hosts-as-possible-yaynay">Question 3: The main objective of a red team engagement is to detect as many vulnerabilities in as many hosts as possible (Yay/Nay)</h4>
+<p><em>~ Nay</em></p>
+<h2 id="task-4-teams-and-functions-of-an-engagement">Task 4: Teams and Functions of an Engagement</h2>
+<h4 id="question-1-what-cell-is-responsible-for-the-offensive-operations-of-an-enagagement">Question 1: What cell is responsible for the offensive operations of an enagagement?</h4>
+<p><em>~ Red Cell</em></p>
+<h4 id="question-2-what-cell-is-the-trusted-agent-considered-part-of">Question 2: What cell is the trusted agent considered part of?</h4>
+<p><em>~ white cell</em></p>
+<h2 id="task-5-engagement-stucture">Task 5: Engagement Stucture</h2>
+<h4 id="question-1-if-an-adversary-deployed-mimikatz-on-a-target-machine-where-would-they-be-placed-in-the-lockheed-martin-cyber-kill-chain">Question 1: If an adversary deployed Mimikatz on a target machine, where would they be placed in the Lockheed Martin cyber kill chain?</h4>
+<p><em>~ Installation</em></p>
+<h4 id="question-2-what-techniques-purpose-is-to-exploit-he-targets-system-to-execute-code">Question 2: What technique’s purpose is to exploit he target’s system to execute code?</h4>
+<p><em>~ Exploitation</em></p>
+<h2 id="task-6-overview-of-a-red-team-engagement">Task 6: Overview of a Red Team Engagement</h2>
+<h4 id="click-the-view-site-button-and-follow-the-example-engagement-to-get-the-flag">Click the View Site” button and follow the example engagement to get the flag</h4>
+<p><em>~ THM{RED_TEAM_ROCKS}</em></p>
+<h2 id="task-7-conclusion">Task 7: Conclusion</h2>
+<p><em>No Answer Needed</em></p>
+<p>that&rsquo;s it ✌🏽</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+        </p>
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#room">Room</a></li>
+        <li><a href="#task-1-introduction">Task 1: Introduction</a></li>
+        <li><a href="#task-2-vulnerability-assessment-and-penetration-tests-limitations">Task 2: Vulnerability Assessment and Penetration Tests Limitations</a></li>
+        <li><a href="#task-3-red-team-engagements">Task 3: Red Team Engagements</a></li>
+        <li><a href="#task-4-teams-and-functions-of-an-engagement">Task 4: Teams and Functions of an Engagement</a></li>
+        <li><a href="#task-5-engagement-stucture">Task 5: Engagement Stucture</a></li>
+        <li><a href="#task-6-overview-of-a-red-team-engagement">Task 6: Overview of a Red Team Engagement</a></li>
+        <li><a href="#task-7-conclusion">Task 7: Conclusion</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    <a href="../privacy-policy/">Privacy Policy</a> | <a href="../contact-us/">Contact Us</a>
+
+    <span>&copy; 2022 Mansoor Barri</span>
+
+</footer>
+</body>
+</html>

@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vital Terminal Tools</title>
-      <link>https://mansoorbarri.com/posts/terminal-commands/</link>
+      <link>https://mansoorbarri.com/how-to/terminal-commands/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/terminal-commands/</guid>
+      <guid>https://mansoorbarri.com/how-to/terminal-commands/</guid>
       <description>TLDR A humane version of man pages.
 Install pip3 install tldr AutoJump A faster way to navigate your filesystem. Saves a lot of time.
 Install sudo apt install autojump Trash-CLI Deletes the files to recycle bin in terminal.
@@ -22,10 +22,10 @@ alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of file
     
     <item>
       <title>Linux | View Saved WiFi Passwords</title>
-      <link>https://mansoorbarri.com/posts/saved-wifi-pwd/</link>
+      <link>https://mansoorbarri.com/how-to/saved-wifi-pwd/</link>
       <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://mansoorbarri.com/posts/saved-wifi-pwd/</guid>
+      <guid>https://mansoorbarri.com/how-to/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
 that’s it ✌🏽
