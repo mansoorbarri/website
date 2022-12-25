@@ -193,7 +193,7 @@
 <p><strong>IT IS NOT RECOMMENDED TO DO THESE THINGS AS SCAMBAITING</strong></p>
 <h2 id="reverse-anydesk-connection">Reverse Anydesk connection</h2>
 <p>First you have to let them connect to your PC, make sure you see their anydesk ID before accepting their connection request.</p>
-<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/advanced-scambaiting/2022.png?raw=true" alt="anydesk request pop-up"></p>
+<p><img src="https://github.com/mansoorbarri/website/blob/main/images/advanced-scambaiting/2022.png?raw=true" alt="anydesk request pop-up"></p>
 <p>then send them anydesk request from another PC or the host PC (if you are using VM) at the same time, when accepting their anydesk connection request. If you time it perfecting and you have an inexperienced scammer, you should be connected to the scammer&rsquo;s PC.</p>
 <h2 id="getting-their-ip">Getting their IP</h2>
 <p>For this you need a software known as <a href="https://www.wireshark.org/">Wireshark</a></p>
@@ -204,7 +204,7 @@
 </code></pre><h4 id="when-connected-via-anydesk">When connected via Anydesk:</h4>
 <p>run a scan before scammer&rsquo;s request, accept the request and save the wireshark capture (just in case). enter &ldquo;ip.src == [your-local-ip] &amp;&amp; tcp.port 7070&rdquo; as filter, this will narrow down capture results to packet from the given ip and only tcp packets.</p>
 <p>In most cases, the scammer&rsquo;s IP would be from the result as shown here:</p>
-<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/advanced-scambaiting/2022_1.png?raw=true" alt="wireshark with the filter"></p>
+<p><img src="https://github.com/mansoorbarri/website/blob/main/images/advanced-scambaiting/2022_1.png?raw=true" alt="wireshark with the filter"></p>
 <p>You might have to look-up all the IPs to know the exact one.</p>
 <h4 id="when-connected-via-teamviewer">When connected via TeamViewer</h4>
 <p>You can&rsquo;t really get their IP via TeamViewer since TeamViewer uses proxy servers to connect both parties which is a bummer for us, your only option at this point is social engineering.</p>

