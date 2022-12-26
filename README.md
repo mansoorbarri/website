@@ -3,7 +3,7 @@ A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokar
 
 ## Screenshots
 
-![site Screenshot](https://raw.githubusercontent.com/mansoorbarri/mansoor.github.io/master/image.png)
+![site Screenshot](https://raw.githubusercontent.com/mansoorbarri/website/master/main.png)
 
 
 ## Demo
