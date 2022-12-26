@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>android on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/android/</link>
+    <link>https://mansoorbarri.com/tags/android/</link>
     <description>Recent content in android on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mirror Android Screen with Sound</title>
-      <link>https://beta.mansoorbarri.com/how-to/android-screen-mirror/</link>
+      <link>https://mansoorbarri.com/how-to/android-screen-mirror/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/how-to/android-screen-mirror/</guid>
+      <guid>https://mansoorbarri.com/how-to/android-screen-mirror/</guid>
       <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
 Tools Scrcpy - for screen mirror
 sndcpy - for sound
@@ -23,10 +23,10 @@ Mirror Screen with Scrcpy First, go to your device settings and enable developer
     
     <item>
       <title>SSH into Termux</title>
-      <link>https://beta.mansoorbarri.com/how-to/termux-ssh/</link>
+      <link>https://mansoorbarri.com/how-to/termux-ssh/</link>
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/how-to/termux-ssh/</guid>
+      <guid>https://mansoorbarri.com/how-to/termux-ssh/</guid>
       <description>Just do the following steps:
 Install OpenSSH on Termux: pkg upgrade &amp;amp;&amp;amp; pkg install openssh Setup a password for Termux: passwd Get your username: whoami Start SSH server sshd Connect! From your computer ssh like usual; the default port Termux uses for SSH is 8022.
 example:

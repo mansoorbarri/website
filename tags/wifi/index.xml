@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wifi on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/wifi/</link>
+    <link>https://mansoorbarri.com/tags/wifi/</link>
     <description>Recent content in Wifi on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Jan 2022 23:39:49 +0530</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 23:39:49 +0530</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux | View Saved WiFi Passwords</title>
-      <link>https://beta.mansoorbarri.com/how-to/saved-wifi-pwd/</link>
+      <link>https://mansoorbarri.com/how-to/saved-wifi-pwd/</link>
       <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/how-to/saved-wifi-pwd/</guid>
+      <guid>https://mansoorbarri.com/how-to/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
 that’s it ✌🏽

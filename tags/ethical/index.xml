@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ethical on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/ethical/</link>
+    <link>https://mansoorbarri.com/tags/ethical/</link>
     <description>Recent content in ethical on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/ethical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/ethical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started - PhoneInFoga</title>
-      <link>https://beta.mansoorbarri.com/how-to/phoneinfoga/</link>
+      <link>https://mansoorbarri.com/how-to/phoneinfoga/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/how-to/phoneinfoga/</guid>
+      <guid>https://mansoorbarri.com/how-to/phoneinfoga/</guid>
       <description>Brief PhoneInFoga - Information gathering &amp;amp; OSINT framework for phone numbers.
 This install guide is specific to Debian/Ubuntu machines, for other installation options, visit PhoneInfoga&amp;rsquo;s install page.
 Install Installation documentation

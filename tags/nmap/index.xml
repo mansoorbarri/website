@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nmap on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/nmap/</link>
+    <link>https://mansoorbarri.com/tags/nmap/</link>
     <description>Recent content in Nmap on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/nmap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/nmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nmap quick start</title>
-      <link>https://beta.mansoorbarri.com/how-to/nmap/</link>
+      <link>https://mansoorbarri.com/how-to/nmap/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/how-to/nmap/</guid>
+      <guid>https://mansoorbarri.com/how-to/nmap/</guid>
       <description>DISCLAIMER THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL OR ETHICAL HACKING PURPOSE. MISUSE OF THIS TOOL WILL LEAD TO PROSECUTION.
 Brief Nmap - the network mapper.
 install Debian sudo apt install nmap Snap sudo snap install nmap Basic Arguments 1. pingging whole network -sP nmap -sP &amp;lt;ip/24&amp;gt; For example:
