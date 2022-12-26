@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/articles/</link>
+    <link>https://beta.mansoorbarri.com/articles/</link>
     <description>Recent content in Articles on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FBI Just Got Hacked</title>
-      <link>https://mansoorbarri.com/articles/fbi-hack/</link>
+      <link>https://beta.mansoorbarri.com/articles/fbi-hack/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/articles/fbi-hack/</guid>
+      <guid>https://beta.mansoorbarri.com/articles/fbi-hack/</guid>
       <description>Background As there webstie says, &amp;ldquo;InfraGard is a partnership between the Federal Bureau of Investigation (FBI) and members of the private sector for the protection of U.S. Critical Infrastructure. Through seamless collaboration, InfraGard connects owners and operators within critical infrastructure to the FBI, to provide education, information sharing, networking, and workshops on emerging technologies and threats. InfraGard’s membership includes: business executives, entrepreneurs, lawyers, security personnel, military and government officials, IT professionals, academia and state and local law enforcement—all dedicated to contributing industry-specific insight and advancing national security.</description>
     </item>
     
     <item>
       <title>SideWinder&#39;s attack on Pakistan&#39;s NEPRA</title>
-      <link>https://mansoorbarri.com/articles/nepra-sidewinder/</link>
+      <link>https://beta.mansoorbarri.com/articles/nepra-sidewinder/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/articles/nepra-sidewinder/</guid>
+      <guid>https://beta.mansoorbarri.com/articles/nepra-sidewinder/</guid>
       <description>Background SideWinder is an Indian state-backed Hacker group predominantly known for targetting Pakistan military and other organisations for intel for their own national security. They are also known to target other South &amp;amp; East Asian countries and their institutions like: Nepali Ministry of Defence and Foreign Affairs, Nepali Army, Afghanistan National Security Council &amp;amp; Sri Lankan Defence Ministry.
 July 2022 Recently, SideWinder targetted Pakistan&amp;rsquo;s National Electric Power Regulatory Authority (NEPRA) with a personalised malware named WarHawk.</description>
     </item>

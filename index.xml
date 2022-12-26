@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mansoor Barri</title>
-    <link>https://mansoorbarri.com/</link>
+    <link>https://beta.mansoorbarri.com/</link>
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>THM | Advent Of Cyber 4</title>
-      <link>https://mansoorbarri.com/write-ups/aoc4/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/aoc4/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/aoc4/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/aoc4/</guid>
       <description>Room Advent Of Cyber 4
 Day 1 | Someone&amp;rsquo;s coming to town! Question 1: Who is the adversary that attacked Santa&amp;rsquo;s network this year? The Bandit Yeti Question 2: What&amp;rsquo;s the flag that they left behind? THM{IT&#39;S A Y3T1 CHR1$TMA$} Day 2 | Santa&amp;rsquo;s Naughty &amp;amp; Nice Log Question 1: Ensure you are connected to the deployable machine in this task. No answer needed
 Question 2: Use the ls command to list the files present in the current directory.</description>
@@ -20,10 +20,10 @@ Question 2: Use the ls command to list the files present in the current director
     
     <item>
       <title>Convert Python files to Windows executable files</title>
-      <link>https://mansoorbarri.com/how-to/py-to-exe/</link>
+      <link>https://beta.mansoorbarri.com/how-to/py-to-exe/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/py-to-exe/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/py-to-exe/</guid>
       <description>Prerequisites  You should have all the modules installed before compiling You should have all the requirements for the python file before compiling it  Install Nuitka on Windows   Go to Go to nuitka.net/download/windows which will download a .msi file
   Run the file and click on &amp;ldquo;More info&amp;rdquo;
   Click on &amp;ldquo;Run anyway&amp;rdquo;
@@ -33,29 +33,29 @@ Question 2: Use the ls command to list the files present in the current director
     
     <item>
       <title>FBI Just Got Hacked</title>
-      <link>https://mansoorbarri.com/articles/fbi-hack/</link>
+      <link>https://beta.mansoorbarri.com/articles/fbi-hack/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/articles/fbi-hack/</guid>
+      <guid>https://beta.mansoorbarri.com/articles/fbi-hack/</guid>
       <description>Background As there webstie says, &amp;ldquo;InfraGard is a partnership between the Federal Bureau of Investigation (FBI) and members of the private sector for the protection of U.S. Critical Infrastructure. Through seamless collaboration, InfraGard connects owners and operators within critical infrastructure to the FBI, to provide education, information sharing, networking, and workshops on emerging technologies and threats. InfraGard’s membership includes: business executives, entrepreneurs, lawyers, security personnel, military and government officials, IT professionals, academia and state and local law enforcement—all dedicated to contributing industry-specific insight and advancing national security.</description>
     </item>
     
     <item>
       <title>Expose Your Network To The Internet Without Port Forwarding</title>
-      <link>https://mansoorbarri.com/how-to/expose-your-network/</link>
+      <link>https://beta.mansoorbarri.com/how-to/expose-your-network/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/expose-your-network/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/expose-your-network/</guid>
       <description>Prerequisite This method is entirely free of costs however, you will just need a cloudflare account and a domain which is using Cloudflare&amp;rsquo;s nameserver&amp;rsquo;s or is bought with Cloudflare. You can signup with cloudflare on cloudflare.com/signup.
 Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you to expose anything to the internet securely. This can be a website, proxmox server, plex server, docker container or just about anything which requires you to port forward from your router.</description>
     </item>
     
     <item>
       <title>How To Get a Email Verified Badge</title>
-      <link>https://mansoorbarri.com/how-to/email-cert/</link>
+      <link>https://beta.mansoorbarri.com/how-to/email-cert/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/email-cert/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/email-cert/</guid>
       <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it’s not really necessary plus it’s a pain to set it up correctly.
 Getting Email Certificate Go to Actalis&#39;s website Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.
 *Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
@@ -63,10 +63,10 @@ Getting Email Certificate Go to Actalis&#39;s website Enter the email you want t
     
     <item>
       <title>Vital Terminal Tools</title>
-      <link>https://mansoorbarri.com/how-to/terminal-commands/</link>
+      <link>https://beta.mansoorbarri.com/how-to/terminal-commands/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/terminal-commands/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/terminal-commands/</guid>
       <description>TLDR A humane version of man pages.
 Install pip3 install tldr AutoJump A faster way to navigate your filesystem. Saves a lot of time.
 Install sudo apt install autojump Trash-CLI Deletes the files to recycle bin in terminal.
@@ -76,10 +76,10 @@ alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of file
     
     <item>
       <title>Better Way To Use GitHub</title>
-      <link>https://mansoorbarri.com/how-to/better-gihub/</link>
+      <link>https://beta.mansoorbarri.com/how-to/better-gihub/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/better-gihub/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/better-gihub/</guid>
       <description>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.
 Install Debian
 sudo apt install gh Windows
@@ -89,10 +89,10 @@ Set your repo to use GH auth git remote set-url origin git@github.com:mansoorbar
     
     <item>
       <title>Comments on HUGO site</title>
-      <link>https://mansoorbarri.com/how-to/comments-hugo/</link>
+      <link>https://beta.mansoorbarri.com/how-to/comments-hugo/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/comments-hugo/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/comments-hugo/</guid>
       <description>Here I&amp;rsquo;m using Hugo theme called GoKarna but you can pretty much do this with any Hugo theme.
 HUGO Setup make a file with the name &amp;ldquo;rawhtml.html&amp;rdquo; in /layours.shortcodes directory of your theme and put the follwing line.
 *if your don&amp;rsquo;t have the shortcodes directory, you can make one.
@@ -103,20 +103,20 @@ Add comments Now add the raw html tag followed by your HTML code from utteranc.<
     
     <item>
       <title>SideWinder&#39;s attack on Pakistan&#39;s NEPRA</title>
-      <link>https://mansoorbarri.com/articles/nepra-sidewinder/</link>
+      <link>https://beta.mansoorbarri.com/articles/nepra-sidewinder/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/articles/nepra-sidewinder/</guid>
+      <guid>https://beta.mansoorbarri.com/articles/nepra-sidewinder/</guid>
       <description>Background SideWinder is an Indian state-backed Hacker group predominantly known for targetting Pakistan military and other organisations for intel for their own national security. They are also known to target other South &amp;amp; East Asian countries and their institutions like: Nepali Ministry of Defence and Foreign Affairs, Nepali Army, Afghanistan National Security Council &amp;amp; Sri Lankan Defence Ministry.
 July 2022 Recently, SideWinder targetted Pakistan&amp;rsquo;s National Electric Power Regulatory Authority (NEPRA) with a personalised malware named WarHawk.</description>
     </item>
     
     <item>
       <title>Mirror Android Screen with Sound</title>
-      <link>https://mansoorbarri.com/how-to/android-screen-mirror/</link>
+      <link>https://beta.mansoorbarri.com/how-to/android-screen-mirror/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/android-screen-mirror/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/android-screen-mirror/</guid>
       <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
 Tools Scrcpy - for screen mirror
 sndcpy - for sound
@@ -127,10 +127,10 @@ Mirror Screen with Scrcpy First, go to your device settings and enable developer
     
     <item>
       <title>SSH into Termux</title>
-      <link>https://mansoorbarri.com/how-to/termux-ssh/</link>
+      <link>https://beta.mansoorbarri.com/how-to/termux-ssh/</link>
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/termux-ssh/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/termux-ssh/</guid>
       <description>Just do the following steps:
 Install OpenSSH on Termux: pkg upgrade &amp;amp;&amp;amp; pkg install openssh Setup a password for Termux: passwd Get your username: whoami Start SSH server sshd Connect! From your computer ssh like usual; the default port Termux uses for SSH is 8022.
 example:
@@ -142,10 +142,10 @@ ssh u0_a231@192.168.0.10 -p 8022 Video your browser doesn&#39;t support video ta
     
     <item>
       <title>Advanced Scambaiting</title>
-      <link>https://mansoorbarri.com/how-to/advanced-scambaiting/</link>
+      <link>https://beta.mansoorbarri.com/how-to/advanced-scambaiting/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/advanced-scambaiting/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/advanced-scambaiting/</guid>
       <description>Disclaimer DO THESE THINGS AT YOUR OWN RISK
 IT IS NOT RECOMMENDED TO DO THESE THINGS AS SCAMBAITING
 Reverse Anydesk connection First you have to let them connect to your PC, make sure you see their anydesk ID before accepting their connection request.
@@ -154,10 +154,10 @@ then send them anydesk request from another PC or the host PC (if you are using 
     
     <item>
       <title>Getting Started - PhoneInFoga</title>
-      <link>https://mansoorbarri.com/how-to/phoneinfoga/</link>
+      <link>https://beta.mansoorbarri.com/how-to/phoneinfoga/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/phoneinfoga/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/phoneinfoga/</guid>
       <description>Brief PhoneInFoga - Information gathering &amp;amp; OSINT framework for phone numbers.
 This install guide is specific to Debian/Ubuntu machines, for other installation options, visit PhoneInfoga&amp;rsquo;s install page.
 Install Installation documentation
@@ -172,10 +172,10 @@ phoneinfoga -n +1234567891 The output is kinda weird and messy so using the web 
     
     <item>
       <title>Hugo Server on LAN</title>
-      <link>https://mansoorbarri.com/how-to/hugo-lan/</link>
+      <link>https://beta.mansoorbarri.com/how-to/hugo-lan/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/hugo-lan/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/hugo-lan/</guid>
       <description>Brief [IP-ADD] is your local IP address.
 Command use this command instead of &amp;ldquo;hugo server&amp;rdquo;
 hugo server --bind [IP-ADD] --baseURL http://[IP-ADD] Conclusion visit http://[IP-ADD] from any device on your LAN to view the temporary hugo site.
@@ -185,10 +185,10 @@ that&amp;rsquo;s it ✌🏽
     
     <item>
       <title>Fixed - Termux Repository Under Maintenance Issue</title>
-      <link>https://mansoorbarri.com/how-to/termux-repo/</link>
+      <link>https://beta.mansoorbarri.com/how-to/termux-repo/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/termux-repo/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/termux-repo/</guid>
       <description>Error error looks something like this:
 This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest &amp;amp; greatest version.
 Fix visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and install the APK normally.
@@ -199,20 +199,20 @@ that&amp;rsquo;s it ✌🏽
     
     <item>
       <title>Getting Started with Scambaiting</title>
-      <link>https://mansoorbarri.com/how-to/scambaiting101/</link>
+      <link>https://beta.mansoorbarri.com/how-to/scambaiting101/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/scambaiting101/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/scambaiting101/</guid>
       <description>Getting started Keep in mind that you are dealing with people who are criminals, giving your personal information is stupid to say the least. Making a fake persona here is helpful and what most people do.
 A VPN isn&amp;rsquo;t important since there is just enough they can do by finding your IP. A free vpn I suggest is cloudflare&amp;rsquo;s WARP furthermore, there are many cheap VPNs which work great: Private Internet Access &amp;amp; OpenVPN are two of many.</description>
     </item>
     
     <item>
       <title>THM | Threat Intelligence Tools</title>
-      <link>https://mansoorbarri.com/write-ups/threatinteltools/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/threatinteltools/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/threatinteltools/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/threatinteltools/</guid>
       <description>Room https://tryhackme.com/room/threatinteltools
 Task 1-2 no answer needed
 Task 3 - UrlScan.io answers are from the image right above*
@@ -225,10 +225,10 @@ Task 4 - Abuse.ch Question 1: The IOC 212.192.246.30:5555 is linked to which mal
     
     <item>
       <title>THM | Introduction to Antivirus</title>
-      <link>https://mansoorbarri.com/write-ups/introtoav/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/introtoav/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/introtoav/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/introtoav/</guid>
       <description>Room https://tryhackme.com/room/introtoav
 Task 1 - Introduction no answer needed
 Task 2 - Antivirus Software answers are from the text*
@@ -240,10 +240,10 @@ Task 3 - Antivirus Features answers are from the text*</description>
     
     <item>
       <title>Linux | UFW</title>
-      <link>https://mansoorbarri.com/how-to/linux-firewall/</link>
+      <link>https://beta.mansoorbarri.com/how-to/linux-firewall/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/linux-firewall/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/linux-firewall/</guid>
       <description>Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux systems.
 Install sudo apt-get update sudo apt-get install ufw Verify Install sudo ufw status Basic Blocks sudo ufw default deny incoming sudo ufw default allow outgoing Enable Firewall sudo ufw enable Blocking Ports you can block any port by &amp;ldquo;sudo ufw deny PORT&amp;rdquo; for example, to block port 76 type:
 sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow PORT&amp;rdquo; for example, to allow port 22 (default SSH port) type:</description>
@@ -251,10 +251,10 @@ sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow
     
     <item>
       <title>Windows | Remove Viruses From Windows</title>
-      <link>https://mansoorbarri.com/how-to/remove-viruses/</link>
+      <link>https://beta.mansoorbarri.com/how-to/remove-viruses/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/remove-viruses/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/remove-viruses/</guid>
       <description>Tron is a all in one program to remove any viruses from windows and get windows &amp;ldquo;back on it&amp;rsquo;s feet&amp;rdquo;
 Install https://www.reddit.com/r/TronScript/
 Reference Chris Titus has a great video on this explaining everything so I will just link it.
@@ -264,10 +264,10 @@ Reference Chris Titus has a great video on this explaining everything so I will 
     
     <item>
       <title>Linux | Better APT</title>
-      <link>https://mansoorbarri.com/how-to/better-apt/</link>
+      <link>https://beta.mansoorbarri.com/how-to/better-apt/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/better-apt/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/better-apt/</guid>
       <description>why not APT? APT has slow mirrors, APT isn&amp;rsquo;t optimised for performance right out of the box, rolling back updates or installs is pain because there is no concept of history and last but not the least, the look of APT is just mehhh.
 Nala is just better. Nala fixes all these problems right from the start while having APT is the backend.
 Install add repository
@@ -276,10 +276,10 @@ echo &amp;#34;deb http://deb.volian.org/volian/ scar main&amp;#34; | sudo tee /e
     
     <item>
       <title>Dark mode for Instagram Web</title>
-      <link>https://mansoorbarri.com/how-to/dark-instagram/</link>
+      <link>https://beta.mansoorbarri.com/how-to/dark-instagram/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/dark-instagram/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/dark-instagram/</guid>
       <description>just add &amp;ldquo;?theme=dark&amp;rdquo; add the end of instagram url
 for example, www.instagram.com?theme=dark
 that&amp;rsquo;s it ✌🏽
@@ -288,10 +288,10 @@ that&amp;rsquo;s it ✌🏽
     
     <item>
       <title>THM | Linux Modules</title>
-      <link>https://mansoorbarri.com/write-ups/linuxmodules/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/linuxmodules/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/linuxmodules/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/linuxmodules/</guid>
       <description>Room https://tryhackme.com/room/linuxmodules
 Task 1: Let&amp;rsquo;s Introduce No answer needed
 Task 2: du No answer needed
@@ -303,10 +303,10 @@ Download the above given file and answer the following questions. ~ No answer ne
     
     <item>
       <title>THM | Burp Suite: Repeater</title>
-      <link>https://mansoorbarri.com/write-ups/burpsuiterepeater/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/burpsuiterepeater/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/burpsuiterepeater/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/burpsuiterepeater/</guid>
       <description>Room https://tryhackme.com/room/burpsuiterepeater
 Task 1: Introduction Outline No answer needed
 Task 2: Repeater What is Repeater? No answer needed
@@ -320,10 +320,10 @@ Question 3: Send the request.</description>
     
     <item>
       <title>THM | Burp Suite: The Basics</title>
-      <link>https://mansoorbarri.com/write-ups/burpsuitebasics/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/burpsuitebasics/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/burpsuitebasics/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/burpsuitebasics/</guid>
       <description>Room https://tryhackme.com/room/burpsuitebasics
 Task 1: Introduction Outline No answer needed
 Task 2: Getting Started What is Burp Suite? Question 1: Which edition of Burp Suite will we be using in this module? ~ Burp Suite Community
@@ -333,10 +333,10 @@ Question 3: Burp Suite is frequently used when attacking web applications and __
     
     <item>
       <title>THM | DNS Manipulation</title>
-      <link>https://mansoorbarri.com/write-ups/dnsmanipulation/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/dnsmanipulation/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/dnsmanipulation/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/dnsmanipulation/</guid>
       <description>Room https://tryhackme.com/room/dnsmanipulation
 Task 1: Introduction No answer needed
 Task 2: Installation No answer needed
@@ -347,10 +347,10 @@ Question 2: If you were on Linux, what command could you use to query a txt reco
     
     <item>
       <title>THM | Red Team Engagements</title>
-      <link>https://mansoorbarri.com/write-ups/redteamengagements/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/redteamengagements/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/redteamengagements/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/redteamengagements/</guid>
       <description>Room https://tryhackme.com/room/redteamengagements
 Task 1: Introduction No answer needed
 Task 2: Defining Scope and Objectives Question 1-2: No answer needd
@@ -362,10 +362,10 @@ Task 3: Rules of Engagement Question 1: Once downloaded, read the sample documen
     
     <item>
       <title>THM | Red Team Recon</title>
-      <link>https://mansoorbarri.com/write-ups/redteamrecon/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/redteamrecon/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/redteamrecon/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/redteamrecon/</guid>
       <description>Room https://tryhackme.com/room/redteamrecon
 Task 1: Introduction No answer needed
 Task 2: Taxonomy of Reconnaissance No answer needed
@@ -377,10 +377,10 @@ host clinic.thmredteam.com Task 4: Advanced Searching Question 1: How would you 
     
     <item>
       <title>THM | Cryptography for Dummies</title>
-      <link>https://mansoorbarri.com/write-ups/cryptographyfordummies/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/cryptographyfordummies/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/cryptographyfordummies/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/cryptographyfordummies/</guid>
       <description>Room https://tryhackme.com/room/cryptographyfordummies
 Task 1: Intro No answer needed
 Task 2: Types of cryptography Question 1: What type of cryptography is more secure? ~ asymmetric
@@ -392,10 +392,10 @@ Question 5: What will you use to decrypt messages in asymmetric cryptography?</d
     
     <item>
       <title>THM | Common Attacks</title>
-      <link>https://mansoorbarri.com/write-ups/commonattacks/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/commonattacks/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/commonattacks/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/commonattacks/</guid>
       <description>Room https://tryhackme.com/room/commonattacks
 Task 1: Information Introduction Question 1: Let&amp;rsquo;s get started! No answer needed
 Task 2: Common Attacks Social Engineering Question 1: Read the task information and watch the attached videos No answer needed
@@ -405,10 +405,10 @@ Task 3: Common Attacks Social Engineering Phishing Question 1: Click the green &
     
     <item>
       <title>Free Website Hosting</title>
-      <link>https://mansoorbarri.com/how-to/hosting/</link>
+      <link>https://beta.mansoorbarri.com/how-to/hosting/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/hosting/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/hosting/</guid>
       <description>Disclaimer There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*
 Prerequisites  Github account Website code  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important
 Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
@@ -416,10 +416,10 @@ Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
     
     <item>
       <title>THM | tmux</title>
-      <link>https://mansoorbarri.com/write-ups/rptmux/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/rptmux/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/rptmux/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/rptmux/</guid>
       <description>Room https://tryhackme.com/room/rptmux
 Task 1: Screens wishes it was this cool Question 1: First things first, let&amp;rsquo;s go ahead and install tmux. This can be done on Ubuntu/Kali with the command: apt-get install tmux No answer needed
 Question 2: Once tmux is installed, let&amp;rsquo;s launch a new session. What command do we use to launch a new session without a custom name? ~ tmux
@@ -428,10 +428,10 @@ Question 3: All tmux commands start with a keyboard button combination.</descrip
     
     <item>
       <title>THM | Bypassing UAC</title>
-      <link>https://mansoorbarri.com/write-ups/bypassinguac/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/bypassinguac/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/bypassinguac/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/bypassinguac/</guid>
       <description>Room https://tryhackme.com/room/bypassinguac
 steps won&amp;rsquo;t be explained since the room has walkthrough*
 Task 1: Introduction Question 1: Click and continue learning! No answer needed
@@ -442,10 +442,10 @@ Question 3: What is the full name of the service in charge of dealing with UAC e
     
     <item>
       <title>THM | Intro to Digital Forensics</title>
-      <link>https://mansoorbarri.com/write-ups/introdigitalforensics/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/introdigitalforensics/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/introdigitalforensics/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/introdigitalforensics/</guid>
       <description>Room https://tryhackme.com/room/introdigitalforensics
 Task 1: Introduction to Digital Forensics Question 1: Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics? ~ laptop
 Task 2: Digital Forensics Process Question 1: It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that?</description>
@@ -453,10 +453,10 @@ Task 2: Digital Forensics Process Question 1: It is essential to keep track of w
     
     <item>
       <title>Linux | SSL Certificate with Certbot</title>
-      <link>https://mansoorbarri.com/how-to/ssl-apache/</link>
+      <link>https://beta.mansoorbarri.com/how-to/ssl-apache/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/ssl-apache/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/ssl-apache/</guid>
       <description>Requirements Debian, Apache2, Snapd, Certbot
 Install sudo apt update sudo apt install snapd -y install certbot
 sudo snap install certbot --classic Create symbolic link so you can run certbot command from the terminal
@@ -467,10 +467,10 @@ Getting the Cert Enter your valid email address so certbot can contact you for r
     
     <item>
       <title>Windows | Remove Debian comepletely from DualBoot</title>
-      <link>https://mansoorbarri.com/how-to/remove-dualboot/</link>
+      <link>https://beta.mansoorbarri.com/how-to/remove-dualboot/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/remove-dualboot/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/remove-dualboot/</guid>
       <description>Requirements Windows 10 PC
 I - Delete partition Right click on the start button (bottom left corner) and click on &amp;ldquo;Disk Management&amp;rdquo;
 ideally there should be 2 linux partition, one swap area and other is main disk partition. These are the two partitions I have
@@ -481,10 +481,10 @@ repeat the last two steps for the second partition.</description>
     
     <item>
       <title>Windows | Disable Updates</title>
-      <link>https://mansoorbarri.com/how-to/disable-updates/</link>
+      <link>https://beta.mansoorbarri.com/how-to/disable-updates/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/disable-updates/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/disable-updates/</guid>
       <description>Brief Windows Update BLocker(Wub) - A minimal tool to block windows updates.
 Download You can download the latest version from the official website
 Extract the zip file and open the Wub_x64.exe file as adminstator
@@ -496,10 +496,10 @@ If you check for updates now in windows settings you will see this error</descri
     
     <item>
       <title>Linux | Automatic Updates</title>
-      <link>https://mansoorbarri.com/how-to/auto-updates/</link>
+      <link>https://beta.mansoorbarri.com/how-to/auto-updates/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/auto-updates/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/auto-updates/</guid>
       <description>Brief Unattendeed Upgrades - Automatic installation of security upgrades on apt based systems.
 install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic Updates enable automatic updates by:
 sudo dpkg-reconfigure -plow unattended-upgrades  &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.  select &amp;ldquo;yes&amp;rdquo; from these options:
@@ -510,10 +510,10 @@ that’s it ✌🏽
     
     <item>
       <title>Twitter Bot in Python (without API)</title>
-      <link>https://mansoorbarri.com/how-to/twitter-bot/</link>
+      <link>https://beta.mansoorbarri.com/how-to/twitter-bot/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/twitter-bot/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/twitter-bot/</guid>
       <description>Brief I wanted to make a python script which would share my latest blog on Twitter &amp;amp; Linkedin, So I made one.
 We will use firefox as the browser thus, we would need geckodriver. The tutorial assumes you already have it.
 Code Breakdown Modules from selenium import webdriver from selenium.webdriver.firefox.options import Options import warnings import time   We are gonna use Selenium for webscrapping
@@ -522,10 +522,10 @@ Code Breakdown Modules from selenium import webdriver from selenium.webdriver.fi
     
     <item>
       <title>Nmap quick start</title>
-      <link>https://mansoorbarri.com/how-to/nmap/</link>
+      <link>https://beta.mansoorbarri.com/how-to/nmap/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/nmap/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/nmap/</guid>
       <description>DISCLAIMER THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL OR ETHICAL HACKING PURPOSE. MISUSE OF THIS TOOL WILL LEAD TO PROSECUTION.
 Brief Nmap - the network mapper.
 install Debian sudo apt install nmap Snap sudo snap install nmap Basic Arguments 1. pingging whole network -sP nmap -sP &amp;lt;ip/24&amp;gt; For example:
@@ -534,10 +534,10 @@ nmap -sP 172.67.208.3/24 2. Simple TCP scan A TCP is what makes the internet. TC
     
     <item>
       <title>Email forwarding with cloudflare</title>
-      <link>https://mansoorbarri.com/how-to/email-forwarding-cloudflare/</link>
+      <link>https://beta.mansoorbarri.com/how-to/email-forwarding-cloudflare/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/email-forwarding-cloudflare/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/email-forwarding-cloudflare/</guid>
       <description>BRIEF You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
 By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
 You will need to enable 2 Step verification on your google account for this to work.
@@ -546,10 +546,10 @@ Step 1: Setup Cloudflaee The first step is to setup cloudflare so it can route e
     
     <item>
       <title>THM | Red Team Fundamentals</title>
-      <link>https://mansoorbarri.com/write-ups/redteamfundamentals/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/redteamfundamentals/</link>
       <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/redteamfundamentals/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/redteamfundamentals/</guid>
       <description>Room https://tryhackme.com/room/redteamfundamentals
 Task 1: Introduction Question 1: Click to continue to the next task No Answer Needed
 Task 2: Vulnerability Assessment and Penetration Tests Limitations Question 1: Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay) ~ Nay
@@ -559,10 +559,10 @@ Question 3: Highly organised groups of skilled attackers are nowadays referred t
     
     <item>
       <title>Linux | Install BeEF on Debian</title>
-      <link>https://mansoorbarri.com/how-to/beef-debian/</link>
+      <link>https://beta.mansoorbarri.com/how-to/beef-debian/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/beef-debian/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/beef-debian/</guid>
       <description>DISCLAIMER THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL OR ETHICAL HACKING PURPOSE. MISUSE OF THIS TOOL WILL LEAD TO PROSECUTION.
 BRIEF BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 Step 1: installing dependencies Before installing anything update your repositories.
@@ -572,10 +572,10 @@ sudo apt install ruby ruby-dev git -y Step 2: Installation Clone BeEF repo</desc
     
     <item>
       <title>THM | Wreath</title>
-      <link>https://mansoorbarri.com/write-ups/wreath/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/wreath/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/wreath/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/wreath/</guid>
       <description>Room https://tryhackme.com/room/wreath
 Task 1-4: Intro No Answer Needed
 Task 5: Webserver Enumeration Question 1: How many of the first 15000 ports are open on the target? ~ 4
@@ -586,10 +586,10 @@ Question 4: What is Thomas’ mobile phone number? ~ +447821548812</description>
     
     <item>
       <title>Linux | View Saved WiFi Passwords</title>
-      <link>https://mansoorbarri.com/how-to/saved-wifi-pwd/</link>
+      <link>https://beta.mansoorbarri.com/how-to/saved-wifi-pwd/</link>
       <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/saved-wifi-pwd/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/saved-wifi-pwd/</guid>
       <description>Brief A way to see WiFi password for linux.
 Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
 that’s it ✌🏽
@@ -598,10 +598,10 @@ that’s it ✌🏽
     
     <item>
       <title>THM | Networking</title>
-      <link>https://mansoorbarri.com/write-ups/bpnetworking/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/bpnetworking/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/bpnetworking/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/bpnetworking/</guid>
       <description>Room https://tryhackme.com/room/bpnetworking
 Task 1: Kinda like a street address, just cooler. Question 1: How many categories of IPV4 addresses are there? ~ 5
 Question 2: Which type is for research *Looking for a letter rather than a number here? ~ E
@@ -612,10 +612,10 @@ Question 5: There are two commn default private ranges for home routers, what is
     
     <item>
       <title>THM | VIM</title>
-      <link>https://mansoorbarri.com/write-ups/toolboxvim/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/toolboxvim/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/toolboxvim/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/toolboxvim/</guid>
       <description>Room https://tryhackme.com/room/toolboxvim
 Task 1: Task 1 Question 1: Install VIM No Answer Needed
 Question 2: Launch VIM No Answer Needed
@@ -627,10 +627,10 @@ Question 4: How do we move the cursor left? ~ h</description>
     
     <item>
       <title>THM | Basic Pentesting</title>
-      <link>https://mansoorbarri.com/write-ups/basicpentestingjt/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/basicpentestingjt/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/basicpentestingjt/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/basicpentestingjt/</guid>
       <description>Room https://tryhackme.com/room/basicpentestingjt
 Task 1: Web App Testing and Privilege Esclation Question 1: Question 1: Deploy he machine and connect to our network No Answer Needed
 Question 2: Find the services exposed by the machine No Answer Needed
@@ -640,10 +640,10 @@ gobuster dir -u &amp;lt;machine-ip&amp;gt; -w &amp;lt;[dir-to-directory-list-2.3
     
     <item>
       <title>Linux | Install Windows 7</title>
-      <link>https://mansoorbarri.com/how-to/windows7onlinux/</link>
+      <link>https://beta.mansoorbarri.com/how-to/windows7onlinux/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/windows7onlinux/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/windows7onlinux/</guid>
       <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type
@@ -652,10 +652,10 @@ grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vm
     
     <item>
       <title>THM | nmap</title>
-      <link>https://mansoorbarri.com/write-ups/furthernmap/</link>
+      <link>https://beta.mansoorbarri.com/write-ups/furthernmap/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/write-ups/furthernmap/</guid>
+      <guid>https://beta.mansoorbarri.com/write-ups/furthernmap/</guid>
       <description>Room https://tryhackme.com/room/furthernmap
 Task 1: Deploy Question 1: Deploy the attached VM No Answer Needed
 Task 2: Introduction Question 1: What networking constructs are used to direct traffic to the right application on a server? ~ Ports
@@ -665,10 +665,10 @@ Question 3: [Research] How many of these are considered &amp;ldquo;well-known&am
     
     <item>
       <title></title>
-      <link>https://mansoorbarri.com/contact-us/</link>
+      <link>https://beta.mansoorbarri.com/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/contact-us/</guid>
+      <guid>https://beta.mansoorbarri.com/contact-us/</guid>
       <description>   Contact Us  
 strong { font-size: 40px; }  You can email us on info@mansoorbarri.com  or Fill in the form below to send us any queries 
     Send a message    </description>
@@ -676,73 +676,73 @@ strong { font-size: 40px; }  You can email us on info@mansoorbarri.com  or Fill 
     
     <item>
       <title></title>
-      <link>https://mansoorbarri.com/twitter/</link>
+      <link>https://beta.mansoorbarri.com/twitter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/twitter/</guid>
+      <guid>https://beta.mansoorbarri.com/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mansoorbarri.com/linkedin/</link>
+      <link>https://beta.mansoorbarri.com/linkedin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/linkedin/</guid>
+      <guid>https://beta.mansoorbarri.com/linkedin/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mansoorbarri.com/privacy/</link>
+      <link>https://beta.mansoorbarri.com/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/privacy/</guid>
+      <guid>https://beta.mansoorbarri.com/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mansoorbarri.com/twitter/</link>
+      <link>https://beta.mansoorbarri.com/twitter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/twitter/</guid>
+      <guid>https://beta.mansoorbarri.com/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mansoorbarri.com/.htaccess</link>
+      <link>https://beta.mansoorbarri.com/.htaccess</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/.htaccess</guid>
+      <guid>https://beta.mansoorbarri.com/.htaccess</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mansoorbarri.com/_redirects</link>
+      <link>https://beta.mansoorbarri.com/_redirects</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/_redirects</guid>
+      <guid>https://beta.mansoorbarri.com/_redirects</guid>
       <description></description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://mansoorbarri.com/contact-filled/</link>
+      <link>https://beta.mansoorbarri.com/contact-filled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/contact-filled/</guid>
+      <guid>https://beta.mansoorbarri.com/contact-filled/</guid>
       <description>Thank you for contacting MansoorBarri.com! One of our staff will with you shortly. Return to main page</description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://mansoorbarri.com/privacy-policy/</link>
+      <link>https://beta.mansoorbarri.com/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/privacy-policy/</guid>
+      <guid>https://beta.mansoorbarri.com/privacy-policy/</guid>
       <description>Mansoor Barri owns and operates the website mansoorbarri.com, which provides this service.
 At mansoorbarri.com, accessible from mansoorbarri.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by mansoorbarri.com and how we use it.
 Log Files mansoorbarri.com follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services&#39; analytics.</description>

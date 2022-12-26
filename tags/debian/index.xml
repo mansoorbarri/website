@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>debian on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/debian/</link>
+    <link>https://beta.mansoorbarri.com/tags/debian/</link>
     <description>Recent content in debian on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.mansoorbarri.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mirror Android Screen with Sound</title>
-      <link>https://mansoorbarri.com/how-to/android-screen-mirror/</link>
+      <link>https://beta.mansoorbarri.com/how-to/android-screen-mirror/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/android-screen-mirror/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/android-screen-mirror/</guid>
       <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
 Tools Scrcpy - for screen mirror
 sndcpy - for sound
@@ -23,10 +23,10 @@ Mirror Screen with Scrcpy First, go to your device settings and enable developer
     
     <item>
       <title>Linux | Better APT</title>
-      <link>https://mansoorbarri.com/how-to/better-apt/</link>
+      <link>https://beta.mansoorbarri.com/how-to/better-apt/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/better-apt/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/better-apt/</guid>
       <description>why not APT? APT has slow mirrors, APT isn&amp;rsquo;t optimised for performance right out of the box, rolling back updates or installs is pain because there is no concept of history and last but not the least, the look of APT is just mehhh.
 Nala is just better. Nala fixes all these problems right from the start while having APT is the backend.
 Install add repository
@@ -35,10 +35,10 @@ echo &amp;#34;deb http://deb.volian.org/volian/ scar main&amp;#34; | sudo tee /e
     
     <item>
       <title>Linux | SSL Certificate with Certbot</title>
-      <link>https://mansoorbarri.com/how-to/ssl-apache/</link>
+      <link>https://beta.mansoorbarri.com/how-to/ssl-apache/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/ssl-apache/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/ssl-apache/</guid>
       <description>Requirements Debian, Apache2, Snapd, Certbot
 Install sudo apt update sudo apt install snapd -y install certbot
 sudo snap install certbot --classic Create symbolic link so you can run certbot command from the terminal
@@ -49,10 +49,10 @@ Getting the Cert Enter your valid email address so certbot can contact you for r
     
     <item>
       <title>Linux | Automatic Updates</title>
-      <link>https://mansoorbarri.com/how-to/auto-updates/</link>
+      <link>https://beta.mansoorbarri.com/how-to/auto-updates/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/auto-updates/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/auto-updates/</guid>
       <description>Brief Unattendeed Upgrades - Automatic installation of security upgrades on apt based systems.
 install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic Updates enable automatic updates by:
 sudo dpkg-reconfigure -plow unattended-upgrades  &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.  select &amp;ldquo;yes&amp;rdquo; from these options:
@@ -63,10 +63,10 @@ that’s it ✌🏽
     
     <item>
       <title>Linux | Install Windows 7</title>
-      <link>https://mansoorbarri.com/how-to/windows7onlinux/</link>
+      <link>https://beta.mansoorbarri.com/how-to/windows7onlinux/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/windows7onlinux/</guid>
+      <guid>https://beta.mansoorbarri.com/how-to/windows7onlinux/</guid>
       <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type
