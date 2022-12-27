@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firewall on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/firewall/</link>
+    <description>Recent content in Firewall on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFW</title>
+      <link>https://mansoorbarri.com/how-to/linux-firewall/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/linux-firewall/</guid>
+      <description>Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux systems.
+Install sudo apt-get update sudo apt-get install ufw Verify Install sudo ufw status Basic Blocks sudo ufw default deny incoming sudo ufw default allow outgoing Enable Firewall sudo ufw enable Blocking Ports you can block any port by &amp;ldquo;sudo ufw deny PORT&amp;rdquo; for example, to block port 76 type:
+sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow PORT&amp;rdquo; for example, to allow port 22 (default SSH port) type:</description>
+    </item>
+    
+  </channel>
+</rss>

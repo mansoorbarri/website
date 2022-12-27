@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Windows | Remove Viruses From Windows</title>
+      <title>Remove Viruses From Windows</title>
       <link>https://mansoorbarri.com/how-to/remove-viruses/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -34,7 +34,7 @@ Reference Chris Titus has a great video on this explaining everything so I will 
     </item>
     
     <item>
-      <title>Windows | Remove Debian comepletely from DualBoot</title>
+      <title>Remove Debian comepletely from DualBoot</title>
       <link>https://mansoorbarri.com/how-to/remove-dualboot/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
@@ -48,7 +48,7 @@ repeat the last two steps for the second partition.</description>
     </item>
     
     <item>
-      <title>Windows | Disable Updates</title>
+      <title>Disable Updates</title>
       <link>https://mansoorbarri.com/how-to/disable-updates/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -60,18 +60,6 @@ Here click the second option (Disable updates)
 Once you have disabled the updates the app will look like this
 You can close the app now.
 If you check for updates now in windows settings you will see this error</description>
-    </item>
-    
-    <item>
-      <title>Linux | Install Windows 7</title>
-      <link>https://mansoorbarri.com/how-to/windows7onlinux/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/windows7onlinux/</guid>
-      <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
-We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
-Machine I am using: Step 1: Confirm virtualization Open terminal and type
-grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
     </item>
     
   </channel>

@@ -27,8 +27,7 @@ Set your repo to use GH auth git remote set-url origin git@github.com:mansoorbar
       
       <guid>https://mansoorbarri.com/how-to/hosting/</guid>
       <description>Disclaimer There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*
-Prerequisites  Github account Website code  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important
-Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
+Prerequisites  Github account Code for your website  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important</description>
     </item>
     
   </channel>

@@ -178,7 +178,7 @@ A VPN isn&amp;rsquo;t important since there is just enough they can do by findin
     </item>
     
     <item>
-      <title>Linux | UFW</title>
+      <title>UFW</title>
       <link>https://mansoorbarri.com/how-to/linux-firewall/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -189,7 +189,7 @@ sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow
     </item>
     
     <item>
-      <title>Windows | Remove Viruses From Windows</title>
+      <title>Remove Viruses From Windows</title>
       <link>https://mansoorbarri.com/how-to/remove-viruses/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -202,7 +202,7 @@ Reference Chris Titus has a great video on this explaining everything so I will 
     </item>
     
     <item>
-      <title>Linux | Better APT</title>
+      <title>Better APT</title>
       <link>https://mansoorbarri.com/how-to/better-apt/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
@@ -232,12 +232,11 @@ that&amp;rsquo;s it ✌🏽
       
       <guid>https://mansoorbarri.com/how-to/hosting/</guid>
       <description>Disclaimer There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*
-Prerequisites  Github account Website code  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important
-Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
+Prerequisites  Github account Code for your website  Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important</description>
     </item>
     
     <item>
-      <title>Linux | SSL Certificate with Certbot</title>
+      <title>SSL Certificate with Certbot</title>
       <link>https://mansoorbarri.com/how-to/ssl-apache/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
@@ -251,7 +250,7 @@ Getting the Cert Enter your valid email address so certbot can contact you for r
     </item>
     
     <item>
-      <title>Windows | Remove Debian comepletely from DualBoot</title>
+      <title>Remove Debian comepletely from DualBoot</title>
       <link>https://mansoorbarri.com/how-to/remove-dualboot/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
@@ -265,7 +264,7 @@ repeat the last two steps for the second partition.</description>
     </item>
     
     <item>
-      <title>Windows | Disable Updates</title>
+      <title>Disable Updates</title>
       <link>https://mansoorbarri.com/how-to/disable-updates/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -280,7 +279,7 @@ If you check for updates now in windows settings you will see this error</descri
     </item>
     
     <item>
-      <title>Linux | Automatic Updates</title>
+      <title>Automatic Updates on Linux</title>
       <link>https://mansoorbarri.com/how-to/auto-updates/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -330,7 +329,7 @@ Step 1: Setup Cloudflaee The first step is to setup cloudflare so it can route e
     </item>
     
     <item>
-      <title>Linux | Install BeEF on Debian</title>
+      <title>Install BeEF on Debian</title>
       <link>https://mansoorbarri.com/how-to/beef-debian/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -343,7 +342,7 @@ sudo apt install ruby ruby-dev git -y Step 2: Installation Clone BeEF repo</desc
     </item>
     
     <item>
-      <title>Linux | View Saved WiFi Passwords</title>
+      <title>View Saved WiFi Passwords</title>
       <link>https://mansoorbarri.com/how-to/saved-wifi-pwd/</link>
       <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
       
@@ -355,7 +354,7 @@ that’s it ✌🏽
     </item>
     
     <item>
-      <title>Linux | Install Windows 7</title>
+      <title>Install Windows 7</title>
       <link>https://mansoorbarri.com/how-to/windows7onlinux/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
