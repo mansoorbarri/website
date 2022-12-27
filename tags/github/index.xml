@@ -17,7 +17,7 @@
 Install Debian
 sudo apt install gh Windows
 winget install -e --id Github.cli Setup gh auth login Follow the prompts but choose SSH as authentication method.
-Set your repo to use GH auth git remote set-url origin git@github.com:mansoorbarri/website.git change &amp;ldquo;mansoorbarri.website.git&amp;rdquo; to your repo name*</description>
+Set your repo to use GH auth git remote set-url origin git@github.com:mansoorbarri/website.git change &amp;ldquo;mansoorbarri/website.git&amp;rdquo; to your repo name*</description>
     </item>
     
     <item>
