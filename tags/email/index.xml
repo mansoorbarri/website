@@ -18,17 +18,5 @@ Getting Email Certificate Go to Actalis&#39;s website Enter the email you want t
 *Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
     </item>
     
-    <item>
-      <title>Email forwarding with cloudflare</title>
-      <link>https://mansoorbarri.com/how-to/email-forwarding-cloudflare/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/email-forwarding-cloudflare/</guid>
-      <description>BRIEF You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
-By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
-You will need to enable 2 Step verification on your google account for this to work.
-Step 1: Setup Cloudflaee The first step is to setup cloudflare so it can route email.</description>
-    </item>
-    
   </channel>
 </rss>

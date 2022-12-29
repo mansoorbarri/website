@@ -39,28 +39,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/adventofcyber4/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://mansoorbarri.com/write-ups/aoc4/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/tryhackme/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/write-ups/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -102,14 +81,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/apis/</loc>
-    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/fbi/</loc>
+    <loc>https://mansoorbarri.com/tags/cyber-news/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -117,13 +89,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/articles/fbi-hack/</loc>
-    <lastmod>2022-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/infragard/</loc>
     <lastmod>2022-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,13 +103,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/how-to/expose-your-network/</loc>
-    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/port-forwarding/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -186,13 +144,6 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/git/</loc>
-    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://mansoorbarri.com/tags/github/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
   </url>
@@ -214,57 +165,8 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/utterance/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/india/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/infosec/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/news/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/pakistan/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://mansoorbarri.com/articles/nepra-sidewinder/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/android/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/debian/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url>
   
   
@@ -326,13 +228,6 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/lan/</loc>
-    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://mansoorbarri.com/how-to/termux-repo/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -347,21 +242,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/thm/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://mansoorbarri.com/write-ups/threatinteltools/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/writeups/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -370,13 +251,6 @@
   <url>
     <loc>https://mansoorbarri.com/write-ups/introtoav/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/firewall/</loc>
-    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
   
   
@@ -396,13 +270,6 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/viruses/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://mansoorbarri.com/how-to/better-apt/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url>
@@ -410,7 +277,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/dark-mode/</loc>
+    <loc>https://mansoorbarri.com/tags/browser/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,13 +285,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/how-to/dark-instagram/</loc>
-    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/instagram/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -515,22 +375,8 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/tags/certbot/</loc>
-    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://mansoorbarri.com/how-to/ssl-apache/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/dualboot/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url>
   
   
@@ -544,13 +390,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/how-to/disable-updates/</loc>
-    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/updates/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -634,7 +473,7 @@
   
   
   <url>
-    <loc>https://mansoorbarri.com/how-to/windows7onlinux/</loc>
+    <loc>https://mansoorbarri.com/how-to/windows-on-linux/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -642,13 +481,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/write-ups/furthernmap/</loc>
-    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/vert-manager/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -706,12 +538,6 @@
   
   <url>
     <loc>https://mansoorbarri.com/how-to/home-security/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://mansoorbarri.com/tags/browser/</loc>
   </url>
   
   

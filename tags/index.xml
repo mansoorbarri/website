@@ -17,33 +17,6 @@
     </item>
     
     <item>
-      <title>AdventOfCyber4</title>
-      <link>https://mansoorbarri.com/tags/adventofcyber4/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/adventofcyber4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TryHackMe</title>
-      <link>https://mansoorbarri.com/tags/tryhackme/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/tryhackme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Write-ups</title>
-      <link>https://mansoorbarri.com/tags/write-ups/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/write-ups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>https://mansoorbarri.com/tags/python/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
@@ -62,29 +35,11 @@
     </item>
     
     <item>
-      <title>APIs</title>
-      <link>https://mansoorbarri.com/tags/apis/</link>
+      <title>Cyber News</title>
+      <link>https://mansoorbarri.com/tags/cyber-news/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/tags/apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FBI</title>
-      <link>https://mansoorbarri.com/tags/fbi/</link>
-      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/fbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>InfraGard</title>
-      <link>https://mansoorbarri.com/tags/infragard/</link>
-      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/infragard/</guid>
+      <guid>https://mansoorbarri.com/tags/cyber-news/</guid>
       <description></description>
     </item>
     
@@ -94,15 +49,6 @@
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/cloudflare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Port Forwarding</title>
-      <link>https://mansoorbarri.com/tags/port-forwarding/</link>
-      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/port-forwarding/</guid>
       <description></description>
     </item>
     
@@ -125,15 +71,6 @@
     </item>
     
     <item>
-      <title>Git</title>
-      <link>https://mansoorbarri.com/tags/git/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GitHub</title>
       <link>https://mansoorbarri.com/tags/github/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
@@ -148,69 +85,6 @@
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utterance</title>
-      <link>https://mansoorbarri.com/tags/utterance/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/utterance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>India</title>
-      <link>https://mansoorbarri.com/tags/india/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>infosec</title>
-      <link>https://mansoorbarri.com/tags/infosec/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/infosec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://mansoorbarri.com/tags/news/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pakistan</title>
-      <link>https://mansoorbarri.com/tags/pakistan/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/pakistan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>https://mansoorbarri.com/tags/android/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debian</title>
-      <link>https://mansoorbarri.com/tags/debian/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/debian/</guid>
       <description></description>
     </item>
     
@@ -242,108 +116,9 @@
     </item>
     
     <item>
-      <title>LAN</title>
-      <link>https://mansoorbarri.com/tags/lan/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/lan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thm</title>
-      <link>https://mansoorbarri.com/tags/thm/</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/thm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writeups</title>
-      <link>https://mansoorbarri.com/tags/writeups/</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/writeups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Firewall</title>
-      <link>https://mansoorbarri.com/tags/firewall/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/firewall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viruses</title>
-      <link>https://mansoorbarri.com/tags/viruses/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/viruses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dark Mode</title>
-      <link>https://mansoorbarri.com/tags/dark-mode/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/dark-mode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instagram</title>
-      <link>https://mansoorbarri.com/tags/instagram/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/instagram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Certbot</title>
-      <link>https://mansoorbarri.com/tags/certbot/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/certbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dualboot</title>
-      <link>https://mansoorbarri.com/tags/dualboot/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/dualboot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Updates</title>
-      <link>https://mansoorbarri.com/tags/updates/</link>
-      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/updates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vert-Manager</title>
-      <link>https://mansoorbarri.com/tags/vert-manager/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/tags/vert-manager/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Browser</title>
       <link>https://mansoorbarri.com/tags/browser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mansoorbarri.com/tags/browser/</guid>
       <description></description>

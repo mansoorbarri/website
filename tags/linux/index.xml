@@ -21,7 +21,34 @@ alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of file
     </item>
     
     <item>
-      <title>UFW</title>
+      <title>Mirror Android Screen with Sound</title>
+      <link>https://mansoorbarri.com/how-to/android-screen-mirror/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/android-screen-mirror/</guid>
+      <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
+Tools Scrcpy - for screen mirror
+sndcpy - for sound
+Install Scrcpy:
+sudo apt install Scrcpy Sndcpy: download the latest release and extract the files
+Mirror Screen with Scrcpy First, go to your device settings and enable developer mode then, connect your Android device to your computer with your charger.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Server on LAN</title>
+      <link>https://mansoorbarri.com/how-to/hugo-lan/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/hugo-lan/</guid>
+      <description>Brief [IP-ADD] is your local IP address.
+Command use this command instead of &amp;ldquo;hugo server&amp;rdquo;
+hugo server --bind [IP-ADD] --baseURL http://[IP-ADD] Conclusion visit http://[IP-ADD] from any device on your LAN to view the temporary hugo site.
+that&amp;rsquo;s it ✌🏽
+  </description>
+    </item>
+    
+    <item>
+      <title>UFW | Firewall on Linux Systems</title>
       <link>https://mansoorbarri.com/how-to/linux-firewall/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -109,11 +136,11 @@ that’s it ✌🏽
     </item>
     
     <item>
-      <title>Install Windows 7</title>
-      <link>https://mansoorbarri.com/how-to/windows7onlinux/</link>
+      <title>Install Windows on Linux</title>
+      <link>https://mansoorbarri.com/how-to/windows-on-linux/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/how-to/windows7onlinux/</guid>
+      <guid>https://mansoorbarri.com/how-to/windows-on-linux/</guid>
       <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
 We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
 Machine I am using: Step 1: Confirm virtualization Open terminal and type
