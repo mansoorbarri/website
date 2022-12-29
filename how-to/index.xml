@@ -365,5 +365,39 @@ Machine I am using: Step 1: Confirm virtualization Open terminal and type
 grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
     </item>
     
+    <item>
+      <title>Best Browser Extentions</title>
+      <link>https://mansoorbarri.com/how-to/best-browser-extentions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/best-browser-extentions/</guid>
+      <description>List  Extensity - Quickly enable/disable Google Chrome extensions Cookie Remover - Removes cookies for the current site GoFullPage - Capture a screenshot of your current page in PDF or Image formats INSSIST - Add more functionality to instagram.com Midnigh Lizard - Dark mode on all websites Return YouTube Dislike - Returns ability to see dislikes on YouTube URL Shortener - Free URL shortener  Extensity A browser extension that allows you to enable or disable browser extensions with a single click.</description>
+    </item>
+    
+    <item>
+      <title>Block Websites On Your Home Network</title>
+      <link>https://mansoorbarri.com/how-to/home-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/home-security/</guid>
+      <description>Brief OpenDNS has a home network security system that you can enable by changing DNS settings on your router&amp;rsquo;s admin page. Because some Internet Service Providers (ISPs), such as Virgin Media, do not allow you to change your DNS, this method may not work for you.
+Steps To begin, sign up for OpenDNS, at www.opendns.com/homefree
+  Scroll down to enter your information.
+  Access your router&amp;rsquo;s administration page; the address is usually printed on the back of the router.</description>
+    </item>
+    
+    <item>
+      <title>Customised Prompt with Starship</title>
+      <link>https://mansoorbarri.com/how-to/customised-prompt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/customised-prompt/</guid>
+      <description>Install curl -sS https://starship.rs/install.sh | sh &amp;amp; add the following to ~/.bashrc
+eval &amp;#34;$(starship init bash)&amp;#34; You can also find installation instructions for other operating systems here: https://starship.rs/guide
+Config You can now completely customise your prompt by editing the config file, which is accessible via:
+starship config alternatively, you can use presets from https://starship.rs/presets/
+I prefer Starship&amp;rsquo;s default minimal style, so I don&amp;rsquo;t use any presets or have anything in my config file.</description>
+    </item>
+    
   </channel>
 </rss>
