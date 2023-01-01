@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenDNS on Mansoor Barri</title>
-    <link>https://beta.mansoorbarri.com/tags/opendns/</link>
+    <link>https://mansoorbarri.com/tags/opendns/</link>
     <description>Recent content in OpenDNS on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://beta.mansoorbarri.com/tags/opendns/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://mansoorbarri.com/tags/opendns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Block Websites On Your Home Network</title>
-      <link>https://beta.mansoorbarri.com/how-to/home-security/</link>
+      <link>https://mansoorbarri.com/how-to/home-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.mansoorbarri.com/how-to/home-security/</guid>
+      <guid>https://mansoorbarri.com/how-to/home-security/</guid>
       <description>Brief OpenDNS has a home network security system that you can enable by changing DNS settings on your router&amp;rsquo;s admin page. Because some Internet Service Providers (ISPs), such as Virgin Media, do not allow you to change your DNS, this method may not work for you.
 Steps To begin, sign up for OpenDNS, at www.opendns.com/homefree
   Scroll down to enter your information.
