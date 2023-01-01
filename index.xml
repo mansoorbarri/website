@@ -746,16 +746,6 @@ strong { font-size: 40px; }  You can email us on info@mansoorbarri.com  or Fill 
     </item>
     
     <item>
-      <title>10 Things to Do After Installing Debian</title>
-      <link>https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/</guid>
-      <description>Enable Dark Mode  Search for &amp;ldquo;Tweaks&amp;rdquo; On the left-hand side pane, click on ‘Appearance.’ Next to the applications drop-down menu, select the “Adawaita-dark” option.  Add your user to the sudoers file  Launch a terminal and follow these commands  su - usermod -aG sudo newuser *change your username with &amp;ldquo;newuser&amp;rdquo;
-Installing Updates sudo apt update &amp;amp;&amp;amp; sudo apt upgrade -y &amp;amp;&amp;amp; sudo reboot Install a firewall sudo apt install ufw -y Deny all the traffic in and out for now by</description>
-    </item>
-    
-    <item>
       <title>About mansoorbarri.com</title>
       <link>https://mansoorbarri.com/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -764,40 +754,6 @@ Installing Updates sudo apt update &amp;amp;&amp;amp; sudo apt upgrade -y &amp;a
       <description>Mission &amp;ldquo;It&amp;rsquo;s not just about the technology for us. It&amp;rsquo;s about making the effort to assist. As a result, everything we do is geared toward making your business and IT systems more cost effective. So, as soon as you engage us, we engage our brains.&amp;rdquo;
 Unlike the market, where customer service means long lines, inadequate and overworked employees, we strive to provide exemplary service tailored to your needs.
 Why Choose Us?</description>
-    </item>
-    
-    <item>
-      <title>Best Browser Extentions</title>
-      <link>https://mansoorbarri.com/how-to/best-browser-extentions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/best-browser-extentions/</guid>
-      <description>List  Extensity - Quickly enable/disable Google Chrome extensions Cookie Remover - Removes cookies for the current site GoFullPage - Capture a screenshot of your current page in PDF or Image formats INSSIST - Add more functionality to instagram.com Midnigh Lizard - Dark mode on all websites Return YouTube Dislike - Returns ability to see dislikes on YouTube URL Shortener - Free URL shortener  Extensity A browser extension that allows you to enable or disable browser extensions with a single click.</description>
-    </item>
-    
-    <item>
-      <title>Block Websites On Your Home Network</title>
-      <link>https://mansoorbarri.com/how-to/home-security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/home-security/</guid>
-      <description>Brief OpenDNS has a home network security system that you can enable by changing DNS settings on your router&amp;rsquo;s admin page. Because some Internet Service Providers (ISPs), such as Virgin Media, do not allow you to change your DNS, this method may not work for you.
-Steps To begin, sign up for OpenDNS, at www.opendns.com/homefree
-  Scroll down to enter your information.
-  Access your router&amp;rsquo;s administration page; the address is usually printed on the back of the router.</description>
-    </item>
-    
-    <item>
-      <title>Find Social Media Accounts with Sherlock</title>
-      <link>https://mansoorbarri.com/how-to/find-social-media-accounts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/find-social-media-accounts/</guid>
-      <description>Brief Hunt down social media accounts by username across social networks with Sherlock
-This tool will only work for people who use the same username across all social media platforms.
-Installation git clone https://github.com/sherlock-project/sherlock cd sherlock sudo pip3 install -r requirements.txt Find Social Accounts python3 sherlock [username] For example:
-python3 sherlock mansoor.yuh you can see other options with -h
-usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT] [--output OUTPUT] [--tor] [--unique-tor] [--csv] [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE] [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color] [--browse] [--local] USERNAMES [USERNAMES .</description>
     </item>
     
     <item>

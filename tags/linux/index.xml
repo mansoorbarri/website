@@ -147,24 +147,5 @@ Machine I am using: Step 1: Confirm virtualization Open terminal and type
 grep -o &amp;quot;vm\|sum&amp;quot; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
     </item>
     
-    <item>
-      <title>10 Things to Do After Installing Debian</title>
-      <link>https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/</guid>
-      <description>Enable Dark Mode  Search for &amp;ldquo;Tweaks&amp;rdquo; On the left-hand side pane, click on ‘Appearance.’ Next to the applications drop-down menu, select the “Adawaita-dark” option.  Add your user to the sudoers file  Launch a terminal and follow these commands  su - usermod -aG sudo newuser *change your username with &amp;ldquo;newuser&amp;rdquo;
-Installing Updates sudo apt update &amp;amp;&amp;amp; sudo apt upgrade -y &amp;amp;&amp;amp; sudo reboot Install a firewall sudo apt install ufw -y Deny all the traffic in and out for now by</description>
-    </item>
-    
-    <item>
-      <title>Best Browser Extentions</title>
-      <link>https://mansoorbarri.com/how-to/best-browser-extentions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mansoorbarri.com/how-to/best-browser-extentions/</guid>
-      <description>List  Extensity - Quickly enable/disable Google Chrome extensions Cookie Remover - Removes cookies for the current site GoFullPage - Capture a screenshot of your current page in PDF or Image formats INSSIST - Add more functionality to instagram.com Midnigh Lizard - Dark mode on all websites Return YouTube Dislike - Returns ability to see dislikes on YouTube URL Shortener - Free URL shortener  Extensity A browser extension that allows you to enable or disable browser extensions with a single click.</description>
-    </item>
-    
   </channel>
 </rss>
