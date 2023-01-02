@@ -6,7 +6,19 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Block Websites On Your Home Network</title>
+      <link>https://mansoorbarri.com/how-to/home-security/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/home-security/</guid>
+      <description>Brief OpenDNS has a home network security system that you can enable by changing DNS settings on your router&amp;rsquo;s admin page. Because some Internet Service Providers (ISPs), such as Virgin Media, do not allow you to change your DNS, this method may not work for you.
+Steps To begin, sign up for OpenDNS, at www.opendns.com/homefree
+  Scroll down to enter your information.
+  Access your router&amp;rsquo;s administration page; the address is usually printed on the back of the router.</description>
+    </item>
+    
     <item>
       <title>End of 2020</title>
       <link>https://mansoorbarri.com/articles/end-of-2020/</link>
