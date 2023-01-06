@@ -6,7 +6,20 @@
     <description>Recent content on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customise Your Prompt with Starship</title>
+      <link>https://mansoorbarri.com/how-to/customised-prompt/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/customised-prompt/</guid>
+      <description>Install curl -sS https://starship.rs/install.sh | sh &amp;amp; add the following to ~/.bashrc
+eval &amp;#34;$(starship init bash)&amp;#34; You can also find installation instructions for other operating systems here: https://starship.rs/guide
+Config You can now completely customise your prompt by editing the config file, which is accessible via:
+starship config alternatively, you can use presets from https://starship.rs/presets/
+I prefer Starship&amp;rsquo;s default minimal style, so I don&amp;rsquo;t use any presets or have anything in my config file.</description>
+    </item>
+    
     <item>
       <title>Best Browser Extensions</title>
       <link>https://mansoorbarri.com/how-to/best-browser-extensions/</link>
