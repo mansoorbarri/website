@@ -171,7 +171,7 @@ curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/suppor
 ./phoneinfoga version Copy it to path for global install
 sudo mv ./phoneinfoga /usr/bin/phoneinfoga Usage Scan with &amp;ldquo;phoneinfoga -n [NUMBER WITH COUNTRY CODE]&amp;rdquo;
 Example:
-phoneinfoga -n +1234567891 The output is kinda weird and messy so using the web GUI is a better way.</description>
+phoneinfoga serve -n +1234567891 The output is kinda weird and messy so using the web GUI is a better way.</description>
     </item>
     
     <item>
