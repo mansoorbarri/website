@@ -6,7 +6,17 @@
     <description>Recent content in How-to on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Things to Do After Installing Debian</title>
+      <link>https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/</guid>
+      <description>Enable Dark Mode  Search for &amp;ldquo;Tweaks&amp;rdquo; On the left-hand side pane, click on ‘Appearance.’ Next to the applications drop-down menu, select the “Adawaita-dark” option.  Add your user to the sudoers file  Launch a terminal and follow these commands  su - usermod -aG sudo newuser *change your username with &amp;ldquo;newuser&amp;rdquo;
+Installing Updates sudo apt update &amp;amp;&amp;amp; sudo apt upgrade -y &amp;amp;&amp;amp; sudo reboot Install a firewall sudo apt install ufw -y Deny all the traffic in and out for now by</description>
+    </item>
+    
     <item>
       <title>Customise Your Prompt with Starship</title>
       <link>https://mansoorbarri.com/how-to/customised-prompt/</link>
