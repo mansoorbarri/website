@@ -6,7 +6,20 @@
     <description>Recent content in Penetration Testing on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/penetration-testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/penetration-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Find Social Media Accounts with Sherlock</title>
+      <link>https://mansoorbarri.com/how-to/find-social-media-accounts/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/find-social-media-accounts/</guid>
+      <description>Brief Hunt down social media accounts by username across social networks with Sherlock
+This tool will only work for people who use the same username across all social media platforms.
+Installation git clone https://github.com/sherlock-project/sherlock cd sherlock sudo pip3 install -r requirements.txt Find Social Accounts python3 sherlock [username] For example:
+python3 sherlock mansoor.yuh you can see other options with -h
+usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT] [--output OUTPUT] [--tor] [--unique-tor] [--csv] [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE] [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color] [--browse] [--local] USERNAMES [USERNAMES .</description>
+    </item>
+    
     <item>
       <title>Getting Started - PhoneInFoga</title>
       <link>https://mansoorbarri.com/how-to/phoneinfoga/</link>
