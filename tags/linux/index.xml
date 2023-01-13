@@ -6,7 +6,20 @@
     <description>Recent content in Linux on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Must Have GNOME Extensions</title>
+      <link>https://mansoorbarri.com/how-to/must-have-gnome-extensions/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/must-have-gnome-extensions/</guid>
+      <description>The list:  Clipboard History Tray Icons AlternateTab ArcMenu Emoji Selector  Clipboard History Clipboard Indicator is the most important extension in my opinion, You should now see a clipboard history in the top bar once you install it.
+Tray Icons You can enable icons on your top bar
+AlternateTab Substitute Alt-Tab with a window based switcher that does not group by application.
+ArcMenu Application menu for GNOME Shell
+Emoji Selector This extension provides a parametrable popup menu displaying most emojis, clicking on an emoji copies it to the clipboard.</description>
+    </item>
+    
     <item>
       <title>10 Things to Do After Installing Debian</title>
       <link>https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/</link>
