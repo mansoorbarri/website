@@ -17,25 +17,25 @@
     
 
     
-    <title>Windows</title>
+    <title>Windows Update With Powershell</title>
     <meta name="description" content="Cyber Security, Tech &amp; IT">
-    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking'>
+    <meta name="keywords" content='blog, Mansoor, Barri, Tech, Hacking, Windows'>
 
-    <meta property="og:url" content="https://mansoorbarri.com/tags/windows/">
+    <meta property="og:url" content="https://mansoorbarri.com/how-to/windows-update-with-powershell/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Windows">
+    <meta property="og:title" content="Windows Update With Powershell">
     <meta property="og:description" content="Cyber Security, Tech &amp; IT">
-    <meta property="og:image" content="/images/main.webp">
+    <meta property="og:image" content="/images/how-to/windows-update-with-powershell/main.png">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Windows">
+    <meta name="twitter:title" content="Windows Update With Powershell">
     <meta name="twitter:description" content="Cyber Security, Tech &amp; IT">
-    <meta property="twitter:domain" content="https://mansoorbarri.com/tags/windows/">
-    <meta property="twitter:url" content="https://mansoorbarri.com/tags/windows/">
-    <meta name="twitter:image" content="/images/main.webp">
+    <meta property="twitter:domain" content="https://mansoorbarri.com/how-to/windows-update-with-powershell/">
+    <meta property="twitter:url" content="https://mansoorbarri.com/how-to/windows-update-with-powershell/">
+    <meta name="twitter:image" content="/images/how-to/windows-update-with-powershell/main.png">
 
     
-    <link rel="canonical" href="https://mansoorbarri.com/tags/windows/" />
+    <link rel="canonical" href="https://mansoorbarri.com/how-to/windows-update-with-powershell/" />
 
     <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/normalize.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" type="text/css" href="https://mansoorbarri.com/css/main.css">
@@ -158,50 +158,72 @@
     </nav>
 </header>
 <main id="content">
-    <div class="container list-posts">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Windows Update With Powershell</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">
+            January 16, 2023
+        </p>
 
-    <h1 class="list-title">Windows</h2>
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://mansoorbarri.com/tags/windows">Windows</a></li>
+        
+        </ul>
+    </div>
 
-    
+    <div class="post-content">
+        <p>
+            <p>*<em>These actions are only possible with administrative privileges.</em></p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Install the update module:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-powershell" data-lang="powershell">Install-Module PSWindowsUpdate
+Add-WUServiceManager -MicrosoftUpdate
+</code></pre></div><h2 id="command">Command</h2>
+<p>Install all availble updates</p>
+<pre><code>Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File &quot;C:\MSUpdates.log&quot; -Force
+</code></pre><p>Update logs can be found at: <code>C:\MSUpdates.log</code></p>
+<p><img src="/images/how-to/windows-update-with-powershell/2023.png" alt=""></p>
+<p>that&rsquo;s it &lt;3</p>
+<hr>
+ 
+<script src="https://utteranc.es/client.js"
+        repo="mansoorbarri/website"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
-    <h2 class="posts-year">2023</h2><article class="post-title">
-    <a href="https://mansoorbarri.com/how-to/windows-update-with-powershell/" class="post-link">Windows Update With Powershell</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 16, 2023</span>
-</article>
-<article class="post-title">
-    <a href="https://mansoorbarri.com/how-to/best-browser-extensions/" class="post-link">Best Browser Extensions</a>
-    <div class="flex-break"></div>
-    <span class="post-date">January 4, 2023</span>
-</article>
 
-    
 
-    <h2 class="posts-year">2022</h2><article class="post-title">
-    <a href="https://mansoorbarri.com/how-to/py-to-exe/" class="post-link">Convert Python files to Windows executable files</a>
-    <div class="flex-break"></div>
-    <span class="post-date">December 19, 2022</span>
-</article>
-<article class="post-title">
-    <a href="https://mansoorbarri.com/how-to/remove-viruses/" class="post-link">Remove Viruses From Windows</a>
-    <div class="flex-break"></div>
-    <span class="post-date">August 3, 2022</span>
-</article>
-<article class="post-title">
-    <a href="https://mansoorbarri.com/how-to/remove-dualboot/" class="post-link">Remove Debian comepletely from DualBoot</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 15, 2022</span>
-</article>
-<article class="post-title">
-    <a href="https://mansoorbarri.com/how-to/disable-updates/" class="post-link">Disable Updates</a>
-    <div class="flex-break"></div>
-    <span class="post-date">February 27, 2022</span>
-</article>
+        </p>
+    </div>
 
-    
-
+    <div class="prev-next">
+        
+    </div>
 </div>
 
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#command">Command</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
 
         </main><footer class="footer">
     <a href="/privacy-policy/">Privacy Policy</a> | <a href="/contact-us/">Contact Us</a>
