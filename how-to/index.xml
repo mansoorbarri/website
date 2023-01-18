@@ -6,7 +6,18 @@
     <description>Recent content in How-to on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Use Linux as Daily Driver</title>
+      <link>https://mansoorbarri.com/how-to/why-linux/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/why-linux/</guid>
+      <description>Who should not use Linux if these programmes are essential to you :
+ Use Adobe products Use O365 i.e. Outlook or if you are into gaming  75% of games work perfectly fine on Linux, especially if they are well-known games; however, some games may give you trouble under Linux.
+Why use Linux It&amp;rsquo;s been a year since I began using linux as a daily driver, and my productivity has steadily increased.</description>
+    </item>
+    
     <item>
       <title>Windows Update With Powershell</title>
       <link>https://mansoorbarri.com/how-to/windows-update-with-powershell/</link>
