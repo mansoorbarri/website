@@ -14,7 +14,7 @@
       
       <guid>https://mansoorbarri.com/how-to/windows-utility/</guid>
       <description>Windows is clumsy and sluggish by default, but an application called Windows Utility developed by Chris Titus can considerably improve it.
-Usuage In PowerShell, run this command as administrator
+Usage In PowerShell, run this command as administrator
 irm christitus.com/win | iex Simply click on the items you want to change.
 Recommendation  Select the appropriate option under &amp;ldquo;Tweaks,&amp;rdquo; such as desktop or laptop. Personally, I prefer the &amp;ldquo;Minimal&amp;rdquo; option. Under &amp;ldquo;Updates&amp;rdquo;, select &amp;ldquo;Security Settings&amp;rdquo;  that&amp;rsquo;s it &amp;lt;3</description>
     </item>
