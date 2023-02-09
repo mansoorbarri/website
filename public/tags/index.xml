@@ -2,449 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mansoor Barri</title>
-    <link>https://www.mansoor.cf/tags/</link>
+    <link>https://mansoorbarri.com/tags/</link>
     <description>Recent content in Tags on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mansoor.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>android</title>
-      <link>https://www.mansoor.cf/tags/android/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Linux</title>
+      <link>https://mansoorbarri.com/tags/linux/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/android/</guid>
+      <guid>https://mansoorbarri.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ssh</title>
-      <link>https://www.mansoor.cf/tags/ssh/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Tips</title>
+      <link>https://mansoorbarri.com/tags/tips/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/ssh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>termux</title>
-      <link>https://www.mansoor.cf/tags/termux/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/termux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>advanced</title>
-      <link>https://www.mansoor.cf/tags/advanced/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/advanced/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scambait</title>
-      <link>https://www.mansoor.cf/tags/scambait/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/scambait/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vigilante</title>
-      <link>https://www.mansoor.cf/tags/vigilante/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/vigilante/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethical</title>
-      <link>https://www.mansoor.cf/tags/ethical/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/ethical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>getting-started</title>
-      <link>https://www.mansoor.cf/tags/getting-started/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/getting-started/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phoneinfoga</title>
-      <link>https://www.mansoor.cf/tags/phoneinfoga/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/phoneinfoga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://www.mansoor.cf/tags/hugo/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LAN</title>
-      <link>https://www.mansoor.cf/tags/lan/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/lan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>server</title>
-      <link>https://www.mansoor.cf/tags/server/</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fixed</title>
-      <link>https://www.mansoor.cf/tags/fixed/</link>
-      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/fixed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>repository</title>
-      <link>https://www.mansoor.cf/tags/repository/</link>
-      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/repository/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://www.mansoor.cf/tags/tech/</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thm</title>
-      <link>https://www.mansoor.cf/tags/thm/</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/thm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writeups</title>
-      <link>https://www.mansoor.cf/tags/writeups/</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/writeups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://www.mansoor.cf/tags/linux/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>security</title>
-      <link>https://www.mansoor.cf/tags/security/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ufw</title>
-      <link>https://www.mansoor.cf/tags/ufw/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/ufw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tron</title>
-      <link>https://www.mansoor.cf/tags/tron/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/tron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>viruses</title>
-      <link>https://www.mansoor.cf/tags/viruses/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/viruses/</guid>
+      <guid>https://mansoorbarri.com/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://www.mansoor.cf/tags/windows/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <link>https://mansoorbarri.com/tags/windows/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/windows/</guid>
+      <guid>https://mansoorbarri.com/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>apt</title>
-      <link>https://www.mansoor.cf/tags/apt/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <title>Browser</title>
+      <link>https://mansoorbarri.com/tags/browser/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/apt/</guid>
+      <guid>https://mansoorbarri.com/tags/browser/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ubuntu</title>
-      <link>https://www.mansoor.cf/tags/ubuntu/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <title>OpenDNS</title>
+      <link>https://mansoorbarri.com/tags/opendns/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/ubuntu/</guid>
+      <guid>https://mansoorbarri.com/tags/opendns/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dark Mode</title>
-      <link>https://www.mansoor.cf/tags/dark-mode/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <title>recap</title>
+      <link>https://mansoorbarri.com/tags/recap/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/dark-mode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instagram</title>
-      <link>https://www.mansoor.cf/tags/instagram/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/instagram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>https://www.mansoor.cf/tags/web/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://www.mansoor.cf/tags/github/</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hosting</title>
-      <link>https://www.mansoor.cf/tags/hosting/</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/hosting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apache</title>
-      <link>https://www.mansoor.cf/tags/apache/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/apache/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Certbot</title>
-      <link>https://www.mansoor.cf/tags/certbot/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/certbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dualboot</title>
-      <link>https://www.mansoor.cf/tags/dualboot/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/dualboot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trash</title>
-      <link>https://www.mansoor.cf/tags/trash/</link>
-      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/trash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Updates</title>
-      <link>https://www.mansoor.cf/tags/updates/</link>
-      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/updates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debian</title>
-      <link>https://www.mansoor.cf/tags/debian/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/debian/</guid>
+      <guid>https://mansoorbarri.com/tags/recap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://www.mansoor.cf/tags/python/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <link>https://mansoorbarri.com/tags/python/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/python/</guid>
+      <guid>https://mansoorbarri.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Selenium</title>
-      <link>https://www.mansoor.cf/tags/selenium/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Cyber News</title>
+      <link>https://mansoorbarri.com/tags/cyber-news/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/selenium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitter</title>
-      <link>https://www.mansoor.cf/tags/twitter/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WebScrapping</title>
-      <link>https://www.mansoor.cf/tags/webscrapping/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/webscrapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hacking</title>
-      <link>https://www.mansoor.cf/tags/hacking/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/hacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nmap</title>
-      <link>https://www.mansoor.cf/tags/nmap/</link>
-      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mansoor.cf/tags/nmap/</guid>
+      <guid>https://mansoorbarri.com/tags/cyber-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudflare</title>
-      <link>https://www.mansoor.cf/tags/cloudflare/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <link>https://mansoorbarri.com/tags/cloudflare/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/cloudflare/</guid>
+      <guid>https://mansoorbarri.com/tags/cloudflare/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>email</title>
-      <link>https://www.mansoor.cf/tags/email/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Email</title>
+      <link>https://mansoorbarri.com/tags/email/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/email/</guid>
+      <guid>https://mansoorbarri.com/tags/email/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>gmail</title>
-      <link>https://www.mansoor.cf/tags/gmail/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <title>GitHub</title>
+      <link>https://mansoorbarri.com/tags/github/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/gmail/</guid>
+      <guid>https://mansoorbarri.com/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BeEF</title>
-      <link>https://www.mansoor.cf/tags/beef/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <title>HUGO</title>
+      <link>https://mansoorbarri.com/tags/hugo/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/beef/</guid>
+      <guid>https://mansoorbarri.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Terminal</title>
-      <link>https://www.mansoor.cf/tags/terminal/</link>
-      <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
+      <title>Termux</title>
+      <link>https://mansoorbarri.com/tags/termux/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/terminal/</guid>
+      <guid>https://mansoorbarri.com/tags/termux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wifi</title>
-      <link>https://www.mansoor.cf/tags/wifi/</link>
-      <pubDate>Sun, 16 Jan 2022 23:39:49 +0530</pubDate>
+      <title>Scambait</title>
+      <link>https://mansoorbarri.com/tags/scambait/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/wifi/</guid>
+      <guid>https://mansoorbarri.com/tags/scambait/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vert Manager</title>
-      <link>https://www.mansoor.cf/tags/vert-manager/</link>
-      <pubDate>Sun, 02 Jan 2022 23:39:49 +0530</pubDate>
+      <title>Penetration Testing</title>
+      <link>https://mansoorbarri.com/tags/penetration-testing/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mansoor.cf/tags/vert-manager/</guid>
+      <guid>https://mansoorbarri.com/tags/penetration-testing/</guid>
       <description></description>
     </item>
     
