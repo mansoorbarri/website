@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Termux on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/termux/</link>
+    <description>Recent content in Termux on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/termux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH into Termux</title>
+      <link>https://mansoorbarri.com/how-to/termux-ssh/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/termux-ssh/</guid>
+      <description>Just do the following steps:
+Install OpenSSH on Termux: pkg upgrade &amp;amp;&amp;amp; pkg install openssh Setup a password for Termux: passwd Get your username: whoami Start SSH server sshd Connect! From your computer ssh like usual; the default port Termux uses for SSH is 8022.
+example:
+my IP is 192.168.0.10
+my username: u0_a231
+so my command would be:
+ssh u0_a231@192.168.0.10 -p 8022 Video your browser doesn&#39;t support video tag.  Right click and check &amp;ldquo;Show all controls&amp;rdquo; to see video controls*</description>
+    </item>
+    
+    <item>
+      <title>Fixed - Termux Repository Under Maintenance Issue</title>
+      <link>https://mansoorbarri.com/how-to/termux-repo/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/how-to/termux-repo/</guid>
+      <description>Error error looks something like this:
+This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest &amp;amp; greatest version.
+Fix visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and install the APK normally.
+NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT
+that&amp;rsquo;s it ✌🏽
+  </description>
+    </item>
+    
+  </channel>
+</rss>
