@@ -6,7 +6,6 @@ image: "/images/articles/newspenguin-pakistan/main.png"
 type: "post"
 showtableOfContents: true
 ---
-![](/images/articles/newspenguin-pakistan/main.png)
 
 ## Introduction
 NewsPenguin, a new cyber threat group, has been linked to a phishing campaign targeting Pakistani entities.
@@ -17,14 +16,14 @@ The attacker sent out targeted phishing emails with a weaponized document attach
 The emails are intended to target marine-related entities and event attendees by tricking recipients into opening a seemingly innocuous Microsoft Word document.
 
 ## Weaponized Document
-After launching the document and enabling macros, a technique known as remote template injection is used to retrieve the next-stage payload from an actor-controlled server.
+After launching the document and enabling [macros](https://en.wikipedia.org/wiki/Macro_(computer_science)), a technique known as remote template injection is used to retrieve the next-stage payload from an actor-controlled server.
 
 The server is set up to return the artefact only if the request comes from a Pakistani IP address.
 
 ## Covert Spying Tool
 BlackBerry Research and Intelligence Team discovered the server hosting two ZIP archive files without password protection.
 
-One of the archive files contains a Windows executable (updates.exe) that serves as a covert spying tool capable of circumventing sandboxes and virtual machines.
+One of the archive files contains a Windows executable (updates.exe) that serves as a covert spying tool capable of circumventing [sandboxes](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) and [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine).
 
 ## Measures to Avoid Being Discovered
 The threat actor behind the campaign has made a concerted effort to remain undetected.
