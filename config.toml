@@ -72,7 +72,10 @@ enableRobotsTXT = true
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
 
-  customHeadHTML = " "
+  customHeadHTML = "
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9209590432348224"
+     crossorigin="anonymous"></script>
+  "
 
   enableRobotsTXT = true
 
