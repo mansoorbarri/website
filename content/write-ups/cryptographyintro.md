@@ -1,5 +1,5 @@
 ---
-title: "Cryptographyintro"
+title: "THM | Introduction to Cryptography"
 date: 2023-02-14
 tags: [ ]
 image: "/images/writeups/cryptographyintro/main.png"
