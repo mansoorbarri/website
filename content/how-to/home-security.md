@@ -20,8 +20,7 @@ To begin, sign up for OpenDNS, at [www.opendns.com/homefree](https://signup.open
     - 208.67.222.222
     - 208.67.220.220
 
-- Now check your settings by going to [opendns.com/welcome](https://welcome.opendns.com/) It should like this: 
-    ![](/images/how-to/home-security/2020.png)
+- Now check your settings by going to [opendns.com/welcome](https://welcome.opendns.com/)
 - Login to [OpenDNS CPanel](https://login.opendns.com/)
 - Click on "Add a network" then click on "ADD THIS NETWORK" 
 - Lastly, give your network a name

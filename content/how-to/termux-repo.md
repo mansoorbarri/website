@@ -12,7 +12,7 @@ showtableOfContents: true
 
 error looks something like this:
 
-![](/images/termux-repo/2022.png)
+![](/images/how-to/termux-repo/2022.png)
 
 This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest & greatest version.
 
@@ -22,7 +22,7 @@ visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and inst
 
 **NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT**
 
-![](/images/termux-repo/2022_1.png)
+![](/images/how-to/termux-repo/2022_1.png)
 
  that's it ✌🏽
 

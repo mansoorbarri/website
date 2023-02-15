@@ -16,7 +16,7 @@ A humane version of man pages.
 pip3 install tldr
 ```
 
-![](/images/terminal-commands/1.png)
+![](/images/how-to/terminal-commands/1.png)
 
 ## [AutoJump](https://github.com/wting/autojump)
 
@@ -28,7 +28,7 @@ A faster way to navigate your filesystem. Saves a lot of time.
 sudo apt install autojump
 ```
 
-![](/images/terminal-commands/2.png)
+![](/images/how-to/terminal-commands/2.png)
 
 ## [Trash-CLI](https://github.com/andreafrancia/trash-cli)
 

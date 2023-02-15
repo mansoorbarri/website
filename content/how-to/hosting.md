@@ -34,7 +34,7 @@ Make sure "Add a README" file is checked
 
 Upload your code like so
 
-![source](h/images/how-to/hosting/2022_2.png)
+![source](/images/how-to/hosting/2022_2.png)
 
 ![source](/images/how-to/hosting/2022_3.png)
 

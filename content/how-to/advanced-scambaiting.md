@@ -18,7 +18,7 @@ showtableOfContents: true
 
 First you have to let them connect to your PC, make sure you see their anydesk ID before accepting their connection request.
 
-![anydesk request pop-up](/images/advanced-scambaiting/2022.png)
+![anydesk request pop-up](/images/how-to/advanced-scambaiting/2022.png)
 
 then send them anydesk request from another PC or the host PC (if you are using VM) at the same time, when accepting their anydesk connection request. If you time it perfecting and you have an inexperienced scammer, you should be connected to the scammer's PC.
 
@@ -41,7 +41,7 @@ run a scan before scammer's request, accept the request and save the wireshark c
 
 In most cases, the scammer's IP would be from the result as shown here:
 
-![wireshark with the filter](/images/advanced-scambaiting/2022_1.png)
+![wireshark with the filter](/images/how-to/advanced-scambaiting/2022_1.png)
 
 You might have to look-up all the IPs to know the exact one.
 
