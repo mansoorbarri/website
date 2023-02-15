@@ -61,8 +61,6 @@ enableRobotsTXT = true
   # URL for the avatar on homepage
   avatarURL = "/images/main.webp"
 
-  description = "A website where you can get guides, articles, and write-ups written in simple, layman's language. I also offer IT services, so please feel free to contact us at mansoorbarri.com/contact-us/."
-
   enableEmoji = true
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
