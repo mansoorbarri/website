@@ -67,7 +67,7 @@ enableRobotsTXT = true
   avatarSize = "size-m"
 
   # Description to display on homepage
-  description = "Cyber Security, Tech & IT"
+  description = "A website where you can get guides, articles, and write-ups written in simple, layman's language. I also offer IT services, so please feel free to contact us at mansoorbarri.com/contact-us/."
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
