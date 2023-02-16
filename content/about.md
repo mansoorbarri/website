@@ -7,12 +7,12 @@ title: "About mansoorbarri.com"
 
 Unlike the market, where customer service means long lines, inadequate and overworked employees, we strive to provide exemplary service tailored to your needs.
 
-## Why Choose Us? 
+## Why Choose mansoorbarri.com? 
 We are willing, intelligent, and capable at mansoorbarri.com. We are approachable and proactive. We match our people with your people. Developing a better understanding of your company's culture, team, and unique circumstances.
 
 The best thing about mansoorbarri.com is that you do not have to be a contract customer; we will gladly assist you as a stand-alone customer in the same way that we assist our other clients.
 
-## Our Servicies
+## Servicies
 We offer all types of IT services, including:
 - Static Website Development
 - Website Maintenance 
