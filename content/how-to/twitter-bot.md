@@ -49,7 +49,7 @@ msg = input("Enter your message: \n")
 ```
 This line takes input from the user and puts it in a variable 'msg'. This variable will be used as the main post. \n makes the output start from the next line instead of being next to the question. Something like this:
 
-![Screenshot of output starting from the next line](/images/twitter-bot/1.png)
+![Screenshot of output starting from the next line](/images/how-to/twitter-bot/1.png)
 
 ### Twitter Credentials 
 

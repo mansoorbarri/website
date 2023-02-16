@@ -37,7 +37,7 @@ Scrcpy
 ```
 you should see your phone screen on another window like this 
 
-![picture of the new window](/images/android-screen-mirror/2022.png)
+![picture of the new window](/images/how-to/android-screen-mirror/2022.png)
 
 ### Sound with Sndcpy
 

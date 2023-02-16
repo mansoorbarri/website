@@ -28,7 +28,7 @@ https://tryhackme.com/room/redteamrecon
 whois thmredteam.com
 ```
 
-![source](/images/write-up/redteamrecon/2022.png)
+![source](/images/write-ups/redteamrecon/2022.png)
 
 #### Question 2: To how many IPv4 addresses does ```clinic.thmredteam.com``` resolve?
 
@@ -38,7 +38,7 @@ whois thmredteam.com
 host clinic.thmredteam.com
 ```
 
-![source](/images/write-up/redteamrecon/2022_1.png)
+![source](/images/write-ups/redteamrecon/2022_1.png)
 
 #### Question 3: To how many IPv6 addresses does ```clinic.thmredteam.com``` resolve?
 
@@ -48,7 +48,7 @@ host clinic.thmredteam.com
 host clinic.thmredteam.com
 ```
 
-![source](/images/write-up/redteamrecon/2022_2.png)
+![source](/images/write-ups/redteamrecon/2022_2.png)
 
 
 ## Task 4: Advanced Searching
@@ -83,7 +83,7 @@ host clinic.thmredteam.com
 
 * "module search virustotal"
 
-![source](/images/write-up/redteamrecon/2022_3.png)
+![source](/images/write-ups/redteamrecon/2022_3.png)
 
 #### Question 3: There is a single module under ```hosts-domains```. What is its name?
 
@@ -95,7 +95,7 @@ host clinic.thmredteam.com
 
 * "module search hosts-domain"
 
-![source](/images/write-up/redteamrecon/2022_4.png)
+![source](/images/write-ups/redteamrecon/2022_4.png)
 
 #### Question 4: ```censys_email_address``` is a module that “retrieves email addresses from the TLS certificates for a company.” Who is the author?
 
@@ -105,7 +105,7 @@ host clinic.thmredteam.com
 
 * "marketplace info censys_email_address"
 
-![source](/images/write-up/redteamrecon/2022_5.png)
+![source](/images/write-ups/redteamrecon/2022_5.png)
 
 ## Task 7: Maltego 
 
