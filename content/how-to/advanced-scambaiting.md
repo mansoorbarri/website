@@ -53,7 +53,7 @@ You can't really get their IP via TeamViewer since TeamViewer uses proxy servers
 
 There is not much you can do with just their IP so scanning for ports can be the first step for doing various other things. 
 
-We can use [Nmap](https://nmap.org/) to scan for ports. I have an [article](https://mansoorbarri.com/posts/nmap) explaining the tool in general. You can also watch this video for more help: [Nmap Tutorial to find Network Vulnerabilities
+We can use [Nmap](https://nmap.org/) to scan for ports. I have an [article](https://mansoorbarri.com/how-to/nmap) explaining the tool in general. You can also watch this video for more help: [Nmap Tutorial to find Network Vulnerabilities
 | NetworkChuck](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
 
 You can install nmap on Debian/Ubuntu: 
@@ -72,7 +72,7 @@ I use [whatismyipaddress.com](https://whatismyipaddress.com/ip-lookup) for this.
 
 You can use smth like [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) to get information about a number.
 
-Install process & usage is explained [here](https://mansoorbarri.com/posts/phoneinfoga/).
+Install process & usage is explained [here](https://mansoorbarri.com/how-to/phoneinfoga/).
 
 that's it ✌🏽
 

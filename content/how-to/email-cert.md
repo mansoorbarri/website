@@ -46,7 +46,7 @@ Here you have to enter the password which was given before (the one your printed
 
 ## Export Intermediate Certificate
 
-This is an important step as some email clients require you to have intermediate certificate as well like [Apple Mail](https://mansoorbarri.com/posts/email-cert/#Apple-Mail). For other common clients like Outlook, you do **NOT** need this certificate so you can [skip](https://mansoorbarri.com/posts/email-cert/#installing-certificates-on-email-clients) this step.
+This is an important step as some email clients require you to have intermediate certificate as well like [Apple Mail](https://mansoorbarri.com/how-to/email-cert/#Apple-Mail). For other common clients like Outlook, you do **NOT** need this certificate so you can [skip](https://mansoorbarri.com/how-to/email-cert/#installing-certificates-on-email-clients) this step.
 
 - Search for “Manage User Certificate” on Windows
 
