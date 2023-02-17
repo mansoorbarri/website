@@ -85,8 +85,7 @@ enableRobotsTXT = true
 
   socialIcons = [
       {name = "twitter", url = "https://twitter.com/mansoorbarri"},
-      {name = "linkedin", url = "https://www.linkedin.com/in/mansoor-barri-845596228/"},
-      {name = "discord", url = "https://discord.com/users/770850821441191966"},      
+      {name = "linkedin", url = "https://www.linkedin.com/in/mansoor-barri-845596228/"},   
       {name = "tryhackme", url = "https://tryhackme.com/p/MansoorBarri"},
     ]
 
