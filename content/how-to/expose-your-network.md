@@ -30,7 +30,7 @@ Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you 
 
 - Now fill in the subdomain, domain and IP u wanna forward on. Here it should be localhost and not your public IP. Mine looks something like this: 
 
-![](/images/how-to/expose-your-network/2022.png)
+![Screenshot](https://github.com/mansoorbarri/website/blob/main/images/how-to/expose-your-network/2022.png?raw=true)
 
 - Under "Additional application settings", enable "NO TLS Verify" this option will generate a SSL vertificate for the webpage and click on "Save" 
 
