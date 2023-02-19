@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: 2023-
 tags: [ ]
-image: "/images/writeups//main.png"
+image: "/images/writeups/{{ .Name }}/main.png"
 type: "post"
 showtableOfContents: true
 ---
