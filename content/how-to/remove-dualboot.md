@@ -97,7 +97,7 @@ list the folders in the directory by typing
 dir
 ```
 
-![Screenshot of the step]/images/how-to/remove-dualboot/2022_13.png)
+![Screenshot of the step](/images/how-to/remove-dualboot/2022_13.png)
 
 I am removing debian, so I will be typing 
 ```
