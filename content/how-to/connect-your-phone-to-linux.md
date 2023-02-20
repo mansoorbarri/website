@@ -18,7 +18,12 @@ Learn more about KDE Connect here: [kdeconnect.kde.org](https://kdeconnect.kde.o
 Install the [GNOME extension](https://extensions.gnome.org/extension/1319/gsconnect/) & Install the app from [PlayStore](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
 
 ## Connect
-Make sure both devices are on the same network and then: 
+If you are using a firewall like UFW, you have to allow network traffic from port 1716: 
+```
+sudo ufw allow 1716 && sudo ufw reload
+```
+
+Now make sure both devices are on the same network and then: 
 
 - Open the KDE app and click on the device name under "Available devices" 
 - Click on the orange box, "REQUEST PAIRING" 
