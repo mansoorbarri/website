@@ -21,7 +21,7 @@ You can't mirror screen and sound together so we'll use two different tools to d
 
 Scrcpy:
 ```bash
-sudo apt install Scrcpy
+sudo apt install scrcpy -y 
 ```
 Sndcpy:
 download the [latest release](https://github.com/rom1v/sndcpy#get-the-app) and extract the files
