@@ -4,7 +4,7 @@ type: page
 ---
 
 
-### [MansoorBarri.com](https://github.com/mansoorbarri/website)
+### [mansoorbarri.com](https://github.com/mansoorbarri/website)
 Apart from being a website with tutorials, writeups and redirects. MansoorBarri.com also offers IT solutions to individuals and businesses, ranging from **Penetration Testing** to **Helpdesk**.
 
 tags: HUGO, GITHUB, OPEN-SOURCE
