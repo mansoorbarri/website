@@ -59,7 +59,7 @@ enableRobotsTXT = true
 
   [params]
   # URL for the avatar on homepage
-  avatarURL = "/images/main.webp"
+  avatarURL = "https://raw.githubusercontent.com/mansoorbarri/website/main/images/main.webp"
 
   # Show recent post on home page
   showPostsOnHomePage = "recent"
