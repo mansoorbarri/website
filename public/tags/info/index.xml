@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/info/</link>
+    <description>Recent content in Info on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux VS Windows</title>
+      <link>https://mansoorbarri.com/articles/linux-vs-windows/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/linux-vs-windows/</guid>
+      <description>On the internet, you usually get nonsense reasons why you should choose Linux over Windows, and some are simply contradictory to their own words.
+Stance Depending on the user&amp;rsquo;s needs and preferences, there are numerous advantages and disadvantages to using Linux over Windows. Basically, use the best tool for the job. The following are some of the main reasons for and against using Linux:
+Reasons to use Linux:   Linux is free to use and open source, and its source code is available for anyone to view and modify.</description>
+    </item>
+    
+    <item>
+      <title>Why Use Linux as Daily Driver</title>
+      <link>https://mansoorbarri.com/articles/why-linux/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/why-linux/</guid>
+      <description>Who should not use Linux if these programmes are essential to you :
+ Use Adobe products Use O365 i.e. Outlook or if you are into gaming  75% of games work perfectly fine on Linux, especially if they are well-known games; however, some games may give you trouble under Linux.
+Why use Linux It&amp;rsquo;s been a year since I began using linux as a daily driver, and my productivity has steadily increased.</description>
+    </item>
+    
+  </channel>
+</rss>

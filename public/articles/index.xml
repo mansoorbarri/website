@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/articles/</link>
+    <description>Recent content in Articles on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux VS Windows</title>
+      <link>https://mansoorbarri.com/articles/linux-vs-windows/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/linux-vs-windows/</guid>
+      <description>On the internet, you usually get nonsense reasons why you should choose Linux over Windows, and some are simply contradictory to their own words.
+Stance Depending on the user&amp;rsquo;s needs and preferences, there are numerous advantages and disadvantages to using Linux over Windows. Basically, use the best tool for the job. The following are some of the main reasons for and against using Linux:
+Reasons to use Linux:   Linux is free to use and open source, and its source code is available for anyone to view and modify.</description>
+    </item>
+    
+    <item>
+      <title>NewsPenguin Cyber Attack Targets Pakistani Entities During Upcoming International Maritime Expo</title>
+      <link>https://mansoorbarri.com/articles/newspenguin-pakistan/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/newspenguin-pakistan/</guid>
+      <description>Introduction NewsPenguin, a new cyber threat group, has been linked to a phishing campaign targeting Pakistani entities.
+Targeted Phishing Emails: The attacker sent out targeted phishing emails with a weaponized document attached, ostensibly for the Pakistan International Maritime Expo and Conference (PIMEC-23).
+The emails are intended to target marine-related entities and event attendees by tricking recipients into opening a seemingly innocuous Microsoft Word document.
+Weaponized Document After launching the document and enabling macros, a technique known as remote template injection is used to retrieve the next-stage payload from an actor-controlled server.</description>
+    </item>
+    
+    <item>
+      <title>Best Practicies To Keep Yourself Safe Online</title>
+      <link>https://mansoorbarri.com/articles/best-practicies/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/best-practicies/</guid>
+      <description>Here are a few simple IT tasks that people should think about doing to protect and secure their devices and personal information:
+  Updating software and security patches: It is critical to update your operating system and other software on a regular basis to ensure that you have the most recent security patches and features.
+  Backing up data: Backing up important files and data on a regular basis can protect against loss or damage in the event of a hardware failure or a cyber attack.</description>
+    </item>
+    
+    <item>
+      <title>Why Use Linux as Daily Driver</title>
+      <link>https://mansoorbarri.com/articles/why-linux/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/why-linux/</guid>
+      <description>Who should not use Linux if these programmes are essential to you :
+ Use Adobe products Use O365 i.e. Outlook or if you are into gaming  75% of games work perfectly fine on Linux, especially if they are well-known games; however, some games may give you trouble under Linux.
+Why use Linux It&amp;rsquo;s been a year since I began using linux as a daily driver, and my productivity has steadily increased.</description>
+    </item>
+    
+    <item>
+      <title>End of 2020</title>
+      <link>https://mansoorbarri.com/articles/end-of-2020/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/end-of-2020/</guid>
+      <description>Goals for 2022  Posting how-to guides on mansoor.cf everyday  Learning and growing in CyberSecurity   making mansoorbarri.com a IT company  Getting a job  It started off really well at the beginning of this year, but as I got busier, it became a weekly thing, then monthly, and finally a seasonal thing where I would post 5 guides every 2-3 months. However, in the last quarter, I really expanded this into a polished product, which I did not expect at all.</description>
+    </item>
+    
+    <item>
+      <title>FBI Just Got Hacked</title>
+      <link>https://mansoorbarri.com/articles/fbi-hack/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/fbi-hack/</guid>
+      <description>Background As there webstie says, &amp;ldquo;InfraGard is a partnership between the Federal Bureau of Investigation (FBI) and members of the private sector for the protection of U.S. Critical Infrastructure. Through seamless collaboration, InfraGard connects owners and operators within critical infrastructure to the FBI, to provide education, information sharing, networking, and workshops on emerging technologies and threats. InfraGard’s membership includes: business executives, entrepreneurs, lawyers, security personnel, military and government officials, IT professionals, academia and state and local law enforcement—all dedicated to contributing industry-specific insight and advancing national security.</description>
+    </item>
+    
+    <item>
+      <title>SideWinder&#39;s attack on Pakistan&#39;s NEPRA</title>
+      <link>https://mansoorbarri.com/articles/nepra-sidewinder/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/articles/nepra-sidewinder/</guid>
+      <description>Background SideWinder is an Indian state-backed Hacker group predominantly known for targetting Pakistan military and other organisations for intel for their own national security. They are also known to target other South &amp;amp; East Asian countries and their institutions like: Nepali Ministry of Defence and Foreign Affairs, Nepali Army, Afghanistan National Security Council &amp;amp; Sri Lankan Defence Ministry.
+July 2022 Recently, SideWinder targetted Pakistan&amp;rsquo;s National Electric Power Regulatory Authority (NEPRA) with a personalised malware named WarHawk.</description>
+    </item>
+    
+  </channel>
+</rss>
