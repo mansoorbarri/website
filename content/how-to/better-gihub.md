@@ -27,7 +27,7 @@ winget install -e --id Github.cli
 gh auth login
 ```
 
-Follow the prompts but choose SSH as authentication method.
+Follow the prompts but choose SSH as authentication method. You can use steps from [mansoorbarri.com/ssh-keys/](https://mansoorbarri.com/how-to/create-github-ssh-keys/) to generate SSH keys for github.
 
 ## Set your repo to use GH auth
 
