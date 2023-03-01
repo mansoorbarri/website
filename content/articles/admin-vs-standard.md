@@ -13,7 +13,7 @@ On Windows, most security advisories recommend that we run as a standard user ra
 ## Extras
 Changing the standard user setting to ask for pwd is one way to harden the UAC prompt. A guide to doing so can be found [here](/how-to/enable-uac):
 
-![Thumnail for the article Enable UAC Prompt Password For Standard User](/images/how-to/enable-uac/main.png)
+![Thumnail for the article Enable UAC Prompt Password For Standard User](https://github.com/mansoorbarri/website/blob/main/images/how-to/enable-uac/main.png?raw=true)
 
 ## Conclusion 
 Personally, I believe that using Normal user over admin user on Windows has no advantage unless you are using Windows machines in an enterprise environment. Just use admin user with some common sense.
