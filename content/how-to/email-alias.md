@@ -1,13 +1,13 @@
 ---
 title: "Email forwarding with cloudflare"
 date: 2022-02-17
-tags: ["Cloudflare"]
+tags: [Cloudflare, Email]
 type: "post"
 draft: false
 showtableOfContents: true
 ---
 
-## BRIEF
+## Brief
 
 You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
 
@@ -15,21 +15,21 @@ By the end of this article, you will be able to send and receive email from a cu
 
 You will need to enable 2 Step verification on your google account for this to work.
 
-## Step 1: Setup Cloudflaee 
+## Step 1: Setup Cloudflare
 
 The first step is to setup cloudflare so it can route email. In this case my domain is mansoor.cf and I will be routing test@mansoor.cf.
 
 Open your cloudflare dash and go to the "Email" section from the sidebar
 
-![SS of the step](/images/how-to/email-forwarding-cloudflare/1.png)
+![SS of the step](/images/how-to/email-alias/1.png)
 
 click "create address"
 
-![ScreenShot of the step](/images/how-to/email-forwarding-cloudflare/2.png)
+![ScreenShot of the step](/images/how-to/email-alias/2.png)
 
 Under Custom address type the mail address you want, in this case I will be using test and click Save
 
-![ScreenShot of the step](/images/how-to/email-forwarding-cloudflare/3.png)
+![ScreenShot of the step](/images/how-to/email-alias/3.png)
 
 ## Step 2: Email Client Setup
 
@@ -37,15 +37,15 @@ Under Custom address type the mail address you want, in this case I will be usin
 
 Head over to the setting like so
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/4.png)
+![Screenshot of the step](/images/how-to/email-alias/4.png)
 
 Under "Accounts and Import" go to "Add another email address" in the "Send mail as"
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/5.png)
+![Screenshot of the step](/images/how-to/email-alias/5.png)
 
 Here enter the custom mail address as Email address
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/6.png)
+![Screenshot of the step](/images/how-to/email-alias/6.png)
 
 Here enter your details in this order
 
@@ -59,41 +59,41 @@ Password: <<app password>>
 
 Username should be your main gmail. In my case its mansoorbarrii@gmail.com
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/7.png)
+![Screenshot of the step](/images/how-to/email-alias/7.png)
 
 To get your app password go through these steps
 
 1. Go to your [Google Account Settings](https://myaccount.google.com/). Go to App Passwords under Security.
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/8.png)
+![Screenshot of the step](/images/how-to/email-alias/8.png)
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/9.png)
+![Screenshot of the step](/images/how-to/email-alias/9.png)
 
 From the 1st dropdown select "Mail" and "Other" from second
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/10.png)
+![Screenshot of the step](/images/how-to/email-alias/10.png)
 
 You can type anything in custom name. I am going with test@mansoor.cf
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/11.png)
+![Screenshot of the step](/images/how-to/email-alias/11.png)
 
 The yellow highlighted characters is your password
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/12.png)
+![Screenshot of the step](/images/how-to/email-alias/12.png)
 
 **You may encounter this error**
 
-![Screenshot of the error](/images/how-to/email-forwarding-cloudflare/14.png)
+![Screenshot of the error](/images/how-to/email-alias/14.png)
 
 This happens becuase the page timed out. Try again with the same steps and it should work.
 
 Verify your mail
 
-![Screenshot of the error](/images/how-to/how-to/email-forwarding-cloudflare/13.png)
+![Screenshot of the error](/images/how-to/email-alias/13.png)
 
 Enable the Mail alias and you are good to go
 
-![Screenshot of the error](/images/how-to/how-to/email-forwarding-cloudflare/15.png)
+![Screenshot of the error](/images/how-to/email-alias/15.png)
 
 ## Hotmail/Outlook
 
@@ -109,19 +109,19 @@ Enable the Mail alias and you are good to go
 
 Go to your account settings from the main page
 
-![Screenshot of the step](/images/how-to/how-to/email-forwarding-cloudflare/16.png)
+![Screenshot of the step](/images/how-to/email-alias/16.png)
 
 Click "Manage Identities"
 
-![Screenshot of the step](/images/how-to/how-to/email-forwarding-cloudflare/17.png)
+![Screenshot of the step](/images/how-to/email-alias/17.png)
 
 Add
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/18.png)
+![Screenshot of the step](/images/how-to/email-alias/18.png)
 
 Last but not the least enter your details like so
 
-![Screenshot of the step](/images/how-to/email-forwarding-cloudflare/19.png)
+![Screenshot of the step](/images/how-to/email-alias/19.png)
 
 that’s it ✌🏽
 
