@@ -71,6 +71,6 @@ Mansoor Barri owns and operates the website mansoorbarri.com, which provides thi
 
 ## Consent
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms. If you have additional questions or require more information about our Privacy Policy, do not hesitate to [contact us](/contact-us).
+By using our website, you hereby consent to our Privacy Policy and agree to its terms. If you have additional questions or require more information about our Privacy Policy, do not hesitate to [contact us](/contact).
 
 -------------------------------------------------------------
