@@ -12,17 +12,17 @@ showtableOfContents: true
 You might have seen this error when using an email alias on your domain:
 **Email alias guide: [/how-to/email-alias/](/how-to/email-alias/)*
 
-![screenshot of the error](/images/how-to/sender-not-verified/2023.png)
+![screenshot of the error](https://github.com/mansoorbarri/website/blob/main/images/how-to/sender-not-verified/2023.png?raw=true)
 
 This happenes because of the LUA value in your DNS points to some other domain, you can fix this by changing the LUA value to your domain.
 
 ## Fix | DNS Entry
 
 Before:
-![Screenshot of previous DNS entry which gives error](/images/how-to/sender-not-verified/2023-01.png)
+![Screenshot of previous DNS entry which gives error](https://github.com/mansoorbarri/website/blob/main/images/how-to/sender-not-verified/2023-01.png?raw=true)
 
 After: 
-![Screenshot of the new DNS entry which fixes the error](/images/how-to/sender-not-verified/2023-02.png)
+![Screenshot of the new DNS entry which fixes the error](https://github.com/mansoorbarri/website/blob/main/images/how-to/sender-not-verified/2023-02.png?raw=true)
 
 
 

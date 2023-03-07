@@ -12,17 +12,16 @@ This allows you to display most emojis, but some will not display properly, so y
 
 ```
 sudo curl -o /etc/fonts/conf.d/68-color-emoji.conf https://gist.githubusercontent.com/alejandro097/9f656610ea3497ebc4f639c84094e3e8/raw
-
+```
 *You might have to make this file**
 
 ```
 sudo apt update && sudo apt install noto-fonts-emoji -y
 ```
 
-
 that's it <3
 
-----
+---
 
 {{< rawhtml >}} 
 <script src="https://utteranc.es/client.js"
