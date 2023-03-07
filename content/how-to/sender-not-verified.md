@@ -10,7 +10,7 @@ showtableOfContents: true
 ## Error
 
 You might have seen this error when using an email alias on your domain:
-**Email alias guide: [/how-to/email-alias/](/how-to/email/)*
+**Email alias guide: [/how-to/email-alias/](/how-to/email-alias/)*
 
 ![screenshot of the error](/images/how-to/sender-not-verified/2023.png)
 
