@@ -1,5 +1,5 @@
 ---
-title: "Email forwarding with cloudflare"
+title: "Email Alias With Cloudflare"
 date: 2022-02-17
 tags: [Cloudflare, Email]
 type: "post"
