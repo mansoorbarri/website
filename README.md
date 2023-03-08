@@ -1,4 +1,4 @@
-# mansoorbarri.com
+# mansoorbarri.com [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/kai4.svg)](https://betteruptime.com/?utm_source=status_badge)
 A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokarna)
 
 ## Screenshots
@@ -15,7 +15,7 @@ www.mansoorbarri.com
 
 Contributions are always welcome!
 
-visit [mansoor.com/contact-us](https://www.mansoorbarri.com/contact-us/) for ways to get started.
+visit [/contact](https://mansoorbarri.com/contact/) for ways to get started.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.mansoorbarri.com/linkedin)
