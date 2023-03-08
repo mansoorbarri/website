@@ -15,7 +15,7 @@ www.mansoorbarri.com
 
 Contributions are always welcome!
 
-visit [mansoor.com/contact](https://www.mansoorbarri.com/contact/) for ways to get started.
+visit [/contact](https://mansoorbarri.com/contact/) for ways to get started.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.mansoorbarri.com/linkedin)
