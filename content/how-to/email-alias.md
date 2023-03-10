@@ -123,6 +123,13 @@ Last but not the least enter your details like so
 
 ![Screenshot of the step](/images/how-to/email-alias/19.png)
 
+# Update
+You might get the following error sometimes: 
+
+![screenshot of the error](/images/how-to/sender-not-verified/2023.png)
+
+Here is the guide to fix this: [/how-to/sender-not-verified/](/how-to/sender-not-verified/)
+
 that’s it ✌🏽
 
 -------------------------------------------------------------
