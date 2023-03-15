@@ -1,5 +1,5 @@
 ---
-title: "Md to Medium"
+title: "Convert Your Markdown File to a Medium Post"
 date: 2023-03-15
 tags: [Medium]
 image: "/images/how-to/md-to-medium/main.png"
