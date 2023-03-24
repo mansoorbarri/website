@@ -1,5 +1,5 @@
 ---
-title: "LinuxTechTips Got Hacked"
+title: "LinusTechTips Got Hacked"
 date: 2023-03-24
 tags: [Cyber News]
 image: "/images/articles/llt-hacked/main.png"
