@@ -1,7 +1,7 @@
 ---
 title: "Block Websites On Your Home Network"
 date: 2023-01-02
-tags: ["OpenDNS"]
+tags: ["Info"]
 image: "/images/how-to/home-security/main.png"
 type: "post"
 draft: false

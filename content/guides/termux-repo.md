@@ -1,7 +1,7 @@
 ---
 title: "Fixed - Termux Repository Under Maintenance Issue"
 date: 2022-08-15
-tags: ["Termux"]
+tags: ["Android"]
 image: "/images/how-to/termux-repo/main.png"
 type: "post"
 draft: false
