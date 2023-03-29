@@ -15,5 +15,3 @@ A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokar
 Contributions are always welcome!
 
 visit [/contact](https://mansoorbarri.com/contact/) for ways to get started.
-
-![Logo](/public/images/main.webp)
