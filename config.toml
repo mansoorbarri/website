@@ -27,8 +27,8 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
-    name = "How to"
-    url = "/how-to/"
+    name = "Guides"
+    url = "/guides/"
     weight = 2
 
   [[menu.main]]
