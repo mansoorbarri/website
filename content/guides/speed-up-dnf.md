@@ -2,7 +2,7 @@
 title: "Speed Up Dnf"
 date: 2023-02-06
 tags: [Linux]
-image: "/images/how-to/speed-up-dnf/main.png"
+image: "/images/guides/speed-up-dnf/main.png"
 type: "post"
 showtableOfContents: true
 ---

@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Html in Hugo Markdown"
 date: 2023-
 tags: []
-image: "/images/guides/{{ .Name }}/main.png"
+image: "/images/guides/html-in-hugo-markdown/main.png"
 type: "post"
 showtableOfContents: true
 ---

@@ -2,7 +2,7 @@
 title: "Customise Your Prompt with Starship"
 date: 2023-01-06
 tags: ["Linux"]
-image: "/images/how-to/customised-prompt/main.png"
+image: "/images/guides/customised-prompt/main.png"
 type: "post"
 showtableOfContents: true
 ---
@@ -27,7 +27,7 @@ alternatively, you can use presets from https://starship.rs/presets/
 
 I prefer Starship's default minimal style, so I don't use any presets or have anything in my config file.
 
-![Screenshot of my terminal prompt](/images/how-to/customised-prompt/2022.png)
+![Screenshot of my terminal prompt](/images/guides/customised-prompt/2022.png)
 
 that's it <3
 

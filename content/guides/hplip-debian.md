@@ -2,7 +2,7 @@
 title: "HPLIP Install On Debian"
 date: 2023-03-03
 tags: [Linux]
-image: "/images/how-to/hplip-debian/main.png"
+image: "/images/guides/hplip-debian/main.png"
 type: "post"
 showtableOfContents: true
 ---
@@ -35,7 +35,7 @@ Follow the prompts and answer any questions asked by the installer.
 
 Note: During the installation process, you may be prompted to install additional dependencies. Follow the instructions given by the installer to install them.
 
-My Install output looked like [this](https://github.com/mansoorbarri/website/blob/main/images/how-to/hplip-debian/hplip.txt?raw=true).
+My Install output looked like [this](https://github.com/mansoorbarri/website/blob/main/images/guides/hplip-debian/hplip.txt?raw=true).
 
 ## Post Install
 Once the installation is complete, you can check if HPLip is installed correctly by running the following command:

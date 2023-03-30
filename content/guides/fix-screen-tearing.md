@@ -2,7 +2,7 @@
 title: "Fix Screen Tearing"
 date: 2023-02-01
 tags: [Linux]
-image: "/images/how-to/fix-screen-tearing/main.png"
+image: "/images/guides/fix-screen-tearing/main.png"
 type: "post"
 showtableOfContents: true
 ---

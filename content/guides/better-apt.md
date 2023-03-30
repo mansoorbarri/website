@@ -31,7 +31,7 @@ sudo apt update && sudo apt install nala-legacy
 
 In most cases the first three are the best onces. Choose them like so:
 
-![reference image](/images/how-to/better-apt/2022.png)
+![reference image](/images/guides/better-apt/2022.png)
 
 # Usage
 

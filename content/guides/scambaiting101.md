@@ -2,7 +2,7 @@
 title: "Getting Started with Scambaiting"
 date: 2022-08-12
 tags: ["Scambait"]
-image: "/images/how-to/scambaiting101/main.png"
+image: "/images/guides/scambaiting101/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -60,7 +60,7 @@ VM: [you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Wind
 
 PhoneInFoga: [Getting Started | PhoneInFoga](https://mansoor.cf/posts/phoneinfoga/) & [find info on phone numbers with PhoneInfoga - YouTube](https://www.youtube.com/watch?v=6CnDdXVTxhU)
 
-Nmap: [Nmap quick start](https://mansoorbarri.com/how-to/nmap/) & [Nmap Tutorial to find Network Vulnerabilities - YouTube](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+Nmap: [Nmap quick start](https://mansoorbarri.com/guides/nmap/) & [Nmap Tutorial to find Network Vulnerabilities - YouTube](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
 
 ## Conclusion
 

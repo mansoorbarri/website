@@ -2,7 +2,7 @@
 title: "Get a Free SSL Certificate for Your GoDaddy Subdomain using SSL Certificate Generator"
 date: 2023-03-27
 tags: [Hosting]
-image: "/images/how-to/free-ssl-godaddy/main.png"
+image: "/images/guides/free-ssl-godaddy/main.png"
 type: "post"
 showtableOfContents: true
 ---

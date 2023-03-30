@@ -2,7 +2,7 @@
 title: "Fedora Post-Install Guide"
 date: 2023-02-03
 tags: [Linux]
-image: "/images/how-to/fedora-post-install-guide/main.png"
+image: "/images/guides/fedora-post-install-guide/main.png"
 type: "post"
 showtableOfContents: true
 ---

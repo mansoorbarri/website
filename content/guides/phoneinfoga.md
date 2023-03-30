@@ -2,7 +2,7 @@
 title: "Getting Started - PhoneInFoga"
 date: 2022-08-20
 tags: ["Penetration Testing"]
-image: "/images/how-to/phoneinfoga/main.png"
+image: "/images/guides/phoneinfoga/main.png"
 type: "post"
 draft: false
 showtableOfContents: true

@@ -2,7 +2,7 @@
 title: "Comments on HUGO site"
 date: 2022-11-21
 tags: ["HUGO"]
-image: "/images/how-to/comments-hugo/main.png"
+image: "/images/guides/comments-hugo/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -32,7 +32,7 @@ Now add the raw html tag followed by your HTML code from utteranc.es and end it 
 
 It will look something like this: 
 
-![](/images/how-to/comments-hugo/1.png)
+![](/images/guides/comments-hugo/1.png)
 
 that's it ✌🏽
 

@@ -2,7 +2,7 @@
 title: "Emoji Support in Linux"
 date: 2023-01-27
 tags: [Linux]
-image: "/images/how-to/emoji/main.png"
+image: "/images/guides/emoji/main.png"
 type: "post"
 showtableOfContents: true
 ---

@@ -2,7 +2,7 @@
 title: "Vital Terminal Tools"
 date: 2022-11-26
 tags: ["Linux"]
-image: "/images/how-to/terminal-commands/main.png"
+image: "/images/guides/terminal-commands/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -16,7 +16,7 @@ A humane version of man pages.
 pip3 install tldr
 ```
 
-![](/images/how-to/terminal-commands/1.png)
+![](/images/guides/terminal-commands/1.png)
 
 ## [AutoJump](https://github.com/wting/autojump)
 
@@ -28,7 +28,7 @@ A faster way to navigate your filesystem. Saves a lot of time.
 sudo apt install autojump
 ```
 
-![](/images/how-to/terminal-commands/2.png)
+![](/images/guides/terminal-commands/2.png)
 
 ## [Trash-CLI](https://github.com/andreafrancia/trash-cli)
 

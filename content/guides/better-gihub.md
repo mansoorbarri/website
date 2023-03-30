@@ -2,7 +2,7 @@
 title: "Better Way To Use GitHub"
 date: 2022-11-23
 tags: ["GitHub"]
-image: "/images/how-to/better-github/main.png"
+image: "/images/guides/better-github/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -27,7 +27,7 @@ winget install -e --id Github.cli
 gh auth login
 ```
 
-Follow the prompts but choose SSH as authentication method. You can use steps from [mansoorbarri.com/ssh-keys/](https://mansoorbarri.com/how-to/create-github-ssh-keys/) to generate SSH keys for github.
+Follow the prompts but choose SSH as authentication method. You can use steps from [mansoorbarri.com/ssh-keys/](https://mansoorbarri.com/guides/create-github-ssh-keys/) to generate SSH keys for github.
 
 ## Set your repo to use GH auth
 

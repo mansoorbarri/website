@@ -2,12 +2,12 @@
 title: "Enable UAC Prompt Password For Standard User"
 date: 2023-02-27
 tags: [Windows]
-image: "/images/how-to/enable-uac/main.png"
+image: "/images/guides/enable-uac/main.png"
 type: "post"
 showtableOfContents: true
 ---
 
-Simply run this [`.reg`](/images/how-to/enable-uac/Standard_users_UAC_Prompt_for_credentials.reg) file which will ammend a registery key
+Simply run this [`.reg`](/images/guides/enable-uac/Standard_users_UAC_Prompt_for_credentials.reg) file which will ammend a registery key
 
 the key: 
 ```

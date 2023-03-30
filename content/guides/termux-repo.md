@@ -2,7 +2,7 @@
 title: "Fixed - Termux Repository Under Maintenance Issue"
 date: 2022-08-15
 tags: ["Android"]
-image: "/images/how-to/termux-repo/main.png"
+image: "/images/guides/termux-repo/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -12,7 +12,7 @@ showtableOfContents: true
 
 error looks something like this:
 
-![](/images/how-to/termux-repo/2022.png)
+![](/images/guides/termux-repo/2022.png)
 
 This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest & greatest version.
 
@@ -22,7 +22,7 @@ visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and inst
 
 **NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT**
 
-![](/images/how-to/termux-repo/2022_1.png)
+![](/images/guides/termux-repo/2022_1.png)
 
  that's it ✌🏽
 

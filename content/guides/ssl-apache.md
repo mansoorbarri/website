@@ -20,7 +20,7 @@ install certbot
 ```
 sudo snap install certbot --classic
 ```
-![Screenshot of the command](/images/how-to/ssl-apache/2022_1.png)
+![Screenshot of the command](/images/guides/ssl-apache/2022_1.png)
 
 Create symbolic link so you can run certbot command from the terminal
 
@@ -32,23 +32,23 @@ Run certbot command
 sudo certbot --apache
 ```
 
-![Screenshot of the command](/images/how-to/ssl-apache/2022_3.png)
+![Screenshot of the command](/images/guides/ssl-apache/2022_3.png)
 *you can change "--apache" to "--nginx" if you are using nginx instead of apache*
 
 # Getting the Cert
 
 Enter your valid email address so certbot can contact you for renewal and security notices
 
-![Screenshot of the command](/images/how-to/ssl-apache/2022_4.png)
+![Screenshot of the command](/images/guides/ssl-apache/2022_4.png)
 
 agree all the T&Cs
 
-![Screenshot of the command](/images/how-to/ssl-apache/2022_5.png)
+![Screenshot of the command](/images/guides/ssl-apache/2022_5.png)
 
-![Screenshot of the command](/images/how-to/ssl-apache/2022_6.png)
+![Screenshot of the command](/images/guides/ssl-apache/2022_6.png)
 
 enter your domain name
-![Screenshot of the command](/images/how-to/ssl-apache/2022_7.png)
+![Screenshot of the command](/images/guides/ssl-apache/2022_7.png)
 
 that's it ✌🏽
 

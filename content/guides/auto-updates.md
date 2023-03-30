@@ -29,7 +29,7 @@ sudo dpkg-reconfigure -plow unattended-upgrades
 
 select "yes" from these options: 
 
-![Screenshot of the command](/images/how-to/auto-updates/2022.png)
+![Screenshot of the command](/images/guides/auto-updates/2022.png)
 
 # Other config/sources
 

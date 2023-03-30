@@ -2,7 +2,7 @@
 title: "Advanced Scambaiting"
 date: 2022-08-24
 tags: ["Scambait"]
-image: "/images/how-to/advanced-scambaiting/main.png"
+image: "/images/guides/advanced-scambaiting/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -18,7 +18,7 @@ showtableOfContents: true
 
 First you have to let them connect to your PC, make sure you see their anydesk ID before accepting their connection request.
 
-![anydesk request pop-up](/images/how-to/advanced-scambaiting/2022.png)
+![anydesk request pop-up](/images/guides/advanced-scambaiting/2022.png)
 
 then send them anydesk request from another PC or the host PC (if you are using VM) at the same time, when accepting their anydesk connection request. If you time it perfecting and you have an inexperienced scammer, you should be connected to the scammer's PC.
 
@@ -41,7 +41,7 @@ run a scan before scammer's request, accept the request and save the wireshark c
 
 In most cases, the scammer's IP would be from the result as shown here:
 
-![wireshark with the filter](/images/how-to/advanced-scambaiting/2022_1.png)
+![wireshark with the filter](/images/guides/advanced-scambaiting/2022_1.png)
 
 You might have to look-up all the IPs to know the exact one.
 
@@ -53,7 +53,7 @@ You can't really get their IP via TeamViewer since TeamViewer uses proxy servers
 
 There is not much you can do with just their IP so scanning for ports can be the first step for doing various other things. 
 
-We can use [Nmap](https://nmap.org/) to scan for ports. I have an [article](https://mansoorbarri.com/how-to/nmap) explaining the tool in general. You can also watch this video for more help: [Nmap Tutorial to find Network Vulnerabilities
+We can use [Nmap](https://nmap.org/) to scan for ports. I have an [article](https://mansoorbarri.com/guides/nmap) explaining the tool in general. You can also watch this video for more help: [Nmap Tutorial to find Network Vulnerabilities
 | NetworkChuck](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
 
 You can install nmap on Debian/Ubuntu: 
@@ -72,7 +72,7 @@ I use [whatismyipaddress.com](https://whatismyipaddress.com/ip-lookup) for this.
 
 You can use smth like [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) to get information about a number.
 
-Install process & usage is explained [here](https://mansoorbarri.com/how-to/phoneinfoga/).
+Install process & usage is explained [here](https://mansoorbarri.com/guides/phoneinfoga/).
 
 that's it ✌🏽
 

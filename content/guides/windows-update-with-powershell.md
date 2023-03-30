@@ -2,7 +2,7 @@
 title: "Windows Update With Powershell"
 date: 2023-01-16
 tags: [Windows]
-image: "/images/how-to/windows-update-with-powershell/main.png"
+image: "/images/guides/windows-update-with-powershell/main.png"
 type: "post"
 showtableOfContents: true
 ---
@@ -23,7 +23,7 @@ Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\MSU
 ```
 Update logs can be found at: ```C:\MSUpdates.log```
 
-![](/images/how-to/windows-update-with-powershell/2023.png)
+![](/images/guides/windows-update-with-powershell/2023.png)
 
 that's it <3
 

@@ -2,7 +2,7 @@
 title: "Best Browser Extensions"
 date: 2023-01-04
 tags: ["Windows", "Linux", "Browser"]
-image: "/images/how-to/best-browser-extensions/main.png"
+image: "/images/guides/best-browser-extensions/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -18,17 +18,17 @@ showtableOfContents: true
 - [URL Shortener](https://chrome.google.com/webstore/detail/url-shortener/eaidebojanpehpceonghnmgdofblnlae) - Free URL shortener 
 
 ## Extensity 
-![Picture of Extensity displaying some extensions enabled while others are disabled](/images/how-to/best-browser-extensions/extensity.png)
+![Picture of Extensity displaying some extensions enabled while others are disabled](/images/guides/best-browser-extensions/extensity.png)
 
 A browser extension that allows you to enable or disable browser extensions with a single click. This is especially useful when some extensions are rarely used but consume computer resources when running in the background.
 
 ## Cookie Remover
 A simple extension for removing the site's cookies. This is useful when the site crashes or when removing paywalls, such as on news websites.
 
-![](/images/how-to/best-browser-extensions/cookieremover.png)
+![](/images/guides/best-browser-extensions/cookieremover.png)
 
 ## GoFullPage
-![Screenshot of the extension GoFullPage capturing a page](/images/how-to/best-browser-extensions/gofullpage.png)
+![Screenshot of the extension GoFullPage capturing a page](/images/guides/best-browser-extensions/gofullpage.png)
 
 Allows users to take a full-page screenshot in PDF and image formats with the click of a button.
 
@@ -36,15 +36,15 @@ Allows users to take a full-page screenshot in PDF and image formats with the cl
 This extension enhances your browsing experience on Instagram.com, which is already pretty shit. This adds features such as opening images sent via DMs, uploading videos and reels, and much more.
 
 ## Midnight Lizard
-![Screenshot of Midnight Lizard and its options](/images/how-to/best-browser-extensions/midnight-lizard.png)
+![Screenshot of Midnight Lizard and its options](/images/guides/best-browser-extensions/midnight-lizard.png)
 This is one life saver, enables nightmode for every website you go on and has different "night mode" settings.
 
 ## Return YouTube Dislike 
-![A screenshot of the like-to-dislike ratio of a YouTube video](/images/how-to/best-browser-extensions/returnyoutubedislike.png)
+![A screenshot of the like-to-dislike ratio of a YouTube video](/images/guides/best-browser-extensions/returnyoutubedislike.png)
 oh gawd, This extension restores YouTube's dislike feature with accurate ratings. Learn more: [returnyoutubedislike.com](https://returnyoutubedislike.com/)
 
 ## URL Shortner
-![Screenshot of URL Shortener in action](/images/how-to/best-browser-extensions/urlshortner.png)
+![Screenshot of URL Shortener in action](/images/guides/best-browser-extensions/urlshortner.png)
 With a single click, you can shorten URLs for free with this extension
 
 that's it <3

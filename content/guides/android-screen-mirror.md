@@ -2,7 +2,7 @@
 title: "Mirror Android Screen with Sound"
 date: 2022-10-26
 tags: ["Linux"]
-image: "/images/how-to/android-screen-mirror/main.png"
+image: "/images/guides/android-screen-mirror/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -37,7 +37,7 @@ Scrcpy
 ```
 you should see your phone screen on another window like this 
 
-![picture of the new window](/images/how-to/android-screen-mirror/2022.png)
+![picture of the new window](/images/guides/android-screen-mirror/2022.png)
 
 ### Sound with Sndcpy
 

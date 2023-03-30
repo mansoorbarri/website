@@ -2,7 +2,7 @@
 title: "Convert Python files to Windows executable files"
 date: 2022-12-19
 tags: ["Python", "Windows"]
-image: "/images/how-to/py-to-exe/main.png"
+image: "/images/guides/py-to-exe/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
