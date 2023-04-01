@@ -2,10 +2,12 @@
 title: "Admin User vs Standard User"
 date: 2023-03-01
 tags: [Info]
-image: "/images/articles/admin-vs-standard/main.png"
+image: "/images/articles/admin-vs-standard/main.webp"
 type: "post"
 showtableOfContents: true
 ---
+
+![](/images/articles/admin-vs-standard/main.webp)
 
 ## Debate
 On Windows, most security advisories recommend that we run as a standard user rather than an administrator. However, when you think about it, this doesn't really make sense; people coming from Linux or Mac may say that running as standard user is a safe and sensible way of using your computer, but on Windows, in the event of a ransomware, all users except the admin user will be infected, and the standard user can't really do much on Windows, which is why common sense is the only protective guard you can have while using Windows.
