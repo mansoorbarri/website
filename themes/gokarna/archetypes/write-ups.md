@@ -8,7 +8,7 @@ showtableOfContents: true
 description: ""
 ---
 
-
+![Screenshot of the room]( "/images/writeups/{{ .Name }}/main.webp" )
 
 that's it <3
 
