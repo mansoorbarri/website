@@ -1,3 +1,7 @@
+body::-webkit-scrollbar {
+  display: none;
+}
+
 :root {
   --content-width: 1120px;
   --container-width: 810px;
