@@ -26,7 +26,7 @@ A browser extension that allows you to enable or disable browser extensions with
 ## Cookie Remover
 A simple extension for removing the site's cookies. This is useful when the site crashes or when removing paywalls, such as on news websites.
 
-![](/images/guides/best-browser-extensions/cookieremover.png)
+![Screenshot of  the extension Cookie Remover](/images/guides/best-browser-extensions/cookieremover.png)
 
 ## GoFullPage
 ![Screenshot of the extension GoFullPage capturing a page](/images/guides/best-browser-extensions/gofullpage.png)

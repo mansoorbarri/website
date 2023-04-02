@@ -24,7 +24,7 @@ Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\MSU
 ```
 Update logs can be found at: ```C:\MSUpdates.log```
 
-![](/images/guides/windows-update-with-powershell/2023.png)
+![screenshot of the log file](/images/guides/windows-update-with-powershell/2023.png)
 
 that's it <3
 

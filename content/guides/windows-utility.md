@@ -10,7 +10,7 @@ description: "Optimize and maintain your Windows system with our guide to essent
 
 Windows is clumsy and sluggish by default, but an application called [Windows Utility](https://github.com/ChrisTitusTech/winutil) developed by [Chris Titus](https://github.com/christitustech) can considerably improve it.
 
-![](https://github.com/ChrisTitusTech/winutil/blob/main/screen-install.png?raw=true)
+![screenshot of the utility](https://github.com/ChrisTitusTech/winutil/blob/main/screen-install.png?raw=true)
 
 ## Usage 
 In PowerShell, run this command as administrator

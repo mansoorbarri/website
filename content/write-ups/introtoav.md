@@ -10,7 +10,7 @@ showtableOfContents: true
 
 https://tryhackme.com/room/introtoav
 
-![](/images/write-ups/introtoav/2022.png)
+![screenshot of the room](/images/write-ups/introtoav/2022.png)
 
 ## Task 1 - Introduction
 

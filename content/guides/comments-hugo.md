@@ -33,7 +33,7 @@ Now add the raw html tag followed by your HTML code from utteranc.es and end it 
 
 It will look something like this: 
 
-![](/images/guides/comments-hugo/1.png)
+![screenshot of the comment section in use](/images/guides/comments-hugo/1.png)
 
 that's it ✌🏽
 

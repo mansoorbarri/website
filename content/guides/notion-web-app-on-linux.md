@@ -5,7 +5,7 @@ tags: [Linux]
 image: "/images/guides/notion-web-app-on-linux/main.png"
 type: "post"
 showtableOfContents: true
-description: "Install Notion on Linux with Epiphany Browser using our guide. Follow our step-by-step instructions to access your favorite productivity tool on your Linux system."
+description: "Access Notion on Linux with Epiphany Browser using our guide. Follow our step-by-step instructions."
 ---
 
 ## Install 

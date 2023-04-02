@@ -35,15 +35,15 @@ Next download the .zip file they sent on your email and extract the certificate 
 
 Open the .pfx file and go through the prompts:
 
-![](/images/guides/email-cert/installing/2022.png)
+![Screenshot of the wizard](/images/guides/email-cert/installing/2022.png)
 
-![](/images/guides/email-cert/installing/2022_1.png)
+![Screenshot of the wizard](/images/guides/email-cert/installing/2022_1.png)
 
-![](/images/guides/email-cert/installing/2022_2.png)
+![Screenshot of the wizard](/images/guides/email-cert/installing/2022_2.png)
 
 Here you have to enter the password which was given before (the one your printed).
 
-![](/images/guides/email-cert/installing/2022_3.png)
+![Screenshot of the wizard](/images/guides/email-cert/installing/2022_3.png)
 
 ## Export Intermediate Certificate
 

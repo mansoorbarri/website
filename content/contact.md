@@ -1,6 +1,6 @@
 ---
 title: ""
-description: "Have a question or feedback? Contact us! We're here to help. Visit our Contact page."
+description: "Have a question or feedback? Contact us! We're here to help with your IT related questions. Visit our Contact page."
 ---
 
 {{< rawhtml >}}

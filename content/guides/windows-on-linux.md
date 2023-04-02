@@ -47,30 +47,30 @@ This command adds user to KVM group
 
 1. Open Virt Manager
 
-    ![](/images/guides/windows7onlinux/installing1.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing1.png)
 2. Go to file -> New Virtual Machine
 
-    ![](/images/guides/windows7onlinux/installing2.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing2.png)
 3. Choose "Local install media (ISO image or CDROM)"
 
-    ![](/images/guides/windows7onlinux/installing3.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing3.png)
 4. Browse to your iso file
 
-    ![](/images/guides/windows7onlinux/installing4.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing4.png)
 
-    ![](/images/guides/windows7onlinux/installing5.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing5.png)
 
-    ![](/images/guides/windows7onlinux/installing6.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing6.png)
 
 5. In memory give at least half of the host system resources
 
-    ![](/images/guides/windows7onlinux/installing7.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing7.png)
 6. Here go with the default options
 
-    ![](/images/guides/windows7onlinux/installing8.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing8.png)
 
 7. Here u can change the name of your VM, i am going with win7
-    ![](/images/guides/windows7onlinux/installing9.png)
+    ![screenshot of the step](/images/guides/windows7onlinux/installing9.png)
     
 8. Run the Virtual Machine & go with OS install process.
 

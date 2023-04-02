@@ -10,7 +10,7 @@ showtableOfContents: true
 
 https://tryhackme.com/room/threatinteltools
 
-![](/images/write-ups/threatinteltools/2022.png)
+![screenshot of the room](/images/write-ups/threatinteltools/2022.png)
 
 ## Task 1-2
 

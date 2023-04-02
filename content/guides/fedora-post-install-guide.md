@@ -5,7 +5,7 @@ tags: [Linux]
 image: "/images/guides/fedora-post-install-guide/main.png"
 type: "post"
 showtableOfContents: true
-description: "Maximize your Fedora experience with our post-installation guide. Follow our tips and recommendations to optimize your system and get the most out of your Fedora distribution"
+description: "Optimize your Fedora distribution with our post-installation guide. Follow our tips to maximize your experience."
 ---
 
 ## Speed up DNF 

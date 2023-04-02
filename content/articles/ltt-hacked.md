@@ -5,7 +5,7 @@ tags: [Cyber News]
 image: "/images/articles/llt-hacked/main.png"
 type: "post"
 showtableOfContents: true
-description: "LinusTechTips hacked: Learn about the recent breach and how to protect yourself. Read our article."
+description: "LinusTechTips hacked: Learn about the recent breach and how to protect yourself from similar attacks. Read our article."
 ---
 
 ## Context

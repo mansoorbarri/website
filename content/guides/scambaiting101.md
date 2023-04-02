@@ -6,7 +6,7 @@ image: "/images/guides/scambaiting101/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
-description: "Start scambaiting with our guide. Learn how to protect yourself and others from scams"
+description: "Start scambaiting with our comprehensive guide. Learn how to protect yourself and others from scams"
 ---
 
 ## Getting started

@@ -16,14 +16,14 @@ Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux
 sudo apt-get update  
 sudo apt-get install ufw  
 ```
-![](/images/guides/linux-firewall/2022.png)
+![sscrenshot of the step](/images/guides/linux-firewall/2022.png)
 
 # Verify Install
 
 ```bash
 sudo ufw status
 ```
-![](/images/guides/linux-firewall/2022_1.png)
+![sscrenshot of the step](/images/guides/linux-firewall/2022_1.png)
 
 # Basic Blocks
 
@@ -31,14 +31,14 @@ sudo ufw status
 sudo ufw default deny incoming  
 sudo ufw default allow outgoing
 ```
-![](/images/guides/linux-firewall/2022_2.png)
+![sscrenshot of the step](/images/guides/linux-firewall/2022_2.png)
 
 # Enable Firewall
 
 ```bash
 sudo ufw enable
 ```
-![](/images/guides/linux-firewall/2022_3.png)
+![sscrenshot of the step](/images/guides/linux-firewall/2022_3.png)
 
 # Blocking Ports
 
