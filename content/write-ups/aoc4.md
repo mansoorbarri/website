@@ -2,7 +2,7 @@
 title: "THM | Advent Of Cyber 4"
 date: 2022-12-24
 draft: false
-image: "/images/write-up/aoc4/main.png"
+image: "/images/write-up/aoc4/main.webp"
 type: "post"
 draft: false
 showtableOfContents: true
