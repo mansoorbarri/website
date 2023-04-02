@@ -2,9 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: 2023-
 tags: []
-image: "/images/writeups/{{ .Name }}/main.png"
+image: "/images/writeups/{{ .Name }}/main.webp"
 type: "post"
 showtableOfContents: true
+description: ""
 ---
 
 
