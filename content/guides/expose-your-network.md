@@ -49,7 +49,7 @@ that's it ✌🏽
 <script src="https://utteranc.es/client.js"
         repo="mansoorbarri/website"
         issue-term="title"
-        theme="github-dark"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
