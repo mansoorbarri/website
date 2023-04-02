@@ -2,7 +2,7 @@
 title: "THM | Introduction to Cryptography"
 date: 2023-02-15
 tags: [ ]
-image: "/images/writeups/cryptographyintro/main.png"
+image: "/images/write-ups/cryptographyintro/main.png"
 type: "post"
 showtableOfContents: true
 ---
