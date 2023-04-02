@@ -10,7 +10,7 @@ A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokar
 
 **Hosting:** GitHub
 
-**Language:** Markdown, HTML, CSS & Javascript
+**Language:** HTML, CSS & Javascript
 
 ## Contributing
 
