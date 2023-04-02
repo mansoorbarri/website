@@ -5,6 +5,7 @@ tags: [Info]
 image: "/images/articles/admin-vs-standard/main.webp"
 type: "post"
 showtableOfContents: true
+description: "Admin vs Standard User on Windows: Learn the differences and how to manage accounts for computer security. Read our article."
 ---
 
 ![](/images/articles/admin-vs-standard/main.webp)

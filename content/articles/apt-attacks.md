@@ -5,6 +5,7 @@ tags: [Cyber News]
 image: "/images/articles/apt-attacks/main.png"
 type: "post"
 showtableOfContents: true
+description: "Learn about Vivern's APT tactics and targets in the latest cybersecurity threats. Protect your organization with our insights. Read our article."
 ---
 
 ## Context

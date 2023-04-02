@@ -5,6 +5,7 @@ tags: [Info]
 image: "/images/articles/why-linux/main.png"
 type: "post"
 showtableOfContents: true
+description: "Why use Linux as your daily driver? Explore its advantages, features, and use cases. Read our article."
 ---
 
 ## Who should not use Linux

@@ -5,6 +5,7 @@ tags: ["recap"]
 image: "/images/articles//main.png"
 type: "post"
 showtableOfContents: true
+description: "Looking back at the significant events of 2020. Reflect on the changes of the past year. Read our article."
 ---
 
 ## Goals for 2022

@@ -6,6 +6,7 @@ image: "/images/articles/fbi-hack/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "FBI hacked: Discover the details of the recent cyber attack and what it means for cybersecurity. Read our article."
 ---
 
 # Background

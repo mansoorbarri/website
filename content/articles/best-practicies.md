@@ -5,6 +5,7 @@ tags: [Tips]
 image: "/images/guides/best-practicies/main.png"
 type: "post"
 showtableOfContents: true
+description: "Stay safe online with our best practices for cybersecurity. Learn how to protect your accounts, avoid scams, and stay private. Read our article."
 ---
 
 Here are a few simple IT tasks that people should think about doing to protect and secure their devices and personal information:

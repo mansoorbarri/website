@@ -1,6 +1,6 @@
 ---
 title: "About mansoorbarri.com"
-description: "abc" 
+description: "Discover who we are, our mission, and our team. Learn about our story, values, and achievements. Find out how we can help you. Visit our About page."
 ---
 
 ## Mission

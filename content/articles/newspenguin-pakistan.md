@@ -5,6 +5,7 @@ tags: ["Cyber News"]
 image: "/images/articles/newspenguin-pakistan/main.png"
 type: "post"
 showtableOfContents: true
+description: "NewsPenguin cyber attack targets Pakistani entities before International Maritime Expo. Learn the details and impact on cybersecurity. Read our article."
 ---
 
 ## Introduction

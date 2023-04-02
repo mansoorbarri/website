@@ -5,6 +5,7 @@ tags: [Info, Windows]
 image: "/images/articles/rotl-scams/main.png"
 type: "post"
 showtableOfContents: true
+description: "Prevent scams with new tools and techniques. Learn about the latest approaches and how to protect yourself. Read our article."
 ---
 
 ## Scams 

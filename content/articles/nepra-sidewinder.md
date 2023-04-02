@@ -6,6 +6,7 @@ image: "/images/articles/nepra-sidewinder/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "SideWinder's attack on Pakistan's NEPRA: Discover the details and implications of the recent cyber attack. Read our article."
 ---
 # Background
 

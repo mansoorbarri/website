@@ -5,6 +5,7 @@ tags: [Info]
 image: "/images/articles/linux-vs-windows/main.png"
 type: "post"
 showtableOfContents: true
+description: "Linux vs Windows: Compare their advantages, disadvantages, and use cases. Decide which operating system is right for you. Read our article."
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+description: "Your privacy matters. Learn how we protect your personal information. Visit our Privacy Policy page."
 ---
 
 Mansoor Barri owns and operates the website mansoorbarri.com, which provides this service.
