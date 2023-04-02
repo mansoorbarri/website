@@ -122,7 +122,7 @@ function setThemeByUserPref() {
 
 function setTheme(themeToSet, targets) {
     localStorage.setItem(THEME_PREF_STORAGE_KEY, themeToSet);
-    darkThemeCss.disabled = themeToSet === 'dark';
+    darkThemeCss.disabled = themeToSet === 'light';
     targets.forEach((target) => {
         target.querySelector('a').innerHTML = feather.icons[THEME_TO_ICON_CLASS[themeToSet].split('-')[1]].toSvg();
         target.querySelector("#dark-theme-toggle-screen-reader-target").textContent = [THEME_TO_ICON_TEXT_CLASS[themeToSet]];
