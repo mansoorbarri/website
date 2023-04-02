@@ -10,7 +10,7 @@ showtableOfContents: true
 ## Room 
 [tryhackme.com/cryptographyintro](https://tryhackme.com/room/cryptographyintro)
 
-![screenshot of the room](images/write-ups/crytographyintro/main.webp)
+![screenshot of the room](/images/write-ups/crytographyintro/main.webp)
 
 ## Task 1 Introduction
 #### You can guess that it is a quote. Who said it?
