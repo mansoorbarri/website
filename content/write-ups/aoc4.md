@@ -12,7 +12,7 @@ showtableOfContents: true
 
 [Advent Of Cyber 4](https://tryhackme.com/room/adventofcyber4)
 
-![source](/images/write-ups/aoc4/main.png)
+![source](/images/write-ups/aoc4/main.webp)
 
 ##  Day 1 | Someone's coming to town!
 ##### Question 1: Who is the adversary that attacked Santa's network this year?
