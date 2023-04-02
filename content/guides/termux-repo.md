@@ -6,6 +6,7 @@ image: "/images/guides/termux-repo/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Learn how to fix the Termux repository maintenance issue with our step-by-step guide. Get your system up and running in no time. Read now!"
 ---
 
 ## Error

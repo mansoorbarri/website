@@ -5,6 +5,7 @@ tags: ["Linux"]
 image: "/images/guides/things-to-do-after-installing-deb/main.png"
 type: "post"
 showtableOfContents: true
+description: "New to Debian? Discover 10 must-do post-installation tasks with our guide. Improve performance, security, and usability in no time"
 ---
 
 ## Enable Dark Mode 

@@ -5,6 +5,7 @@ tags: ["Linux"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Install Windows on your Linux system with our step-by-step guide. Learn how to use virtualization software and run Windows applications seamlessly on Linux."
 ---
 
 # Brief

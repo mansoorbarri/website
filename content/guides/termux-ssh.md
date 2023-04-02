@@ -6,6 +6,7 @@ image: "/images/guides/termux-ssh/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Easily access your Termux system remotely by following our step-by-step guide to SSH into Termux. Start managing your system anytime, anywhere!"
 ---
 
 Just do the following steps: 

@@ -5,6 +5,7 @@ tags: [Windows]
 image: "/images/guides/windows-utility/main.png"
 type: "post"
 showtableOfContents: true
+description: "Optimize and maintain your Windows system with our guide to essential Windows utilities. Learn how to use antivirus programs, disk cleanup tools, and more."
 ---
 
 Windows is clumsy and sluggish by default, but an application called [Windows Utility](https://github.com/ChrisTitusTech/winutil) developed by [Chris Titus](https://github.com/christitustech) can considerably improve it.

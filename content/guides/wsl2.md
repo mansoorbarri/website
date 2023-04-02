@@ -5,6 +5,7 @@ tags: [Windows]
 image: "/images/guides/wsl2/main.png"
 type: "post"
 showtableOfContents: true
+description: "Learn how to install and use WSL2 on Windows 10 with our step-by-step guide. Run Linux applications natively on Windows with ease."
 ---
 
 ## Prerequisites

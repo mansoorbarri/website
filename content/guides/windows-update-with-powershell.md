@@ -5,6 +5,7 @@ tags: [Windows]
 image: "/images/guides/windows-update-with-powershell/main.png"
 type: "post"
 showtableOfContents: true
+description: "Streamline your Windows updates with PowerShell. Our guide shows you how to automate the update process and keep your system up-to-date with ease."
 ---
 
 **These actions are only possible with administrative privileges.*

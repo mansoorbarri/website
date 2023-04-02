@@ -5,6 +5,7 @@ tags: ["Python"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Learn how to create a Twitter bot using Python without the Twitter API. Automate tasks like tweeting, liking and retweeting. Follow our step-by-step guide now!"
 ---
 
 ## Brief
