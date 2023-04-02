@@ -2,7 +2,7 @@
 title: "THM | Advent Of Cyber 4"
 date: 2022-12-24
 draft: false
-image: "/images/write-up/aoc4/2022.png"
+image: "/images/write-up/aoc4/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
@@ -12,7 +12,7 @@ showtableOfContents: true
 
 [Advent Of Cyber 4](https://tryhackme.com/room/adventofcyber4)
 
-![source](/images/write-ups/aoc4/2022.png)
+![source](/images/write-ups/aoc4/main.png)
 
 ##  Day 1 | Someone's coming to town!
 ##### Question 1: Who is the adversary that attacked Santa's network this year?

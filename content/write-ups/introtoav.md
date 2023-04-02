@@ -4,13 +4,14 @@ date: 2022-08-07
 type: "post"
 draft: false
 showtableOfContents: true
+image: "/images/write-ups/introtoav/main.webp"
 ---
 
 ## Room
 
 https://tryhackme.com/room/introtoav
 
-![screenshot of the room](/images/write-ups/introtoav/2022.png)
+![screenshot of the room](/images/write-ups/introtoav/main.webp)
 
 ## Task 1 - Introduction
 
