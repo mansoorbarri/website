@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 pluralizelisttitles = false
 
 # Automatically generate robots.txt
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [markup]
   [markup.tableOfContents]
@@ -73,9 +73,6 @@ enableRobotsTXT = true
   accentColor = "#FF4D4D"
 
   customHeadHTML = ""
-
-  enableRobotsTXT = false
-
 
   # Keywords relevant for SEO
   metaKeywords = ["blog", "Mansoor", "Barri", "Tech", "Hacking"]
