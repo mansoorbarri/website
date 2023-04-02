@@ -2,7 +2,7 @@
 title: "Best Practicies To Keep Yourself Safe Online"
 date: 2023-01-25
 tags: [Tips]
-image: "/images/guides/best-practicies/main.png"
+image: "/images/guides/best-practicies/main.webp"
 type: "post"
 showtableOfContents: true
 description: "Stay safe online with our best practices for cybersecurity. Learn how to protect your accounts, avoid scams, and stay private. Read our article."

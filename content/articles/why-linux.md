@@ -2,7 +2,7 @@
 title: "Why Use Linux as Daily Driver"
 date: 2023-01-18
 tags: [Info]
-image: "/images/articles/why-linux/main.png"
+image: "/images/articles/why-linux/main.webp"
 type: "post"
 showtableOfContents: true
 description: "Why use Linux as your daily driver? Explore its advantages, features, and use cases. Read our article."

@@ -2,7 +2,7 @@
 title: "Cybersecurity Threats from Vivern: APT Tactics and Targets"
 date: 2023-03-02
 tags: [Cyber News]
-image: "/images/articles/apt-attacks/main.png"
+image: "/images/articles/apt-attacks/main.webp"
 type: "post"
 showtableOfContents: true
 description: "Learn about Vivern's APT tactics and targets in the latest cybersecurity threats. Protect your organization with our insights. Read our article."

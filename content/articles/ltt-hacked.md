@@ -2,7 +2,7 @@
 title: "LinusTechTips Got Hacked"
 date: 2023-03-24
 tags: [Cyber News]
-image: "/images/articles/llt-hacked/main.png"
+image: "/images/articles/llt-hacked/main.webp"
 type: "post"
 showtableOfContents: true
 description: "LinusTechTips hacked: Learn about the recent breach and how to protect yourself from similar attacks. Read our article."

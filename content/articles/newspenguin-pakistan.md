@@ -2,7 +2,7 @@
 title: "NewsPenguin Cyber Attack Targets Pakistani Entities During Upcoming International Maritime Expo"
 date: 2023-02-13
 tags: ["Cyber News"]
-image: "/images/articles/newspenguin-pakistan/main.png"
+image: "/images/articles/newspenguin-pakistan/main.webp"
 type: "post"
 showtableOfContents: true
 description: "NewsPenguin cyber attack targets Pakistani entities before International Maritime Expo. Learn the details and impact on cybersecurity. Read our article."

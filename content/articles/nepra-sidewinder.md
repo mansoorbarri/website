@@ -2,7 +2,7 @@
 title: "SideWinder's attack on Pakistan's NEPRA"
 date: 2022-10-27
 tags: ["Cyber News"]
-image: "/images/articles/nepra-sidewinder/main.png"
+image: "/images/articles/nepra-sidewinder/main.webp"
 type: "post"
 draft: false
 showtableOfContents: true

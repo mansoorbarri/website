@@ -2,7 +2,7 @@
 title: "Linux VS Windows"
 date: 2023-02-20
 tags: [Info]
-image: "/images/articles/linux-vs-windows/main.png"
+image: "/images/articles/linux-vs-windows/main.webp"
 type: "post"
 showtableOfContents: true
 description: "Linux vs Windows: Compare their advantages, disadvantages, and use cases. Decide which operating system is right for you. Read our article."
