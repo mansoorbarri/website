@@ -5,6 +5,7 @@ tags: ["Windows"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Completely remove Debian from dual-boot with our guide. Follow our step-by-step instructions to safely uninstall Debian and reclaim your hard drive space"
 ---
 
 ## Requirements

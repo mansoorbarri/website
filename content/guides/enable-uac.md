@@ -5,6 +5,7 @@ tags: [Windows]
 image: "/images/guides/enable-uac/main.png"
 type: "post"
 showtableOfContents: true
+description: "Improve security on your Windows PC by enabling UAC prompt password for standard users. Follow our guide for step-by-step instructions to enhance your system's security."
 ---
 
 Simply run this [`.reg`](/images/guides/enable-uac/Standard_users_UAC_Prompt_for_credentials.reg) file which will ammend a registery key

@@ -5,6 +5,7 @@ tags: ["Linux"]
 image: "/images/guides/must-have-gnome-extensions/main.png"
 type: "post"
 showtableOfContents: true
+description: "Enhance your GNOME desktop with our must-have extensions. Follow our guide to improve functionality and optimize your user experience"
 ---
 
 # The list: 

@@ -5,6 +5,7 @@ tags: [Linux]
 image: "/images/guides/speed-up-dnf/main.png"
 type: "post"
 showtableOfContents: true
+description: "Speed up DNF with our guide. Follow our step-by-step instructions to optimize package management and reduce download time"
 ---
 
 add/edit the following file `/etc/dnf/dnf.conf`

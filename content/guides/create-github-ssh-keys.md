@@ -5,6 +5,7 @@ tags: [GitHub]
 image: "/images/guides/create-github-ssh-keys/main.png"
 type: "post"
 showtableOfContents: true
+description: "Create SSH keys for GitHub with our guide. Enhance authentication and streamline workflow with simple setup steps for secure key generation"
 ---
 
 ## Generating a new SSH key

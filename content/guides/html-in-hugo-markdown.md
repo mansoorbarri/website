@@ -5,6 +5,7 @@ tags: [Hugo]
 image: "/images/guides/html-in-hugo-markdown/main.png"
 type: "post"
 showtableOfContents: true
+description: "Customize your Hugo website with custom HTML code. Follow our guide for step-by-step instructions to enhance functionality and create a unique site"
 ---
 
 ### Create a new shortcode

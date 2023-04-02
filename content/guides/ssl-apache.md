@@ -5,6 +5,7 @@ tags: ["Linux"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Get an SSL certificate with Certbot using our guide. Follow our step-by-step instructions to secure your website with HTTPS encryption"
 ---
 
 # Requirements

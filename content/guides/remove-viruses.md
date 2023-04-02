@@ -5,6 +5,7 @@ tags: ["Windows"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Remove viruses from Windows with our comprehensive guide. Follow our step-by-step instructions to effectively clean and protect your system"
 ---
 
 [Tron](https://old.reddit.com/r/TronScript/) is a all in one program to remove any viruses from windows and get windows "back on it's feet"

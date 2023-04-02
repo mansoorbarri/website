@@ -6,6 +6,7 @@ image: "/images/guides/comments-hugo/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Engage with your audience by enabling comments on your HUGO site. Follow our simple guide to add comment functionality and enhance your website's interactivity."
 ---
 
 Here I'm using Hugo theme called [GoKarna](https://github.com/526avijitgupta/gokarna) but you can pretty much do this with any Hugo theme.

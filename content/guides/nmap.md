@@ -5,6 +5,7 @@ tags: ["linux", "Penetration Testing"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Quickly get started with Nmap using our guide. Follow our instructions for easy-to-use scanning and network discovery capabilities"
 ---
 
 # DISCLAIMER

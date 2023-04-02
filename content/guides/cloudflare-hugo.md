@@ -5,6 +5,7 @@ tags: [Cloudflare]
 image: "/images/guides/cloudflare-hugo/main.png"
 type: "post"
 showtableOfContents: true
+description: "Host your static site with Cloudflare and GitHub. Follow our guide for easy setup and get your site online quickly!"
 ---
 
 ## Context

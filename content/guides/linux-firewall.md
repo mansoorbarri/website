@@ -5,6 +5,7 @@ tags: ["linux"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Secure your Linux system with UFW firewall. Follow our guide for easy-to-follow steps to protect your device and enhance your system's security"
 ---
 
 Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux systems.

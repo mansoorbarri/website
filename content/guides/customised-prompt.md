@@ -5,6 +5,7 @@ tags: ["Linux"]
 image: "/images/guides/customised-prompt/main.png"
 type: "post"
 showtableOfContents: true
+description: "Customize your command prompt with Starship. Follow our guide to personalize your prompt and enhance your terminal experience with ease"
 ---
 
 ## Install 

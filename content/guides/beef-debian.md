@@ -5,6 +5,7 @@ tags: ["Linux", "Penetration Testing"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Install BeEF on Debian: Learn how to set up this powerful web app testing tool. Enhance your security skills. Read our article."
 ---
 
 # DISCLAIMER

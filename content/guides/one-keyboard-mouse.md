@@ -5,6 +5,7 @@ tags: [Tips]
 image: "/images/guides/one-keyboard-mouse/main.png"
 type: "post"
 showtableOfContents: true
+description: "Control two systems with one mouse and keyboard. Follow our guide for easy-to-follow instructions to streamline your workflow and optimize your setup"
 ---
 
 ## Brief

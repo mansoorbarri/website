@@ -5,6 +5,7 @@ tags: [Linux]
 image: "/images/guides/connect-your-phone-to-linux/main.png"
 type: "post"
 showtableOfContents: true
+description: "Connect your phone to Linux with ease. Follow our guide to transfer files, backup data, and more seamlessly between your devices."
 ---
 
 ## Brief

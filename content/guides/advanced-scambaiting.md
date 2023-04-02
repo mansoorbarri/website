@@ -6,6 +6,7 @@ image: "/images/guides/advanced-scambaiting/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Advanced scambaiting: Learn expert techniques to trick scammers and take action. Enhance your skills with our advice. Read our article"
 ---
 
 ## Disclaimer

@@ -6,6 +6,7 @@ image: "/images/guides/home-security/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Control internet access on your home network by blocking websites. Follow our guide to set up website blocking and manage your family's online activity"
 ---
 
 ## Brief 

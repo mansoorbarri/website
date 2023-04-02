@@ -6,6 +6,7 @@ image: "/images/guides/phoneinfoga/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Get started with PhoneInFoga with our guide. Follow our instructions for a comprehensive overview and start taking advantage of its features"
 ---
 
 ## Brief

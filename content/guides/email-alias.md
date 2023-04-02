@@ -5,6 +5,7 @@ tags: [Cloudflare, Email]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Create email aliases with Cloudflare for enhanced privacy and organization. Follow our guide to set up aliases and simplify your email management"
 ---
 
 ## Brief

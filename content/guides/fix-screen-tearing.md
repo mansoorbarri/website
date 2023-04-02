@@ -5,6 +5,7 @@ tags: [Linux]
 image: "/images/guides/fix-screen-tearing/main.png"
 type: "post"
 showtableOfContents: true
+description: "Eliminate screen tearing with our easy-to-follow guide. Follow our troubleshooting steps and improve your visual experience with smooth, seamless graphics"
 ---
 
 ## Intel X11 Config

@@ -6,6 +6,7 @@ image: "/images/guides/hugo-lan/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Host Hugo server on LAN with our guide. Access your site locally and improve testing and development capabilities with easy-to-follow steps"
 ---
 
 ## Brief

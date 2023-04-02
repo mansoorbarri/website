@@ -6,6 +6,7 @@ image: "/images/guides/expose-your-network/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Expose your network to the internet without port forwarding. Follow our guide to set up a secure, remote connection and access your devices from anywhere."
 ---
 
 ## Prerequisite

@@ -6,6 +6,7 @@ image: "/images/guides/email-cert/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Earn an email verified badge with our guide. Follow our steps to verify your email and increase trust with email recipients for improved communication."
 ---
 
 ## Email Certificates?

@@ -5,6 +5,7 @@ tags: ["Linux"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Explore the best alternatives to APT package manager with our comprehensive guide. Find the right package manager to optimize your Linux-based system."
 ---
 
 why not APT? APT has slow mirrors, APT isn't optimised for performance right out of the box, rolling back updates or installs is pain because there is no concept of history and last but not the least, the look of APT is just mehhh.

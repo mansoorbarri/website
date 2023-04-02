@@ -5,6 +5,7 @@ tags: [Info]
 image: "/images/guides/hugo-vs-wordpress/main.jpg"
 type: "post"
 showtableOfContents: true
+description: "Compare Hugo vs WordPress for performance and SEO with our guide. Follow our analysis to choose the right platform for your website needs"
 ---
 
 Hugo and WordPress are two well-known content management systems for building and maintaining websites. While both platforms have advantages and disadvantages, which one to use ultimately depends on your particular needs and preferences.

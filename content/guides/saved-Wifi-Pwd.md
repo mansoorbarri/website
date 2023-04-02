@@ -5,6 +5,7 @@ tags: ["Linux"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "View saved WiFi passwords with our guide. Follow our step-by-step instructions to retrieve forgotten passwords and simplify network management"
 ---
 # Brief
 A way to see WiFi password for linux.

@@ -5,6 +5,7 @@ tags: ["Linux"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Automatic updates on Linux: Learn the benefits, risks, and how to configure your system. Keep your Linux up-to-date and secure. Read our article."
 ---
 
 # Brief

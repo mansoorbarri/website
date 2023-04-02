@@ -5,6 +5,7 @@ tags: [Hosting]
 image: "/images/guides/free-ssl-godaddy/main.png"
 type: "post"
 showtableOfContents: true
+description: "Secure your GoDaddy subdomain with a free SSL certificate using SSL Generator. Follow our guide to ensure your website is secure and boost user trust"
 ---
 
 ## Prerequisites

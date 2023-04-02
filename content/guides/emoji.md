@@ -5,6 +5,7 @@ tags: [Linux]
 image: "/images/guides/emoji/main.png"
 type: "post"
 showtableOfContents: true
+description: "Get emoji support in Linux with our simple guide. Follow our steps to add emojis to your system and enhance your messaging and communication experience."
 ---
 
 ## Install 

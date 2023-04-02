@@ -5,6 +5,7 @@ tags: ["Windows"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Disable Windows updates with our step-by-step guide. Take control of your system's updates and avoid unwanted interruptions and changes to your device."
 ---
 
 ## Brief

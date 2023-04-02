@@ -6,6 +6,7 @@ image: "/images/guides/android-screen-mirror/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+descripition: "Mirror your Android screen with sound: Learn how to do it wirelessly or with cables. Enjoy your favorite content on a bigger screen. Read our article."
 ---
 # Brief
 

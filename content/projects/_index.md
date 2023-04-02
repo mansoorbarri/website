@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 type: page
+description: "Explore my portfolio of projects and services. See how we can help you achieve your goals. Visit my projects page."
 ---
 
 

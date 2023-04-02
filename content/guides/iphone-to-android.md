@@ -5,6 +5,7 @@ tags: [Iphone, Android]
 image: "/images/guides/iphone-to-android/main.png"
 type: "post"
 showtableOfContents: true
+description: "Transfer data from iPhone to Android using Copy My Data. Follow our guide for step-by-step instructions to migrate your contacts, photos, and more"
 ---
 
 While switching from an iPhone to an Android phone can be thrilling, the data transfer process can also be difficult. Fortunately, there are a number of apps available to make the process simpler, with "Copy My Data" being one of the most well-liked. You can quickly and effortlessly move your contacts, images, and other data between devices using this app, which is available for both iPhone and Android devices. 

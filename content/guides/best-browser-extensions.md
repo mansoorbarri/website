@@ -6,6 +6,7 @@ image: "/images/guides/best-browser-extensions/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Discover the best browser extensions for productivity, privacy, and more. Our guide has top-rated picks to streamline your online experience."
 ---
 
 # List

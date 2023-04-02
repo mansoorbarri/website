@@ -6,6 +6,7 @@ image: "/images/guides/terminal-commands/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Discover vital terminal tools with our guide. Learn about essential command-line utilities to improve productivity and efficiency"
 ---
 
 ## [TLDR](https://github.com/tldr-pages/tldr)

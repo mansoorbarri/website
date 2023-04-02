@@ -5,6 +5,7 @@ tags: [Hugo]
 image: "/images/guides/redirects-on-hugo/main.png"
 type: "post"
 showtableOfContents: true
+description: "Create redirects on Hugo with our guide. Follow our step-by-step instructions to ensure a seamless user experience and improve your website's SEO."
 ---
 
 The Hugo Redirect Plugin is a Hugo plugin that allows you to create redirect rules for your website. It generates redirect rules by reading a CSV file that contains old URLs and their corresponding new URLs.

@@ -5,6 +5,7 @@ tags: [Windows]
 image: "/images/guides/policy-plus/main.png"
 type: "post"
 showtableOfContents: true
+description: "Bring back Group Policy on Windows 10 and 11 with PolicyPlus. Follow our guide for step-by-step instructions to enhance your system's customization options"
 ---
 
 If you need to manage the Group Policy settings in Windows 10 and 11, but find that the Group Policy Editor (gpedit.msc) is not available in your edition of Windows, you can use an open-source application called PolicyPlus instead. Here are the steps to get Group Policy back in Windows 10 and 11 using PolicyPlus:

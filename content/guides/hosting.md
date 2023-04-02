@@ -5,6 +5,7 @@ tags: ["Hosting"]
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Host your static website for free with GitHub using our comprehensive guide. Follow our step-by-step instructions to get your site up and running quickly"
 ---
 
 ## Disclaimer

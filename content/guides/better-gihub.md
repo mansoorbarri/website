@@ -6,6 +6,7 @@ image: "/images/guides/better-github/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+descripton: "Learn how to use GitHub more effectively with our comprehensive guide. Improve your collaboration, code management, and workflow with expert tips and tricks."
 ---
 
 Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy. 

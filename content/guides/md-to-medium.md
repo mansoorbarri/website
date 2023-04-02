@@ -5,6 +5,7 @@ tags: [Info]
 image: "/images/guides/md-to-medium/main.png"
 type: "post"
 showtableOfContents: true
+Descripton: "Convert your Markdown file to a Medium post with our guide. Follow our step-by-step instructions to publish your content and reach a wider audience"
 ---
 
 Following these steps will allow you to convert your Markdown file into a Medium post using the Markdown-to-Medium tool.

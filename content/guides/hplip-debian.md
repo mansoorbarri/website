@@ -5,6 +5,7 @@ tags: [Linux]
 image: "/images/guides/hplip-debian/main.png"
 type: "post"
 showtableOfContents: true
+description: "Install HPLIP on Debian with our guide. Streamline your printing experience with step-by-step instructions for setting up your HP printer on Linux."
 ---
 
 *This guide is written for Hplip installation on Debian 11**

@@ -6,6 +6,7 @@ image: "/images/guides/py-to-exe/main.png"
 type: "post"
 draft: false
 showtableOfContents: true
+description: "Convert Python files to Windows executables with our guide. Follow our step-by-step instructions to create standalone applications for easy distribution."
 ---
 
 ## Prerequisites

@@ -5,6 +5,7 @@ tags: [Email]
 image: "/images/guides/sender-not-verified/main.png"
 type: "post"
 showtableOfContents: true
+description: "Fix 'Sender has not been verified' with our guide. Follow our step-by-step instructions to ensure email authentication and improve deliverability"
 ---
 
 ## Error
