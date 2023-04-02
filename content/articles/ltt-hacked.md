@@ -16,8 +16,13 @@ LTT (LinuxTechTips) got hacked and the channel got terminated and still is termn
 ## Official Statement 
 As of now (21 04 UTC, 23.03.23), Linus himself posted this post on their plateform [Floatplane](https://www.floatplane.com/channel/linustechtips/home): 
 
-![Linus update about the hack](https://i.redd.it/my9ffvmmzipa1.png)
-**screenshot taken from LTT reddit*
+{{< rawhtml >}}
+<figure>
+        <img style="width: 50%;" src="https://i.redd.it/my9ffvmmzipa1.png" description:"abc">
+        <figcaption style="padding-left: 175px">*screenshot taken from LTT reddit</figcaption>
+</figure>
+{{< /rawhtml >}}
+
 
 ## Suspicions
 LTT is one of the top tech YouTubers, if not the top tech youtuber, especially when it comes to daily operations and how much money LTT's channels bring in for Linux Media Group and YouTube itself. Some people on Reddit have noted that LTT does not have a security analyst on their team, which is a major major mistake.
