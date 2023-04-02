@@ -74,7 +74,7 @@ enableRobotsTXT = true
 
   customHeadHTML = ""
 
-  enableRobotsTXT = true
+  enableRobotsTXT = false
 
 
   # Keywords relevant for SEO
