@@ -4,7 +4,7 @@ date: 2022-08-09
 type: "post"
 draft: false
 showtableOfContents: true
-image: "/images/write-ups/threathinteltools/main.webp"
+image: "/images/write-ups/threatinteltools/main.webp"
 ---
 
 ## Room
