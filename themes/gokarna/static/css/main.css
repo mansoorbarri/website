@@ -1,5 +1,15 @@
 body::-webkit-scrollbar {
-  display: none;
+	width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+	background: #black;        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+	background-color: grey;    /* color of the scroll thumb */
+	border-radius: 20px;       /* roundness of the scroll thumb */
+	border: 2px solid ;  /* creates padding around scroll thumb */
 }
 
 :root {
