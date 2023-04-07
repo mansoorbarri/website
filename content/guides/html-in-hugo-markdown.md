@@ -14,7 +14,7 @@ To use the ```rawhtml``` shortcode, you'll first need to create a new shortcode 
 
 In the ```rawhtml.html``` file, add the following line: 
 ```html
-.Inner
+{{.Inner}}
 ```
 
 ### Usage
