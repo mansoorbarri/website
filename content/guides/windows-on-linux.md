@@ -78,11 +78,5 @@ that’s it ✌🏽
 
 -------------------------------------------------------------
 {{< rawhtml >}} 
-<script src="https://utteranc.es/client.js"
-        repo="mansoorbarri/website"
-        issue-term="title"
-        theme="dark-blue"
-        crossorigin="anonymous"
-        async>
-</script>
+ 
 {{< /rawhtml >}}

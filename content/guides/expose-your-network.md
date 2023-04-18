@@ -45,12 +45,4 @@ that's it ✌🏽
 
 -------------------------------------------------------------
 
-{{< rawhtml >}} 
-<script src="https://utteranc.es/client.js"
-        repo="mansoorbarri/website"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-{{< /rawhtml >}}
+  

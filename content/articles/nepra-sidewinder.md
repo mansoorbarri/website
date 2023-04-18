@@ -35,12 +35,3 @@ Pakistan has to advance their defensive and offensive arsenal to an adequate lev
 that's it ✌🏽
 
 -------------------------------------------------------------
-{{< rawhtml >}} 
-<script src="https://utteranc.es/client.js"
-        repo="mansoorbarri/website"
-        issue-term="title"
-        theme="dark-blue"
-        crossorigin="anonymous"
-        async>
-</script>
-{{< /rawhtml >}}

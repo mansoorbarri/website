@@ -33,12 +33,4 @@ I prefer Starship's default minimal style, so I don't use any presets or have an
 that's it <3
 
 ----
-{{< rawhtml >}} 
-<script src="https://utteranc.es/client.js"
-        repo="mansoorbarri/website"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-{{< /rawhtml >}}
+  
