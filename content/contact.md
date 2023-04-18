@@ -5,7 +5,7 @@ description: "Have a question or feedback? Contact us! We're here to help with y
 
 {{< rawhtml >}}
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
-<form method="post" action="https://forms.un-static.com/forms/34603071df798df5258938e64e610c588e6c71e1">
+<form method="post" action="https://getform.io/f/7c47ac63-1a47-47a5-84ec-5330f92112a4">
 <strong><b1> Contact Us </b1> </strong><br> <style>strong {
   font-size: 40px;
 }
