@@ -36,9 +36,9 @@ enableRobotsTXT = false
     weight = 3
 
   [[menu.main]]
-    name = "Portfolio"
-    url = "/portfolio/"
-    weight = 4
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 4
 
   [[menu.main]]
     name = "Tags"
