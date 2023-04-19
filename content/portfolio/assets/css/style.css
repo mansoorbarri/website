@@ -30,7 +30,7 @@ body::-webkit-scrollbar {
     position: fixed;
     top: 22px;
     right: 55px;
-}
+}a
 
 #dark-mode-icon.active {
     transform: rotate(180deg);
