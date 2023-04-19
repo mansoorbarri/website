@@ -1,8 +1,31 @@
+body::-webkit-scrollbar {
+	width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+	background-color: grey;    /* color of the scroll thumb */
+	border-radius: 20px;       /* roundness of the scroll thumb */
+	border: 2px solid ;  /* creates padding around scroll thumb */
+}
+
 *{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
 	font-family: Arial, sans-serif;
+}
+
+#dark-mode-icon {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    font-size: 20px;
+}
+
+#dark-mode-icon.active {
+    transform: rotate(180deg);
 }
 /* Section1 */
 .heading{
