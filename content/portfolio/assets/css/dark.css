@@ -32,25 +32,6 @@ body {
     background-color: #121212;
     color: #fff; /* Change text color to white */
 }
-.logo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 80px; /* Set the desired width */
-    height: 80px; /* Set the desired height */
-    padding: 10px; /* Set the desired padding */
-    border-radius: 18px; /* Apply border radius */
-    overflow: hidden; /* Hide overflowing content */
-    margin-left: 15px; /* Add margin to the left */
-  }
-  /* Style for the logo image */
-  .logo img {
-    border-radius: 100%; /* Apply border radius to the image */
-    display: block;
-    height: 60px; /* Set the desired height */
-    width: 60px; /* Set the desired width */
-    margin-top: 10px; /* Add margin to the top */
-}
 
 /* Section1 */
 .heading{
