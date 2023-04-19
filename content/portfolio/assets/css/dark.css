@@ -23,6 +23,13 @@ body::-webkit-scrollbar {
     transition: transform 0.2s ease-in-out;
     font-size: 20px;
 }
+#home-icon{
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    top: 22px;
+    right: 55px;
+}
 
 #dark-mode-icon.active {
     transform: rotate(180deg);
@@ -32,6 +39,7 @@ body {
     background-color: #121212;
     color: #fff; /* Change text color to white */
 }
+
 
 /* Section1 */
 .heading{

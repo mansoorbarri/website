@@ -24,6 +24,14 @@ body::-webkit-scrollbar {
     font-size: 20px;
 }
 
+#home-icon{
+    text-decoration: none;
+    color: black;
+    position: fixed;
+    top: 22px;
+    right: 55px;
+}
+
 #dark-mode-icon.active {
     transform: rotate(180deg);
 }
