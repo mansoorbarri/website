@@ -31,8 +31,8 @@ body::-webkit-scrollbar {
     position: absolute;
     top: 0;
     left: 0;
-    width: 50px; /* Set the desired width */
-    height: 50px; /* Set the desired height */
+    width: 80px; /* Set the desired width */
+    height: 80px; /* Set the desired height */
     padding: 10px; /* Set the desired padding */
     border-radius: 18px; /* Apply border radius */
     overflow: hidden; /* Hide overflowing content */
@@ -42,10 +42,10 @@ body::-webkit-scrollbar {
   .logo img {
     border-radius: 100%; /* Apply border radius to the image */
     display: block;
-    height: 38px; /* Set the desired height */
-    width: 38px; /* Set the desired width */
-    margin-top: 5px; /* Add margin to the top */
-  }
+    height: 60px; /* Set the desired height */
+    width: 60px; /* Set the desired width */
+    margin-top: 10px; /* Add margin to the top */
+}
 /* Section1 */
 .heading{
     padding-top: 5%;
