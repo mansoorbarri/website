@@ -45,7 +45,7 @@ body::-webkit-scrollbar {
     height: 60px; /* Set the desired height */
     width: 60px; /* Set the desired width */
     margin-top: 10px; /* Add margin to the top */
-  }
+}
 /* Section1 */
 .heading{
     padding-top: 5%;
