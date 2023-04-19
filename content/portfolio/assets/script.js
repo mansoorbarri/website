@@ -10,9 +10,11 @@ function toggleMode() {
     if (currentTheme === lightModeFile) {
         themeLink.setAttribute("href", darkModeFile);
         darkModeIcon.classList.add("active");
+        localStorage.setItem("theme", "dark"); // Store selected theme in localStorage
     } else {
         themeLink.setAttribute("href", lightModeFile);
         darkModeIcon.classList.remove("active");
+        localStorage.setItem("theme", "light"); // Store selected theme in localStorage
     }
 }
 
@@ -21,5 +23,12 @@ darkModeIcon.addEventListener("click", function() {
     toggleMode();
 });
 
-// Call the toggleMode() function to set the initial mode to light mode
-toggleMode();
+// Retrieve stored theme from localStorage and set initial mode accordingly
+var storedTheme = localStorage.getItem("theme");
+if (storedTheme === "dark") {
+    themeLink.setAttribute("href", darkModeFile);
+    darkModeIcon.classList.add("active");
+} else {
+    themeLink.setAttribute("href", lightModeFile);
+    darkModeIcon.classList.remove("active");
+}
