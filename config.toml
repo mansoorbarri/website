@@ -76,7 +76,7 @@ enableRobotsTXT = false
   customHeadHTML = ""
 
   # Keywords relevant for SEO
-  metaKeywords = ["blog", "Mansoor", "Barri", "Tech", "Hacking"]
+  metaKeywords = ["Blog", "Mansoor Barri", "Tech", "Hacking"]
 
   socialIcons = [
       {name = "twitter", url = "https://twitter.com/mansoorbarri"},
