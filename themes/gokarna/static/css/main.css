@@ -5,7 +5,6 @@ body::-webkit-scrollbar {
   body::-webkit-scrollbar-thumb {
 	background-color: grey;    /* color of the scroll thumb */
 	border-radius: 20px;       /* roundness of the scroll thumb */
-	border: 2px solid ;  /* creates padding around scroll thumb */
 }
 
 :root {
