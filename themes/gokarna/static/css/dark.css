@@ -5,6 +5,12 @@
   --dark-text-color: white;
 }
 
+@media (prefers-color-scheme: dark) {
+  ::selection {
+    background-color: grey;
+  }
+}
+
 html {
   background-color: rgb(var(--dark-primary-color));
   color: var(--dark-text-color);

@@ -7,6 +7,10 @@ body::-webkit-scrollbar {
 	border-radius: 20px;       /* roundness of the scroll thumb */
 }
 
+::selection { 
+  background-color: #ffdb4d;
+}
+
 :root {
   --content-width: 1120px;
   --container-width: 810px;
