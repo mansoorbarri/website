@@ -46,15 +46,9 @@ enableRobotsTXT = false
     weight = 5
 
   [[menu.main]]
-    identifier = "github"
-    url = "https://github.com/mansoorbarri"
-    weight = 6
-    pre = "<span data-feather='github'></span>"
-
-  [[menu.main]]
     identifier = "rss"
     url = "/sitemap.xml"
-    weight = 7
+    weight = 6
     pre = "<span data-feather='rss'></span>"
 
   [params]
