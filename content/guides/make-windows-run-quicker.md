@@ -1,14 +1,14 @@
 ---
-title: "Make Windows Abit Better"
+title: "Make Windows Run Quicker"
 date: 2023-05-26
 tags: [Windows]
-image: "/images/guides/make-windows-abit-better/main.webp"
+image: "/images/guides/make-windows-run-quicker/main.webp"
 type: "post"
 showtableOfContents: true
 description: "Tips and Trick to make Windows better. Useful for people with lowend hardware"
 ---
 
-Windows by default is quite bulky, sum this with a average hardware and now you have a useless blob of metal. You can make the performance better by tweaking several things as explained belo. 
+Windows by default is quite bulky, sum this with a average hardware and now you have a useless blob of metal. You can make the performance better by tweaking several things as explained below. 
 
 ## CTT Wintool
 [Chris Tituss']() tool is an essential tool to make significant changes to your Windows system. You can run the tool by: 
