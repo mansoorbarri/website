@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: 2023-
 tags: []
 image: "/images/writeups/{{ .Name }}/main.webp"
+url: "/write-ups/{{ .Name }}/"
 type: "post"
 showtableOfContents: true
 description: ""
