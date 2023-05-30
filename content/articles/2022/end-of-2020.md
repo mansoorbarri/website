@@ -2,7 +2,7 @@
 title: "End of 2020"
 date: 2022-12-27
 tags: ["recap"]
-image: "/images/articles//main.webp"
+image: "/img/articles/2022/main.webp"
 url: "/articles/end-of-2020/"
 type: "post"
 showtableOfContents: true

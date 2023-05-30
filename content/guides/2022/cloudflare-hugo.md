@@ -2,7 +2,7 @@
 title: "How To Use Cloudflare & GitHub to Host Your Static Site"
 date: 2023-02-22
 tags: [Cloudflare]
-image: "/images/guides/cloudflare-hugo/main.png"
+image: "/img/guides/2022/cloudflare-hugo/main.png"
 url : "/guides/cloudflare-hugo/"
 type: "post"
 showtableOfContents: true

@@ -2,7 +2,7 @@
 title: "The Pros and Cons of Cloud Computing for Small Businesses"
 date: 2023-04-14
 tags: [Info]
-image: "/images/articles/cloud-computing-for-small-businesses/main.webp"
+image: "/img/articles/2023/cloud-computing-for-small-businesses/main.webp"
 url : "/articles/cloud-computing-for-small-businesses/"
 type: "post"
 showtableOfContents: true

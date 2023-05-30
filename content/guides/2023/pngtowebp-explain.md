@@ -2,7 +2,7 @@
 title: "Converting PNG to WebP Images in Python: A Step-by-Step Guide"
 date: 2023-04-24
 tags: [Python]
-image: "/images/guides/pngtowebp-explain/main.webp"
+image: "/img/guides/2023/pngtowebp-explain/main.webp"
 url : "/guides/pngtowebp-explain/"
 type: "post"
 showtableOfContents: true

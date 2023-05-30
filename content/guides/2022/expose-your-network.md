@@ -2,7 +2,7 @@
 title: "Expose Your Network To The Internet Without Port Forwarding"
 date: 2022-12-14
 tags: ["Cloudflare"]
-image: "/images/guides/expose-your-network/main.png"
+image: "/img/guides/2022/expose-your-network/main.png"
 type: "post"
 url : "/guides/expose-your-network/"
 showtableOfContents: true
@@ -31,7 +31,7 @@ Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you 
 
 - Now fill in the subdomain, domain and IP u wanna forward on. Here it should be localhost and not your public IP. Mine looks something like this: 
 
-![Screenshot](https://github.com/mansoorbarri/website/blob/main/images/guides/expose-your-network/2022.png?raw=true)
+![Screenshot](https://github.com/mansoorbarri/website/blob/main/img/guides/2022/expose-your-network/2022.png?raw=true)
 
 - Under "Additional application settings", enable "NO TLS Verify" this option will generate a SSL vertificate for the webpage and click on "Save" 
 

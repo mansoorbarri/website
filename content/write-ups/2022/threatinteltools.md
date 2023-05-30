@@ -4,14 +4,14 @@ date: 2022-08-09
 type: "post"
 url : "/write-ups/threatinteltools/"
 showtableOfContents: true
-image: "/images/write-ups/threatinteltools/main.webp"
+image: "/img/write-ups/2022/threatinteltools/main.webp"
 ---
 
 ## Room
 
 https://tryhackme.com/room/threatinteltools
 
-![screenshot of the room](/images/write-ups/threatinteltools/main.webp)
+![screenshot of the room](/img/write-ups/2022/threatinteltools/main.webp)
 
 ## Task 1-2
 

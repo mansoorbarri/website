@@ -2,7 +2,7 @@
 title: "Pakistan-Origin SideCopy Linked to New Cyberattack on India's Ministry of Defence"
 date: 2023-04-10
 tags: [Cyber News]
-image: "/images/articles/pakistan-origin-attack-on-india/main.webp"
+image: "/img/articles/2023/pakistan-origin-attack-on-india/main.webp"
 url : "/articles/pakistan-origin-attack-on-india/"
 type: "post"
 showtableOfContents: true

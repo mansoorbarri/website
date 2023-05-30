@@ -2,7 +2,7 @@
 title: "FBI Issues New Warning on Hacked USB Ports"
 date: 2023-04-21
 tags: [Cyber News]
-image: "/images/articles/fbi-warns-about-usbs/main.webp"
+image: "/img/articles/2023/fbi-warns-about-usbs/main.webp"
 url : "/articles/fbi-warns-about-usbs/"
 type: "post"
 showtableOfContents: true

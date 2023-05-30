@@ -2,7 +2,7 @@
 title: "Use One Mouse-Keyboard On Two Systems"
 date: 2023-02-17
 tags: [Tips]
-image: "/images/guides/one-keyboard-mouse/main.png"
+image: "/img/guides/2023/one-keyboard-mouse/main.png"
 url : "/guides/one-keyboard-mouse/"
 type: "post"
 showtableOfContents: true

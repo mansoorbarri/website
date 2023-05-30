@@ -2,7 +2,7 @@
 title: "Unmasking the Mastermind: the Key Player behind Golden Chickens Malware"
 date: 2023-05-17
 tags: [Info]
-image: "/images/articles/romanian-mastermind/main.webp"
+image: "/img/articles/2023/romanian-mastermind/main.webp"
 url : "/articles/romanian-mastermind"
 type: "post"
 showtableOfContents: true

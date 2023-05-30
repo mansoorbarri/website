@@ -2,7 +2,7 @@
 title: "Custom Toggle with Darkmode.js"
 date: 2023-05-12
 tags: [js]
-image: "/images/guides/custom-toggle-darkmode/main.webp"
+image: "/img/guides/2023/custom-toggle-darkmode/main.webp"
 type: "post"
 showtableOfContents: true
 url : "/guides/custom-toggle-darkmode/"

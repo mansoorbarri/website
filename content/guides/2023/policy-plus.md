@@ -2,7 +2,7 @@
 title: "Get Group Policy Back in Windows 10 and 11 with PolicyPlus"
 date: 2023-03-08
 tags: [Windows]
-image: "/images/guides/policy-plus/main.png"
+image: "/img/guides/2023/policy-plus/main.png"
 url : "/guides/policy-plus/"
 type: "post"
 showtableOfContents: true

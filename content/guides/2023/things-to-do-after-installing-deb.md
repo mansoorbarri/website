@@ -2,7 +2,7 @@
 title: "10 Things to Do After Installing Debian"
 date: 2023-01-09
 tags: ["Linux"]
-image: "/images/guides/things-to-do-after-installing-deb/main.png"
+image: "/img/guides/2023/things-to-do-after-installing-deb/main.png"
 url : "/guides/things-to-do-after-installing-deb/"
 type: "post"
 showtableOfContents: true
@@ -14,7 +14,7 @@ description: "New to Debian? Discover 10 must-do post-installation tasks with ou
 - Search for "Tweaks" 
 - On the left-hand side pane, click on ‘Appearance.’ Next to the applications drop-down menu, select the “Adawaita-dark” option.
 
-![Screenshot of the Tweaks app showing the dark mode option](/images/guides/things-to-do-after-installing-deb/2022.png)
+![Screenshot of the Tweaks app showing the dark mode option](/img/guides/2023/things-to-do-after-installing-deb/2022.png)
 
 ## Add your user to the sudoers file 
 
@@ -55,7 +55,7 @@ sudo apt install terminator -y
 - Search for "Tweaks" 
 - On the left-hand side pane, click on "Windows Titlebars" enable the "minimise" option.
 
-![Screenshot of the Tweaks app where minimise button is enabled](/images/guides/things-to-do-after-installing-deb/2022_1.png)
+![Screenshot of the Tweaks app where minimise button is enabled](/img/guides/2023/things-to-do-after-installing-deb/2022_1.png)
 
 ## Install GNOME extensions
 GNOME extensions can be installed to extend the functionality of the GNOME desktop environment. Clipboard Indicator is the most important extension in my opinion, so to instal it, you must:
@@ -65,13 +65,13 @@ GNOME extensions can be installed to extend the functionality of the GNOME deskt
 
 You should now see a clipboard history in the top bar.
 
-![Screenshot of the clipboard indicator extension in action](/images/guides/things-to-do-after-installing-deb/2022_2.png)
+![Screenshot of the clipboard indicator extension in action](/img/guides/2023/things-to-do-after-installing-deb/2022_2.png)
 
 ## Enable Tray Icons
 
 You can enable icons on your top bar by installing Tray Icons. Simply visit [https://gnome.org/trayicon](https://extensions.gnome.org/extension/1503/tray-icons/) to enable it.
 
-![Screenshot of top bar after installing the extension](/images/guides/things-to-do-after-installing-deb/2022_3.png)
+![Screenshot of top bar after installing the extension](/img/guides/2023/things-to-do-after-installing-deb/2022_3.png)
 
 ## Install Microsoft Fonts
 Microsoft Fonts should be installed because they are widely used and using the web without them would feel alienating. Simply type the following command into your terminal.

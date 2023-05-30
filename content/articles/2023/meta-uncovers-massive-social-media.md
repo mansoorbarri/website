@@ -2,7 +2,7 @@
 title: "Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia"
 date: 2023-05-03
 tags: [Cyber News]
-image: "/images/articles/meta-uncovers-massive-social-media/main.webp"
+image: "/img/articles/2023/meta-uncovers-massive-social-media/main.webp"
 url : "/articles/meta-uncovers-massive-social-media/"
 type: "post"
 showtableOfContents: true

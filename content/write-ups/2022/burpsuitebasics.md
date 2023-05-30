@@ -20,19 +20,19 @@ https://tryhackme.com/room/burpsuitebasics
 
 *~ Burp Suite Community*
 
-![source](/images/write-ups/burpsuitebasics/2022.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022.png)
 
 #### Question 2: Which edition of Burp Suite runs on a server and provides constant scanning for target web apps?
 
 *~ burp suite enterprise*
 
-![source](/images/write-ups/burpsuitebasics/2022_1.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_1.png)
 
 #### Question 3: Burp Suite is frequently used when attacking web applications and ______ applications.
 
 *~ mobile*
 
-![source](/images/write-ups/burpsuitebasics/2022_2.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_2.png)
 
 ## Task 3: ```Getting Started``` Features of Burp Community
 
@@ -40,13 +40,13 @@ https://tryhackme.com/room/burpsuitebasics
 
 *~ proxy*
 
-![source](/images/write-ups/burpsuitebasics/2022_3.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_3.png)
 
 #### Question 2: Which Burp tool would we use if we wanted to bruteforce a login form?
 
 *~ intruder*
 
-![source](/images/write-ups/burpsuitebasics/2022_4.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_4.png)
 
 ## Task 4: ```Getting Started``` Installation
 
@@ -70,19 +70,19 @@ https://tryhackme.com/room/burpsuitebasics
 
 *~ sessions*
 
-![source](/images/write-ups/burpsuitebasics/2022_5.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_5.png)
 
 #### Question 3: In which User options sub-tab can you change the Burp Suite update behaviour?
 
 *~ misc*
 
-![source](/images/write-ups/burpsuitebasics/2022_6.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_6.png)
 
 #### Question 4: What is the name of the section within the User options "Misc" sub-tab which allows you to change the Burp Suite keybindings?
 
 *~ hotkeys*
 
-![source](/images/write-ups/burpsuitebasics/2022_7.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_7.png)
 
 #### Question 5: If we have uploaded Client-Side TLS certificates in the User options tab, can we override these on a per-project basis (Aye/Nay)?
 
@@ -102,7 +102,7 @@ https://tryhackme.com/room/burpsuitebasics
 
 *~ ctrl+f*
 
-![source](/images/write-ups/burpsuitebasics/2022_8.png?)
+![source](/img/write-ups/2022/burpsuitebasics/2022_8.png?)
 
 ## Task 9: ```Proxy``` Connecting through the Proxy (FoxyProxy)
 
@@ -126,7 +126,7 @@ run burpsuite against <ip>/5yjR2GLcoGoij2ZK
 
 in site map, under response you will find the flag
 
-![source](/images/write-ups/burpsuitebasics/2022_9.png)
+![source](/img/write-ups/2022/burpsuitebasics/2022_9.png)
 
 #### Question 2: What is the typical severity of a Vulnerable JavaScript dependency?
 

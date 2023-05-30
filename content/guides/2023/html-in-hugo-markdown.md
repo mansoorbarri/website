@@ -2,7 +2,7 @@
 title: "How to Add Custom HTML Code to Your Hugo Website"
 date: 2023-03-29
 tags: [Hugo]
-image: "/images/guides/html-in-hugo-markdown/main.png"
+image: "/img/guides/2023/html-in-hugo-markdown/main.png"
 url : "/guides/html-in-hugo-markdown/"
 type: "post"
 showtableOfContents: true
@@ -21,7 +21,7 @@ In the ```rawhtml.html``` file, add the following line:
 ### Usage
 Now you can put your HTML within ```rawhtml``` shortcode for example the comments section for this post is present using a ```<script>``` tag. Code example:
 
-![Code Example](/images/guides/html-in-hugo-markdown/2023.png)
+![Code Example](/img/guides/2023/html-in-hugo-markdown/2023.png)
 
 that's it <3
 

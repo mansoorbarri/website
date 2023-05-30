@@ -2,7 +2,7 @@
 title: "Admin User vs Standard User"
 date: 2023-03-01
 tags: [Info]
-image: "/images/articles/admin-vs-standard/main.webp"
+image: "/img/articles/2023/admin-vs-standard/main.webp"
 url: "/articles/admin-vs-standard/"
 type: "post"
 showtableOfContents: true

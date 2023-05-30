@@ -2,7 +2,7 @@
 title: "Connect Your Phone to Linux"
 date: 2023-01-20
 tags: [Linux]
-image: "/images/guides/connect-your-phone-to-linux/main.png"
+image: "/img/guides/2023/connect-your-phone-to-linux/main.png"
 url : "/guides/connect-your-phone-to-linux/"
 type: "post"
 showtableOfContents: true
@@ -31,7 +31,7 @@ Now make sure both devices are on the same network and then:
 - Click on the orange box, "REQUEST PAIRING" 
 - Accept when promt on your PC like shown:
 
-![](/images/guides/connect-your-phone-to-linux/2023.png)
+![](/img/guides/2023/connect-your-phone-to-linux/2023.png)
 
 You can change settings to your preference in the android app by: 
 - Click on the humburger icon (☰)

@@ -2,7 +2,7 @@
 title: "Unveiling Sidewinder Hacker Group's Covert Attack Infrastructure"
 date: 2023-05-15
 tags: [Info]
-image: "/images/articles/sidewinder-state-sponsored/main.webp"
+image: "/img/articles/2023/sidewinder-state-sponsored/main.webp"
 url : "/articles/sidewinder-state-sponsored/"
 type: "post"
 showtableOfContents: true

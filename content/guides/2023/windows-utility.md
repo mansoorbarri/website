@@ -2,7 +2,7 @@
 title: "Windows Utility"
 date: 2023-01-23
 tags: [Windows]
-image: "/images/guides/windows-utility/main.png"
+image: "/img/guides/2023/windows-utility/main.png"
 url : "/guides/windows-utility/"
 type: "post"
 showtableOfContents: true

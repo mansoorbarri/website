@@ -2,7 +2,7 @@
 title: "THM | Introduction to Cryptography"
 date: 2023-02-15
 tags: [ ]
-image: "/images/write-ups/cryptographyintro/main.webp"
+image: "/img/write-ups/2023/cryptographyintro/main.webp"
 url : "/write-ups/cryptographyintro/"
 type: "post"
 showtableOfContents: true
@@ -11,7 +11,7 @@ showtableOfContents: true
 ## Room 
 [tryhackme.com/cryptographyintro](https://tryhackme.com/room/cryptographyintro)
 
-![screenshot of the room](/images/write-ups/cryptographyintro/main.webp)
+![screenshot of the room](/img/write-ups/2023/cryptographyintro/main.webp)
 
 ## Task 1 Introduction
 #### You can guess that it is a quote. Who said it?

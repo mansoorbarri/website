@@ -2,7 +2,7 @@
 title: "How To Get a Email Verified Badge"
 date: 2022-12-06
 tags: ["Email"]
-image: "/images/guides/email-cert/main.png"
+image: "/img/guides/2022/email-cert/main.png"
 type: "post"
 url : "/guides/email-cert/"
 showtableOfContents: true
@@ -35,15 +35,15 @@ Next download the .zip file they sent on your email and extract the certificate 
 
 Open the .pfx file and go through the prompts:
 
-![Screenshot of the wizard](/images/guides/email-cert/installing/2022.png)
+![Screenshot of the wizard](/img/guides/2022/email-cert/installing/2022.png)
 
-![Screenshot of the wizard](/images/guides/email-cert/installing/2022_1.png)
+![Screenshot of the wizard](/img/guides/2022/email-cert/installing/2022_1.png)
 
-![Screenshot of the wizard](/images/guides/email-cert/installing/2022_2.png)
+![Screenshot of the wizard](/img/guides/2022/email-cert/installing/2022_2.png)
 
 Here you have to enter the password which was given before (the one your printed).
 
-![Screenshot of the wizard](/images/guides/email-cert/installing/2022_3.png)
+![Screenshot of the wizard](/img/guides/2022/email-cert/installing/2022_3.png)
 
 ## Export Intermediate Certificate
 

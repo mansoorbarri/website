@@ -2,7 +2,7 @@
 title: "Transfer Data From Iphone To Android Using Copy My Data"
 date: 2023-03-20
 tags: [Iphone, Android]
-image: "/images/guides/iphone-to-android/main.png"
+image: "/img/guides/2023/iphone-to-android/main.png"
 url : "/guides/iphone-to-android/"
 type: "post"
 showtableOfContents: true

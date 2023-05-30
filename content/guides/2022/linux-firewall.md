@@ -16,14 +16,14 @@ Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux
 sudo apt-get update  
 sudo apt-get install ufw  
 ```
-![sscrenshot of the step](/images/guides/linux-firewall/2022.png)
+![sscrenshot of the step](/img/guides/2022/linux-firewall/2022.png)
 
 # Verify Install
 
 ```bash
 sudo ufw status
 ```
-![sscrenshot of the step](/images/guides/linux-firewall/2022_1.png)
+![sscrenshot of the step](/img/guides/2022/linux-firewall/2022_1.png)
 
 # Basic Blocks
 
@@ -31,14 +31,14 @@ sudo ufw status
 sudo ufw default deny incoming  
 sudo ufw default allow outgoing
 ```
-![sscrenshot of the step](/images/guides/linux-firewall/2022_2.png)
+![sscrenshot of the step](/img/guides/2022/linux-firewall/2022_2.png)
 
 # Enable Firewall
 
 ```bash
 sudo ufw enable
 ```
-![sscrenshot of the step](/images/guides/linux-firewall/2022_3.png)
+![sscrenshot of the step](/img/guides/2022/linux-firewall/2022_3.png)
 
 # Blocking Ports
 
@@ -61,7 +61,7 @@ sudo ufw allow 22
 {{< rawhtml >}} 
 
 <video width=100% muted autoplay loop>
-    <source src="/images/guides/linux-firewall/video.m4v" type="video/webm">
+    <source src="/img/guides/2022/linux-firewall/video.m4v" type="video/webm">
         your browser doesn't support video tag.
 </video>
 

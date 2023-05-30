@@ -2,7 +2,7 @@
 title: "Pakistans' Transparent Tribe Targets India's Education Sector with Crimson RAT"
 date: 2023-04-17
 tags: [Cyber News]
-image: "/images/articles/pakistan-apt36-attack-on-india/main.webp"
+image: "/img/articles/2023/pakistan-apt36-attack-on-india/main.webp"
 url : "/articles/pakistan-apt36-attack-on-india/"
 type: "post"
 showtableOfContents: true

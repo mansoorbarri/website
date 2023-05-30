@@ -2,7 +2,7 @@
 title: "Google Introduces Passkey: A New Way to Secure Your Online Accounts"
 date: 2023-05-05
 tags: [Info]
-image: "/images/articles/google-passkey/main.webp"
+image: "/img/articles/2023/google-passkey/main.webp"
 url : "/articles/google-passkey/"
 type: "post"
 showtableOfContents: true

@@ -2,7 +2,7 @@
 title: "Better Way To Use GitHub"
 date: 2022-11-23
 tags: ["GitHub"]
-image: "/images/guides/better-github/main.png"
+image: "/img/guides/2022/better-github/main.png"
 type: "post"
 url : "/guides/better-github/"
 showtableOfContents: true

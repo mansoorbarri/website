@@ -2,7 +2,7 @@
 title: "FBI Just Got Hacked"
 date: 2022-12-18
 tags: ["Cyber News"]
-image: "/images/articles/fbi-hack/main.webp"
+image: "/img/articles/2022fbi-hack/main.webp"
 url: "/articles/fbi-hack/"
 type: "post"
 draft: false

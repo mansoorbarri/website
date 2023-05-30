@@ -2,7 +2,7 @@
 title: "Create GitHub SSH Keys"
 date: 2023-02-08
 tags: [GitHub]
-image: "/images/guides/create-github-ssh-keys/main.png"
+image: "/img/guides/2023/create-github-ssh-keys/main.png"
 url : "/guides/create-github-ssh-keys/"
 type: "post"
 showtableOfContents: true

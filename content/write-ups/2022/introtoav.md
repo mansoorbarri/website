@@ -4,14 +4,14 @@ date: 2022-08-07
 type: "post"
 url : "/write-ups/introtonav"
 showtableOfContents: true
-image: "/images/write-ups/introtoav/main.webp"
+image: "/img/write-ups/2022/introtoav/main.webp"
 ---
 
 ## Room
 
 https://tryhackme.com/room/introtoav
 
-![screenshot of the room](/images/write-ups/introtoav/main.webp)
+![screenshot of the room](/img/write-ups/2022/introtoav/main.webp)
 
 ## Task 1 - Introduction
 
@@ -75,7 +75,7 @@ strings AV-Checks.exe | findstr "THM"
 ```
 change directory to Desktop/Samples then check strings in the file AV-Checks.exe. Since thm flags starts with "THM" we can specify that as well to make it easier by "| findstr "THM"".
 
-![](/images/write-ups/introtoav/2022_1.png)
+![](/img/write-ups/2022/introtoav/2022_1.png)
 
 ## Task 6 - Other Detection Techniques [answer is from the text]
 

@@ -2,7 +2,7 @@
 title: "Redirects on Hugo"
 date: 2023-03-13
 tags: [Hugo]
-image: "/images/guides/redirects-on-hugo/main.png"
+image: "/img/guides/2023/redirects-on-hugo/main.png"
 url : "/guides/redirects-on-hugo/"
 type: "post"
 showtableOfContents: true

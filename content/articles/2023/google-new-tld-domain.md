@@ -2,7 +2,7 @@
 title: "Google's New Top-Level Domains Raise Concerns about Online Scams"
 date: 2023-05-19
 tags: [Info]
-image: "/images/articles/google-new-tld-domain/main.webp"
+image: "/img/articles/2023/google-new-tld-domain/main.webp"
 url : "/articles/google-new-tld-domain/"
 type: "post"
 showtableOfContents: true

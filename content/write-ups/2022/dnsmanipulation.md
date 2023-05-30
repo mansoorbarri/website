@@ -52,7 +52,7 @@ https://tryhackme.com/room/dnsmanipulation
 nslookup 192.168.203.2
 ```
 
-![source](/images/write-ups/dnsmanipulation/2022.png
+![source](/img/write-ups/2022/dnsmanipulation/2022.png
 
 ## Task 5: What is DNS Exfiltration? 
 
@@ -72,9 +72,9 @@ python3 ~/dns-exfil-infil/packetyGrabber.py order.pcap
 cat order.txt
 ```
 
-![source](/images/write-ups/dnsmanipulation/2022_1.png)
+![source](/img/write-ups/2022/dnsmanipulation/2022_1.png)
 
-![source](/images/write-ups/dnsmanipulation/2022_2.png)
+![source](/img/write-ups/2022/dnsmanipulation/2022_2.png)
 
 #### Question 1: What is the Transaction name? (Type it as you see it)
 
@@ -98,7 +98,7 @@ python3 ~/dns-exfil-infil/packetyGrabber.py cap3.pcap
 cat cap.txt
 ```
 
-![source](/images/write-ups/dnsmanipulation/2022_3.png)
+![source](/img/write-ups/2022/dnsmanipulation/2022_3.png)
 
 ## Task 8: What is DNS Infiltration?
 
@@ -120,7 +120,7 @@ python3 ~/dns-exfil-infil/packetySimple.py
 python3 .mal.py
 ```
 
-![source](/images/write-ups/dnsmanipulation/2022_4.png)
+![source](/img/write-ups/2022/dnsmanipulation/2022_4.png)
 
 ## Task 11: DNS Tunneling
 

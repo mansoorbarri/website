@@ -2,7 +2,7 @@
 title: "Something New To Look For To Prevent Scams"
 date: 2023-02-24
 tags: [Info, Windows]
-image: "/images/articles/rotl-scams/main.webp"
+image: "/img/articles/2023/rotl-scams/main.webp"
 url : "/articles/rotl-scams"
 type: "post"
 showtableOfContents: true

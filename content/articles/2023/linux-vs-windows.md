@@ -2,7 +2,7 @@
 title: "Linux VS Windows"
 date: 2023-02-20
 tags: [Info]
-image: "/images/articles/linux-vs-windows/main.webp"
+image: "/img/articles/2023/linux-vs-windows/main.webp"
 url : "/articles/linux-vs-windows/"
 type: "post"
 showtableOfContents: true

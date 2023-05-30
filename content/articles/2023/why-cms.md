@@ -2,7 +2,7 @@
 title: "Why Use Hugo Instead of HTML, CSS & JS For Websites?"
 date: 2023-04-03
 tags: [Info]
-image: "/images/articles/why-cms/main.webp"
+image: "/img/articles/2023/why-cms/main.webp"
 url : "/articles/why-cms"
 type: "post"
 showtableOfContents: true

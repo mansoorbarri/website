@@ -2,7 +2,7 @@
 title: "Hugo Server on LAN"
 date: 2022-08-18
 tags: ["Linux", "HUGO"]
-image: "/images/guides/hugo-lan/main.png"
+image: "/img/guides/2022/hugo-lan/main.png"
 type: "post"
 url : "/guides/hugo-lan/"
 showtableOfContents: true

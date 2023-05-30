@@ -2,7 +2,7 @@
 title: "Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers"
 date: 2023-04-28
 tags: [Cyber News]
-image: "/images/articles/google-takes-down/main.webp"
+image: "/img/articles/2023/google-takes-down/main.webp"
 url : "/articles/google-takes-down/"
 type: "post"
 showtableOfContents: true

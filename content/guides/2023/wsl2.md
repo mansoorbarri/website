@@ -2,7 +2,7 @@
 title: "How to Install and Use WSL2 on Windows 10: A Step-by-Step Guide"
 date: 2023-03-17
 tags: [Windows]
-image: "/images/guides/wsl2/main.png"
+image: "/img/guides/2023/wsl2/main.png"
 url : "/guides/wsl2/"
 type: "post"
 showtableOfContents: true

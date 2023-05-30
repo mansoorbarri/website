@@ -2,7 +2,7 @@
 title: "Block Websites On Your Home Network"
 date: 2023-01-02
 tags: ["Info"]
-image: "/images/guides/home-security/main.png"
+image: "/img/guides/2023/home-security/main.png"
 type: "post"
 url : "/guides/home-security/"
 showtableOfContents: true

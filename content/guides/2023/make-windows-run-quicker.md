@@ -2,7 +2,7 @@
 title: "Make Windows Run Quicker"
 date: 2023-05-26
 tags: [Windows]
-image: "/images/guides/make-windows-run-quicker/main.webp"
+image: "/img/guides/2023/make-windows-run-quicker/main.webp"
 url : "/guides/make-windows-run-quicker/"
 type: "post"
 showtableOfContents: true

@@ -2,7 +2,7 @@
 title: "GoldenJackal: New Threat Group Targeting Middle Eastern and South Asian Governments"
 date: 2023-05-24
 tags: [Cyber News]
-image: "/images/articles/new-threat-targeting-asia/main.webp"
+image: "/img/articles/2023/new-threat-targeting-asia/main.webp"
 url : "/articles/new-threat-targeting-asia/"
 type: "post"
 showtableOfContents: true
