@@ -36,6 +36,22 @@ Basic steps include:
 - Emptying recycling bin 
 - Deleting unwanted user accounts
 
+## Advanced
+{{< rawhtml >}}
+<b style="color: red;"> DO THIS ON YOUR OWN RISK AS IT MAY LEAD TO UNEXPECTED OUTCOMES </b>
+{{< /rawhtml >}}
+
+However I have done this on many systems without any problems for years. 
+
+### Disable Automatic Updates All together
+
+You Can use something like Windows Update Blocker to completely disable updates unless you manual do so. 
+
+WUB: https://www.sordum.org/files/downloads.php?st-windows-update-blocker
+
+To manual install updates: [/guides/windows-update-with-powershell/](https://mansoorbarri.com/guides/windows-update-with-powershell/)
+
+
 that's it <3
 
 ----
