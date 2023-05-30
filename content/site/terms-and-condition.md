@@ -35,7 +35,7 @@ url: "/toc/"
 <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
 </li>
 <li>
-<p><strong>Website</strong> refers to mansoorbarri, accessible from <a href="mansoorbarri.com" rel="external nofollow noopener" target="_blank">mansoorbarri.com</a></p>
+<p><strong>Website</strong> refers to mansoorbarri, accessible from <a href="https://mansoorbarri.com" rel="external nofollow noopener" target="_blank">mansoorbarri.com</a></p>
 </li>
 <li>
 <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
