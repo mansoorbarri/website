@@ -19,7 +19,7 @@ Once installed & opened:
 - Select the .PST from the dialogue box and click "OK" 
 - Now use the following options and choose a destination folder and then export it 
 
-![Dialogue box showing export settings](img/guides/2023/pst-to-eml/export-settings.png)
+![Dialogue box showing export settings](/img/guides/2023/pst-to-eml/export-settings.png)
 
 Now all email messages will be in EML format in their respective folders.
 
