@@ -6,7 +6,7 @@ image: "/images/guides/ssh-keys-from-linux/main.webp"
 url: "/guides/ssh-keys-from-linux/"
 type: "post"
 showtableOfContents: true
-description: ""
+description: "Learn why we created SSH key pair and how to create and install in on the remote system assuming that the remote system is running Linux."
 ---
 
 ## Why? Just Use Passwords.
