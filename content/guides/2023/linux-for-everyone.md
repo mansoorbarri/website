@@ -13,6 +13,7 @@ Linux is an important tool especially for hackers. ethical of cource.
 
 From today (26.6.23) I will be posting Linux guides, ranging from linux commands to installing & using hacking tools.
 
+# day 1 
 ## pwd
 in GUI (Graphical User Interface), its easy to know where you are however in terminal it might not be straight forward. 
 
@@ -73,7 +74,9 @@ We will copy the default.md file to another folder named "folder1" like so:
 ![terminal window showing the command cp being used](/img/guides/2023/linux-for-everyone/cp.png)
 
 ## Challenge
-You have to copy ".bashrc" file to your Downloads folder, answer will be posted on [my twitter](https://twitter.com/MansoorBarri) tomorrow at 16 00 UTC
+You have to copy ".bashrc" file to your Downloads folder.
+
+Answer will be posted on [my twitter](https://twitter.com/MansoorBarri) tomorrow at 16 00 UTC; till then you may post your answers in the comments section below.
 
 that's it <3
 
