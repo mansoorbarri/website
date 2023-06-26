@@ -6,7 +6,7 @@ image: "/images/guides/linux-for-everyone/main.webp"
 url: "/guides/linux-for-everyone/"
 type: "post"
 showtableOfContents: true
-description: ""
+description: "A new series where you can learn linux commands and tips to help you become a better linux user. This is for everyone from an average linux user to aspiring hackers."
 ---
 
 Linux is an important tool especially for hackers. ethical of cource.
