@@ -32,6 +32,10 @@ You can remember this by the word "list" so whenever you want to list all the fi
 
 As you can see, the folders are highlighted by blue and the files are just white/grey. 
 
+you can also use `ls -a` to see hidden files: 
+
+![](/img/guides/2023/linux-for-everyone/cd3.png)
+
 ## cd 
 `cd` also known as "Change Directory" is used to go in and out of folders. 
 
