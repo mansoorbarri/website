@@ -11,9 +11,9 @@ description: "A new series where you can learn linux commands and tips to help y
 
 Linux is an important tool especially for hackers. ethical of cource.
 
-From today (26.6.23) I will be posting Linux guides, ranging from linux commands to installing & using hacking tools.
+From toDay (26.6.23) I will be posting Linux guides, ranging from linux commands to installing & using hacking tools.
 
-# day 1 
+# Day 1 
 ## pwd
 in GUI (Graphical User Interface), its easy to know where you are however in terminal it might not be straight forward. 
 
@@ -291,7 +291,7 @@ sudo apt install python3
 
 then: 
 ```
-python -m http.server
+python3 -m http.server
 ```
 
 and this will start a server on [localhost:8080](http://localhost:8080)
