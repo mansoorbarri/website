@@ -1,7 +1,7 @@
 ---
 title: "Linux for Everyone"
 date: 2023-06-26
-tags: ["Linux For Everyone"]
+tags: ["linux"]
 image: "/images/guides/linux-for-everyone/main.webp"
 url: "/guides/linux-for-everyone/"
 type: "post"
