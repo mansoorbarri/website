@@ -1,5 +1,5 @@
 ---
-title: "Linux for Everyone | Day 1"
+title: "Linux for Everyone"
 date: 2023-06-26
 tags: ["Linux For Everyone"]
 image: "/images/guides/linux-for-everyone/main.webp"
@@ -11,7 +11,7 @@ description: "A new series where you can learn linux commands and tips to help y
 
 Linux is an important tool especially for hackers. ethical of cource.
 
-From toDay (26.6.23) I will be posting Linux guides, ranging from linux commands to installing & using hacking tools.
+From today (26.6.23) I will be posting Linux guides, ranging from linux commands to installing & using hacking tools.
 
 # Day 1 
 ## pwd
