@@ -9,7 +9,11 @@ showtableOfContents: true
 description: "Find one's social media account with a hacking tool called Sherlock. Learn more about the tool and how to use it effective in your cyber security journey."
 ---
 
-**❗DESCLAIMER: DON'T DO THIS WITH ANYONE WITH ILL INTENT❗** this is completely legal but things can take turns if Sherlock isn't used properly.
+{{< rawhtml >}}
+<h3 style="color: red">DISCLAIMER: DON'T DO THIS WITH ANYONE WITH ill INTENT</h3>
+{{< /rawhtml >}}
+
+this is completely legal but things can take turns if Sherlock isn't used properly.
 
 [Sherlock](https://github.com/sherlock-project/sherlock) is a hacking tool made in python to find social media accounts; this is useful when someone has same usernames across social media platforms but otherwise this might not be as effective. 
 

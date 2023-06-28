@@ -38,7 +38,4 @@ For more about configuration, go through [this blog](https://haydenjames.io/how-
 
 that’s it ✌🏽
 
--------------------------------------------------------------
-{{< rawhtml >}} 
- 
-{{< /rawhtml >}}
+---

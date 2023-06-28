@@ -75,7 +75,4 @@ Nala is something I use personally and it has dramatically decreased the time I 
 
 that's it ✌🏽
 
--------------------------------------------------------------
-{{< rawhtml >}} 
- 
-{{< /rawhtml >}}
+---
