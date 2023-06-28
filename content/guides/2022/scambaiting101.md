@@ -43,6 +43,8 @@ Track IP addresses: [Grabify](https://grabify.link/) or [IP Logger](https://iplo
 
 Recording Software: [OBS](http://obsproject.com/)
 
+Report a domain: [Phish.report](https://phish.report/)
+
 #### Scammer Numbers
 
 [Scammer Info](https://www.scammer.info/)
@@ -71,7 +73,4 @@ Scambaiting is fun and helpful but be careful because these are criminals.
 
 that's it ✌🏽
 
--------------------------------------------------------------
-{{< rawhtml >}} 
- 
-{{< /rawhtml >}}
+---
