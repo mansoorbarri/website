@@ -10,6 +10,8 @@ pygmentsStyle = "monokai"
 
 pluralizelisttitles = false
 
+enableEmoji = true
+
 # Automatically generate robots.txt
 enableRobotsTXT = false
 
