@@ -9,7 +9,7 @@ showtableOfContents: true
 description: "A new series where you can learn linux commands and tips to help you become a better linux user. This is for everyone from an average linux user to aspiring hackers."
 ---
 
-Linux is an important tool especially for hackers. ethical of cource.
+Linux is an important tool especially for hackers. ethical of course.
 
 From today (26.6.23) I will be posting Linux guides, ranging from linux commands to installing & using hacking tools.
 
