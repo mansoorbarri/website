@@ -1,6 +1,6 @@
 ---
 title: "Wireshark 101"
-date: 2023-07-05
+date: 2023-07-07
 tags: [penetration-testing]
 image: "/images/guides/wireshark-101/main.webp"
 url: "/guides/wireshark-101/"
