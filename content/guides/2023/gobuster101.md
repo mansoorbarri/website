@@ -1,6 +1,6 @@
 ---
 title: "Gobuster101"
-date: 2023-07-07
+date: 2023-07-08
 tags: [penetration-testing]
 image: "/images/guides/gobuster101/main.webp"
 url: "/guides/gobuster101/"
