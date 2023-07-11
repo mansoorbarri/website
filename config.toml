@@ -49,9 +49,9 @@ enableRobotsTXT = false
 
   [[menu.main]]
     identifier = "rss"
-    url = "/sitemap.xml"
+    url = "/downloads/"
     weight = 6
-    pre = "<span data-feather='rss'></span>"
+    pre = "<span data-feather='download'></span>"
 
   [params]
   # URL for the avatar on homepage
