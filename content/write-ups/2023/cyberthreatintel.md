@@ -1,6 +1,6 @@
 ---
 title: "THM | Intro to Cyber Threat Intel"
-date: 2023-07-09
+date: 2023-07-14
 tags: []
 image: "/images/writeups/cyberthreatintel/main.webp"
 url: "/write-ups/cyberthreatintel/"
