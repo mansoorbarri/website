@@ -9,7 +9,7 @@ showtableOfContents: true
 description: ""
 ---
 
-![Screenshot of the room]( "/images/writeups/{{ .Name }}/main.webp" )
+![Screenshot of the room]("/img/writeups/2023/{{ .Name }}/main.png")
 
 that's it <3
 
