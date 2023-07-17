@@ -1,6 +1,6 @@
 ---
 title: "THM | Active Directory Basics"
-date: 2023-07-15
+date: 2023-07-17
 tags: []
 image: "/images/writeups/winadbasics/main.webp"
 url: "/write-ups/winadbasics/"
