@@ -1,6 +1,6 @@
 ---
 title: "THM | Vulnversity"
-date: 2023-
+date: 2023-07-26
 tags: []
 image: "/images/writeups/vulnversity/main.webp"
 url: "/write-ups/vulnversity/"
