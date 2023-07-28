@@ -9,7 +9,7 @@ showtableOfContents: true
 description: "Learn about active recon, web app attacks and privilege escalation."
 ---
 
-![Screenshot of the room]("/img/writeups/2023/vulnversity/main.png")
+![Screenshot of the room](/img/write-ups/2023/vulnversity/main.png)
 
 ## Deloy the machine 
 *No answer needed*

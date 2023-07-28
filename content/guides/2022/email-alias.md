@@ -127,7 +127,7 @@ Last but not the least enter your details like so
 # Update
 You might get the following error sometimes: 
 
-![screenshot of the error](/img/guides/2022/sender-not-verified/2023.png)
+![screenshot of the error](/img/guides/2023/sender-not-verified/2023.png)
 
 Here is the guide to fix this: [/guides/sender-not-verified/](/guides/sender-not-verified/)
 

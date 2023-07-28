@@ -38,20 +38,9 @@ enableRobotsTXT = false
     weight = 3
 
   [[menu.main]]
-    name = "Portfolio"
-    url = "/portfolio/"
-    weight = 4
-
-  [[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 5
-
-  [[menu.main]]
-    identifier = "rss"
-    url = "/downloads/"
-    weight = 6
-    pre = "<span data-feather='download'></span>"
 
   [params]
   # URL for the avatar on homepage
