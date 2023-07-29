@@ -1,7 +1,7 @@
 ---
 title: "Pakistan Targeted In a Sophisticated Attack"
 date: 2023-07-28
-tags: []
+tags: ["Cyber News"]
 url: "/articles/pakistani-entities-targeted/"
 type: "post"
 showtableOfContents: true
