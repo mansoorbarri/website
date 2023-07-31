@@ -1,7 +1,7 @@
 ---
 title: "Connect Your Phone to Linux"
 date: 2023-01-20
-tags: [Android]
+tags: [Linux]
 image: "/img/guides/2023/connect-your-phone-to-linux/main.png"
 url : "/guides/connect-your-phone-to-linux/"
 type: "post"
