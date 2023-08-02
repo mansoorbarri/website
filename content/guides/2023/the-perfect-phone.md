@@ -8,7 +8,7 @@ showtableOfContents: true
 description: "Learn about how I setup my android phone to be production and achieve digital minimalism."
 ---
 
-The aim of this "perfect phone is to have as much destractions as possible and have everything at ease rather than going through various manus. 
+The aim of this "perfect phone is to have as much distractions as possible and have everything at ease rather than going through various manus. 
 
 ## Things used 
 - Debloater:    [Universal Android Debloater](https://github.com/0x192/universal-android-debloater/releases)
