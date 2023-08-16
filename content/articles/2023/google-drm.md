@@ -2,7 +2,7 @@
 title: "Google DRM & how its harmful to you"
 date: 2023-08-16
 tags: [Info]
-url: "/guides/google-drm/"
+url: "/articles/google-drm/"
 type: "post"
 showtableOfContents: true
 description: "Learn about Google's DRM and how it is not what we think it is; A war for control."
