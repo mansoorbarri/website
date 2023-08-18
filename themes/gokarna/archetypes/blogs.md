@@ -2,13 +2,11 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: 2023-
 tags: []
-url: "/articles/{{ .Name }}/"
+url: "/blogs/{{ .Name }}/"
 type: "post"
 showtableOfContents: true
 description: ""
 ---
-
-
 
 
 

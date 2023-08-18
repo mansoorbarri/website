@@ -28,14 +28,9 @@ enableRobotsTXT = false
     weight = 1
 
   [[menu.main]]
-    name = "Articles"
-    url = "/articles/"
+    name = "Blogs"
+    url = "/blogs/"
     weight = 2
-
-  [[menu.main]]
-    name = "Write-ups"
-    url = "/write-ups/"
-    weight = 3
 
   [[menu.main]]
     name = "Tags"
