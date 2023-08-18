@@ -63,7 +63,7 @@ VM: [you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Wind
 
 PhoneInFoga: [Getting Started | PhoneInFoga](https://mansoor.cf/posts/phoneinfoga/) & [find info on phone numbers with PhoneInfoga - YouTube](https://www.youtube.com/watch?v=6CnDdXVTxhU)
 
-Nmap: [Nmap quick start](https://mansoorbarri.com/guides/nmap/) & [Nmap Tutorial to find Network Vulnerabilities - YouTube](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+Nmap: [Nmap quick start](https://medium.com/@mansoorbarri/nmap-quick-start-2d83f6ac559d) & [Nmap Tutorial to find Network Vulnerabilities - YouTube](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
 
 ## Conclusion
 

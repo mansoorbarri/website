@@ -16,7 +16,7 @@ You need to enable the WSL feature by:
 - Click "OK" and wait for the feature to be installed
 
 ## Install a Linux Distro
-You can choose between variety of Linux Distributions for WSL however I recommend using Debian as explained [here](https://mansoorbarri.com/articles/why-linux/#which-distribution-should-i-choose)
+You can choose between variety of Linux Distributions for WSL however I recommend using Debian as explained [here](https://hepton.uk/blogs/why-linux/#which-distribution-should-i-choose)
  
 To install Debian, open CMD or Powershell as admin and run: 
 
