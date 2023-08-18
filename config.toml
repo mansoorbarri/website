@@ -63,9 +63,10 @@ enableRobotsTXT = false
   metaKeywords = ["Blog", "Mansoor Barri", "Tech", "Hacking"]
 
   socialIcons = [
+      {name = "medium", url = "https://medium.com/@mansoorbarri/"},
+      {name = "github", url = "https://github.com/mansoorbarri/"},      
       {name = "twitter", url = "https://twitter.com/mansoorbarri"},
       {name = "linkedin", url = "https://www.linkedin.com/in/mansoorbarri/"},      
-      {name = "github", url = "https://github.com/mansoorbarri/"},      
     ]
 
   # Footer text
