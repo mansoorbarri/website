@@ -31,7 +31,7 @@ Now make sure both devices are on the same network and then:
 - Click on the orange box, "REQUEST PAIRING" 
 - Accept when promt on your PC like shown:
 
-![](/img/guides/2023/connect-your-phone-to-linux/2023.png)
+![Security Notificaton](/img/guides/2023/connect-your-phone-to-linux/2023.png)
 
 You can change settings to your preference in the android app by: 
 - Click on the humburger icon (☰)

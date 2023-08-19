@@ -34,7 +34,7 @@ As you can see, the folders are highlighted by blue and the files are just white
 
 you can also use `ls -a` to see hidden files: 
 
-![](/img/guides/2023/linux-for-everyone/cd3.png)
+![screenshot of the  command being used](/img/guides/2023/linux-for-everyone/cd3.png)
 
 ## cd 
 `cd` also known as "Change Directory" is used to go in and out of folders. 
