@@ -4,7 +4,7 @@ languageCode = "en"
 
 title = "Mansoor Barri"
 
-theme = ["hugo-redirect", "gokarna"]
+theme = ["gokarna"]
 
 pygmentsStyle = "monokai"
 
