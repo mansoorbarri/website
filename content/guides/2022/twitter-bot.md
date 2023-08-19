@@ -174,8 +174,8 @@ options.headless = True
 msg = input("Enter your message: \n")
 
 #creds
-uname = "mansoorbarri"
-pwd = "Yamahateslar1x1@twitter"
+uname = "<username>"
+pwd = "<password>"
 
 #open firefox
 driver = webdriver.Firefox(options=options)
