@@ -9,7 +9,7 @@ showtableOfContents: true
 description: "Learn how to install Apple emojis on Linux to have a prettier and easier Linux experience."
 ---
 
-Since the [last guide](/guides/emoji/) on emojis on Linux, some mentioned how some emojis are still missing. I found another font pack on GitHub which works better. 
+Since the [last guide](/guides/things-to-do-after-installing-deb/#emojis) on emojis on Linux, some mentioned how some emojis are still missing. I found another font pack on GitHub which works better. 
 
 Github: https://github.com/samuelngs/apple-emoji-linux
 
