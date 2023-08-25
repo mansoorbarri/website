@@ -43,6 +43,9 @@ I can fix this by removing the redirect pages and redirecting the use using Clou
 
 Once you have fixed all the "errors", run another crawl and look for any other errors which are not fixed or any new errors. Repeat the cycle until you have 95-100% on site audit.
 
+## Result 
+![screenshot of sites being 100%](/img/guides/2023/ahrefs/result.png)
+
 that's it <3
 
 ----
