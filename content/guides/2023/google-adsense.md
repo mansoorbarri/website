@@ -1,12 +1,11 @@
 ---
 title: "Google Adsense"
-date: 2023-
-tags: []
+date: 2023-09-30
+tags: [Website]
 url: "/guides/google-adsense/"
 type: "post"
 showtableOfContents: true
 description: "Learn about important steps you should take to connect your site with Google Adsense and have ads running."
-draft: "true"
 ---
 
 ## Context
