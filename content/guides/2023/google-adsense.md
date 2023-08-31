@@ -1,6 +1,6 @@
 ---
 title: "Google Adsense"
-date: 2023-08-30
+date: 2023-09-30
 tags: [Website]
 url: "/guides/google-adsense/"
 type: "post"
