@@ -11,6 +11,14 @@ body::-webkit-scrollbar {
   background-color: #ffdb4d;
 }
 
+#scroll-progress {
+  position: fixed;
+  top: 6%;
+  width: 0%;
+  height: 4px;
+  background: #7983ff;
+}
+
 :root {
   --content-width: 1120px;
   --container-width: 810px;
