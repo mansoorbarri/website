@@ -1,19 +1,13 @@
-# [mansoorbarri.com](https://mansoorbarri.com) [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/kai4.svg)](https://status.mansoorbarri.com)
-A website made with Hugo using [gokarna](https://github.com/526avijitgupta/gokarna)
+# Your Website Name
 
+This is the repository for my Hugo-based website, hosted on Cloudflare Pages.
 
-## Tech Stack
+## About
 
-**CMS:** Hugo
+Website hosts guides of all sorts like Linux, Windows and Cyber Security. Site also contains blogs highlighting my life managing this site, college and other stuff which goes on on a routine basis.
 
-**CDN:** Cloudflare
+## Contribution
 
-**Hosting:** GitHub
+You can contribute to the website's source code by creating a pull request.
 
-**Language:** HTML, CSS & Javascript
-
-## Contributing
-
-Contributions are always welcome!
-
-visit [/contact](https://mansoorbarri.com/contact/) for ways to get started.
+For other type of contributions, please contact info@hepton.uk
