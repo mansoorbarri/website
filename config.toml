@@ -35,7 +35,12 @@ enableRobotsTXT = false
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 5
+    weight = 3 
+
+  [[menu.main]]
+    pre = "<span data-feather='download'></span>"
+    url = "/downloads/"
+    weight = 4
 
   [params]
   # URL for the avatar on homepage

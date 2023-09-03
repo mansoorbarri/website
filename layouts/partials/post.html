@@ -27,14 +27,23 @@
             {{ end }}
         {{ end }}
     </div>
+
+    {{ if eq .Type "page" }}
+
+    {{ end }}
+
+
+    {{ if not (in .Permalink "/downloads/") }}
     <div id="comment-section">
-        <script src="https://utteranc.es/client.js"
+      <script src="https://utteranc.es/client.js"
         repo="mansoorbarri/website"
         issue-term="title"
         theme="github-dark"
         crossorigin="anonymous"
         async></script>
     </div>
+    {{ end }}
+    
 </div>
 
 <script>

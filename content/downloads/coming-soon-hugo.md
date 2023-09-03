@@ -1,0 +1,59 @@
+---
+title: "Coming Soon Hugo Theme"
+type: "post" 
+showtableOfContents: "true"
+tags: ["hugo"]
+date: "2023-09-03"
+---
+
+![screenshot of the site](/img/downloads/comingsoonhugo/site.png)
+
+Coming soon is hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site.
+
+***Note: all variables in `{ }` should be personalised***
+
+## Setup 
+Make a new hugo site
+```
+hugo new site {sitename}
+cd {sitename}
+git submodule add https://github.com/mansoorbarri/coming-soon.git themes/coming-soon
+```
+
+Copy `examplesite/config.toml` files to yours for quick setup
+```
+cp themes/coming-soon/examplesite/config.toml . 
+```
+
+Open `config.toml` and edit as per your liking. 
+
+## Guide 
+```toml
+baseURL = "https://"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Coming Soon Hugo" 
+    description = "A simple countdown"
+    message = "COMING SOON!" # default is "COMING SOON" 
+    release = "Oct 07, 2222" # release date format: Aug 30, 2023 15:00
+    background = "" # default is bg.mp4 in static/
+```
+
+- `title`: Shows up on the top left of the webpage as well as the tab title
+- `description`: Shows up to the bottom left as well as the `meta` description 
+- `message`: Default is "COMING SOON" however you can change this to whatever suits you
+- `release`: The date **and/or** time of when your site will be release. The countdown will be towards this time and/or time. 
+- `background`: The background video/image you want.
+
+*Note: All `message`, `release` & `background` can be left empty if you want default values*
+
+Now you can publish it to your host. 
+
+## Performance 
+![Screenshot of the results from Pages Insights](/img/downloads/comingsoonhugo/performance.png)
+
+Thats it <3 
+
+---
