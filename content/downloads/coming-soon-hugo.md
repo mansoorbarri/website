@@ -28,6 +28,7 @@ cp themes/coming-soon/examplesite/config.toml .
 Open `config.toml` and edit as per your liking. 
 
 ## Guide 
+### Basics
 ```toml
 baseURL = "https://"
 languageCode = 'en-us'
@@ -48,6 +49,21 @@ theme = "coming-soon"
 - `background`: The background video/image you want.
 
 *Note: All `message`, `release` & `background` can be left empty if you want default values*
+
+### Social Icons
+You can add social icons on the bottom right to give updates to your audience and let them know about your presense on other platforms. 
+```toml 
+socialIcons = [
+{name = "email", url = "example@example.com"},      
+{name = "twitter", url = "https://twitter.com/"},    
+{name = "facebook", url = "https://facebook.com/"},    
+{name = "github", url = "https://github.com/"},    
+{name = "instagram", url = "https://instagram.com/"},    
+{name = "tiktok", url = "https://tiktok.com/"},    
+]
+```
+
+You should remove links to socials which you don't want to mention. 
 
 Now you can publish it to your host. 
 
