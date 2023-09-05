@@ -12,7 +12,7 @@ body::-webkit-scrollbar {
 }
 
 #scroll-progress {
-  position: fixed;
+  position: relative;
   top: 6%;
   width: 0%;
   height: 4px;
