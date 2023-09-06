@@ -1,0 +1,21 @@
+<div class="container list-posts">
+
+    <h1 class="list-title">{{ .Name }}</h2>
+
+    {{ if eq .Section "newsletter" }}
+        <div style="padding-left: 60px;">
+            <script async data-uid="3c2395f583" src="https://mansoorbarri.ck.page/3c2395f583/index.js"></script>
+        </div>
+        <h2 style="text-align: center;">Archives</h2>
+    {{ end }}   
+
+    {{ range (where .Pages "Params.type" "post" ).GroupByDate "2006" }}
+
+    <h2 class="posts-year">{{ .Key }}</h2>
+
+    {{- range .Pages -}}
+        {{- partial "list-posts.html" . -}}
+    {{ end }}
+    {{ end }}
+
+</div>
