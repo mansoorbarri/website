@@ -28,8 +28,8 @@ enableRobotsTXT = false
     weight = 1
 
   [[menu.main]]
-    name = "Blogs"
-    url = "/blogs/"
+    name = "Newsletter"
+    url = "/newsletter/"
     weight = 2
 
   [[menu.main]]
