@@ -2,20 +2,29 @@
 
     <h1 class="list-title">{{ .Name }}</h2>
 
-    {{ if eq .Section "newsletter" }}
-        <div>
+        <!-- newsletter styling -->
+        <style>
+            .news {
+                display: flex;
+                justify-content: center;
+
+            }
+        </style>
+
+        {{ if eq .Section "newsletter" }}
+        <div class="news">
             <script async data-uid="3c2395f583" src="https://mansoorbarri.ck.page/3c2395f583/index.js"></script>
         </div>
         <h2 style="text-align: center;">Archives</h2>
-    {{ end }}   
+        {{ end }}
 
-    {{ range (where .Pages "Params.type" "post" ).GroupByDate "2006" }}
+        {{ range (where .Pages "Params.type" "post" ).GroupByDate "2006" }}
 
-    <h2 class="posts-year">{{ .Key }}</h2>
+        <h2 class="posts-year">{{ .Key }}</h2>
 
-    {{- range .Pages -}}
+        {{- range .Pages -}}
         {{- partial "list-posts.html" . -}}
-    {{ end }}
-    {{ end }}
+        {{ end }}
+        {{ end }}
 
 </div>
