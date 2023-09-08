@@ -2,7 +2,7 @@
 title: "Academia"
 date: 2023-08-25
 tags: []
-url: "/blogs/academia/"
+url: "/newsletter/academia/"
 type: "post"
 showtableOfContents: true
 description: "Life update. gcse, adsense, website, mortgage market"

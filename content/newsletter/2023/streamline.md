@@ -2,7 +2,7 @@
 title: "Streamline"
 date: 2023-08-18
 tags: []
-url: "/blogs/streamline/"
+url: "/newsletter/streamline/"
 type: "post"
 showtableOfContents: true
 description: ""
