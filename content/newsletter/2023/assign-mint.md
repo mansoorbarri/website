@@ -1,9 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Assign Mint"
 date: 2023-
-url: "/newsletter/{{ .Name }}/"
+tags: []
+url: "/blogs/assign-mint/"
 type: "post"
 showtableOfContents: true
+description: ""
 ---
 
 
