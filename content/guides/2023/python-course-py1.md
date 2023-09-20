@@ -1,8 +1,8 @@
 ---
-title: "Python Course for Beginners | 1"
+title: "Python Course for Beginners | py1"
 date: 2023-09-18
 tags: [Python Course]
-url: "/guides/python-course/"
+url: "/guides/python-course-py1/"
 type: "post"
 showtableOfContents: true
 description: "A deep dive in Python programming language to help you at your IT journey"
