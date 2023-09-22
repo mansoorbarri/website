@@ -30,21 +30,53 @@ this brings in the "programming" aspect in python. In our case, we can do this t
 
 Firstly, we will print out options which are vailble: 
 
-```python 
+```python
 print("Hi, welcome to anar helpdesk bot")
 # input("Hi, may I know your name?")
-issue = input("How may I help you today?\n")
-print("""
+print("How may I help you today?")
+print('''
 1. My WiFi is too slow
 2. My system is lagging
 3. I need help with Python
 4. Something else
-selected-option= input()
-""") 
+''')
+option_selected = input()
+```
 ```
 
-This allows the user to see all the options and input what they want by entering a number, their choosen option will be then stored in a variable called `selected-option` which then allow us to run if & else statements to server the user properly. 
+this code allows the user to input what they want help with and stores it in the `option_selected` variable. 
 
-### first IF statement
+### using if 
+to use the variable in an if statement, we have to use a mixture of if, elif & else like so: 
+```python
+print("Hi, welcome to anar helpdesk bot")
+# input("Hi, may I know your name?")
+print("How may I help you today?")
+print('''
+1. My WiFi is too slow
+2. My system is lagging
+3. I need help with Python
+4. Something else
+''')
+option_selected = input()
 
+if option_selected == "1": 
+    print("Please restart your router")
+elif option_selected == "2":
+    print("clear your temp directory then restart your system")
+elif option_selected == "3":
+    print("ask in the comments of this post :)")
+elif option_selected == "4": 
+    print("ask your mom")
 ```
+
+`if`: this is like saying "if" in English, if something is true then the program will carry out something otherwise it won't. In this case, if the `option_selected` variable is equal to 1 then it will run the print statement otherwise it will go to the next statement which is `elif`; now `elif` is only ran if the statment above is not true so if the user has choosen "3" for example then the program will skip the if statement and the first elif statement and go straight to the third statement and carry out the instructions in that statemnet which is to print "ask in the comments of this post". 
+
+Now you can run this and test out all the statements and see if they work right. 
+
+## Final code 
+all the code can be found at: https://github.com/mansoorbarri/python-course/
+
+that's all <3
+
+---
