@@ -69,6 +69,7 @@ elif option_selected == "3":
 elif option_selected == "4": 
     print("ask your mom")
 ```
+```
 
 `if`: this is like saying "if" in English, if something is true then the program will carry out something otherwise it won't. In this case, if the `option_selected` variable is equal to 1 then it will run the print statement otherwise it will go to the next statement which is `elif`; now `elif` is only ran if the statment above is not true so if the user has choosen "3" for example then the program will skip the if statement and the first elif statement and go straight to the third statement and carry out the instructions in that statemnet which is to print "ask in the comments of this post". 
 
