@@ -39,5 +39,12 @@ print("""
 2. My system is lagging
 3. I need help with Python
 4. Something else
+selected-option= input()
 """) 
+```
+
+This allows the user to see all the options and input what they want by entering a number, their choosen option will be then stored in a variable called `selected-option` which then allow us to run if & else statements to server the user properly. 
+
+### first IF statement
+
 ```
