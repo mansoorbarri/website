@@ -53,7 +53,11 @@ enableRobotsTXT = false
   avatarSize = "size-m"
 
   # Description to display on homepage
+<<<<<<< HEAD
   description = "mansoorbarri.com offers IT related guides and newsletter to educate and contribute to the community especially Linux community"
+=======
+  description = "At mansoorbarri.com, we offer a wealth of IT knowledge through guides & newsletters about IT; specifically Linux."
+>>>>>>> 5aba868e979d1ace4bb2ff7d6315fc4bb8e33598
 
   # Accent color is displayed when you hover over <a> tags (original #FF4D4D)
   accentColor = "#ff0005"
