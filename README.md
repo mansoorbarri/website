@@ -10,4 +10,4 @@ Website hosts guides of all sorts like Linux, Windows and Cyber Security. Site a
 
 You can contribute to the website's source code by creating a pull request.
 
-For other type of contributions, please contact info@hepton.uk
+For other type of contributions, please contact info@mansoorbarri.com

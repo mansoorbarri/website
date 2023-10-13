@@ -14,12 +14,6 @@ I had a game idea and wanted to try game development, after a brief search on Yo
 Godot is a opensource game engine capable of 2d & 3d games, this is similar to unity except Godot is free and beginner friendly. The beginner friendly-ness comes from the way you code on it, it has its own language called GDScript which is something like python however in my experience its like if Python & Javascript had a child then you would get GDScript. 
 
 ## Issues
-lly coming from web development and just basic scripting. 
-
-## What is godod?
-Godot is a opensource game engine capable of 2d & 3d games, this is similar to unity except Godot is free and beginner friendly. The beginner friendly-ness comes from the way you code on it, it has its own language called GDScript which is something like python however in my experience its like if Python & Javascript had a child then you would get GDScript. 
-
-## Issues
 Firsly, the engine itself is quite good if you want to do game development for real and are really interested in it. However, it lacks quite a lot of features for main-stream game development which could be because of the owner and the people who maintain it. In summary, the owner does not like any valid criticismabout the engine or how its been handled this is also leads to broken PRs being pushed to the live repository making it a weird engine if you see the development side of it. 
 
 ### why are people talking about it? 
