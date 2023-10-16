@@ -61,17 +61,6 @@ enableRobotsTXT = false
   customHeadHTML = '''
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5174559718233522"
        crossorigin="anonymous"></script>
-
-  <script type="text/javascript">
-    atOptions = {
-      'key' : '1e21b88760a44d59a8f6628982ea6a8e',
-      'format' : 'iframe',
-      'height' : 60,
-      'width' : 468,
-      'params' : {}
-    };
-    document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/1e21b88760a44d59a8f6628982ea6a8e/invoke.js"></scr' + 'ipt>');
-  </script>
   '''
 
 
