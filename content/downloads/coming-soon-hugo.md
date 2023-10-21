@@ -17,7 +17,7 @@ Make a new hugo site
 ```
 hugo new site {sitename}
 cd {sitename}
-git submodule add https://github.com/mansoorbarri/coming-soon.git themes/coming-soon
+git clone https://github.com/mansoorbarri/coming-soon.git themes/coming-soon
 ```
 
 Copy `examplesite/config.toml` files to yours for quick setup
