@@ -636,46 +636,9 @@ table td {
 }
 
 #scroll-progress {
-  position: relative;
-  top: 6%;
-  width: 0%;
-  height: 4px;
-  background: #7983ff;
-}
-
-.search-box {
-  background: transparent; /* Full transparency */
-  border: none;
-  border-radius: 7px; /* Reducing border-radius for a smaller appearance */
-  display: flex; /* Use Flexbox for centering */
-  align-items: center; /* Center vertically */
-  padding: 3px; /* Reduce padding for a smaller size */
-  border-bottom: 1px solid; /* This adds a 1px solid black line under the search box */
-}
-
-/* Make the input fully transparent and reduce its size */
-.input-search {
-  border: none;
-  outline: none;
-  background: transparent; /* Full transparency */
-  padding: 5px; /* Adjust the padding as needed */
-  width: fit-content; /* Expand to fill available space */
-}
-
-
-/* Adjust the .btn-search styles to make the button transparent and smaller */
-.btn-search {
-  border: none;
-  background: transparent; /* Full transparency */
-  cursor: pointer;
-  padding: 5px 10px; /* Adjust the padding as needed */
-  color: var(--light-text-color);
-  font-weight: bold;
-}
-
-.search-box {
-  display: inline-block;
-  text-align: center;
-  align-items: center;
-  margin-left: 31%;
-}
+    position: relative;
+    top: 6%;
+    width: 0%;
+    height: 4px;
+    background: #7983ff;
+  }

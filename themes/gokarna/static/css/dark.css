@@ -93,14 +93,6 @@ pre {
   box-shadow: rgb(33, 38, 45) 0px -1px 0px 0px inset;
 }
 
-.btn-search {
-  color: var(--dark-text-color);
-}
-
-.input-search {
-  color: var(--dark-text-color);
-}
-
 /* TODO: Check if this is needed or not */
 /* 
 img,
