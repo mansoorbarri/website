@@ -13,7 +13,12 @@
             <a class="nav-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
         </div>
 
-        <div class="nav-links">
+            <div class="search-box">
+                <input type="text" class="input-search" id="search-input" placeholder="Type to Search..." onkeyup="handleKeyUp(event)">
+                <button class="btn-search" id="search-button" onclick="customSearch()">Search</button>
+            </div>
+
+        <div style="text-align: right;" class="nav-links">
             {{ range .Site.Menus.main }}
             <div class="nav-link">
                 <a href="{{ .URL | absURL }}">
@@ -58,3 +63,21 @@
         <div id="scroll-progress"></div>
     </nav>
 </header>
+
+<script>
+function handleKeyUp(event) {
+    if (event.key === "Enter") {
+        customSearch();
+    }
+}
+
+function customSearch() {
+    var searchTerm = document.getElementById('search-input').value;
+    var customSearchEngineID = '548559c620206472c'; // Replace with your actual CSE ID
+    var customSearchURL = 'https://cse.google.com/cse?cx=' + customSearchEngineID;
+
+    if (searchTerm) {
+        window.location.href = customSearchURL + '&q=' + encodeURIComponent(searchTerm);
+    }
+}
+</script>
