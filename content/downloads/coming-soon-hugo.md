@@ -8,7 +8,7 @@ date: "2023-09-03"
 
 ![screenshot of the site](/img/downloads/comingsoonhugo/site.png)
 
-Coming soon is hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site.
+Coming soon is a hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site.
 
 ***Note: all variables in `{ }` should be personalised***
 
