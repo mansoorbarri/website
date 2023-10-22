@@ -6,7 +6,7 @@ tags: ["hugo"]
 date: "2023-09-03"
 ---
 
-![screenshot of the site](/img/downloads/comingsoonhugo/site.png)
+![screenshot of the site](https://raw.githubusercontent.com/mansoorbarri/coming-soon/main/images/screenshot.png)
 
 Coming soon is a hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site.
 
