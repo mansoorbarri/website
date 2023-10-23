@@ -52,6 +52,15 @@ Note that you have to mention which issue u are fixing my the issue number which
 
 Now just wait & see if the changes are alright and soon enough your code wiill be merged or declined.
 
+### Examples 
+Here are some of my recent contributions: 
+
+- GoKarna: https://github.com/526avijitgupta/gokarna/pull/197
+- tldr: https://github.com/tldr-pages/tldr/pull/11193
+- winutil: https://github.com/ChrisTitusTech/winutil/pull/1113
+
+you can see more contribution from my GitHub profile: https://github.com/mansoorbarri
+
 that's it <3
 
 ----
