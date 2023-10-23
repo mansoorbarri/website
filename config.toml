@@ -58,11 +58,7 @@ enableRobotsTXT = false
   # Accent color is displayed when you hover over <a> tags (original #FF4D4D)
   accentColor = "#ff0005"
 
-  customHeadHTML = '''
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5174559718233522"
-       crossorigin="anonymous"></script>
-  '''
-
+  customHeadHTML = ""
 
   # Keywords relevant for SEO
   metaKeywords = ["Blog", "Mansoor Barri", "Tech", "Hacking"]
