@@ -30,7 +30,7 @@ Ahrefs' setup is a bit lenghty and deserves a dedicated guide which will be post
 
 Ideally you should have 90% or over under Site Audit, I was at 98% when I started using Ahrefs; later I got it to be 100% whilst applying for Google Adsense. The trick is to have no "Errors" as they are the serious ones. At the time of this guide, I have 0 errors, 11 warnings and 3 notices. 
 
-My Ahrefs guide: https://mansoorbarri.com/guides/ahref/
+My Ahrefs guide: https://mansoorbarri.com/guides/ahrefs/
 
 ### Webmatrices
 Firstly, go to their website and enter your domain; for a high chance you would want at least 60% approval rate from Webmatrices. I was at 71.43% when I was accepted for Google Adsense. 
