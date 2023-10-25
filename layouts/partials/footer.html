@@ -3,4 +3,5 @@
     <a style="text-decoration: none; font-weight: bold;" href="/terms-conditions/">Terms & Conditions</a>
 
     <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
+    {{- partial "cookie-consent.html" . -}}
 </footer>

@@ -1,10 +1,198 @@
 <style>
     /* Cookies Consent Notice */
-.K2C{position:fixed;right:0;left:0;bottom:-600px;z-index:50;width:100%;padding:20px;background:rgba(255, 255, 255, 1);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px); border: 3px solid #000000; border-radius:15px 15px 0 0;box-shadow:0 -10px 25px -5px rgba(0,0,0,.1);align-items:center;justify-content:center;text-align:center;animation:ckUp 2.5s forwards;animation-delay:1s;-webkit-animation:ckUp 2.5s forwards;-webkit-animation-delay:1s;}.K2C.acptd{animation:ckDn 2.5s backwards;animation-delay:.3s;-webkit-animation:ckDn 2.5s backwards;-webkit-animation-delay:.3s}
-.K2C.k2hide{display:none}.K2C .K2C-Main svg{width:50px;height:50px;fill:#08102b;stroke:#08102b;stroke-width:.8} .K2C-Main h2{margin:0;color:#08102b;font-size:1.5rem;font-weight:800;font-family:inherit}
-.K2C-Main p{margin:10px 0;line-height:1.7em;color:#08102b;font-size:0.9rem;font-weight:400;font-family:inherit} .K2C .C-button{display:inline-flex;align-items:center;margin:0;padding:10px 15px;outline:0;border:0;border-radius:2px;line-height:20px;color:#ffffff;background-color:#000000;font-size:15px;font-family:inherit;text-decoration:none;white-space:nowrap;overflow:k2hide;max-width:100%;cursor:pointer;transition:all 0.3s ease} .K2C .C-button:hover{opacity:.8;transform:scale(0.97)}.K2C .C-button.outl{color:#08102b;margin-left:8px;background-color:transparent;border:1px solid #767676} .K2C .C-button.outl:hover{border-color:#482dff} .dark .K2C{background:rgba(50, 50, 50, 0.8)} .dark .K2C .K2C-Main svg{fill:#fefefe;stroke:#fefefe} .dark .K2C-Main h2, .dark .K2C-Main p, .dark .C-button.outl{color:#fefefe}
-@media screen and (min-width:768px){.K2C{max-width:450px;border-radius:10px;left:auto;right:30px;bottom:-500px;box-shadow:0 5px 35px rgba(0,0,0,.1);animation:ckdeskUp 2.5s forwards;animation-delay:1s;-webkit-animation:ckdeskUp 2.5s forwards;-webkit-animation-delay:1s}.K2C.acptd{animation:ckdeskDn 2.5s backwards;animation-delay:.3s;-webkit-animation:ckdeskDn 2.5s backwards;-webkit-animation-delay:0.3s}}
-@-webkit-keyframes ckUp{100%{bottom:0}} @keyframes ckUp{100%{bottom:0}} @-webkit-keyframes ckdeskUp{100%{bottom:30px}} @keyframes ckdeskUp{100%{bottom:30px}} @-webkit-keyframes ckDn{0%{bottom:0}100%{bottom:-600px}} @keyframes ckDn{0%{bottom:0}100%{bottom:-600px}} @-webkit-keyframes ckdeskDn{0%{bottom:30px}100%{bottom:-600px}} @keyframes ckdeskDn{0%{bottom:30px}100%{bottom:-600px}}
+    .K2C {
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: -600px;
+    z-index: 50;
+    width: 100%;
+    padding: 20px;
+    background: rgba(255, 255, 255, 1);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border: 3px solid #000000;
+    border-radius: 15px 15px 0 0;
+    box-shadow: 0 -10px 25px -5px rgba(0, 0, 0, .1);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    animation: ckUp 2.5s forwards;
+    animation-delay: 1s;
+    -webkit-animation: ckUp 2.5s forwards;
+    -webkit-animation-delay: 1s;
+}
+
+.K2C.acptd {
+    animation: ckDn 2.5s backwards;
+    animation-delay: .3s;
+    -webkit-animation: ckDn 2.5s backwards;
+    -webkit-animation-delay: .3s;
+}
+
+.K2C.k2hide {
+    display: none;
+}
+
+.K2C .K2C-Main svg {
+    width: 50px;
+    height: 50px;
+    fill: #08102b;
+    stroke: #08102b;
+    stroke-width: .8;
+}
+
+.K2C-Main h2 {
+    margin: 0;
+    color: #08102b;
+    font-size: 1.5rem;
+    font-weight: 800;
+    font-family: inherit;
+}
+
+.K2C-Main p {
+    margin: 10px 0;
+    line-height: 1.7em;
+    color: #08102b;
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-family: inherit;
+}
+
+.K2C .C-button {
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    padding: 10px 15px;
+    outline: 0;
+    border: 0;
+    border-radius: 2px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 15px;
+    font-family: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: k2hide;
+    max-width: 100%;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.K2C .C-button:hover {
+    opacity: .8;
+    transform: scale(0.97);
+}
+
+.K2C .C-button.outl {
+    color: #08102b;
+    margin-left: 8px;
+    background-color: transparent;
+    border: 1px solid #767676;
+}
+
+.K2C .C-button.outl:hover {
+    border-color: #482dff;
+}
+
+.dark .K2C {
+    background: rgba(50, 50, 50, 0.8);
+}
+
+.dark .K2C .K2C-Main svg {
+    fill: #fefefe;
+    stroke: #fefefe;
+}
+
+.dark .K2C-Main h2,
+.dark .K2C-Main p,
+.dark .C-button.outl {
+    color: #fefefe;
+}
+
+@media screen and (min-width: 768px) {
+    .K2C {
+        max-width: 450px;
+        border-radius: 10px;
+        left: auto;
+        right: 30px;
+        bottom: -500px;
+        box-shadow: 0 5px 35px rgba(0, 0, 0, .1);
+        animation: ckdeskUp 2.5s forwards;
+        animation-delay: 1s;
+        -webkit-animation: ckdeskUp 2.5s forwards;
+        -webkit-animation-delay: 1s;
+    }
+
+    .K2C.acptd {
+        animation: ckdeskDn 2.5s backwards;
+        animation-delay: .3s;
+        -webkit-animation: ckdeskDn 2.5s backwards;
+        -webkit-animation-delay: 0.3s;
+    }
+}
+
+@-webkit-keyframes ckUp {
+    100% {
+        bottom: 0;
+    }
+}
+
+@keyframes ckUp {
+    100% {
+        bottom: 0;
+    }
+}
+
+@-webkit-keyframes ckdeskUp {
+    100% {
+        bottom: 30px;
+    }
+}
+
+@keyframes ckdeskUp {
+    100% {
+        bottom: 30px;
+    }
+}
+
+@-webkit-keyframes ckDn {
+    0% {
+        bottom: 0;
+    }
+    100% {
+        bottom: -600px;
+    }
+}
+
+@keyframes ckDn {
+    0% {
+        bottom: 0;
+    }
+    100% {
+        bottom: -600px;
+    }
+}
+
+@-webkit-keyframes ckdeskDn {
+    0% {
+        bottom: 30px;
+    }
+    100% {
+        bottom: -600px;
+    }
+}
+
+@keyframes ckdeskDn {
+    0% {
+        bottom: 30px;
+    }
+    100% {
+        bottom: -600px;
+    }
+}
+
 </style>
 
 <!--[ Cookies Consent Notice ]-->
