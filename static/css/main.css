@@ -667,3 +667,8 @@ table td {
 .highlight-copy-btn:hover {
   background-color: #666;
 }
+
+.post-content a{
+  text-decoration: none;
+  color: #7983ff;
+}
