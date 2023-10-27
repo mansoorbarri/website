@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>recap on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/recap/</link>
+    <link>https://test.mansoorbarri.com/tags/recap/</link>
     <description>Recent content in recap on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/recap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://test.mansoorbarri.com/tags/recap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>End of 2020</title>
-      <link>https://mansoorbarri.com/newsletter/end-of-2020/</link>
+      <link>https://test.mansoorbarri.com/newsletter/end-of-2020/</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/newsletter/end-of-2020/</guid>
+      <guid>https://test.mansoorbarri.com/newsletter/end-of-2020/</guid>
       <description>Goals for 2022 Posting how-to guides on mansoor.cf everyday Learning and growing in CyberSecurity making mansoorbarri.com a IT company Getting a job It started off really well at the beginning of this year, but as I got busier, it became a weekly thing, then monthly, and finally a seasonal thing where I would post 5 guides every 2-3 months. However, in the last quarter, I really expanded this into a polished product, which I did not expect at all.</description>
     </item>
     

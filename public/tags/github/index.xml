@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/github/</link>
+    <link>https://test.mansoorbarri.com/tags/github/</link>
     <description>Recent content in GitHub on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://test.mansoorbarri.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Contribute to Open-source Projects</title>
-      <link>https://mansoorbarri.com/guides/opensource-contribute/</link>
+      <link>https://test.mansoorbarri.com/guides/opensource-contribute/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/opensource-contribute/</guid>
+      <guid>https://test.mansoorbarri.com/guides/opensource-contribute/</guid>
       <description>Context I have seen a lot of people contributing to GitHub projects in the most inefficient way possible &amp;amp; their way usually just supports one change rather than u making a fork for every change.
 Init First you have to choose a project to contribute to. A potential project which you can contribute to should lie in all of these conditions:
 You should be well aware with the language the project is using.</description>
@@ -20,39 +20,39 @@ You should be well aware with the language the project is using.</description>
     
     <item>
       <title>Github Profile Readme</title>
-      <link>https://mansoorbarri.com/guides/gh-profile-readme/</link>
+      <link>https://test.mansoorbarri.com/guides/gh-profile-readme/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/gh-profile-readme/</guid>
+      <guid>https://test.mansoorbarri.com/guides/gh-profile-readme/</guid>
       <description>Almost every developer uses GitHub in some way or another. &amp;amp; if you push your code to GitHub then GitHub alone can be your CV however, by default its not that presentable. One feature is GitHub profile README which allows you to create a README file for your profile; it is in Markdown so you can do a lot of things on it.
 For example, my profile looks something like this: you can check it out here: https://github.</description>
     </item>
     
     <item>
       <title>How to automate your GitHub profile</title>
-      <link>https://mansoorbarri.com/guides/readme-automation/</link>
+      <link>https://test.mansoorbarri.com/guides/readme-automation/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/readme-automation/</guid>
+      <guid>https://test.mansoorbarri.com/guides/readme-automation/</guid>
       <description>I came across Chris Titus&amp;rsquo; README and saw that it is automated and I was kinda surprised that we could even do that. So today I&amp;rsquo;m just gonna explain how it works and how you can do it too.
 Markscribe Markscribe is basically a markdown template engine which allows you to make a template and dynamically change the content of the final file using the template. A great example of this is HUGO; it has template files which is the theme you are using and then you can add your blogs or whatever you want in those template files.</description>
     </item>
     
     <item>
       <title>Create GitHub SSH Keys</title>
-      <link>https://mansoorbarri.com/guides/create-github-ssh-keys/</link>
+      <link>https://test.mansoorbarri.com/guides/create-github-ssh-keys/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/create-github-ssh-keys/</guid>
+      <guid>https://test.mansoorbarri.com/guides/create-github-ssh-keys/</guid>
       <description>Generating a new SSH key Type ssh-keygen -t ed25519 -C &amp;quot;YOUR-EMAIL&amp;quot; in your terminal and go with all the default options. Now enter the following commands in order: eval &amp;#34;$(ssh-agent -s)&amp;#34; ssh-add ~/.ssh/YOUR-.PUB-FILE Add SSH key to GitHub Use the following command to copy the public key: cat ~/.ssh/YOUR-.PUB-FILE Log in to your GitHub account and go to &amp;ldquo;Settings&amp;rdquo; from the drop-down menu under your profile picture in the upper-right corner.</description>
     </item>
     
     <item>
       <title>Better Way To Use GitHub</title>
-      <link>https://mansoorbarri.com/guides/better-github/</link>
+      <link>https://test.mansoorbarri.com/guides/better-github/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/better-github/</guid>
+      <guid>https://test.mansoorbarri.com/guides/better-github/</guid>
       <description>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.
 Install Debian
 sudo apt install gh Windows

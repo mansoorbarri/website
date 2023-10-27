@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>js on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/js/</link>
+    <link>https://test.mansoorbarri.com/tags/js/</link>
     <description>Recent content in js on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://test.mansoorbarri.com/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Custom Toggle with Darkmode.js</title>
-      <link>https://mansoorbarri.com/guides/custom-toggle-darkmode/</link>
+      <link>https://test.mansoorbarri.com/guides/custom-toggle-darkmode/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/custom-toggle-darkmode/</guid>
+      <guid>https://test.mansoorbarri.com/guides/custom-toggle-darkmode/</guid>
       <description>To have a custom toggle, change your js file to have this code:
 // Replace the default button with your own button const myButton = document.getElementById(&amp;#39;my-darkmode-button&amp;#39;); const darkModeIcon = document.getElementById(&amp;#39;dark-mode-icon&amp;#39;); myButton.addEventListener(&amp;#39;click&amp;#39;, () =&amp;gt; { darkmode.toggle(); toggleDarkModeIcon(darkModeIcon, darkmode.isActivated()); }); } so your final code will be:
 &amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; function addDarkmodeWidget() { new Darkmode(); } const myButton = document.getElementById(&amp;#39;my-darkmode-button&amp;#39;); const darkModeIcon = document.getElementById(&amp;#39;dark-mode-icon&amp;#39;); myButton.addEventListener(&amp;#39;click&amp;#39;, () =&amp;gt; { darkmode.toggle(); toggleDarkModeIcon(darkModeIcon, darkmode.isActivated()); } window.</description>

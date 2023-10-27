@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Browser on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/browser/</link>
+    <link>https://test.mansoorbarri.com/tags/browser/</link>
     <description>Recent content in Browser on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://test.mansoorbarri.com/tags/browser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fix Horizontal Lines on YouTube Videos</title>
-      <link>https://mansoorbarri.com/guides/horizontal-fix/</link>
+      <link>https://test.mansoorbarri.com/guides/horizontal-fix/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/horizontal-fix/</guid>
+      <guid>https://test.mansoorbarri.com/guides/horizontal-fix/</guid>
       <description>Browser This is usually due to hardware acceleration, which you can disable by going to chrome:/settings/?search=hardware
 and unchecking the option Use hardware acceleration when available
 Intel X11 Config Edit/Add: /etc/X11/xorg.conf.d/20-intel.conf
@@ -22,10 +22,10 @@ that&amp;rsquo;s it &amp;lt;3</description>
     
     <item>
       <title>Best Browser Extensions</title>
-      <link>https://mansoorbarri.com/guides/best-browser-extensions/</link>
+      <link>https://test.mansoorbarri.com/guides/best-browser-extensions/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/best-browser-extensions/</guid>
+      <guid>https://test.mansoorbarri.com/guides/best-browser-extensions/</guid>
       <description>List Extensity - Quickly enable/disable Google Chrome extensions Cookie Remover - Removes cookies for the current site GoFullPage - Capture a screenshot of your current page in PDF or Image formats INSSIST - Add more functionality to instagram.com Midnigh Lizard - Dark mode on all websites Return YouTube Dislike - Returns ability to see dislikes on YouTube URL Shortener - Free URL shortener Extensity A browser extension that allows you to enable or disable browser extensions with a single click.</description>
     </item>
     

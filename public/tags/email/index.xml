@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email on Mansoor Barri</title>
-    <link>https://mansoorbarri.com/tags/email/</link>
+    <link>https://test.mansoorbarri.com/tags/email/</link>
     <description>Recent content in Email on Mansoor Barri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://test.mansoorbarri.com/tags/email/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Professional Email for Free</title>
-      <link>https://mansoorbarri.com/guides/professional-email-for-free/</link>
+      <link>https://test.mansoorbarri.com/guides/professional-email-for-free/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/professional-email-for-free/</guid>
+      <guid>https://test.mansoorbarri.com/guides/professional-email-for-free/</guid>
       <description>Disclaimer This can only work if you have your domain and have permission to change DNS settings or upload files to the website.
 Zoho Zoho is a cloud-based platform providing a suite of services including emails; it provides personalised email addresses using your domain name, along with various tools for efficient communication and security as they are very open and transparent with their privacy policy.
 Getting started Signing Up Visit Zoho Mail https://zoho.</description>
@@ -20,10 +20,10 @@ Getting started Signing Up Visit Zoho Mail https://zoho.</description>
     
     <item>
       <title>How To Converter Outlooks&#39; .PST to .EML</title>
-      <link>https://mansoorbarri.com/guides/pst-to-eml/</link>
+      <link>https://test.mansoorbarri.com/guides/pst-to-eml/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/pst-to-eml/</guid>
+      <guid>https://test.mansoorbarri.com/guides/pst-to-eml/</guid>
       <description>Recently I had to take backup for an O365 account however the backup is in .PST format which doesn&amp;rsquo;t really work on Linux thus convertering the .PST file to eml or other formats is the only way.
 To do this you have to install a program, MailsDaddy PST File Converter
 Once installed &amp;amp; opened:
@@ -32,10 +32,10 @@ Go to &amp;ldquo;Add File&amp;rdquo; &amp;ldquo;Add File(s)&amp;rdquo; &amp;amp;
     
     <item>
       <title>Fix | Sender Has Not Been Verified</title>
-      <link>https://mansoorbarri.com/guides/sender-not-verified/</link>
+      <link>https://test.mansoorbarri.com/guides/sender-not-verified/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/sender-not-verified/</guid>
+      <guid>https://test.mansoorbarri.com/guides/sender-not-verified/</guid>
       <description>Error You might have seen this error when using an email alias on your domain: *Email alias guide: /guides/email-alias/
 This happenes because of the LUA value in your DNS points to some other domain, you can fix this by changing the LUA value to your domain.
 Fix | DNS Entry Before: After: that&amp;rsquo;s it &amp;lt;3</description>
@@ -43,10 +43,10 @@ Fix | DNS Entry Before: After: that&amp;rsquo;s it &amp;lt;3</description>
     
     <item>
       <title>How To Get a Email Verified Badge</title>
-      <link>https://mansoorbarri.com/guides/email-cert/</link>
+      <link>https://test.mansoorbarri.com/guides/email-cert/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/email-cert/</guid>
+      <guid>https://test.mansoorbarri.com/guides/email-cert/</guid>
       <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it’s not really necessary plus it’s a pain to set it up correctly.
 Getting Email Certificate Go to Actalis&#39;s website Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.
 *Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
@@ -54,10 +54,10 @@ Getting Email Certificate Go to Actalis&#39;s website Enter the email you want t
     
     <item>
       <title>Email Alias With Cloudflare</title>
-      <link>https://mansoorbarri.com/guides/email-alias/</link>
+      <link>https://test.mansoorbarri.com/guides/email-alias/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mansoorbarri.com/guides/email-alias/</guid>
+      <guid>https://test.mansoorbarri.com/guides/email-alias/</guid>
       <description>Brief You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
 By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
 You will need to enable 2 Step verification on your google account for this to work.
