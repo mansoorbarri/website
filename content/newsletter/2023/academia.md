@@ -14,7 +14,7 @@ Since the last blog, adsense is still pending however I have planned a guide abo
 ## GCSE
 Got the expected grades however they increased the grade boundaries to pre-covid level even though this batch was in COVID in year 9 but slay. 
 
-I have applied for BTECH IT and got enrolled in the same which is gonna be fun hopefully. 
+I have applied for BTEC IT and got enrolled in the same which is gonna be fun hopefully. 
 
 ## Mortgage Market 
 The website is fine but the apps are being a bit naughty. Google Playstore want API level 34 however we have 31 and I don't know jack-shit about app development and can't recompile apparently. 
