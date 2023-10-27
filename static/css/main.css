@@ -670,5 +670,5 @@ table td {
 
 .post-content a{
   text-decoration: none;
-  color: #7983ff;
+  color: var(--accent-color);
 }
