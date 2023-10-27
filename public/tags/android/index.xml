@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/android/</link>
+    <description>Recent content in Android on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirror Android Screen with Sound Wirelessly</title>
+      <link>https://mansoorbarri.com/guides/wireless-android-screen-mirror/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/wireless-android-screen-mirror/</guid>
+      <description>Disclaimer: this only works when your phone and computer is on the same network
+Previously I have explained how you can mirror your android phone on machine however you can also do it wirelessly as well in a different method but kinda the same.
+Installation Install scrcpy &amp;amp; sndcpy just like how it is mentioned in the previous guide: https://mansoorbarri.com/guides/android-screen-mirror/
+Then install ADB: debian linux
+sudo apt install android-sdk-platform-tools Windows</description>
+    </item>
+    
+    <item>
+      <title>The Perfect Phone</title>
+      <link>https://mansoorbarri.com/guides/the-perfect-phone/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/the-perfect-phone/</guid>
+      <description>The aim of this &amp;ldquo;perfect phone is to have as much distractions as possible and have everything at ease rather than going through various manus.
+Things used Debloater: Universal Android Debloater Launcher: Niagra Launcher Icon Pack: Lines Icon Pack Notifications: Dynamic Island Debloat Install ADB:
+debian linux
+sudo apt install android-sdk-platform-tools Windows
+Download ADB Platform Tools Extract Tools to C:\Windows (This allows you to run adb.exe and fastboot.exe from anywhere) Install drivers for your phone - Install Android Device Drivers now install the universal debloater tool from their Github &amp;amp; run the program: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Transfer Data From Iphone To Android Using Copy My Data</title>
+      <link>https://mansoorbarri.com/guides/iphone-to-android/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/iphone-to-android/</guid>
+      <description>While switching from an iPhone to an Android phone can be thrilling, the data transfer process can also be difficult. Fortunately, there are a number of apps available to make the process simpler, with &amp;ldquo;Copy My Data&amp;rdquo; being one of the most well-liked. You can quickly and effortlessly move your contacts, images, and other data between devices using this app, which is available for both iPhone and Android devices.
+Download Links First, you have to install &amp;ldquo;Copy My Data&amp;rdquo; on both devices</description>
+    </item>
+    
+    <item>
+      <title>Mirror Android Screen with Sound</title>
+      <link>https://mansoorbarri.com/guides/android-screen-mirror/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/android-screen-mirror/</guid>
+      <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
+Tools Scrcpy - for screen mirror
+sndcpy - for sound
+Install Scrcpy:
+sudo apt install scrcpy -y Sndcpy: download the latest release and extract the files
+Mirror Screen with Scrcpy First, go to your device settings and enable developer mode then, connect your Android device to your computer with your charger.</description>
+    </item>
+    
+    <item>
+      <title>SSH into Termux</title>
+      <link>https://mansoorbarri.com/guides/termux-ssh/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/termux-ssh/</guid>
+      <description>Just do the following steps:
+Install OpenSSH on Termux: pkg upgrade &amp;amp;&amp;amp; pkg install openssh Setup a password for Termux: passwd Get your username: whoami Start SSH server sshd Connect! From your computer ssh like usual; the default port Termux uses for SSH is 8022.
+example:
+my IP is 192.168.0.10
+my username: u0_a231
+so my command would be:
+ssh u0_a231@192.168.0.10 -p 8022 Video your browser doesn&#39;t support video tag. Right click and check &amp;ldquo;Show all controls&amp;rdquo; to see video controls*</description>
+    </item>
+    
+    <item>
+      <title>Fixed - Termux Repository Under Maintenance Issue</title>
+      <link>https://mansoorbarri.com/guides/termux-repo/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/termux-repo/</guid>
+      <description>Error error looks something like this:
+This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest &amp;amp; greatest version.
+Fix visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and install the APK normally.
+NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT
+that&amp;rsquo;s it ✌🏽</description>
+    </item>
+    
+  </channel>
+</rss>

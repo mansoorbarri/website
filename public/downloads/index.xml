@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downloads on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/downloads/</link>
+    <description>Recent content in Downloads on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon Hugo Theme</title>
+      <link>https://mansoorbarri.com/downloads/coming-soon-hugo/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/downloads/coming-soon-hugo/</guid>
+      <description>Coming soon is a hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site.
+Note: all variables in { } should be personalised
+Setup Make a new hugo site
+hugo new site {sitename} cd {sitename} git clone https://github.com/mansoorbarri/coming-soon.git themes/coming-soon Copy examplesite/config.toml files to yours for quick setup
+cp themes/coming-soon/examplesite/config.toml . Open config.toml and edit as per your liking.</description>
+    </item>
+    
+  </channel>
+</rss>

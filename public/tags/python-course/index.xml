@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python Course on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/python-course/</link>
+    <description>Recent content in Python Course on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/python-course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scripting in Python | Py4</title>
+      <link>https://mansoorbarri.com/guides/scripting-py4/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/scripting-py4/</guid>
+      <description>Before we used Python to make terminal programs however now we will make a program which controls our Linux system to do stuff; this is known as scripting.
+Scripting is primarily used to automate tasks for websites and web applications while using an existing program. For this, we will use a module called subprocess this is used to run commands on your Linux system.
+Subprocess init First we will import subprocess by:</description>
+    </item>
+    
+    <item>
+      <title>Modules in Python | Py3</title>
+      <link>https://mansoorbarri.com/guides/modules-py3/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/modules-py3/</guid>
+      <description>Recap Previously, we did this:
+print(&amp;#34;Hi, welcome to anar helpdesk bot&amp;#34;) # input(&amp;#34;Hi, may I know your name?&amp;#34;) print(&amp;#34;How may I help you today?&amp;#34;) print(&amp;#39;&amp;#39;&amp;#39; 1. My WiFi is too slow 2. My system is lagging 3. I need help with Python 4. Something else &amp;#39;&amp;#39;&amp;#39;) option_selected = input() if option_selected == &amp;#34;1&amp;#34;: print(&amp;#34;Please restart your router&amp;#34;) elif option_selected == &amp;#34;2&amp;#34;: print(&amp;#34;clear your temp directory then restart your system&amp;#34;) elif option_selected == &amp;#34;3&amp;#34;: print(&amp;#34;ask in the comments of this post :)&amp;#34;) elif option_selected == &amp;#34;4&amp;#34;: print(&amp;#34;error404&amp;#34;) Now we will use a module to add a bit of delay in replies; its not much so don&amp;rsquo;t worry.</description>
+    </item>
+    
+    <item>
+      <title>If &amp; else | py3</title>
+      <link>https://mansoorbarri.com/guides/if-else-py3/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/if-else-py3/</guid>
+      <description>Recap Last time we learnt that we can store user input in a variable like so:
+print(&amp;#34;Hi, welcome to anar helpdesk bot&amp;#34;) # input(&amp;#34;Hi, may I know your name?&amp;#34;) issue = input(&amp;#34;How may I help you today?\n&amp;#34;) print(issue) today we will use if &amp;amp; else statements to:
+show a list of things we offer Ask the user about what they want to do Tell them how they can connect with us or fix their issue If statements If statements are instructions for your program to do something if something else if true or false, for example:</description>
+    </item>
+    
+    <item>
+      <title>Make a Helpdesk Bot | Py2</title>
+      <link>https://mansoorbarri.com/guides/make-a-bot-py2/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/make-a-bot-py2/</guid>
+      <description>Recap Previously, we learnt that we can add print statements to print things on the terminal. Now we will start with making a proper bot.
+Greetings Firstly, we will greet the user using the print function like explained in py1
+print(&amp;#34;Hi, welcome to anar helpdesk bot&amp;#34;) Input Then, we want to ask the name of the user/customer. We can do this with input function which allows us to take inputs from the user or in this case, our customer.</description>
+    </item>
+    
+    <item>
+      <title>Python Course for Beginners | py1</title>
+      <link>https://mansoorbarri.com/guides/python-course-py1/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/python-course-py1/</guid>
+      <description>Why Python This course goes through everything you need to know about python and start making your own scripts. It doesn&amp;rsquo;t have to be something specific since Python can be used to do various type of things even if you have nothing to do with IT.
+We will be making a helpdesk bot which asks the user their name, type of issue &amp;amp; what their issue is.
+What do you need?</description>
+    </item>
+    
+  </channel>
+</rss>

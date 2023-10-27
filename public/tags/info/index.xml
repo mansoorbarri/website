@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/info/</link>
+    <description>Recent content in Info on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get a free linux terminal from Google Console</title>
+      <link>https://mansoorbarri.com/guides/free-google-terminal/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/free-google-terminal/</guid>
+      <description>This can be usefull when running a long scan like Sherlock or even nmap at times.
+Simply go to: https://shell.cloud.google.com/?hl=en_GB&amp;amp;fromcloudshell=true&amp;amp;show=terminal Sign in with your Google account Use the terminal that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>Guide to Digital Privacy</title>
+      <link>https://mansoorbarri.com/guides/data-privacy/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/data-privacy/</guid>
+      <description>In the age of social media, online shopping, and other digital conveniences, it&amp;rsquo;s crucial to protect your personal information online. Hence why we&amp;rsquo;ve put together this guide to help you safeguard your digital privacy.
+Why is digital privacy important? Your private information is priceless and might be misused if it ends up in the wrong hands. Your personal information may be used by hackers and other cybercriminals for identity theft, fraud, or even blackmail.</description>
+    </item>
+    
+    <item>
+      <title>Using Canon Camera as Webcam</title>
+      <link>https://mansoorbarri.com/guides/cannon-camera-as-webcam/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/cannon-camera-as-webcam/</guid>
+      <description>*Note that the official Canon webcam utility software is only available for Windows and macOS operating systems. Linux users might have to look for third-party solutions or workarounds.
+Requirements To use your Canon camera as a webcam, you&amp;rsquo;ll need the following:
+A Canon camera that supports the EOS Webcam Utility software, list: https://www.usa.canon.com/cameras/eos-webcam-utility#model A USB cable to connect your camera to your computer The EOS Webcam Utility software (download it from the Canon website) Steps Once you have the requirements ready, follow these steps to use your Canon camera as a webcam:</description>
+    </item>
+    
+    <item>
+      <title>Hugo vs WordPress: A Performance and SEO Comparison</title>
+      <link>https://mansoorbarri.com/guides/hugo-vs-wordpress/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hugo-vs-wordpress/</guid>
+      <description>Hugo and WordPress are two well-known content management systems for building and maintaining websites. While both platforms have advantages and disadvantages, which one to use ultimately depends on your particular needs and preferences.
+Hugo is a static site generator built for speed and ease. It generates HTML, CSS, and JavaScript files that can be uploaded to a web host using templates. The website loads faster and is less susceptible to security threats because the files are pre-built.</description>
+    </item>
+    
+    <item>
+      <title>Convert Your Markdown File to a Medium Post</title>
+      <link>https://mansoorbarri.com/guides/md-to-medium/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/md-to-medium/</guid>
+      <description>Following these steps will allow you to convert your Markdown file into a Medium post using the Markdown-to-Medium tool.
+Steps Go to the Markdown-to-Medium website at https://markdown-to-medium.surge.sh/.
+Copy the text from your Markdown file and paste it into the text box on the Markdown-to-Medium website.
+Copy the &amp;ldquo;MEDIUM&amp;rdquo; code that the website generates (the right side of the website).
+Log in to your Medium account and create a new post.</description>
+    </item>
+    
+    <item>
+      <title>Block Websites On Your Home Network</title>
+      <link>https://mansoorbarri.com/guides/home-security/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/home-security/</guid>
+      <description>Brief OpenDNS has a home network security system that you can enable by changing DNS settings on your router&amp;rsquo;s admin page. Because some Internet Service Providers (ISPs), such as Virgin Media, do not allow you to change your DNS, this method may not work for you.
+Steps To begin, sign up for OpenDNS, at www.opendns.com/homefree
+Scroll down to enter your information.
+Access your router&amp;rsquo;s administration page; the address is usually printed on the back of the router.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Lab on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/home-lab/</link>
+    <description>Recent content in Home Lab on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/home-lab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ticketing System</title>
+      <link>https://mansoorbarri.com/guides/ticketing-system/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/ticketing-system/</guid>
+      <description>You need a ticketing system RIGHT NOW!
+Context A ticketing system can be your first step in having your own helpdesk experience at home. This can be free and paid, in cloud or on prem which makes this a super nerdy/fun experience.
+We will be using Freshdesks&amp;rsquo; ticketing system as it provides quite good controls.
+Setup Go to https://www.freshworks.com/freshdesk/signup/ Follow the signup process Note: &amp;ldquo;company email&amp;rdquo; can be your personal email as well.</description>
+    </item>
+    
+  </channel>
+</rss>

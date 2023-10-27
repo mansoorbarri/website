@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mansoor Barri</title>
+    <link>https://mansoorbarri.com/</link>
+    <description>Recent content on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to add copy code button on Hugo sites</title>
+      <link>https://mansoorbarri.com/guides/copy-code/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/copy-code/</guid>
+      <description>The code is a tweak of the code given by Tom Spencer
+Javascript Create a js file where you will store all your Javascript, I am storing mine at /static/js/copy-code.js
+This will control all your HTML elements as well as the &amp;ldquo;brain&amp;rdquo; behind the button
+(function() { &amp;#39;use strict&amp;#39;; if(!document.queryCommandSupported(&amp;#39;copy&amp;#39;)) { return; } function flashCopyMessage(el, msg) { el.textContent = msg; setTimeout(function() { el.textContent = &amp;#34;Copy&amp;#34;; }, 1000); } function selectText(node) { var selection = window.</description>
+    </item>
+    
+    <item>
+      <title>How to Contribute to Open-source Projects</title>
+      <link>https://mansoorbarri.com/guides/opensource-contribute/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/opensource-contribute/</guid>
+      <description>Context I have seen a lot of people contributing to GitHub projects in the most inefficient way possible &amp;amp; their way usually just supports one change rather than u making a fork for every change.
+Init First you have to choose a project to contribute to. A potential project which you can contribute to should lie in all of these conditions:
+You should be well aware with the language the project is using.</description>
+    </item>
+    
+    <item>
+      <title>Privary Policy</title>
+      <link>https://mansoorbarri.com/privacy-policy/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/privacy-policy/</guid>
+      <description>last updated: 25.10.23
+Mansoor Barri operates the https://mansoorbarri.com website, which provides the SERVICE.
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Mansoor Barri Tech website.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service.</description>
+    </item>
+    
+    <item>
+      <title>Best Email Clients for Linux</title>
+      <link>https://mansoorbarri.com/guides/email-clients/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/email-clients/</guid>
+      <description>TLDR; Thunderbird is the best email client (sUrpRisE) but Mailspring is quite close if it didn&amp;rsquo;t have some issues.
+Context This article is a weird child. Some people do not use email clients because they have just one email for everything and they might use aliases but you are still weird for using one.
+I have around 3-4 emails and then I manage other emails too which requires me to have an email client rather than logging in every email at all times.</description>
+    </item>
+    
+    <item>
+      <title>Cyber War</title>
+      <link>https://mansoorbarri.com/newsletter/cyber-war/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/newsletter/cyber-war/</guid>
+      <description>baingen,
+It&amp;rsquo;s been a good week for the website; there was a post every other day with guides as well as newsletters so it was a slay. College has been pretty boring too since I already know most of the stuff so I don&amp;rsquo;t even know what to do in lectures. tbh i&amp;rsquo;m just waiting for the programming/coding topic to start.
+⚠ War we all know what has been happening past week.</description>
+    </item>
+    
+    <item>
+      <title>Web Hosting</title>
+      <link>https://mansoorbarri.com/guides/web-hosting/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/web-hosting/</guid>
+      <description>so hosting is a bit weird especially for websites:
+some are over paying some are scams some are just perfect and it all comes down to your workflow and what do you wanna host.
+Static sites Static sites are basically websites with just html, css &amp;amp; js. Nothing more, nothing less. You can host them in multiple ways but my prefered method is with Cloudflare Pages because of the following:</description>
+    </item>
+    
+    <item>
+      <title>Github Profile Readme</title>
+      <link>https://mansoorbarri.com/guides/gh-profile-readme/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/gh-profile-readme/</guid>
+      <description>Almost every developer uses GitHub in some way or another. &amp;amp; if you push your code to GitHub then GitHub alone can be your CV however, by default its not that presentable. One feature is GitHub profile README which allows you to create a README file for your profile; it is in Markdown so you can do a lot of things on it.
+For example, my profile looks something like this: you can check it out here: https://github.</description>
+    </item>
+    
+    <item>
+      <title>How to automate your GitHub profile</title>
+      <link>https://mansoorbarri.com/guides/readme-automation/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/readme-automation/</guid>
+      <description>I came across Chris Titus&amp;rsquo; README and saw that it is automated and I was kinda surprised that we could even do that. So today I&amp;rsquo;m just gonna explain how it works and how you can do it too.
+Markscribe Markscribe is basically a markdown template engine which allows you to make a template and dynamically change the content of the final file using the template. A great example of this is HUGO; it has template files which is the theme you are using and then you can add your blogs or whatever you want in those template files.</description>
+    </item>
+    
+    <item>
+      <title>Come Back</title>
+      <link>https://mansoorbarri.com/newsletter/come-back/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/newsletter/come-back/</guid>
+      <description>Halo again,
+Its been more than a week since I posted so the website is quite dry, I have some ideas for this week so this might just be a come back from being dry-asf.
+🎮 | Game Development I wanted to try game development since I had this idea and wanted to try it before I regret and its no longer relevent. I won&amp;rsquo;t really say the idea of the game for obvious reasons however it was a multiplayer game which required me to develop an API i think which was just a big turn off to be honest.</description>
+    </item>
+    
+    <item>
+      <title>Upload Your Theme to Official Hugo Website</title>
+      <link>https://mansoorbarri.com/guides/hugo-theme/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hugo-theme/</guid>
+      <description>I recently made a theme and decided to put it on the Hugo website. I thought the process is kind but oh well-
+We will not cover the process of actually making the theme as documentation do a way better job than I can.
+requirements There are few requirements that should meet before you can do anything, these include:
+Theme should be free Your theme&amp;rsquo;s README &amp;amp; theme.toml should be available the first requirement is quite self-explainatory however the second one is quite deep since you have to do quite a lot.</description>
+    </item>
+    
+    <item>
+      <title>Vpns Scam</title>
+      <link>https://mansoorbarri.com/guides/vpns-scam/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/vpns-scam/</guid>
+      <description>VPNs are everywhere and they claim to be secure and safe however there are only two reasons why one would want a VPN:
+Getting around Geo-blocks Torrents Why do I say that? VPNs advertise you to be secure and to encrpyt traffic between you and the internet so your ISP doesn&amp;rsquo;t see what you are doing however when you use a VPN, the VPN providor can see what you are doing so the &amp;ldquo;security&amp;rdquo; part fails anyways.</description>
+    </item>
+    
+    <item>
+      <title>Godot First Impressions as a web developer </title>
+      <link>https://mansoorbarri.com/guides/godot/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/godot/</guid>
+      <description>I had a game idea and wanted to try game development, after a brief search on YouTube I got to know about GOdot and how its beginner friendly. I started using it and it was quite confusing especially coming from web development and just basic scripting.
+What is godod? Godot is a opensource game engine capable of 2d &amp;amp; 3d games, this is similar to unity except Godot is free and beginner friendly.</description>
+    </item>
+    
+    <item>
+      <title>Creative Block</title>
+      <link>https://mansoorbarri.com/newsletter/creative-block/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/newsletter/creative-block/</guid>
+      <description>Been a while, I didn&amp;rsquo;t send anything to you or on the website because I fr don&amp;rsquo;t know what to post. At a point, I did have some ideas but my laziness did not write them down and of course I forgot. I am working on a couple of things which might be informative so there will be posts however the streak is broken now which is sad and I don&amp;rsquo;t plan to make it again.</description>
+    </item>
+    
+    <item>
+      <title>Scripting in Python | Py4</title>
+      <link>https://mansoorbarri.com/guides/scripting-py4/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/scripting-py4/</guid>
+      <description>Before we used Python to make terminal programs however now we will make a program which controls our Linux system to do stuff; this is known as scripting.
+Scripting is primarily used to automate tasks for websites and web applications while using an existing program. For this, we will use a module called subprocess this is used to run commands on your Linux system.
+Subprocess init First we will import subprocess by:</description>
+    </item>
+    
+    <item>
+      <title>Modules in Python | Py3</title>
+      <link>https://mansoorbarri.com/guides/modules-py3/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/modules-py3/</guid>
+      <description>Recap Previously, we did this:
+print(&amp;#34;Hi, welcome to anar helpdesk bot&amp;#34;) # input(&amp;#34;Hi, may I know your name?&amp;#34;) print(&amp;#34;How may I help you today?&amp;#34;) print(&amp;#39;&amp;#39;&amp;#39; 1. My WiFi is too slow 2. My system is lagging 3. I need help with Python 4. Something else &amp;#39;&amp;#39;&amp;#39;) option_selected = input() if option_selected == &amp;#34;1&amp;#34;: print(&amp;#34;Please restart your router&amp;#34;) elif option_selected == &amp;#34;2&amp;#34;: print(&amp;#34;clear your temp directory then restart your system&amp;#34;) elif option_selected == &amp;#34;3&amp;#34;: print(&amp;#34;ask in the comments of this post :)&amp;#34;) elif option_selected == &amp;#34;4&amp;#34;: print(&amp;#34;error404&amp;#34;) Now we will use a module to add a bit of delay in replies; its not much so don&amp;rsquo;t worry.</description>
+    </item>
+    
+    <item>
+      <title>If &amp; else | py3</title>
+      <link>https://mansoorbarri.com/guides/if-else-py3/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/if-else-py3/</guid>
+      <description>Recap Last time we learnt that we can store user input in a variable like so:
+print(&amp;#34;Hi, welcome to anar helpdesk bot&amp;#34;) # input(&amp;#34;Hi, may I know your name?&amp;#34;) issue = input(&amp;#34;How may I help you today?\n&amp;#34;) print(issue) today we will use if &amp;amp; else statements to:
+show a list of things we offer Ask the user about what they want to do Tell them how they can connect with us or fix their issue If statements If statements are instructions for your program to do something if something else if true or false, for example:</description>
+    </item>
+    
+    <item>
+      <title>Make a Helpdesk Bot | Py2</title>
+      <link>https://mansoorbarri.com/guides/make-a-bot-py2/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/make-a-bot-py2/</guid>
+      <description>Recap Previously, we learnt that we can add print statements to print things on the terminal. Now we will start with making a proper bot.
+Greetings Firstly, we will greet the user using the print function like explained in py1
+print(&amp;#34;Hi, welcome to anar helpdesk bot&amp;#34;) Input Then, we want to ask the name of the user/customer. We can do this with input function which allows us to take inputs from the user or in this case, our customer.</description>
+    </item>
+    
+    <item>
+      <title>Python Course for Beginners | py1</title>
+      <link>https://mansoorbarri.com/guides/python-course-py1/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/python-course-py1/</guid>
+      <description>Why Python This course goes through everything you need to know about python and start making your own scripts. It doesn&amp;rsquo;t have to be something specific since Python can be used to do various type of things even if you have nothing to do with IT.
+We will be making a helpdesk bot which asks the user their name, type of issue &amp;amp; what their issue is.
+What do you need?</description>
+    </item>
+    
+    <item>
+      <title>Assign-mint</title>
+      <link>https://mansoorbarri.com/newsletter/assign-mint/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/newsletter/assign-mint/</guid>
+      <description>Ho Ho Ho,
+I started this instead of blog since I wanted to have something a bit more personal and not just something which is there on the internet for literally everyone. This is &amp;ldquo;public&amp;rdquo; but its like this close community.
+College Since my sister did her uni before me, she found assignments pretty hard especially with similarity and just stuff which is supposed to be similar like stats, titles, questions.</description>
+    </item>
+    
+    <item>
+      <title>5 More Hugo Tips</title>
+      <link>https://mansoorbarri.com/guides/5-more-hugo-tips/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/5-more-hugo-tips/</guid>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;
+&lt;p&gt;Quite a while ago I made a post about &lt;a href=&#34;https://mansoorbarri.com/guides/hugo-tips&#34;&gt;5 Hugo Features You Should Be Using&lt;/a&gt; however, I have compiled a few more tips which you might know or might not.&lt;/p&gt;
+&lt;h2 id=&#34;list&#34;&gt;List&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Serve Drafts&lt;/li&gt;
+&lt;li&gt;Serve Future posts&lt;/li&gt;
+&lt;li&gt;Limit Summary&lt;/li&gt;
+&lt;li&gt;Custom &lt;code&gt;public&lt;/code&gt; folder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;serve-drafts&#34;&gt;Serve Drafts&lt;/h2&gt;
+&lt;p&gt;You can serve posts which are in drafts with a simple option with your normal hugo command like so:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo server -D
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;or&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo -F 
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-D&lt;/code&gt; allows it to serve posts which are in drafts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;serve-future-posts&#34;&gt;Serve Future posts&lt;/h2&gt;
+&lt;p&gt;Similar to serving drafts, you can serve posts which are dated at a later date by &lt;code&gt;hugo server -F&lt;/code&gt; or &lt;code&gt;hugo -F&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Additionally, you can combined both to be &lt;code&gt;hugo server -FD&lt;/code&gt; or &lt;code&gt;hugo -FD&lt;/code&gt; serving both, future and drafts posts.&lt;/p&gt;
+&lt;h2 id=&#34;limit-summary&#34;&gt;Limit Summary&lt;/h2&gt;
+&lt;p&gt;Some themes have &lt;code&gt;/blogs/&lt;/code&gt; with blog title and as well as summary which is first few lines from the blog itself. You have no way of controlling this except use `&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Edit HTML Files With Python</title>
+      <link>https://mansoorbarri.com/guides/py-html-editor/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/py-html-editor/</guid>
+      <description>Context I have a email template which is made using &amp;lt;table&amp;gt; tags in HTML and its a sad job to edit and add messages to send on email. I wanted to change it to a template which does not use &amp;lt;table&amp;gt; however doing so made it really non responsive which is not ideally as emails are viewed on various devices.
+Solution I thought of making a python script which adds your message at a specific place on the HTML fiile.</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon Hugo Theme</title>
+      <link>https://mansoorbarri.com/downloads/coming-soon-hugo/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/downloads/coming-soon-hugo/</guid>
+      <description>Coming soon is a hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site.
+Note: all variables in { } should be personalised
+Setup Make a new hugo site
+hugo new site {sitename} cd {sitename} git clone https://github.com/mansoorbarri/coming-soon.git themes/coming-soon Copy examplesite/config.toml files to yours for quick setup
+cp themes/coming-soon/examplesite/config.toml . Open config.toml and edit as per your liking.</description>
+    </item>
+    
+    <item>
+      <title>Ticketing System</title>
+      <link>https://mansoorbarri.com/guides/ticketing-system/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/ticketing-system/</guid>
+      <description>You need a ticketing system RIGHT NOW!
+Context A ticketing system can be your first step in having your own helpdesk experience at home. This can be free and paid, in cloud or on prem which makes this a super nerdy/fun experience.
+We will be using Freshdesks&amp;rsquo; ticketing system as it provides quite good controls.
+Setup Go to https://www.freshworks.com/freshdesk/signup/ Follow the signup process Note: &amp;ldquo;company email&amp;rdquo; can be your personal email as well.</description>
+    </item>
+    
+    <item>
+      <title>Google Adsense</title>
+      <link>https://mansoorbarri.com/guides/google-adsense/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/google-adsense/</guid>
+      <description>Context Google adsense can be a great way to maintain a website as the earning aren&amp;rsquo;t not much to sustain a household but can be enough to sustain a website and everything related to maintain a website (hosting, CMS etc)
+Google Adsense Google adsense can be a great way to start your journey however Google is quite picky with what is suitable for their adsense platform.
+I was rejected several times over a year with little to no information about what is wrong with my site; I was accepted finally after using multiple tools and tips from previous website owners like TonyTeachesTech.</description>
+    </item>
+    
+    <item>
+      <title>5 Hugo Features You Should Be Using </title>
+      <link>https://mansoorbarri.com/guides/hugo-tips/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hugo-tips/</guid>
+      <description>list Manage URLs Turn of /tags/ &amp;amp; /categories/ HTML in .md files Comments Hugo on localhost URLs You can manage post/pages URLs by adding url: in your frontmatter. For example, for this guide the front matter looks something like this:
+--- title: &amp;#34;10 Hugo Features You Should Be Using &amp;#34; date: 2023-08-28 tags: [Hugo] url: &amp;#34;/guides/hugo-tips/&amp;#34; type: &amp;#34;post&amp;#34; showtableOfContents: true description: &amp;#34;A list of things you should be doing for a better and safer Hugo website.</description>
+    </item>
+    
+    <item>
+      <title>Academia</title>
+      <link>https://mansoorbarri.com/newsletter/academia/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/newsletter/academia/</guid>
+      <description>Update Since the last blog, adsense is still pending however I have planned a guide about adsense and what I used till now to get at least nearer to being accepted by Google. Will be live when I get accepted officially since I might use something new in the meanwhile.
+GCSE Got the expected grades however they increased the grade boundaries to pre-covid level even though this batch was in COVID in year 9 but slay.</description>
+    </item>
+    
+    <item>
+      <title>Ahrefs: The SEO Speacialist</title>
+      <link>https://mansoorbarri.com/guides/ahrefs/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/ahrefs/</guid>
+      <description>Context I have been using Ahrefs for almost a year now which lead to my site (mansoorbarri.com) being the top 3 for the keyword &amp;ldquo;Mansoor Barri&amp;rdquo; on Google &amp;amp; DuckDuckGo.
+Ahrefs Setup Sign Up Go to https://Ahrefs.com/signup/ Follow the signup instructions If plan is asked, select the free plan Connecting Your Site Verification methods could include adding a meta tag to your website&amp;rsquo;s HTML, uploading a verification file to your server, or modifying your DNS records.</description>
+    </item>
+    
+    <item>
+      <title>Get Professional Email for Free</title>
+      <link>https://mansoorbarri.com/guides/professional-email-for-free/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/professional-email-for-free/</guid>
+      <description>Disclaimer This can only work if you have your domain and have permission to change DNS settings or upload files to the website.
+Zoho Zoho is a cloud-based platform providing a suite of services including emails; it provides personalised email addresses using your domain name, along with various tools for efficient communication and security as they are very open and transparent with their privacy policy.
+Getting started Signing Up Visit Zoho Mail https://zoho.</description>
+    </item>
+    
+    <item>
+      <title>Streamline</title>
+      <link>https://mansoorbarri.com/newsletter/streamline/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/newsletter/streamline/</guid>
+      <description>Context Decided to post blogs weekly probably which would be a bit informal and just about how things are going and my plans with mansoorbarri.com as the normal &amp;ldquo;blogging&amp;rdquo; wouldn&amp;rsquo;t fit in articles, guides or write-ups.
+Mentioning the categories reminds me of how there are just two categories now Guides &amp;amp; Blogs making it easier for the end-user to just navigate through stuff. Since the change, I will be posting write-ups on Medium and the normal articles will be on the company website.</description>
+    </item>
+    
+    <item>
+      <title>Importance of 2FA &amp; how to enable it</title>
+      <link>https://mansoorbarri.com/guides/2fa/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/2fa/</guid>
+      <description>Two-Factor Authentication (2FA) is crucial for online security because it adds an extra layer of protection. It requires users to provide two forms of authentication before accessing an account, making it harder for attackers to gain unauthorized access.
+2FA prevents common threats like stolen passwords, phishing attacks, and credential reuse. It&amp;rsquo;s widely used in both personal and business settings to comply with security standards, prevent data breaches, and provide peace of mind.</description>
+    </item>
+    
+    <item>
+      <title>Mirror Android Screen with Sound Wirelessly</title>
+      <link>https://mansoorbarri.com/guides/wireless-android-screen-mirror/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/wireless-android-screen-mirror/</guid>
+      <description>Disclaimer: this only works when your phone and computer is on the same network
+Previously I have explained how you can mirror your android phone on machine however you can also do it wirelessly as well in a different method but kinda the same.
+Installation Install scrcpy &amp;amp; sndcpy just like how it is mentioned in the previous guide: https://mansoorbarri.com/guides/android-screen-mirror/
+Then install ADB: debian linux
+sudo apt install android-sdk-platform-tools Windows</description>
+    </item>
+    
+    <item>
+      <title>The Perfect Phone</title>
+      <link>https://mansoorbarri.com/guides/the-perfect-phone/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/the-perfect-phone/</guid>
+      <description>The aim of this &amp;ldquo;perfect phone is to have as much distractions as possible and have everything at ease rather than going through various manus.
+Things used Debloater: Universal Android Debloater Launcher: Niagra Launcher Icon Pack: Lines Icon Pack Notifications: Dynamic Island Debloat Install ADB:
+debian linux
+sudo apt install android-sdk-platform-tools Windows
+Download ADB Platform Tools Extract Tools to C:\Windows (This allows you to run adb.exe and fastboot.exe from anywhere) Install drivers for your phone - Install Android Device Drivers now install the universal debloater tool from their Github &amp;amp; run the program: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Get a free linux terminal from Google Console</title>
+      <link>https://mansoorbarri.com/guides/free-google-terminal/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/free-google-terminal/</guid>
+      <description>This can be usefull when running a long scan like Sherlock or even nmap at times.
+Simply go to: https://shell.cloud.google.com/?hl=en_GB&amp;amp;fromcloudshell=true&amp;amp;show=terminal Sign in with your Google account Use the terminal that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>Linux for Everyone</title>
+      <link>https://mansoorbarri.com/guides/linux-for-everyone/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/linux-for-everyone/</guid>
+      <description>Linux is an important tool especially for hackers. ethical of course.
+From today (26.6.23) I will be posting Linux guides, ranging from linux commands to installing &amp;amp; using hacking tools.
+Day 1 pwd in GUI (Graphical User Interface), its easy to know where you are however in terminal it might not be straight forward.
+Firstly, you can see above the input area however this doesn&amp;rsquo;t show the full path at times which is why we use the command is pwd which is a shortform for &amp;ldquo;Print Working Directory&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Create SSH Keys &amp; Install Them on a Linux System</title>
+      <link>https://mansoorbarri.com/guides/ssh-keys-from-linux/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/ssh-keys-from-linux/</guid>
+      <description>Why? Just Use Passwords. SSH key pairs outperform passwords in terms of security and convenience. SSH keys resist brute-force attacks thanks to strong cryptographic algorithms, eliminating the vulnerability of easily guessed or stolen passwords. Key pairs provide convenience by eliminating the need to remember or transmit passwords, lowering human error and increasing security. Furthermore, they improve auditability and accountability. SSH key pairs are a secure authentication method that is both reliable and efficient in systems and applications.</description>
+    </item>
+    
+    <item>
+      <title>How To Converter Outlooks&#39; .PST to .EML</title>
+      <link>https://mansoorbarri.com/guides/pst-to-eml/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/pst-to-eml/</guid>
+      <description>Recently I had to take backup for an O365 account however the backup is in .PST format which doesn&amp;rsquo;t really work on Linux thus convertering the .PST file to eml or other formats is the only way.
+To do this you have to install a program, MailsDaddy PST File Converter
+Once installed &amp;amp; opened:
+Go to &amp;ldquo;Add File&amp;rdquo; &amp;ldquo;Add File(s)&amp;rdquo; &amp;amp; select your .PST file Select the .PST from the dialogue box and click &amp;ldquo;OK&amp;rdquo; Now use the following options and choose a destination folder and then export it Now all email messages will be in EML format in their respective folders.</description>
+    </item>
+    
+    <item>
+      <title>Fix Grub Not Showing for Windows and Linux Dual Boot System</title>
+      <link>https://mansoorbarri.com/guides/no-grub-windows-linux/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/no-grub-windows-linux/</guid>
+      <description>Copy-paste the following command:
+bcdedit /set {bootmgr} path \EFI\debian\grubx64.efi This is for debian however you can change the folder name for other distributions.
+that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>Make Windows Run Quicker</title>
+      <link>https://mansoorbarri.com/guides/make-windows-run-quicker/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/make-windows-run-quicker/</guid>
+      <description>Windows by default is quite bulky, sum this with a average hardware and now you have a useless blob of metal. You can make the performance better by tweaking several things as explained below.
+CTT Wintool Chris Tituss&amp;rsquo; tool is an essential tool to make significant changes to your Windows system. You can run the tool by:
+Run Powershell as admin &amp;amp; run: irm christitus.com/win | iex Few tweaks I recommend to make your system run smoother:</description>
+    </item>
+    
+    <item>
+      <title>Redired WWW to Cloudflare Pages</title>
+      <link>https://mansoorbarri.com/guides/cloudflare-www/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/cloudflare-www/</guid>
+      <description>Steps Login to Cloudflare dashboard and go to your domain&amp;rsquo;s DNS. Create a DNS A record for www subdomain with the value of 192.0.2.1 Type Name Value A www 192.0.2.1 Now go to Account Home &amp;gt; Bulk Redirects &amp;gt; Create a new Bulk Redirects list &amp;gt; Create new lst In the content type, select Redirect. Add your redirect Source URL and Target URL. Your target URL must include https:// before the apex domain.</description>
+    </item>
+    
+    <item>
+      <title>Custom Toggle with Darkmode.js</title>
+      <link>https://mansoorbarri.com/guides/custom-toggle-darkmode/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/custom-toggle-darkmode/</guid>
+      <description>To have a custom toggle, change your js file to have this code:
+// Replace the default button with your own button const myButton = document.getElementById(&amp;#39;my-darkmode-button&amp;#39;); const darkModeIcon = document.getElementById(&amp;#39;dark-mode-icon&amp;#39;); myButton.addEventListener(&amp;#39;click&amp;#39;, () =&amp;gt; { darkmode.toggle(); toggleDarkModeIcon(darkModeIcon, darkmode.isActivated()); }); } so your final code will be:
+&amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; function addDarkmodeWidget() { new Darkmode(); } const myButton = document.getElementById(&amp;#39;my-darkmode-button&amp;#39;); const darkModeIcon = document.getElementById(&amp;#39;dark-mode-icon&amp;#39;); myButton.addEventListener(&amp;#39;click&amp;#39;, () =&amp;gt; { darkmode.toggle(); toggleDarkModeIcon(darkModeIcon, darkmode.isActivated()); } window.</description>
+    </item>
+    
+    <item>
+      <title>How to Use Darkmode.js with Hugo In 4 Easy Steps</title>
+      <link>https://mansoorbarri.com/guides/darkmode-on-hugo/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/darkmode-on-hugo/</guid>
+      <description>Darkmode.js is a JavaScript library that enables a dark mode feature on your website. Integrating Darkmode.js with Hugo allows you to provide a seamless dark mode experience to your Hugo-powered website visitors. Let&amp;rsquo;s go through the steps to set it up:
+Step 1: Initialize Darkmode.js In the same layout file, add a &amp;lt;script&amp;gt; tag to initialize Darkmode.js.
+&amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; function addDarkmodeWidget() { new Darkmode().showWidget(); } window.addEventListener(&amp;#39;load&amp;#39;, addDarkmodeWidget); &amp;lt;/script&amp;gt; Step 2: Customize Darkmode.</description>
+    </item>
+    
+    <item>
+      <title>How To Get Apple Emojis On Linux</title>
+      <link>https://mansoorbarri.com/guides/apple-emojis/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/apple-emojis/</guid>
+      <description>Since the last guide on emojis on Linux, some mentioned how some emojis are still missing. I found another font pack on GitHub which works better.
+Github: https://github.com/samuelngs/apple-emoji-linux
+Download &amp;amp; Install Just download the file from GitHub and either open it and click on install or move the .tiff file to ~/.local/share/fonts
+Either way, clear the cache by fc-cache -f -v and reopen your applications or restart your machine and it should work.</description>
+    </item>
+    
+    <item>
+      <title>Guide to Digital Privacy</title>
+      <link>https://mansoorbarri.com/guides/data-privacy/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/data-privacy/</guid>
+      <description>In the age of social media, online shopping, and other digital conveniences, it&amp;rsquo;s crucial to protect your personal information online. Hence why we&amp;rsquo;ve put together this guide to help you safeguard your digital privacy.
+Why is digital privacy important? Your private information is priceless and might be misused if it ends up in the wrong hands. Your personal information may be used by hackers and other cybercriminals for identity theft, fraud, or even blackmail.</description>
+    </item>
+    
+    <item>
+      <title>Converting PNG to WebP Images in Python: A Step-by-Step Guide</title>
+      <link>https://mansoorbarri.com/guides/pngtowebp-explain/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/pngtowebp-explain/</guid>
+      <description>This article explains the code for a PNG to WebP converter in Python. The code utilizes the Python Imaging Library (PIL) to open and manipulate images, and the os and sys modules to work with files and directories.
+Code Explanation The code starts with an ASCII art of the text &amp;ldquo;code by Mansoor Barri&amp;rdquo; printed to the console using the print() function.
+Next, the required modules are imported:
+from PIL import Image import os import sys The Image module is imported from PIL, which provides functions for opening, manipulating, and saving images.</description>
+    </item>
+    
+    <item>
+      <title>Using Canon Camera as Webcam</title>
+      <link>https://mansoorbarri.com/guides/cannon-camera-as-webcam/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/cannon-camera-as-webcam/</guid>
+      <description>*Note that the official Canon webcam utility software is only available for Windows and macOS operating systems. Linux users might have to look for third-party solutions or workarounds.
+Requirements To use your Canon camera as a webcam, you&amp;rsquo;ll need the following:
+A Canon camera that supports the EOS Webcam Utility software, list: https://www.usa.canon.com/cameras/eos-webcam-utility#model A USB cable to connect your camera to your computer The EOS Webcam Utility software (download it from the Canon website) Steps Once you have the requirements ready, follow these steps to use your Canon camera as a webcam:</description>
+    </item>
+    
+    <item>
+      <title>Step-by-Step Guide on Using Hugo</title>
+      <link>https://mansoorbarri.com/guides/hugo-101/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hugo-101/</guid>
+      <description>Install The first step is to install Hugo on your computer. You can download the latest version from the Hugo website: https://gohugo.io/getting-started/installing/
+Commands: Windows:
+winget install Hugo.Hugo.Extended Linux (Debian based):
+sudo apt install hugo Create a new Hugo Site Create a new Hugo site by running the following command in your terminal:
+hugo new site mysite This will create a new Hugo site in a folder called &amp;ldquo;mysite&amp;rdquo;.
+Downlod the theme For this guide, I will use the Tella theme</description>
+    </item>
+    
+    <item>
+      <title>Hugo vs WordPress: A Performance and SEO Comparison</title>
+      <link>https://mansoorbarri.com/guides/hugo-vs-wordpress/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hugo-vs-wordpress/</guid>
+      <description>Hugo and WordPress are two well-known content management systems for building and maintaining websites. While both platforms have advantages and disadvantages, which one to use ultimately depends on your particular needs and preferences.
+Hugo is a static site generator built for speed and ease. It generates HTML, CSS, and JavaScript files that can be uploaded to a web host using templates. The website loads faster and is less susceptible to security threats because the files are pre-built.</description>
+    </item>
+    
+    <item>
+      <title>How to Add Custom HTML Code to Your Hugo Website</title>
+      <link>https://mansoorbarri.com/guides/html-in-hugo-markdown/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/html-in-hugo-markdown/</guid>
+      <description>Create a new shortcode To use the rawhtml shortcode, you&amp;rsquo;ll first need to create a new shortcode file in your Hugo project. You can create a new shortcode file in the layouts/shortcodes/ directory. For example, you can create a file called rawhtml.html in the layouts/shortcodes/ directory.
+In the rawhtml.html file, add the following line:
+{{.Inner}} Usage Now you can put your HTML within rawhtml shortcode for example the comments section for this post is present using a &amp;lt;script&amp;gt; tag.</description>
+    </item>
+    
+    <item>
+      <title>Get a Free SSL Certificate for Your GoDaddy Subdomain using SSL Generator</title>
+      <link>https://mansoorbarri.com/guides/free-ssl-on-godaddy/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/free-ssl-on-godaddy/</guid>
+      <description>Prerequisites GoDaddy Windows Hosting: This guide assumes that you are using GoDaddy&amp;rsquo;s Windows Hosting service to host your website. If you are using a different hosting provider or operating system, the steps may vary.
+Step 1: Generate your SSL certificate Navigate to https://punchsalad.com/ssl-certificate-generator/ in your web browser. Enter your subdomain and email address, then click &amp;ldquo;Generate Certificate.&amp;rdquo; Follow the prompts to verify your ownership of the domain via DNS. This typically involves creating a TXT record in your DNS settings with a provided code.</description>
+    </item>
+    
+    <item>
+      <title>Transfer Data From Iphone To Android Using Copy My Data</title>
+      <link>https://mansoorbarri.com/guides/iphone-to-android/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/iphone-to-android/</guid>
+      <description>While switching from an iPhone to an Android phone can be thrilling, the data transfer process can also be difficult. Fortunately, there are a number of apps available to make the process simpler, with &amp;ldquo;Copy My Data&amp;rdquo; being one of the most well-liked. You can quickly and effortlessly move your contacts, images, and other data between devices using this app, which is available for both iPhone and Android devices.
+Download Links First, you have to install &amp;ldquo;Copy My Data&amp;rdquo; on both devices</description>
+    </item>
+    
+    <item>
+      <title>How to Install and Use WSL2 on Windows 10: A Step-by-Step Guide</title>
+      <link>https://mansoorbarri.com/guides/wsl2/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/wsl2/</guid>
+      <description>Prerequisites You need to enable the WSL feature by:
+Open the Start menu and search for &amp;ldquo;Turn Windows features on or off.&amp;rdquo; Scroll down and check the box next to &amp;ldquo;Windows Subsystem for Linux.&amp;rdquo; Click &amp;ldquo;OK&amp;rdquo; and wait for the feature to be installed Install a Linux Distro You can choose between variety of Linux Distributions for WSL however I recommend using Debian as explained here
+To install Debian, open CMD or Powershell as admin and run:</description>
+    </item>
+    
+    <item>
+      <title>Convert Your Markdown File to a Medium Post</title>
+      <link>https://mansoorbarri.com/guides/md-to-medium/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/md-to-medium/</guid>
+      <description>Following these steps will allow you to convert your Markdown file into a Medium post using the Markdown-to-Medium tool.
+Steps Go to the Markdown-to-Medium website at https://markdown-to-medium.surge.sh/.
+Copy the text from your Markdown file and paste it into the text box on the Markdown-to-Medium website.
+Copy the &amp;ldquo;MEDIUM&amp;rdquo; code that the website generates (the right side of the website).
+Log in to your Medium account and create a new post.</description>
+    </item>
+    
+    <item>
+      <title>Redirects on Hugo</title>
+      <link>https://mansoorbarri.com/guides/redirects-on-hugo/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/redirects-on-hugo/</guid>
+      <description>The Hugo Redirect Plugin is a Hugo plugin that allows you to create redirect rules for your website. It generates redirect rules by reading a CSV file that contains old URLs and their corresponding new URLs.
+Install Hugo-Redirect Add hugo-redirect as a submodule git submodule add https://github.com/gcc42/hugo-redirect.git themes/hugo-redirect Add to .yaml or .toml .yaml:
+theme: [&amp;#34;hugo-redirect&amp;#34;, &amp;#34;my-theme&amp;#34;] .toml:
+theme = [&amp;#34;hugo-redirect&amp;#34;, &amp;#34;my-theme&amp;#34;] Make a Redirect go to your root directory for Hugo and run:</description>
+    </item>
+    
+    <item>
+      <title>Guide to Installing Notion on Linux using Epiphany Browser</title>
+      <link>https://mansoorbarri.com/guides/notion-web-app-on-linux/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/notion-web-app-on-linux/</guid>
+      <description>Install Debian:
+sudo apt update sudo apt install epiphany-browser Fedora:
+sudo dnf update sudo dnf install epiphany Arch:
+sudo pacman -Syu sudo pacman -S epiphany Flatpak:
+sudo flatpak install flathub org.gnome.Epiphany Setup Go to notion.so website in Epiphany Click on the three verticle dots in the upper-right corner Select &amp;ldquo;Install Notion&amp;rdquo; Once the installation is complete, you can launch Notion from your Linux desktop or applications menu.
+that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>Get Group Policy Back in Windows 10 and 11 with PolicyPlus</title>
+      <link>https://mansoorbarri.com/guides/policy-plus/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/policy-plus/</guid>
+      <description>If you need to manage the Group Policy settings in Windows 10 and 11, but find that the Group Policy Editor (gpedit.msc) is not available in your edition of Windows, you can use an open-source application called PolicyPlus instead. Here are the steps to get Group Policy back in Windows 10 and 11 using PolicyPlus:
+Download PolicyPlus is available as a .exe file that you can download from the PolicyPlus GitHub repository.</description>
+    </item>
+    
+    <item>
+      <title>Fix | Sender Has Not Been Verified</title>
+      <link>https://mansoorbarri.com/guides/sender-not-verified/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/sender-not-verified/</guid>
+      <description>Error You might have seen this error when using an email alias on your domain: *Email alias guide: /guides/email-alias/
+This happenes because of the LUA value in your DNS points to some other domain, you can fix this by changing the LUA value to your domain.
+Fix | DNS Entry Before: After: that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>HPLIP Install On Debian</title>
+      <link>https://mansoorbarri.com/guides/hplip-debian/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hplip-debian/</guid>
+      <description>This guide is written for Hplip installation on Debian 11*
+Prerequisites Install the required dependencies by running the following command:
+sudo apt update &amp;amp;&amp;amp; sudo apt upgrade -y sudo apt install libcups2-dev libssl-dev libusb-1.0-0-dev python3-dev python3-pip Download HPLIP Go to SourceForce and download HPLIP
+Once the download is complete, make the file executable by running the following command:
+chmod +x hplip-3.16.7.run Note: Replace &amp;ldquo;3.16.7&amp;rdquo; in the above command with the version you downloaded.</description>
+    </item>
+    
+    <item>
+      <title>Enable UAC Prompt Password For Standard User</title>
+      <link>https://mansoorbarri.com/guides/enable-uac/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/enable-uac/</guid>
+      <description>Simply run this .reg file which will ammend a registery key
+the key:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System ConsentPromptBehaviorUser DWORD
+0 = Automatically deny elevation requests
+1 = Prompt for credentials on the secure desktop
+3 = Prompt for credentials (default)
+that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>How To Use Cloudflare &amp; GitHub to Host Your Static Site</title>
+      <link>https://mansoorbarri.com/guides/cloudflare-hugo/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/cloudflare-hugo/</guid>
+      <description>Context I&amp;rsquo;ve been using Hugo incorrectly by hosting only the public/ on github and then using Cloudflare&amp;rsquo;s nameservers on my domain, but there&amp;rsquo;s a better way that&amp;rsquo;s pretty neat.
+Advantage Of Doing This The main benefit is that you have version control over your raw .md files, and it takes up less storage space because you are only storing raw files, while the html files are stored with Cloudflare.
+Prerequisites Create a new repository or remove public/ files from an existing repository, then add your hugo files and proceed with the steps below.</description>
+    </item>
+    
+    <item>
+      <title>Use One Mouse-Keyboard On Two Systems</title>
+      <link>https://mansoorbarri.com/guides/one-keyboard-mouse/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/one-keyboard-mouse/</guid>
+      <description>Brief Barrier is an open-source software application that allows many computers to share a mouse and keyboard. I&amp;rsquo;m controlling a Windows machine with a Debian-based machine.
+Installing Barrier Barrier must be installed on both the Windows and Debian-based machines before it can be used. The most recent version of Barrier can be downloaded from the official website here.
+Installing Barrier on Windows To install Barrier on Windows, follow these steps:</description>
+    </item>
+    
+    <item>
+      <title>Create GitHub SSH Keys</title>
+      <link>https://mansoorbarri.com/guides/create-github-ssh-keys/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/create-github-ssh-keys/</guid>
+      <description>Generating a new SSH key Type ssh-keygen -t ed25519 -C &amp;quot;YOUR-EMAIL&amp;quot; in your terminal and go with all the default options. Now enter the following commands in order: eval &amp;#34;$(ssh-agent -s)&amp;#34; ssh-add ~/.ssh/YOUR-.PUB-FILE Add SSH key to GitHub Use the following command to copy the public key: cat ~/.ssh/YOUR-.PUB-FILE Log in to your GitHub account and go to &amp;ldquo;Settings&amp;rdquo; from the drop-down menu under your profile picture in the upper-right corner.</description>
+    </item>
+    
+    <item>
+      <title>Fedora Post-Install Guide</title>
+      <link>https://mansoorbarri.com/guides/fedora-post-install-guide/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/fedora-post-install-guide/</guid>
+      <description>Speed up DNF add/edit the following file /etc/dnf/dnf.conf
+fastestmirror=True max_parallel_downloads=10 defaultyes=True keepcache=True To clean the cache: dnf clean all
+System Update sudo dnf update &amp;amp;&amp;amp; sudo dnf upgrade -y &amp;amp;&amp;amp; sudo reboot Enable RPM Fusion sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm For any errors or other installation guide, visit rpmfusion.org
+Enable Flatpaks flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo Install Media Codecs sudo dnf groupupdate multimedia --setop=&amp;#34;install_weak_deps=False&amp;#34; --exclude=PackageKit-gstreamer-plugin sudo dnf groupupdate sound-and-video Install GNOME applications Install GNOME Tweaks:</description>
+    </item>
+    
+    <item>
+      <title>Fix Horizontal Lines on YouTube Videos</title>
+      <link>https://mansoorbarri.com/guides/horizontal-fix/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/horizontal-fix/</guid>
+      <description>Browser This is usually due to hardware acceleration, which you can disable by going to chrome:/settings/?search=hardware
+and unchecking the option Use hardware acceleration when available
+Intel X11 Config Edit/Add: /etc/X11/xorg.conf.d/20-intel.conf
+Section &amp;#34;Device&amp;#34; Identifier &amp;#34;Intel Graphics&amp;#34; Driver &amp;#34;intel&amp;#34; Option &amp;#34;TearFree&amp;#34; &amp;#34;true&amp;#34; EndSection After rebooting if you start to see screen artifacts there is a BAD Driver package that causes this. Remove sudo apt remove xserver-xorg-video-intel.
+that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>Windows Utility</title>
+      <link>https://mansoorbarri.com/guides/windows-utility/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/windows-utility/</guid>
+      <description>Windows is clumsy and sluggish by default, but an application called Windows Utility developed by Chris Titus can considerably improve it.
+Usage In PowerShell, run this command as administrator
+irm christitus.com/win | iex Simply click on the items you want to change.
+Recommendation Select the appropriate option under &amp;ldquo;Tweaks,&amp;rdquo; such as desktop or laptop. Personally, I prefer the &amp;ldquo;Minimal&amp;rdquo; option. Under &amp;ldquo;Updates&amp;rdquo;, select &amp;ldquo;Security Settings&amp;rdquo; that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>Connect Your Phone to Linux</title>
+      <link>https://mansoorbarri.com/guides/connect-your-phone-to-linux/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/connect-your-phone-to-linux/</guid>
+      <description>Brief Using a extension and an app: IOS &amp;amp; Android and a GNOME extension on Debian based distros.
+*I&amp;rsquo;m using Debian 11 and Android 11 for this guide.
+Learn more about KDE Connect here: kdeconnect.kde.org
+Prerequisites Install the GNOME extension &amp;amp; Install the app from PlayStore
+Connect If you are using a firewall like UFW, you have to allow network traffic from port 1716:
+sudo ufw allow 1716 &amp;amp;&amp;amp; sudo ufw reload Now make sure both devices are on the same network and then:</description>
+    </item>
+    
+    <item>
+      <title>Windows Update With Powershell</title>
+      <link>https://mansoorbarri.com/guides/windows-update-with-powershell/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/windows-update-with-powershell/</guid>
+      <description>*These actions are only possible with administrative privileges.
+Prerequisites Install the update module:
+Install-Module PSWindowsUpdate Add-WUServiceManager -MicrosoftUpdate Command Install all availble updates
+Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File &amp;#34;C:\MSUpdates.log&amp;#34; -Force Update logs can be found at: C:\MSUpdates.log
+that&amp;rsquo;s it &amp;lt;3</description>
+    </item>
+    
+    <item>
+      <title>Must Have GNOME Extensions</title>
+      <link>https://mansoorbarri.com/guides/must-have-gnome-extensions/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/must-have-gnome-extensions/</guid>
+      <description>The list: Clipboard History Tray Icons AlternateTab ArcMenu Emoji Selector Clipboard History Clipboard Indicator is the most important extension in my opinion, You should now see a clipboard history in the top bar once you install it.
+Tray Icons You can enable icons on your top bar
+AlternateTab Substitute Alt-Tab with a window based switcher that does not group by application.
+ArcMenu Application menu for GNOME Shell
+Emoji Selector This extension provides a parametrable popup menu displaying most emojis, clicking on an emoji copies it to the clipboard.</description>
+    </item>
+    
+    <item>
+      <title>10 Things to Do After Installing Debian</title>
+      <link>https://mansoorbarri.com/guides/things-to-do-after-installing-deb/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/things-to-do-after-installing-deb/</guid>
+      <description>Enable Dark Mode Search for &amp;ldquo;Tweaks&amp;rdquo; On the left-hand side pane, click on ‘Appearance.’ Next to the applications drop-down menu, select the “Adawaita-dark” option. Add your user to the sudoers file Launch a terminal and follow these commands su - usermod -aG sudo newuser *change your username with &amp;ldquo;newuser&amp;rdquo;
+Installing Updates sudo apt update &amp;amp;&amp;amp; sudo apt upgrade -y &amp;amp;&amp;amp; sudo reboot Install a firewall sudo apt install ufw -y Deny all the traffic in and out for now by</description>
+    </item>
+    
+    <item>
+      <title>Customise Your Prompt with Starship</title>
+      <link>https://mansoorbarri.com/guides/customised-prompt/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/customised-prompt/</guid>
+      <description>Install curl -sS https://starship.rs/install.sh | sh &amp;amp; add the following to ~/.bashrc
+eval &amp;#34;$(starship init bash)&amp;#34; You can also find installation instructions for other operating systems here: https://starship.rs/guide
+Config You can now completely customise your prompt by editing the config file, which is accessible via:
+starship config alternatively, you can use presets from https://starship.rs/presets/
+I prefer Starship&amp;rsquo;s default minimal style, so I don&amp;rsquo;t use any presets or have anything in my config file.</description>
+    </item>
+    
+    <item>
+      <title>Best Browser Extensions</title>
+      <link>https://mansoorbarri.com/guides/best-browser-extensions/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/best-browser-extensions/</guid>
+      <description>List Extensity - Quickly enable/disable Google Chrome extensions Cookie Remover - Removes cookies for the current site GoFullPage - Capture a screenshot of your current page in PDF or Image formats INSSIST - Add more functionality to instagram.com Midnigh Lizard - Dark mode on all websites Return YouTube Dislike - Returns ability to see dislikes on YouTube URL Shortener - Free URL shortener Extensity A browser extension that allows you to enable or disable browser extensions with a single click.</description>
+    </item>
+    
+    <item>
+      <title>Block Websites On Your Home Network</title>
+      <link>https://mansoorbarri.com/guides/home-security/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/home-security/</guid>
+      <description>Brief OpenDNS has a home network security system that you can enable by changing DNS settings on your router&amp;rsquo;s admin page. Because some Internet Service Providers (ISPs), such as Virgin Media, do not allow you to change your DNS, this method may not work for you.
+Steps To begin, sign up for OpenDNS, at www.opendns.com/homefree
+Scroll down to enter your information.
+Access your router&amp;rsquo;s administration page; the address is usually printed on the back of the router.</description>
+    </item>
+    
+    <item>
+      <title>End of 2020</title>
+      <link>https://mansoorbarri.com/newsletter/end-of-2020/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/newsletter/end-of-2020/</guid>
+      <description>Goals for 2022 Posting how-to guides on mansoor.cf everyday Learning and growing in CyberSecurity making mansoorbarri.com a IT company Getting a job It started off really well at the beginning of this year, but as I got busier, it became a weekly thing, then monthly, and finally a seasonal thing where I would post 5 guides every 2-3 months. However, in the last quarter, I really expanded this into a polished product, which I did not expect at all.</description>
+    </item>
+    
+    <item>
+      <title>Convert Python files to Windows executable files</title>
+      <link>https://mansoorbarri.com/guides/py-to-exe/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/py-to-exe/</guid>
+      <description>Prerequisites You should have all the modules installed before compiling You should have all the requirements for the python file before compiling it Install Nuitka on Windows Go to Go to nuitka.net/download/windows which will download a .msi file
+Run the file and click on &amp;ldquo;More info&amp;rdquo;
+Click on &amp;ldquo;Run anyway&amp;rdquo;
+Click on &amp;ldquo;Install for all users&amp;rdquo; then click &amp;ldquo;Next&amp;rdquo;
+Specify the python 3.9 compiler, its easier to use the Python 3.</description>
+    </item>
+    
+    <item>
+      <title>Expose Your Network To The Internet Without Port Forwarding</title>
+      <link>https://mansoorbarri.com/guides/expose-your-network/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/expose-your-network/</guid>
+      <description>Prerequisite This method is entirely free of costs however, you will just need a cloudflare account and a domain which is using Cloudflare&amp;rsquo;s nameserver&amp;rsquo;s or is bought with Cloudflare. You can signup with cloudflare on cloudflare.com/signup.
+Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you to expose anything to the internet securely. This can be a website, proxmox server, plex server, docker container or just about anything which requires you to port forward from your router.</description>
+    </item>
+    
+    <item>
+      <title>How To Get a Email Verified Badge</title>
+      <link>https://mansoorbarri.com/guides/email-cert/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/email-cert/</guid>
+      <description>Email Certificates? Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it’s not really necessary plus it’s a pain to set it up correctly.
+Getting Email Certificate Go to Actalis&#39;s website Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.
+*Note: sometimes the email goes to the spam folder so make sure you check that as well</description>
+    </item>
+    
+    <item>
+      <title>Vital Terminal Tools</title>
+      <link>https://mansoorbarri.com/guides/terminal-commands/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/terminal-commands/</guid>
+      <description>TLDR A humane version of man pages.
+Install pip3 install tldr AutoJump A faster way to navigate your filesystem. Saves a lot of time.
+Install sudo apt install autojump Trash-CLI Deletes the files to recycle bin in terminal.
+Install sudo apt install trash-cli You can make a alias for &amp;ldquo;rm&amp;rdquo; to trash-cli by adding the following alias to ~/.bashrc file.
+alias rm=&amp;#34;trash&amp;#34; Ccrypt Secure encryption and decryption of files and streams.</description>
+    </item>
+    
+    <item>
+      <title>Better Way To Use GitHub</title>
+      <link>https://mansoorbarri.com/guides/better-github/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/better-github/</guid>
+      <description>Commandline for Github is complicated and complex however a tool called gh makes git so much easier on commandline and makes using Github that much quicker and easy.
+Install Debian
+sudo apt install gh Windows
+winget install -e --id Github.cli Setup gh auth login Follow the prompts but choose SSH as authentication method. You can use steps from mansoorbarri.com/ssh-keys/ to generate SSH keys for github.
+Set your repo to use GH auth git remote set-url origin git@github.</description>
+    </item>
+    
+    <item>
+      <title>Comments on HUGO site</title>
+      <link>https://mansoorbarri.com/guides/comments-hugo/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/comments-hugo/</guid>
+      <description>Here I&amp;rsquo;m using Hugo theme called GoKarna but you can pretty much do this with any Hugo theme.
+HUGO Setup make a file with the name &amp;ldquo;rawhtml.html&amp;rdquo; in /layours.shortcodes directory of your theme and put the follwing line.
+*if your don&amp;rsquo;t have the shortcodes directory, you can make one.
+{{.Inner}} Utterances Setup Add utterances to your github repository from github.com/apps/utterances
+then get your HTML code from utteranc.es
+Add comments Now add the raw html tag followed by your HTML code from utteranc.</description>
+    </item>
+    
+    <item>
+      <title>Mirror Android Screen with Sound</title>
+      <link>https://mansoorbarri.com/guides/android-screen-mirror/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/android-screen-mirror/</guid>
+      <description>Brief You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.
+Tools Scrcpy - for screen mirror
+sndcpy - for sound
+Install Scrcpy:
+sudo apt install scrcpy -y Sndcpy: download the latest release and extract the files
+Mirror Screen with Scrcpy First, go to your device settings and enable developer mode then, connect your Android device to your computer with your charger.</description>
+    </item>
+    
+    <item>
+      <title>SSH into Termux</title>
+      <link>https://mansoorbarri.com/guides/termux-ssh/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/termux-ssh/</guid>
+      <description>Just do the following steps:
+Install OpenSSH on Termux: pkg upgrade &amp;amp;&amp;amp; pkg install openssh Setup a password for Termux: passwd Get your username: whoami Start SSH server sshd Connect! From your computer ssh like usual; the default port Termux uses for SSH is 8022.
+example:
+my IP is 192.168.0.10
+my username: u0_a231
+so my command would be:
+ssh u0_a231@192.168.0.10 -p 8022 Video your browser doesn&#39;t support video tag. Right click and check &amp;ldquo;Show all controls&amp;rdquo; to see video controls*</description>
+    </item>
+    
+    <item>
+      <title>Advanced Scambaiting</title>
+      <link>https://mansoorbarri.com/guides/advanced-scambaiting/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/advanced-scambaiting/</guid>
+      <description>Disclaimer DO THESE THINGS AT YOUR OWN RISK
+IT IS NOT RECOMMENDED TO DO THESE THINGS AS SCAMBAITING
+Reverse Anydesk connection First you have to let them connect to your PC, make sure you see their anydesk ID before accepting their connection request.
+then send them anydesk request from another PC or the host PC (if you are using VM) at the same time, when accepting their anydesk connection request. If you time it perfecting and you have an inexperienced scammer, you should be connected to the scammer&amp;rsquo;s PC.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Server on LAN</title>
+      <link>https://mansoorbarri.com/guides/hugo-lan/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hugo-lan/</guid>
+      <description>Brief [IP-ADD] is your local IP address.
+Command use this command instead of &amp;ldquo;hugo server&amp;rdquo;
+hugo server --bind [IP-ADD] --baseURL http://[IP-ADD] Conclusion visit http://[IP-ADD] from any device on your LAN to view the temporary hugo site.
+that&amp;rsquo;s it ✌🏽</description>
+    </item>
+    
+    <item>
+      <title>Fixed - Termux Repository Under Maintenance Issue</title>
+      <link>https://mansoorbarri.com/guides/termux-repo/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/termux-repo/</guid>
+      <description>Error error looks something like this:
+This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest &amp;amp; greatest version.
+Fix visit []Termux on F-Droid](https://f-droid.org/en/packages/com.termux/) and install the APK normally.
+NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT
+that&amp;rsquo;s it ✌🏽</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Scambaiting</title>
+      <link>https://mansoorbarri.com/guides/scambaiting101/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/scambaiting101/</guid>
+      <description>Getting started Keep in mind that you are dealing with people who are criminals, giving your personal information is stupid to say the least. Making a fake persona here is helpful and what most people do.
+A VPN isn&amp;rsquo;t important since there is just enough they can do by finding your IP. A free vpn I suggest is cloudflare&amp;rsquo;s WARP furthermore, there are many cheap VPNs which work great: Private Internet Access &amp;amp; OpenVPN are two of many.</description>
+    </item>
+    
+    <item>
+      <title>UFW | Firewall on Linux Systems</title>
+      <link>https://mansoorbarri.com/guides/linux-firewall/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/linux-firewall/</guid>
+      <description>Uncomplicated Firewall (UFW) is an easy and beginner friendly firewall for linux systems.
+Install sudo apt-get update sudo apt-get install ufw Verify Install sudo ufw status Basic Blocks sudo ufw default deny incoming sudo ufw default allow outgoing Enable Firewall sudo ufw enable Blocking Ports you can block any port by &amp;ldquo;sudo ufw deny PORT&amp;rdquo; for example, to block port 76 type:
+sudo ufw deny 76 Allow Ports you can allow any port by &amp;ldquo;sudo ufw allow PORT&amp;rdquo; for example, to allow port 22 (default SSH port) type:</description>
+    </item>
+    
+    <item>
+      <title>Remove Viruses From Windows</title>
+      <link>https://mansoorbarri.com/guides/remove-viruses/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/remove-viruses/</guid>
+      <description>Tron is a all in one program to remove any viruses from windows and get windows &amp;ldquo;back on it&amp;rsquo;s feet&amp;rdquo;
+Install https://www.reddit.com/r/TronScript/
+Reference Chris Titus has a great video on this explaining everything so I will just link it.
+that&amp;rsquo;s it ✌🏽</description>
+    </item>
+    
+    <item>
+      <title>Better APT</title>
+      <link>https://mansoorbarri.com/guides/better-apt/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/better-apt/</guid>
+      <description>why not APT? APT has slow mirrors, APT isn&amp;rsquo;t optimised for performance right out of the box, rolling back updates or installs is pain because there is no concept of history and last but not the least, the look of APT is just mehhh.
+Nala is just better. Nala fixes all these problems right from the start while having APT is the backend.
+Install add repository
+echo &amp;#34;deb http://deb.volian.org/volian/ scar main&amp;#34; | sudo tee /etc/apt/sources.</description>
+    </item>
+    
+    <item>
+      <title>Hosting Your Static Website for Free with GitHub: A Comprehensive Guide</title>
+      <link>https://mansoorbarri.com/guides/hosting/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/hosting/</guid>
+      <description>Disclaimer There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*
+Prerequisites Github account Code for your website Main Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo; Step 2: Set basic info Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important
+Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked</description>
+    </item>
+    
+    <item>
+      <title>SSL Certificate with Certbot</title>
+      <link>https://mansoorbarri.com/guides/ssl-apache/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/ssl-apache/</guid>
+      <description>Requirements Debian, Apache2, Snapd, Certbot
+Install sudo apt update sudo apt install snapd -y install certbot
+sudo snap install certbot --classic Create symbolic link so you can run certbot command from the terminal
+sudo ln -s /snap/bin/certbot /usr/bin/certbot Run certbot command
+sudo certbot --apache you can change &amp;ldquo;&amp;ndash;apache&amp;rdquo; to &amp;ldquo;&amp;ndash;nginx&amp;rdquo; if you are using nginx instead of apache
+Getting the Cert Enter your valid email address so certbot can contact you for renewal and security notices</description>
+    </item>
+    
+    <item>
+      <title>Remove Debian comepletely from DualBoot</title>
+      <link>https://mansoorbarri.com/guides/remove-dualboot/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/remove-dualboot/</guid>
+      <description>Requirements Windows 10 PC
+I - Delete partition Right click on the start button (bottom left corner) and click on &amp;ldquo;Disk Management&amp;rdquo;
+ideally there should be 2 linux partition, one swap area and other is main disk partition. These are the two partitions I have
+right click on one of them and click on &amp;ldquo;Delete Volume&amp;rdquo;
+click yes on the pop up
+repeat the last two steps for the second partition.</description>
+    </item>
+    
+    <item>
+      <title>Disable Updates</title>
+      <link>https://mansoorbarri.com/guides/disable-updates/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/disable-updates/</guid>
+      <description>Brief Windows Update BLocker(Wub) - A minimal tool to block windows updates.
+Download You can download the latest version from the official website
+Extract the zip file and open the Wub_x64.exe file as adminstator
+Here click the second option (Disable updates)
+Once you have disabled the updates the app will look like this
+You can close the app now.
+If you check for updates now in windows settings you will see this error</description>
+    </item>
+    
+    <item>
+      <title>Automatic Updates on Linux</title>
+      <link>https://mansoorbarri.com/guides/auto-updates/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/auto-updates/</guid>
+      <description>Brief Unattendeed Upgrades - Automatic installation of security upgrades on apt based systems.
+install sudo apt update sudo apt install unattended-upgrades -y Enable Automatic Updates enable automatic updates by:
+sudo dpkg-reconfigure -plow unattended-upgrades &amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades. select &amp;ldquo;yes&amp;rdquo; from these options:
+Other config/sources For more about configuration, go through this blog by Hayden James.
+that’s it ✌🏽</description>
+    </item>
+    
+    <item>
+      <title>Twitter Bot in Python (without API)</title>
+      <link>https://mansoorbarri.com/guides/twitter-bot/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/twitter-bot/</guid>
+      <description>Brief I wanted to make a python script which would share my latest blog on Twitter &amp;amp; Linkedin, So I made one.
+We will use firefox as the browser thus, we would need geckodriver. The tutorial assumes you already have it.
+Code Breakdown Modules from selenium import webdriver from selenium.webdriver.firefox.options import Options import warnings import time We are gonna use Selenium for webscrapping
+options so we can open browser in headless mode</description>
+    </item>
+    
+    <item>
+      <title>Email Alias With Cloudflare</title>
+      <link>https://mansoorbarri.com/guides/email-alias/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/email-alias/</guid>
+      <description>Brief You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
+By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
+You will need to enable 2 Step verification on your google account for this to work.
+Step 1: Setup Cloudflare The first step is to setup cloudflare so it can route email.</description>
+    </item>
+    
+    <item>
+      <title>View Saved WiFi Passwords</title>
+      <link>https://mansoorbarri.com/guides/saved-Wifi-Pwd/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/saved-Wifi-Pwd/</guid>
+      <description>Brief A way to see WiFi password for linux.
+Command cd /etc/NetworkManager/system-connections/ &amp;amp;&amp;amp; sudo cat [ssid] or use this script
+that’s it ✌🏽</description>
+    </item>
+    
+    <item>
+      <title>Install Windows on Linux</title>
+      <link>https://mansoorbarri.com/guides/windows-on-linux/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/windows-on-linux/</guid>
+      <description>Brief Some things just are better on windows than linux thus having a windows virtual machine(VM) is a great idea specially when daily driving linux.
+We will be using Vert Manager to use windows 7 on vanilla Debian linux however, this will work on any Debian based system i.e Ubuntu.
+Machine I am using: Step 1: Confirm virtualization Open terminal and type
+grep -o &amp;#34;vm\|sum&amp;#34; /proc/cpuinfo here the command outputs ‘vmx’ but if u are not using intel processor it will show ‘SVM’ instead.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mansoorbarri.com/terms-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/terms-conditions/</guid>
+      <description>Terms and Conditions Last updated: July 30, 2023
+Please read these terms and conditions carefully before using Our Service.
+Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Definitions For the purposes of these Terms and Conditions:
+Affiliate means an entity that controls, is controlled by or is under common control with a party, where &amp;quot;control&amp;quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</description>
+    </item>
+    
+  </channel>
+</rss>

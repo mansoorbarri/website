@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudflare on Mansoor Barri</title>
+    <link>https://mansoorbarri.com/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on Mansoor Barri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redired WWW to Cloudflare Pages</title>
+      <link>https://mansoorbarri.com/guides/cloudflare-www/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/cloudflare-www/</guid>
+      <description>Steps Login to Cloudflare dashboard and go to your domain&amp;rsquo;s DNS. Create a DNS A record for www subdomain with the value of 192.0.2.1 Type Name Value A www 192.0.2.1 Now go to Account Home &amp;gt; Bulk Redirects &amp;gt; Create a new Bulk Redirects list &amp;gt; Create new lst In the content type, select Redirect. Add your redirect Source URL and Target URL. Your target URL must include https:// before the apex domain.</description>
+    </item>
+    
+    <item>
+      <title>How To Use Cloudflare &amp; GitHub to Host Your Static Site</title>
+      <link>https://mansoorbarri.com/guides/cloudflare-hugo/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/cloudflare-hugo/</guid>
+      <description>Context I&amp;rsquo;ve been using Hugo incorrectly by hosting only the public/ on github and then using Cloudflare&amp;rsquo;s nameservers on my domain, but there&amp;rsquo;s a better way that&amp;rsquo;s pretty neat.
+Advantage Of Doing This The main benefit is that you have version control over your raw .md files, and it takes up less storage space because you are only storing raw files, while the html files are stored with Cloudflare.
+Prerequisites Create a new repository or remove public/ files from an existing repository, then add your hugo files and proceed with the steps below.</description>
+    </item>
+    
+    <item>
+      <title>Expose Your Network To The Internet Without Port Forwarding</title>
+      <link>https://mansoorbarri.com/guides/expose-your-network/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/expose-your-network/</guid>
+      <description>Prerequisite This method is entirely free of costs however, you will just need a cloudflare account and a domain which is using Cloudflare&amp;rsquo;s nameserver&amp;rsquo;s or is bought with Cloudflare. You can signup with cloudflare on cloudflare.com/signup.
+Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you to expose anything to the internet securely. This can be a website, proxmox server, plex server, docker container or just about anything which requires you to port forward from your router.</description>
+    </item>
+    
+    <item>
+      <title>Email Alias With Cloudflare</title>
+      <link>https://mansoorbarri.com/guides/email-alias/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mansoorbarri.com/guides/email-alias/</guid>
+      <description>Brief You can forward email with pretty much any domain provider but in this case I am using Cloudflare.
+By the end of this article, you will be able to send and receive email from a custom email address that uses your domain name.
+You will need to enable 2 Step verification on your google account for this to work.
+Step 1: Setup Cloudflare The first step is to setup cloudflare so it can route email.</description>
+    </item>
+    
+  </channel>
+</rss>
