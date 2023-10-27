@@ -16,13 +16,9 @@ we all know what has been happening past week. Cyber security wise, its been a m
 
 [![video preview](https://functions-js.convertkit.com/playbutton?play=%23324C85&accent=%23ffffff&thumbnailof=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6zYloNKD-08&width=480&height=270&fit=contain)​](https://www.youtube.com/watch?v=6zYloNKD-08)
 
-​
-
 ## 🗺  Hepton
 
 I have created a bit of content to post as well as post as ads for impressions and just clients since Nextdoor isn't that active and people require laymen and gutter-peeps more than IT guys tbh. Might just change careers 🤔
-
-​
 
 Anyways, we are now on X as well or Twitter: https://twitter.com/@heptonuk
 
