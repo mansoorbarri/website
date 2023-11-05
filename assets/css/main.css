@@ -1,10 +1,10 @@
 body::-webkit-scrollbar {
 	width: 8px;               /* width of the entire scrollbar */
-  }
+}
   
-  body::-webkit-scrollbar-thumb {
-	background-color: grey;    /* color of the scroll thumb */
-	border-radius: 20px;       /* roundness of the scroll thumb */
+body::-webkit-scrollbar-thumb {
+background-color: grey;    /* color of the scroll thumb */
+border-radius: 20px;       /* roundness of the scroll thumb */
 }
 
 ::selection { 
@@ -312,11 +312,12 @@ pre {
   background-color: var(--light-tertiary-color);
   box-sizing: border-box;
   color: white;
+  white-space: pre-wrap;
 }
 
 pre {
   font-size: 0.95rem;
-  overflow: auto;
+  overflow: hidden;
   padding: 20px;
 }
 
