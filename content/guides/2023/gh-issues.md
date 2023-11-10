@@ -15,13 +15,13 @@ GitHub issues is probably the only thing which helps the open-source community t
 
 ### Bad example
 
-![screenshot of a bad issue from my websites repository](/img/guides/2023/gh-issues/bad-example.PNG) 
+![screenshot of a bad issue from my websites repository](/img/guides/2023/gh-issues/bad-issue.PNG) 
 
 this is **not** a good issue since it doesn’t say which browser is in question? have they tried to do something like change browser or clear cache? is this the same on mobile? maybe attach a screenshot with it. but no, people usually just put whatever they want rather than what is helpful to the community/developer. 
 
 ### Good example
 
-![screenshot of a good issue from my websites’ repository](/img/guides/2023/gh-issues/good-example.PNG)
+![screenshot of a good issue from my websites’ repository](/img/guides/2023/gh-issues/good-issue.PNG)
 
 this is a good example, 
 
