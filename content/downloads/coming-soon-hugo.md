@@ -30,20 +30,24 @@ Open `config.toml` and edit as per your liking.
 ## Guide 
 ### Basics
 ```toml
-baseURL = "https://"
+baseURL = "https://cshugo.mansoorbarri.com"
 languageCode = 'en-us'
 theme = "coming-soon"
 
 [params]
     title = "Coming Soon Hugo" 
     description = "A simple countdown"
-    message = "COMING SOON!" # default is "COMING SOON" 
-    release = "Oct 07, 2222" # release date format: Aug 30, 2023 15:00
-    background = "" # default is bg.mp4 in static/
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "Jan 30, 2024" 
+    background = "" 
+
+
 ```
 
 - `title`: Shows up on the top left of the webpage as well as the tab title
-- `description`: Shows up to the bottom left as well as the `meta` description 
+- `description`: Shows up to the bottom left as well as the `meta` description
+- `favicon`: Favicon icon for your website, default file is `/static/favicon.ico`
 - `message`: Default is "COMING SOON" however you can change this to whatever suits you
 - `release`: The date **and/or** time of when your site will be release. The countdown will be towards this time and/or time. 
 - `background`: The background video/image you want.
