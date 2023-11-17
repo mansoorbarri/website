@@ -10,7 +10,7 @@ date: "2023-11-17"
 
 Minimal version of linktree or [Hugo Lynx](https://github.com/jpanther/lynx) 
 
-### Authors 
+## Authors 
 [Mansoor Barri](/)
 [Maheen Waris](https://maheenwaris.com)
 
