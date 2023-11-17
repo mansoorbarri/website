@@ -11,8 +11,8 @@ date: "2023-11-17"
 Minimal version of linktree or [Hugo Lynx](https://github.com/jpanther/lynx) 
 
 ## Authors 
-[Mansoor Barri](/)
-[Maheen Waris](https://maheenwaris.com)
+- [Mansoor Barri](/)
+- [Maheen Waris](https://maheenwaris.com)
 
 ## ******************Features******************
 
