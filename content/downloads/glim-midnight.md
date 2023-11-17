@@ -10,6 +10,10 @@ date: "2023-11-17"
 
 Minimal version of linktree or [Hugo Lynx](https://github.com/jpanther/lynx) 
 
+### Authors 
+[Mansoor Barri](/)
+[Maheen Waris](https://maheenwaris.com)
+
 ## ******************Features******************
 
 - Customizable
@@ -22,7 +26,6 @@ Minimal version of linktree or [Hugo Lynx](https://github.com/jpanther/lynx)
 
 Wiki page can be found here: https://github.com/mansoorbarri/glim-midnight/wiki
 
- 
 
 ## Setup
 
