@@ -25,8 +25,6 @@ Typing quick is quite helpful as well. I used to create a guide from scratch in 
 
 Another thing which helped me was coding, it doesn’t really help directly because you have to stop every 1-2 minutes because thats how coding is. However, just the will to type faster and accurately made me learn a bit more efficiently & participating in things like 100DaysOfCode & creating significant amount or Pull Request on other GitHub projects.
 
-That's it <3 
-
 ## Links
 
 Here are some videos & websites I used to help with the learning and practicing. 
@@ -35,5 +33,7 @@ Here are some videos & websites I used to help with the learning and practicing.
 - Monkey Type: https://monkeytype.com/
 - Touch Typing: https://www.typing.com/en-gb/student/lessons
 - When I first hit 100 WPM: [Icks and Observations](/newsletter/icks-and-observations)
+
+That's it <3 
 
 ----
