@@ -1,26 +1,6 @@
 baseURL = "https://mansoorbarri.com"
-defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
-[languages]
-  [languages.de]
-    contentDir = 'content/de'
-    disabled = false
-    languageCode = 'de-DE'
-    languageDirection = 'ltr'
-    languageName = 'Deutsch'
-    title = 'Projekt Dokumentation'
-    weight = 1
-    [languages.de.params]
-      subtitle = 'Referenz, Tutorials und Erklärungen'
-  [languages.en]
-    disabled = false
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Project Documentation'
-    weight = 2
-    [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+defaultContentLanguage = "en"
+languageCode = "en"
 
 title = "Mansoor Barri"
 
@@ -78,10 +58,7 @@ enableRobotsTXT = false
   # Accent color is displayed when you hover over <a> tags (original #FF4D4D)
   accentColor = "#7983ff"
 
-  customHeadHTML = '''
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5174559718233522"
-    crossorigin="anonymous"></script>
-  ''''
+  customHeadHTML = ""
 
   # Keywords relevant for SEO
   metaKeywords = ["Blog", "Mansoor Barri", "Tech", "Hacking"]
