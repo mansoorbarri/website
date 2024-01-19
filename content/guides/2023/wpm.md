@@ -1,7 +1,7 @@
 ---
 title: "How I type Inhumanly Fast | 35 to 100 WPM"
 date: 2023-11-20
-categories: []
+categories: ["MB"]
 url: "/guides/wpm/"
 type: "post"
 showtableOfContents: true
