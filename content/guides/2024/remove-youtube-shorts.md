@@ -1,5 +1,5 @@
 ---
-title: "Importance of 2FA & how to enable it"
+title: "Completely Remove YouTube Shorts"
 date: 2024-01-19
 tags: [YouTube]
 url: "/guides/remove-youtube-shorts/"
