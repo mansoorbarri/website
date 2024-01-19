@@ -1,4 +1,4 @@
-baseurl = "https://beta.mansoorbarri.com/"
+baseurl = "https://mansoorbarri.com/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 20
