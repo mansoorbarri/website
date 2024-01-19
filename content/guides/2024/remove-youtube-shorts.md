@@ -2,7 +2,7 @@
 title: "Importance of 2FA & how to enable it"
 date: 2023-08-14
 tags: [YouTube]
-url: "/guides/2fa/"
+url: "/guides/remove-youtube-shorts/"
 type: "post"
 showtableOfContents: true
 ---
