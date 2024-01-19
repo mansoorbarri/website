@@ -2,7 +2,6 @@
 title: "Fix Grub Not Showing for Windows and Linux Dual Boot System"
 date: 2023-05-31
 tags: [Windows]
-image: "/images/guides/no-grub-windows-linux/main.webp"
 url: "/guides/no-grub-windows-linux/"
 type: "post"
 showtableOfContents: true

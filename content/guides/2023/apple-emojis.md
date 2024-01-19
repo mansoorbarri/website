@@ -2,7 +2,6 @@
 title: "How To Get Apple Emojis On Linux"
 date: 2023-05-08
 tags: [Linux]
-image: "/img/guides/2023/apple-emojis/main.webp"
 url : "/guides/apple-emojis/"
 type: "post"
 showtableOfContents: true

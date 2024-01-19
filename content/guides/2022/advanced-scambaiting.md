@@ -2,7 +2,6 @@
 title: "Advanced Scambaiting"
 date: 2022-08-24
 tags: ["Scambait"]
-image: "/img/guides/2022/advanced-scambaiting/main.png"
 type: "post"
 url : "/guides/advanced-scambaiting/"
 showtableOfContents: true

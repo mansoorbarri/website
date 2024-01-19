@@ -2,7 +2,6 @@
 title: "Get a free linux terminal from Google Console"
 date: 2023-07-03
 tags: [Info]
-image: "/images/guides/free-google-terminal/main.webp"
 url: "/guides/free-google-terminal/"
 type: "post"
 showtableOfContents: true

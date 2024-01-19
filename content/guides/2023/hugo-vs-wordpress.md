@@ -2,7 +2,6 @@
 title: "Hugo vs WordPress: A Performance and SEO Comparison"
 date: 2023-03-31
 tags: [Info]
-image: "/img/guides/2023/hugo-vs-wordpress/main.jpg"
 url : "/guides/hugo-vs-wordpress/"
 type: "post"
 showtableOfContents: true

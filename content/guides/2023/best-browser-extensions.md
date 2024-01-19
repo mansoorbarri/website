@@ -2,7 +2,6 @@
 title: "Best Browser Extensions"
 date: 2023-01-04
 tags: ["Windows", "Linux", "Browser"]
-image: "/img/guides/2023/best-browser-extensions/main.png"
 type: "post"
 url : "/guides/best-browser-extensions/"
 showtableOfContents: true

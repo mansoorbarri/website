@@ -1,0 +1,13 @@
+{{- $ThemeVersion := "3.18.0" -}}
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
+            {{ .Site.Params.footer.since }} - 
+        {{ end }}
+        {{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}
+    </section>
+    <section>
+        <a href="/terms-and-conditions">Terms & Conditions</a> | <a href="/privacy-policy"> Privacy Policy </a>
+    </section>
+</footer>

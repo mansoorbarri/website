@@ -1,0 +1,38 @@
+a {
+    text-decoration: none;
+    color: var(--accent-color);
+
+    &:hover {
+        color: var(--accent-color-darker);
+    }
+
+    &.link {
+        color: #7983ff;
+    }
+}
+
+.section-title {
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 10px;
+    display: block;
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: var(--body-text-color);
+
+    a {
+        color: var(--body-text-color);
+    }
+}
+body::-webkit-scrollbar {
+	width: 8px;               /* width of the entire scrollbar */
+}
+  
+body::-webkit-scrollbar-thumb {
+background-color: grey;    /* color of the scroll thumb */
+border-radius: 20px;       /* roundness of the scroll thumb */
+}
+
+::selection { 
+  background-color: #ffdb4d;
+}

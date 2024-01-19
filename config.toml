@@ -1,74 +1,128 @@
-baseURL = "https://mansoorbarri.com"
-defaultContentLanguage = "en"
-languageCode = "en"
-
+baseurl = "https://beta.mansoorbarri.com/"
+languageCode = "en-us"
+theme = "hugo-theme-stack"
+paginate = 20
 title = "Mansoor Barri"
+copyright = "Mansoor Barri"
 
-theme = ["gokarna"]
+googleAnalytics = ""
 
-pygmentsStyle = "monokai"
+DefaultContentLanguage = "en"
+hasCJKLanguage = false
 
-pluralizelisttitles = false
+[params]
+    mainSections = ["guides"]
+    featuredImageField = "image"
+    rssFullContent = true
+    favicon = "/img/logo/favicon.ico"
 
-enableEmoji = true
+    [params.dateFormat]
+        published = "Jan 02, 2006"
+        lastUpdated = "Jan 02, 2006 15:04 MST"
 
-# Automatically generate robots.txt
-enableRobotsTXT = false
+    [params.sidebar]
+        emoji = ""
+        subtitle = ""
+        [params.sidebar.avatar]
+            enabled = true
+            local = false
+            src = "/img/logo/main.webp"
 
-[markup]
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 2
-    ordered = false
+    [params.article]
+        math = false
+        toc = true
+        readingTime = true
+        [params.article.license]
+            enabled = false
+            default = "Licensed under CC BY-NC-SA 4.0"
+
+    [params.comments]
+        enabled = true
+        provider = "utterances"
+        [params.comments.utterances]
+            repo = "mansoorbarri/website"
+            issueTerm = "title"
+
+    [[params.widgets.homepage]]
+        type = "search"
+
+    [[params.widgets.page]]
+        type = "toc"
+    
+    taxonomiesExcludedFromSitemap = ["tags", "categories"]
+
+[params.opengraph]
+    [params.opengraph.twitter]
+        site = ""
+        card = "summary_large_image"
+
+[params.defaultImage.opengraph]
+    enabled = false
+    local = false
+    src = ""
+
+[params.colorScheme]
+    toggle = true
+    default = "auto"
+
+[params.imageProcessing]
+    [params.imageProcessing.cover]
+        enabled = true
+    [params.imageProcessing.content]
+        enabled = true
 
 [menu]
-  [[menu.main]]
-    name = "Guides"
-    url = "/guides/"
-    weight = 1
+    [[menu.social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/mansoorbarri"
+    params.icon = "brand-github"
 
-  [[menu.main]]
-    name = "Newsletter"
-    url = "/newsletter/"
-    weight = 2
+    [[menu.social]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/mansoorbarri"
+    params.icon = "brand-twitter"
 
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3 
+    [[menu.social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://github.com/mansoorbarri"
+    params.icon = "brand-linkedin"
 
-  [[menu.main]]
-    pre = "<span data-feather='download'></span>"
-    url = "/downloads/"
-    weight = 4
+    [[menu.social]]
+    identifier = "medium"
+    name = "Medium"
+    url = "https://twitter.com/mansoorbarri"
+    params.icon = "brand-medium"
 
-  [params]
-  # URL for the avatar on homepage
-  avatarURL = "/img/logo/main.webp"
 
-  # Show recent post on home page
-  showPostsOnHomePage = "recent"
+[related]
+    includeNewer = true
+    threshold = 60
+    toLower = false
 
-  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "size-s"
+    [[related.indices]]
+        name = "tags"
+        weight = 100
 
-  # Description to display on homepage
-  description = "At mansoorbarri.com, we offer a wealth of IT knowledge through guides & newsletters; specifically Linux."
+    [[related.indices]]
+        name = "categories"
+        weight = 200
 
-  # Accent color is displayed when you hover over <a> tags (original #FF4D4D)
-  accentColor = "#7983ff"
+[markup.goldmark.renderer]
+    unsafe = true
 
-  customHeadHTML = ""
+[markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 1
 
-  # Keywords relevant for SEO
-  metaKeywords = ["Blog", "Mansoor Barri", "Tech", "Hacking"]
-
-  socialIcons = [
-      {name = "medium", url = "https://medium.com/@mansoorbarri/"},
-      {name = "github", url = "https://github.com/mansoorbarri/"},      
-      {name = "twitter", url = "https://twitter.com/mansoorbarri"},
-      {name = "linkedin", url = "https://www.linkedin.com/in/mansoorbarri/"},      
-    ]
-
-  # Footer text
-  footer = "Mansoor Barri"
+[markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    tabWidth = 4

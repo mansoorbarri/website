@@ -1,10 +1,15 @@
 ---
 title: "Completely Remove YouTube Shorts"
 date: 2024-01-19
-tags: [YouTube]
+categories:
+  - Linux
+  - Windows
+tags:
+  - YouTube
 url: "/guides/remove-youtube-shorts/"
 type: "post"
 showtableOfContents: true
+description: "A simple guide to completely remove YouTube shorts."
 ---
 YouTube is pushing shorts more && more even if you don’t like to watch it or never watched it at all. It makes sense why YouTube wants to do this however it’s really annoying when you see shorts more than actual full-length videos. 
 
@@ -27,3 +32,5 @@ This is slightly advanced as you might need to update the code if YouTube decide
 I personally use the Remove YouTube Shorts extension as you just have to install it && it works.
 
 -MB
+
+---

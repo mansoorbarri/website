@@ -2,7 +2,6 @@
 title: "Fix Horizontal Lines on YouTube Videos"
 date: 2023-01-30
 tags: [Browser]
-image: "/img/guides/2023/horizontal-fix/main.png"
 url : "/guides/horizontal-fix/"
 type: "post"
 showtableOfContents: true

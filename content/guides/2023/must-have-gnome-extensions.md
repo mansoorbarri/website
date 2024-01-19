@@ -2,7 +2,6 @@
 title: "Must Have GNOME Extensions"
 date: 2023-01-13
 tags: ["Linux"]
-image: "/img/guides/2023/must-have-gnome-extensions/main.png"
 url : "/guides/must-have-gnome-extensions/"
 type: "post"
 showtableOfContents: true

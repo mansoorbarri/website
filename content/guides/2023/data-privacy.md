@@ -2,7 +2,6 @@
 title: "Guide to Digital Privacy"
 date: 2023-05-01
 tags: [Info]
-image: "/images/articles/data-privacy/main.webp"
 url : "/guides/data-privacy/"
 type: "post"
 showtableOfContents: true

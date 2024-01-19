@@ -2,7 +2,6 @@
 title: "Enable UAC Prompt Password For Standard User"
 date: 2023-02-27
 tags: [Windows]
-image: "/img/guides/2023/enable-uac/main.png"
 url : "/guides/enable-uac/"
 type: "post"
 showtableOfContents: true

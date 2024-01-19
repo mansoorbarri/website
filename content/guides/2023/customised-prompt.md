@@ -2,7 +2,6 @@
 title: "Customise Your Prompt with Starship"
 date: 2023-01-06
 tags: ["Linux"]
-image: "/img/guides/2023/customised-prompt/main.png"
 url : "/guides/customised-prompt/"
 type: "post"
 showtableOfContents: true

@@ -2,7 +2,6 @@
 title: "Comments on HUGO site"
 date: 2022-11-21
 tags: ["HUGO"]
-image: "/img/guides/2022/comments-hugo/main.png"
 type: "post"
 url : "/guides/comments-hugo/"
 showtableOfContents: true

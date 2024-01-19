@@ -2,7 +2,6 @@
 title: "Redired WWW to Cloudflare Pages"
 date: 2023-05-22
 tags: [Cloudflare]
-image: "/img/guides/2023/cloudflare-www/main.webp"
 url : "/guides/cloudflare-www/"
 type: "post"
 showtableOfContents: true

@@ -2,7 +2,6 @@
 title: "Getting Started with Scambaiting"
 date: 2022-08-12
 tags: ["Scambait"]
-image: "/img/guides/2022/scambaiting101/main.png"
 type: "post"
 url : "/guides/scambaiting101/"
 showtableOfContents: true

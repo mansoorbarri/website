@@ -2,7 +2,6 @@
 title: "Windows Update With Powershell"
 date: 2023-01-16
 tags: [Windows]
-image: "/img/guides/2023/windows-update-with-powershell/main.png"
 url : "/guides/windows-update-with-powershell/"
 type: "post"
 showtableOfContents: true

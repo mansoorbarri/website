@@ -2,7 +2,6 @@
 title: "Mirror Android Screen with Sound"
 date: 2022-10-26
 tags: ["Android"]
-image: "/img/guides/2022/android-screen-mirror/main.png"
 type: "post"
 url : "/guides/android-screen-mirror/"
 showtableOfContents: true

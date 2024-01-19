@@ -2,7 +2,6 @@
 title: "How To Get a Email Verified Badge"
 date: 2022-12-06
 tags: ["Email"]
-image: "/img/guides/2022/email-cert/main.png"
 type: "post"
 url : "/guides/email-cert/"
 showtableOfContents: true
