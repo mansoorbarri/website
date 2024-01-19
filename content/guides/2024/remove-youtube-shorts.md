@@ -1,6 +1,6 @@
 ---
 title: "Importance of 2FA & how to enable it"
-date: 2023-08-14
+date: 2024-01-19
 tags: [YouTube]
 url: "/guides/remove-youtube-shorts/"
 type: "post"
