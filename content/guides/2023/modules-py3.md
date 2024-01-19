@@ -1,7 +1,7 @@
 ---
 title: "Modules in Python | Py3"
 date: 2023-09-25
-tags: ["python course"]
+categories: ["python course"]
 url: "/guides/modules-py3/"
 type: "post"
 showtableOfContents: true

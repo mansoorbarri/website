@@ -1,7 +1,7 @@
 ---
 title: "Vital Terminal Tools"
 date: 2022-11-26
-tags: ["Linux"]
+categories: ["Linux"]
 type: "post"
 url : "/guides/terminal-commands/"
 showtableOfContents: true

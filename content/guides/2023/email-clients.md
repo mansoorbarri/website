@@ -1,7 +1,7 @@
 ---
 title: "Best Email Clients for Linux"
 date: 2023-10-23
-tags: 
+categories: 
     - linux
 url: "/guides/email-clients/"
 type: "post"

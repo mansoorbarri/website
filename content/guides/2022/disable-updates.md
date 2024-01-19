@@ -1,7 +1,7 @@
 ---
 title: "Disable Updates"
 date: 2022-02-27
-tags: ["Windows"]
+categories: ["Windows"]
 type: "post"
 url : "/guides/disable-updates/"
 showtableOfContents: true

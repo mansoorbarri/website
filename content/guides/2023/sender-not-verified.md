@@ -1,7 +1,7 @@
 ---
 title: "Fix | Sender Has Not Been Verified"
 date: 2023-03-06
-tags: [Email]
+categories: [Email]
 url : "/guides/sender-not-verified/"
 type: "post"
 showtableOfContents: true

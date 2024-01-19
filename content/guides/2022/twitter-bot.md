@@ -1,7 +1,9 @@
 ---
 title: "Twitter Bot in Python (without API)"
 date: 2022-02-21
-tags: ["Python"]
+categories:
+    - Coding
+tags: ["Python", "Twitter"]
 type: "post"
 url : "/guides/twitter-bot/"
 showtableOfContents: true

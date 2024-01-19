@@ -1,7 +1,7 @@
 ---
 title: "Google Adsense"
 date: 2023-08-30
-tags: [Website]
+categories: [Website]
 url: "/guides/google-adsense/"
 type: "post"
 showtableOfContents: true

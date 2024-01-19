@@ -1,7 +1,7 @@
 ---
 title: "Windows Update With Powershell"
 date: 2023-01-16
-tags: [Windows]
+categories: [Windows]
 url : "/guides/windows-update-with-powershell/"
 type: "post"
 showtableOfContents: true

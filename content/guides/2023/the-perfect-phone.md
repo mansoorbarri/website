@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Phone"
 date: 2023-07-31
-tags: [Android]
+categories: [Android]
 url: "/guides/the-perfect-phone/"
 type: "post"
 showtableOfContents: true

@@ -1,7 +1,7 @@
 ---
 title: "Mirror Android Screen with Sound"
 date: 2022-10-26
-tags: ["Android"]
+categories: ["Android"]
 type: "post"
 url : "/guides/android-screen-mirror/"
 showtableOfContents: true

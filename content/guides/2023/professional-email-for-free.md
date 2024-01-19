@@ -1,7 +1,7 @@
 ---
 title: "Get Professional Email for Free"
 date: 2023-08-21
-tags: [Email]
+categories: [Email]
 url: "/guides/professional-email-for-free/"
 type: "post"
 showtableOfContents: true

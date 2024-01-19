@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare vs Netlify | Who to choose?"
 date: 2023-11-08
-tags:
+categories:
     - Cloudflare
 url: "/guides/cloudflare-vs-netlify/"
 type: "post"

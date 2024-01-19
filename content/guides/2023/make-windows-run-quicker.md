@@ -1,7 +1,7 @@
 ---
 title: "Make Windows Run Quicker"
 date: 2023-05-26
-tags: [Windows]
+categories: [Windows]
 url : "/guides/make-windows-run-quicker/"
 type: "post"
 showtableOfContents: true

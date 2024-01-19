@@ -1,7 +1,7 @@
 ---
 title: "Mirror Android Screen with Sound Wirelessly"
 date: 2023-08-02
-tags: [Android]
+categories: [Android]
 url: "/guides/wireless-android-screen-mirror/"
 type: "post"
 showtableOfContents: true

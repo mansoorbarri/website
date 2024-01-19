@@ -1,7 +1,7 @@
 ---
 title: "Expose Your Network To The Internet Without Port Forwarding"
 date: 2022-12-14
-tags: ["Cloudflare"]
+categories: ["Cloudflare"]
 type: "post"
 url : "/guides/expose-your-network/"
 showtableOfContents: true

@@ -1,7 +1,9 @@
 ---
 title: "Edit HTML Files With Python"
 date: 2023-09-04
-tags: [Python]
+categories:
+    - Coding
+tags: ["Python", "HTML"]
 url: "/guides/py-html-editor/"
 type: "post"
 showtableOfContents: true

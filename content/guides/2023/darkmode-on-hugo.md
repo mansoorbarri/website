@@ -1,7 +1,7 @@
 ---
 title: "How to Use Darkmode.js with Hugo In 4 Easy Steps"
 date: 2023-05-10
-tags: [Hugo]
+categories: [Hugo]
 url : "/guides/darkmode-on-hugo/"
 type: "post"
 showtableOfContents: true

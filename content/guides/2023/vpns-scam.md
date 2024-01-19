@@ -1,7 +1,10 @@
 ---
 title: "Vpns Scam"
 date: 2023-10-11
-tags: [Scams]
+categories:
+    - Windows
+    - Linux
+tags: ["VPN"]
 url: "/guides/vpns-scam/"
 type: "post"
 showtableOfContents: true

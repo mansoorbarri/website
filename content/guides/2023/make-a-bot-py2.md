@@ -1,7 +1,7 @@
 ---
 title: "Make a Helpdesk Bot | Py2"
 date: 2023-09-20
-tags: [python course]
+categories: [python course]
 url: "/guides/make-a-bot-py2/"
 type: "post"
 showtableOfContents: true

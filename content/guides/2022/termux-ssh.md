@@ -1,7 +1,7 @@
 ---
 title: "SSH into Termux"
 date: 2022-08-28
-tags: ["Android"]
+categories: ["Android"]
 type: "post"
 url : "/guides/termux-ssh/"
 showtableOfContents: true

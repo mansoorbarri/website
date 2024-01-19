@@ -1,7 +1,7 @@
 ---
 title: "Ahrefs: The SEO Speacialist"
 date: 2023-08-23
-tags: [Website]
+categories: [Website]
 url: "/guides/ahrefs/"
 type: "post"
 showtableOfContents: true

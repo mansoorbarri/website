@@ -1,7 +1,7 @@
 ---
 title: "Redired WWW to Cloudflare Pages"
 date: 2023-05-22
-tags: [Cloudflare]
+categories: [Cloudflare]
 url : "/guides/cloudflare-www/"
 type: "post"
 showtableOfContents: true

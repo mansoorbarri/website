@@ -1,7 +1,11 @@
 ---
 title: "Block Websites On Your Home Network"
 date: 2023-01-02
-tags: ["Info"]
+categories:
+  - Linux
+  - Windows
+tags:
+  - Privacy
 type: "post"
 url : "/guides/home-security/"
 showtableOfContents: true

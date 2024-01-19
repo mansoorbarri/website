@@ -1,7 +1,7 @@
 ---
 title: "If & else | py3"
 date: 2023-09-22
-tags: [Python Course]
+categories: [Python Course]
 url: "/guides/if-else-py3/"
 type: "post"
 showtableOfContents: true

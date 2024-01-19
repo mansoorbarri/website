@@ -1,7 +1,7 @@
 ---
 title: "How to automate your GitHub profile"
 date: 2023-10-16
-tags: [github]
+categories: [github]
 url: "/guides/readme-automation/"
 type: "post"
 showtableOfContents: true

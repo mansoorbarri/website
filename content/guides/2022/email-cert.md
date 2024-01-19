@@ -1,6 +1,7 @@
 ---
 title: "How To Get a Email Verified Badge"
 date: 2022-12-06
+categories: ["Windows", "Linux", "Android"]
 tags: ["Email"]
 type: "post"
 url : "/guides/email-cert/"

@@ -1,7 +1,7 @@
 ---
 title: "Create GitHub SSH Keys"
 date: 2023-02-08
-tags: [GitHub]
+categories: [GitHub]
 url : "/guides/create-github-ssh-keys/"
 type: "post"
 showtableOfContents: true

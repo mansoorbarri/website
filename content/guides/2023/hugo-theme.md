@@ -1,7 +1,7 @@
 ---
 title: "Upload Your Theme to Official Hugo Website"
 date: 2023-10-13
-tags: [Hugo]
+categories: [Hugo]
 url: "/guides/hugo-theme/"
 type: "post"
 showtableOfContents: true

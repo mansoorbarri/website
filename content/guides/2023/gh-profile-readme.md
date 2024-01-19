@@ -1,7 +1,7 @@
 ---
 title: "Github Profile Readme"
 date: 2023-10-18
-tags: [github]
+categories: [github]
 url: "/guides/gh-profile-readme/"
 type: "post"
 showtableOfContents: true

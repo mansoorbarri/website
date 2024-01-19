@@ -1,7 +1,11 @@
 ---
 title: "Importance of 2FA & how to enable it"
 date: 2023-08-14
-tags: [Security]
+categories:
+  - Linux
+  - Windows
+tags:
+  - Security
 url: "/guides/2fa/"
 type: "post"
 showtableOfContents: true

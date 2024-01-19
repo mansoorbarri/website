@@ -1,7 +1,7 @@
 ---
 title: "Must Have GNOME Extensions"
 date: 2023-01-13
-tags: ["Linux"]
+categories: ["Linux"]
 url : "/guides/must-have-gnome-extensions/"
 type: "post"
 showtableOfContents: true

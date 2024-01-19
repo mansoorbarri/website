@@ -1,7 +1,7 @@
 ---
 title: "Remove Viruses From Windows"
 date: 2022-08-03
-tags: ["Windows"]
+categories: ["Windows"]
 type: "post"
 url : "/guides/remove-viruses/"
 showtableOfContents: true

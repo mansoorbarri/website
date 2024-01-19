@@ -1,7 +1,7 @@
 ---
 title: "UFW | Firewall on Linux Systems"
 date: 2022-08-05
-tags: ["linux"]
+categories: ["linux"]
 type: "post"
 url : "/guides/linux-firewall/"
 showtableOfContents: true

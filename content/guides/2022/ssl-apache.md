@@ -1,7 +1,7 @@
 ---
 title: "SSL Certificate with Certbot"
 date: 2022-03-17
-tags: ["Linux"]
+categories: ["Linux"]
 type: "post"
 url : "/guides/ssl-apache/"
 showtableOfContents: true

@@ -1,7 +1,8 @@
 ---
 title: "Better APT"
 date: 2022-07-20
-tags: ["Linux"]
+categories: ["Linux"]
+tags: ["apt"]
 type: "post"
 url : "/guides/better-apt/"
 showtableOfContents: true

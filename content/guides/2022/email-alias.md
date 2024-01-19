@@ -1,7 +1,8 @@
 ---
 title: "Email Alias With Cloudflare"
 date: 2022-02-17
-tags: [Cloudflare, Email]
+categories: ["Windows", "Linux"]
+tags: ["email"]
 type: "post"
 url : "/guides/email-alias/"
 showtableOfContents: true

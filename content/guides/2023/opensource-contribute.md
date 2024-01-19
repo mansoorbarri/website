@@ -1,7 +1,7 @@
 ---
 title: "How to Contribute to Open-source Projects"
 date: 2023-10-25
-tags: 
+categories: 
     - github
 url: "/guides/opensource-contribute/"
 type: "post"

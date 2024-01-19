@@ -1,7 +1,7 @@
 ---
 title: "How to create an issue on GitHub projects"
 date: 2023-11-10
-tags:
+categories:
     - Github
 url: "/guides/gh-issues/"
 type: "post"

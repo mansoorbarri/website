@@ -1,7 +1,11 @@
 ---
 title: "Guide to Digital Privacy"
 date: 2023-05-01
-tags: [Info]
+categories:
+  - Linux
+  - Windows
+tags:
+  - Privacy
 url : "/guides/data-privacy/"
 type: "post"
 showtableOfContents: true

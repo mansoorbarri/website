@@ -1,7 +1,7 @@
 ---
 title: "Python Course for Beginners | py1"
 date: 2023-09-18
-tags: [Python Course]
+categories: [Python Course]
 url: "/guides/python-course-py1/"
 type: "post"
 showtableOfContents: true

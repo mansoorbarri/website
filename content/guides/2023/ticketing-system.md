@@ -1,14 +1,15 @@
 ---
 title: "Ticketing System"
 date: 2023-09-01
-tags: [Home Lab]
+categories:
+    - Windows
+    - Linux
+tags: ["Helpdesk"]
 url: "/guides/ticketing-system/"
 type: "post"
 showtableOfContents: true
 description: "Learn about Freshdesk's ticketing system and how you can create and manage a ticketing system for your home lab!"
 ---
-
-You need a ticketing system **RIGHT NOW!**
 
 ## Context
 A ticketing system can be your first step in having your own helpdesk experience at home. This can be free and paid, in cloud or on prem which makes this a super nerdy/fun experience. 

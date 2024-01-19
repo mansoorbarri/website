@@ -1,7 +1,9 @@
 ---
 title: "Web Hosting"
 date: 2023-10-20
-tags: [hosting]
+categories:
+    - Website
+tags: ["hosting"]
 url: "/guides/web-hosting/"
 type: "post"
 showtableOfContents: true

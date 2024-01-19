@@ -1,7 +1,7 @@
 ---
 title: "10 Things to Do After Installing Debian"
 date: 2023-01-09
-tags: ["Linux"]
+categories: ["Linux"]
 url : "/guides/things-to-do-after-installing-deb/"
 type: "post"
 showtableOfContents: true

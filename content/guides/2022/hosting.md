@@ -1,7 +1,10 @@
 ---
 title: "Hosting Your Static Website for Free with GitHub: A Comprehensive Guide"
 date: 2022-04-12
-tags: ["Hosting"]
+categories:
+    - Website
+    - GitHub
+tags: ["hosting"]
 type: "post"
 url : "/guides/hosting/"
 showtableOfContents: true

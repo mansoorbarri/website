@@ -1,7 +1,10 @@
 ---
 title: "Using Canon Camera as Webcam"
 date: 2023-04-12
-tags: [Windows, Info]
+categories:
+  - Windows
+tags:
+  - Webcam
 type: "post"
 showtableOfContents: true
 url : "/guides/cannon-camera-as-webcam/"

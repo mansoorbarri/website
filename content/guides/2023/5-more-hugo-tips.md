@@ -1,7 +1,7 @@
 ---
 title: "5 More Hugo Tips"
 date: 2023-09-06
-tags: [hugo]
+categories: [hugo]
 url: "/guides/5-more-hugo-tips/"
 type: "post"
 showtableOfContents: true

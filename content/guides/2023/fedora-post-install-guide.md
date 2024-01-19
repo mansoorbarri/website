@@ -1,7 +1,7 @@
 ---
 title: "Fedora Post-Install Guide"
 date: 2023-02-03
-tags: [Linux]
+categories: [Linux]
 url : "/guides/fedora-post-install-guide/"
 type: "post"
 showtableOfContents: true

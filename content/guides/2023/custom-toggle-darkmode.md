@@ -1,7 +1,11 @@
 ---
 title: "Custom Toggle with Darkmode.js"
 date: 2023-05-12
-tags: [js]
+categories:
+  - Linux
+  - Windows
+tags:
+  - Website
 type: "post"
 showtableOfContents: true
 url : "/guides/custom-toggle-darkmode/"

@@ -1,7 +1,8 @@
 ---
 title: "Automatic Updates on Linux"
 date: 2022-02-23
-tags: ["Linux"]
+categories: ["Linux"]
+tags: ["UFW"]
 type: "post"
 url : "/guides/auto-updates/"
 showtableOfContents: true

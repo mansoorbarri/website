@@ -1,7 +1,7 @@
 ---
 title: "Create SSH Keys & Install Them on a Linux System"
 date: 2023-06-23
-tags: [Linux]
+categories: [Linux]
 url: "/guides/ssh-keys-from-linux/"
 type: "post"
 showtableOfContents: true

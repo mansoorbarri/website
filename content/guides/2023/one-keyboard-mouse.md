@@ -1,7 +1,11 @@
 ---
 title: "Use One Mouse-Keyboard On Two Systems"
 date: 2023-02-17
-tags: [Tips]
+categories:
+  - Linux
+  - Windows
+tags:
+  -  Barrier
 url : "/guides/one-keyboard-mouse/"
 type: "post"
 showtableOfContents: true

@@ -1,7 +1,11 @@
 ---
 title: "Get a free linux terminal from Google Console"
 date: 2023-07-03
-tags: [Info]
+categories:
+  - Linux
+  - Windows
+tags:
+  - Terminal
 url: "/guides/free-google-terminal/"
 type: "post"
 showtableOfContents: true

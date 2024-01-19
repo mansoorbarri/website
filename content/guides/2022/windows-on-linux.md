@@ -1,7 +1,7 @@
 ---
 title: "Install Windows on Linux"
 date: 2022-01-02
-tags: ["Linux"]
+categories: ["Linux"]
 type: "post"
 url : "/guides/windows-on-linux/"
 showtableOfContents: true

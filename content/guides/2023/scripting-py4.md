@@ -1,7 +1,7 @@
 ---
 title: "Scripting in Python | Py4"
 date: 2023-09-27
-tags: [Python Course]
+categories: [Python Course]
 url: "/guides/scripting-py4/"
 type: "post"
 showtableOfContents: true

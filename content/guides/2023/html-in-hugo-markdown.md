@@ -1,7 +1,7 @@
 ---
 title: "How to Add Custom HTML Code to Your Hugo Website"
 date: 2023-03-29
-tags: [Hugo]
+categories: [Hugo]
 url : "/guides/html-in-hugo-markdown/"
 type: "post"
 showtableOfContents: true

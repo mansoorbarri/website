@@ -1,7 +1,7 @@
 ---
 title: "How To Converter Outlooks' .PST to .EML"
 date: 2023-06-21
-tags: [email]
+categories: [email]
 url: "/guides/pst-to-eml/"
 type: "post"
 showtableOfContents: true

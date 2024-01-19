@@ -1,7 +1,8 @@
 ---
 title: "Comments on HUGO site"
 date: 2022-11-21
-tags: ["HUGO"]
+categories: ["Website"]
+tags: ["Hugo"]
 type: "post"
 url : "/guides/comments-hugo/"
 showtableOfContents: true

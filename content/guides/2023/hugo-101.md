@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide on Using Hugo"
 date: 2023-04-07
-tags: [Hugo]
+categories: [Hugo]
 url : "/guides/hugo-101/"
 type: "post"
 showtableOfContents: true

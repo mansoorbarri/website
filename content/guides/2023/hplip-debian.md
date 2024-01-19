@@ -1,7 +1,7 @@
 ---
 title: "HPLIP Install On Debian"
 date: 2023-03-03
-tags: [Linux]
+categories: [Linux]
 url : "/guides/hplip-debian/"
 type: "post"
 showtableOfContents: true

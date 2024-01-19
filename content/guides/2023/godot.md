@@ -1,7 +1,7 @@
 ---
 title: "Godot First Impressions as a web developer "
 date: 2023-10-09
-tags: []
+categories: []
 url: "/guides/godot/"
 type: "post"
 showtableOfContents: true

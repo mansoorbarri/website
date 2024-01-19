@@ -1,7 +1,7 @@
 ---
 title: "5 Hugo Features You Should Be Using "
 date: 2023-08-28
-tags: [Hugo]
+categories: [Hugo]
 url: "/guides/hugo-tips/"
 type: "post"
 showtableOfContents: true
@@ -21,7 +21,7 @@ You can manage post/pages URLs by adding `url:` in your frontmatter. For example
 ---
 title: "10 Hugo Features You Should Be Using "
 date: 2023-08-28
-tags: [Hugo]
+categories: [Hugo]
 url: "/guides/hugo-tips/"
 type: "post"
 showtableOfContents: true

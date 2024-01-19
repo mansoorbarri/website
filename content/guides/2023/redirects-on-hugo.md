@@ -1,7 +1,7 @@
 ---
 title: "Redirects on Hugo"
 date: 2023-03-13
-tags: [Hugo]
+categories: [Hugo]
 url : "/guides/redirects-on-hugo/"
 type: "post"
 showtableOfContents: true

@@ -1,7 +1,7 @@
 ---
 title: "How to add copy code button on Hugo sites"
 date: 2023-10-27
-tags: 
+categories: 
     - hugo
 url: "/guides/copy-code/"
 type: "post"

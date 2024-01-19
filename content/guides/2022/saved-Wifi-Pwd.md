@@ -1,7 +1,7 @@
 ---
 title: "View Saved WiFi Passwords"
 date: 2022-01-16
-tags: ["Linux"]
+categories: ["Linux"]
 type: "post"
 url : "/guides/saved-Wifi-Pwd/"
 showtableOfContents: true

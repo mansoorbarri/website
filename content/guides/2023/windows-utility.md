@@ -1,7 +1,7 @@
 ---
 title: "Windows Utility"
 date: 2023-01-23
-tags: [Windows]
+categories: [Windows]
 url : "/guides/windows-utility/"
 type: "post"
 showtableOfContents: true

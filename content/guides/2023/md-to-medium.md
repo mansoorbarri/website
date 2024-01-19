@@ -1,7 +1,11 @@
 ---
 title: "Convert Your Markdown File to a Medium Post"
 date: 2023-03-15
-tags: [Info]
+categories:
+  - Linux
+  - Windows
+tags:
+  - Markdown
 url : "/guides/md-to-medium/"
 type: "post"
 showtableOfContents: true

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Installing Notion on Linux using Epiphany Browser"
 date: 2023-03-10
-tags: [Linux]
+categories: [Linux]
 url : "/guides/notion-web-app-on-linux/"
 type: "post"
 showtableOfContents: true

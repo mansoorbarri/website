@@ -1,7 +1,7 @@
 ---
 title: "Remove Debian comepletely from DualBoot"
 date: 2022-03-15
-tags: ["Windows"]
+categories: ["Windows"]
 type: "post"
 url : "/guides/remove-dualboot/"
 showtableOfContents: true

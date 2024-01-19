@@ -2,8 +2,10 @@
 ---
 title: "Monitor Your Coding Analytics with Wakatime"
 date: 2023-11-06
-tags: 
-    - Coding
+categories: 
+    - Windows
+    - Linux
+tags: ["coding"]
 url: "/guides/wakatime/"
 type: "post"
 showtableOfContents: true

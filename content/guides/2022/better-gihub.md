@@ -1,6 +1,7 @@
 ---
 title: "Better Way To Use GitHub"
 date: 2022-11-23
+categories: ["Windows", "Linux"]
 tags: ["GitHub"]
 type: "post"
 url : "/guides/better-github/"
