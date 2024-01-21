@@ -87,13 +87,13 @@ hasCJKLanguage = false
     [[menu.social]]
     identifier = "linkedin"
     name = "LinkedIn"
-    url = "https://github.com/mansoorbarri"
+    url = "https://linkedin.com/in/mansoorbarri"
     params.icon = "brand-linkedin"
 
     [[menu.social]]
     identifier = "medium"
     name = "Medium"
-    url = "https://twitter.com/mansoorbarri"
+    url = "https://medium.com/@mansoorbarri"
     params.icon = "brand-medium"
 
 
