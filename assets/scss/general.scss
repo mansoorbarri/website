@@ -25,12 +25,12 @@ a {
     }
 }
 body::-webkit-scrollbar {
-	width: 8px;               /* width of the entire scrollbar */
+	width: 8px;               
 }
   
 body::-webkit-scrollbar-thumb {
-background-color: grey;    /* color of the scroll thumb */
-border-radius: 20px;       /* roundness of the scroll thumb */
+background-color: grey;   
+border-radius: 20px;       
 }
 
 ::selection { 
