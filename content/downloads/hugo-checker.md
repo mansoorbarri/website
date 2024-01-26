@@ -3,30 +3,24 @@ title: "Hugo Theme Submission Validation Script"
 date: "2024-01-26"
 hidden: false
 ---
-This Python script is designed to validate the readiness of a Hugo theme for submission by checking various requirements defined in the theme.toml & README.md files. The script ensures that essential metadata and links are correctly specified and functional.
 
-## Overview
-### 1. Metadata Validation
-   - **Name:** Ensures the existence and non-empty value of the theme name.
-   - **License:** Checks for the presence and validity of the license type.
-   - **License Link:** Verifies that the license link is an absolute and valid URL.
-   - **Description:** Ensures the presence and non-empty value of the theme description.
-   - **Homepage:** Validates the homepage link for being an absolute and working URL.
-   - **Demosite:** Checks the demosite link for being an absolute and functional URL.
-   - **Tags:** Verifies the existence of theme tags.
-   - **Authors:** Ensures the presence of author information, including name and homepage.
+I have been developing multiple Hugo themes with the intention of getting it on the [Hugo themes page](https://themes.gohugo.io) however, despite having the experience of doing this multiple times, I get something wrong everytime. So I decided to make a script which goes through the important things which are required to submit your theme on their site. 
 
-### 2. Image Validation
-   - **Screenshot:** Verifies the existence of either `screenshot.png` or `screenshot.jpg` in the `images` directory.
-   - **Thumbnail:** Ensures the presence of either `tn.png` or `tn.jpg` in the `images` directory.
+Some things include: 
+- Absolute links 
+- Author information 
+- Licence information 
+- Theme version
 
-### 3. Optional Porting Check
-   - **Original Theme Information:** If the user indicates that the theme is ported, checks for the existence and non-empty values of the original author's name, homepage, and repository link.
+You can learn more here: https://github.com/mansoorbarri/hugo-checker/
 
-### 4. Link Validations
-   - **License Link:** Ensures the 'licenselink' is an absolute and valid URL.
-   - **Homepage Link:** Validates the 'homepage' link for being an absolute and functional URL.
-   - **Demosite Link:** Checks the 'demosite' link for being an absolute and functional URL (if provided).
-   - **Original Theme Links:** If the theme is ported, validates the 'homepage' and 'repo' links in the original theme information for being absolute and valid URLs.
+## Contributions
+If you want want more things to be validate by the script or have a better way to do this, feel free to send a PR over on GitHub. 
+
+## Technical Details 
+The script is in Python using multiple modules: `os`, `toml`, `requests` & `urlparse` & is around 100 lines. The script doesn't take more than 5 seconds to complete as long as you have all the requirments met. 
+
+## Compiled File 
+There is **no** standalone file for Windows or Mac however, it will come later down the line. Right now its a simple script so it doesn't make sense to have a compiled file for it in my opinion. 
 
 ---
