@@ -12,7 +12,7 @@ Some things include:
 - Licence information 
 - Theme version
 
-You can learn more here: https://github.com/mansoorbarri/hugo-checker/
+You can learn more here: https://github.com/mansoorbarri/hugo-validator/
 
 ## Contributions
 If you want want more things to be validate by the script or have a better way to do this, feel free to send a PR over on GitHub. 
