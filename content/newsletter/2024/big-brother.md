@@ -2,11 +2,12 @@
 title: "Big Brother"
 date: 2024-01-17
 url: "/newsletter/big-brother/"
+showtableOfContents: "true"
 ---
 
 There is a block. An imaginary but physical block. Can’t write, can’t work on the website, can’t work on hobbies, can’t do anything. Hopelessness. The decision to write every week might be to optimistic but I have written 3 articles per week so one shouldn’t be a problem. I don’t know. Things not working makes me think of destructive things to do which isn’t good of course.
 
-##The Website
+## The Website
 
 ![screenshot of the new website](/img/newsletter/2024/big-brother/website.png)
 
