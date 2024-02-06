@@ -6,7 +6,7 @@ categories:
   - Windows
 tags:
   - YouTube
-url: "/guides/remove-youtube-shorts/"
+url: "/remove-youtube-shorts/"
 type: "post"
 showtableOfContents: true
 description: "A simple guide to completely remove YouTube shorts."
