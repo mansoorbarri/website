@@ -11,7 +11,7 @@ DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
 [params]
-    mainSections = ["guides"]
+    mainSections = ["articles"]
     featuredImageField = "image"
     rssFullContent = true
     favicon = "/img/logo/favicon.ico"
