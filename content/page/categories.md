@@ -1,4 +1,5 @@
 ---
+title: "Categories"
 url: "/categories"
 menu: 
     main:
