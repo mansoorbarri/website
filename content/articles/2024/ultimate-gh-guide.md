@@ -82,7 +82,7 @@ Mac
 brew install gh
 ```
 
-## Create SSH keys
+### Create SSH keys
 
 ```bash
 ssh-keygen -t ed25519 -C "your-email"
@@ -131,7 +131,7 @@ git remote set-url origin git@github.com:mansoorbarri/website.git
 
 *change “mansoorbarri/website” with your username/repostiory* 
 
-## Set GPG keys (optional)
+### Set GPG keys (optional)
 
 Now  this step isn’t really important however this will make it so your commits has that “verified” tag on your commits. 
 
@@ -153,7 +153,7 @@ gpg --armor --export <your email>
 
 copy the whole output *(yes, including “—-BEGIN PGP PUBLIC KEY BLOCK—-”)*
 
-## sign commits using GPG keys
+### sign commits using GPG keys
 
 use this command to see all the GPG keys
 
