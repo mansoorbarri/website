@@ -1,7 +1,6 @@
 ---
 title: "Vim"
 date: "2024-02-03"
-draft: true
 url: "/newsletter/vim/"
 showtableOfContents: true
 ---
