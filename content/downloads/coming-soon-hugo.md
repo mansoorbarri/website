@@ -71,6 +71,15 @@ You should remove links to socials which you don't want to mention.
 
 Now you can publish it to your host. 
 
+### Twitter feed 
+you can have your twitter feed as a way to update on your website. 
+
+```toml
+[params.twitter]
+	enable = true  # enabled by default 
+	username = "mansoorbarri" # enter your Twitter username here
+```
+
 ## Performance 
 ![Screenshot of the results from Pages Insights](/img/downloads/comingsoonhugo/performance.png)
 
