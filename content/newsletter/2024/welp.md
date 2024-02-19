@@ -1,7 +1,6 @@
 ---
 title: "Welp"
 date: "2024-02-12"
-drafts: true
 url: "/newsletter/welp/"
 showtableOfContents: true
 ---
