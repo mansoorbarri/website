@@ -4,6 +4,7 @@ type: "post"
 showtableOfContents: "true"
 tags: ["hugo"]
 date: "2023-09-03"
+lastmod: "2024-03-05"
 ---
 
 ![screenshot of the site](https://raw.githubusercontent.com/mansoorbarri/coming-soon/main/images/screenshot.png)
@@ -63,11 +64,12 @@ socialIcons = [
 {name = "facebook", url = "https://facebook.com/"},    
 {name = "github", url = "https://github.com/"},    
 {name = "instagram", url = "https://instagram.com/"},    
-{name = "tiktok", url = "https://tiktok.com/"},    
+{name = "tiktok", url = "https://tiktok.com/"},  
+{name = "linkedin", url = "https://linkedin/in/"},  
 ]
 ```
 
-You should remove links to socials which you don't want to mention. 
+You can add custom icons as well, store `svg` file in `/static/svg/icon` and amend the value in `.toml` file.
 
 Now you can publish it to your host. 
 
