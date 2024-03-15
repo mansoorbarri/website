@@ -52,6 +52,7 @@ hasCJKLanguage = false
         [params.comments.utterances]
             repo = "mansoorbarri/website"
             issueTerm = "title"
+            label = "comments"
 
     [[params.widgets.homepage]]
         type = "search"
