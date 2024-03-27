@@ -1,5 +1,5 @@
 ---
-title: "Css Integrity Error Hugo"
+title: "CSS Integrity Error Hugo"
 description: "How to fix CSS integrity error in Hugo. This usually happens when publishing your website using a Pages service on Cloudflare or GitHub."
 date: "2024-03-27"
 url: "/css-integrity-error-hugo/"
