@@ -29,5 +29,6 @@ For GitHub pages and other service providers, the steps would be similar.
 
 ![screenshot of the code with integrity removed](/img/guides/2024/css-integrity-error-hugo/code-screenshot.png)
 
+-MB
 
 ---
