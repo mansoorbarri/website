@@ -1,9 +1,9 @@
 ---
-title: Articles
+title: Guides
 menu:
     main:
-        name: Articles
+        name: Guides
         weight: 100
         params:
-            icon: archives
+            icon: archives 
 ---
