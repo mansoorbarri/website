@@ -10,16 +10,6 @@ googleAnalytics = ""
 DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
-[languages.en]
-    languageName = "English"
-    title = "Mansoor Barri"
-    weight = 1
-
-[languages.ur]
-    languageName = "Roman Urdu"
-    title = "Mansoor Barri"
-    weight = 2
-
 [params]
     mainSections = ["articles"]
     featuredImageField = "image"
