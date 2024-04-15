@@ -16,21 +16,21 @@ Installing [Neovim](https://neovim.io) can be confusing as it is available on mo
 Same goes for Debian, which I am using while learning Vim. This is the only way which works as of now an is quite easy. 
 
 ## Install Curl 
-You need `curl` for this. It is installed on all system but if you don't have it, you can install it using: 
+You need `wget` for this. It is installed on all system but if you don't have it, you can install it using: 
 
 ```
-sudo apt install curl 
+sudo apt install wget 
 ```
 ## Download Neovim App Image
-Here we will use `curl` to pull Neovim's app image: 
+Here we will use `wget` to pull Neovim's app image: 
 
 ```bash
-curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
+wget https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
 ```
 once done, make the app image executable: 
 
 ```bash
-chmod +x nvim.appimage 
+chmod +x ./nvim.appimage 
 ```
 Now move the app image binary to `/usr/local/bin` so you can run it from `$PATH`: 
 
