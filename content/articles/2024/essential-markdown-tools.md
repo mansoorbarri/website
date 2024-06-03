@@ -38,7 +38,9 @@ I have actually never used this one however it can be useful if you collaborate 
 
 ## md2pdf
 I have used this many times and it is quite useful when you want to send markdown files to someone. A simple markdown to pdf converter. 
+
 ![A GIF of md2pdf working](https://media.giphy.com/media/MuAtuqUGnn2PKsXhs6/giphy.gif)
+
 *GIF from md2pdf's GitHub*
 
 That's it, let me know if there are other Markdown tools you use.
