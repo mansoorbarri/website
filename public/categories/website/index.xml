@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Website on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/categories/website/</link>
+        <description>Recent content in Website on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/categories/website/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Web Hosting</title>
+        <link>https://mansoorbarri.com/guides/web-hosting/</link>
+        <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/web-hosting/</guid>
+        <description>&lt;p&gt;so hosting is a bit weird especially for websites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;some are over paying&lt;/li&gt;
+&lt;li&gt;some are scams&lt;/li&gt;
+&lt;li&gt;some are just perfect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and it all comes down to your workflow and what do you wanna host.&lt;/p&gt;
+&lt;h2 id=&#34;static-sites&#34;&gt;Static sites&lt;/h2&gt;
+&lt;p&gt;Static sites are basically websites with just html, css &amp;amp; js. Nothing more, nothing less. You can host them in multiple ways but my prefered method is with Cloudflare Pages because of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloudflare has the largest network for CDN&lt;/li&gt;
+&lt;li&gt;You can get a short URL as well like &lt;code&gt;abc.pages.dev&lt;/code&gt; unlike GitHub&amp;rsquo;s long URLs&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s quite easy to set-up &amp;amp; will help in your career as well&lt;/li&gt;
+&lt;li&gt;You can link it with GitHub for version control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cloudflare is pretty famous with enterprise customers especially those businesses who are just between &amp;ldquo;small&amp;rdquo; &amp;amp; &amp;ldquo;large business&amp;rdquo;. I have all my websites hosted on Cloudflare and the speed and workflow is just too good. This website is also hosted on Cloudflare Pages&lt;/p&gt;
+&lt;h3 id=&#34;how-to&#34;&gt;How to&lt;/h3&gt;
+&lt;p&gt;Its pretty much documented on YouTube and other blogs, my guide can be found here: &lt;a class=&#34;link&#34; href=&#34;https://mansoorbarri.com/guides/cloudflare-hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mansoorbarri.com/guides/cloudflare-hugo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dynamic-sites&#34;&gt;Dynamic sites&lt;/h2&gt;
+&lt;p&gt;For this, I prefer going with Google cloud platform as its the fastest and pretty cheap as far as I know. You can also go with linode as they have a better support but if you know what you are doing, Google should be fine as well.&lt;/p&gt;
+&lt;p&gt;I was admin for a website over at Plesk and its pain. The UI is slow and the website isn&amp;rsquo;t that fast; it peaked at 10s which is disgusting.&lt;/p&gt;
+&lt;p&gt;In the end its all about your needs. Most people have static sites so Cloudflare + Git makes perfect sense, hosting companies usually lure these people as well at awful rates which is just ugly.&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Google Adsense</title>
+        <link>https://mansoorbarri.com/guides/google-adsense/</link>
+        <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/google-adsense/</guid>
+        <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Google adsense can be a great way to maintain a website as the earning aren&amp;rsquo;t not much to sustain a household but can be enough to sustain a website and everything related to maintain a website (hosting, CMS etc)&lt;/p&gt;
+&lt;h3 id=&#34;google-adsense&#34;&gt;Google Adsense&lt;/h3&gt;
+&lt;p&gt;Google adsense can be a great way to start your journey however Google is quite picky with what is suitable for their adsense platform.&lt;/p&gt;
+&lt;p&gt;I was rejected several times over a year with little to no information about what is wrong with my site; I was accepted finally after using multiple tools and tips from previous website owners like &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/@TonyTeachesTech&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TonyTeachesTech&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;adsense-connect&#34;&gt;Adsense Connect&lt;/h2&gt;
+&lt;p&gt;Make sure you have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;connected your site successfully without any errors (Google Adsense will show any errors when you are connecting your site)&lt;/li&gt;
+&lt;li&gt;Space for ads to display on your site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://ahrefs.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ahrefs&lt;/a&gt; - For SEO and errors like 404 &amp;amp; low word count pages&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://webmatrices.com/adsense-eligibility-checker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;webmatrices&lt;/a&gt; - To check technical details which contribute to Google&amp;rsquo;s approval&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ahrefs&#34;&gt;Ahrefs&lt;/h3&gt;
+&lt;p&gt;Ahrefs&amp;rsquo; setup is a bit lenghty and deserves a dedicated guide which will be posted soon.&lt;/p&gt;
+&lt;p&gt;Ideally you should have 90% or over under Site Audit, I was at 98% when I started using Ahrefs; later I got it to be 100% whilst applying for Google Adsense. The trick is to have no &amp;ldquo;Errors&amp;rdquo; as they are the serious ones. At the time of this guide, I have 0 errors, 11 warnings and 3 notices.&lt;/p&gt;
+&lt;p&gt;My Ahrefs guide: &lt;a class=&#34;link&#34; href=&#34;https://mansoorbarri.com/guides/ahrefs/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mansoorbarri.com/guides/ahrefs/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;webmatrices&#34;&gt;Webmatrices&lt;/h3&gt;
+&lt;p&gt;Firstly, go to their website and enter your domain; for a high chance you would want at least 60% approval rate from Webmatrices. I was at 71.43% when I was accepted for Google Adsense.&lt;/p&gt;
+&lt;p&gt;For &lt;code&gt;Pages Information&lt;/code&gt; on Webmatrices, its not important for a individual creator to have &amp;ldquo;About Us&amp;rdquo; &amp;amp; &amp;ldquo;Contact Us&amp;rdquo; however privacy policy and terms and conditions are essential.&lt;/p&gt;
+&lt;h2 id=&#34;tldr&#34;&gt;TLDR&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You should be at least 18 at the time of applying adsense (Your photo ID will be asked)&lt;/li&gt;
+&lt;li&gt;Have enough and good content&lt;/li&gt;
+&lt;li&gt;Your site should be &amp;ldquo;ad ready&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;You should have enough site views &amp;amp; decent SEO&lt;/li&gt;
+&lt;li&gt;Illegal content is not allowed (Incl. ethical hacking)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Ahrefs: The SEO Speacialist</title>
+        <link>https://mansoorbarri.com/guides/ahrefs/</link>
+        <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/ahrefs/</guid>
+        <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;I have been using Ahrefs for almost a year now which lead to my site (mansoorbarri.com) being the top 3 for the keyword &amp;ldquo;Mansoor Barri&amp;rdquo; on Google &amp;amp; DuckDuckGo.&lt;/p&gt;
+&lt;h2 id=&#34;ahrefs-setup&#34;&gt;Ahrefs Setup&lt;/h2&gt;
+&lt;h3 id=&#34;sign-up&#34;&gt;Sign Up&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a class=&#34;link&#34; href=&#34;https://Ahrefs.com/signup/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://Ahrefs.com/signup/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow the signup instructions&lt;/li&gt;
+&lt;li&gt;If plan is asked, select the free plan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;connecting-your-site&#34;&gt;Connecting Your Site&lt;/h3&gt;
+&lt;p&gt;Verification methods could include adding a meta tag to your website&amp;rsquo;s HTML, uploading a verification file to your server, or modifying your DNS records. I prefer to add DNS records as uploading files to verify might slow down your website; potentially ruining your SEO.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the intruction to verify via DNS&lt;/li&gt;
+&lt;li&gt;Turn &lt;code&gt;Run first crawl now&lt;/code&gt; on&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;errors--issues&#34;&gt;Errors &amp;amp; Issues&lt;/h2&gt;
+&lt;p&gt;Once your first crawl has finished, click on the % and go to &lt;code&gt;All issues&lt;/code&gt; and filter the results by clicking on &lt;code&gt;Importance&lt;/code&gt; and selecting &lt;code&gt;Error&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on one of the erros and look for which web page is causing the error and which element of the page is affected and try to fix it.&lt;/li&gt;
+&lt;li&gt;Once done, choose another error and try to fix that&lt;/li&gt;
+&lt;li&gt;Continue till you have fixed all the errors and then start another crawl by clicking &lt;code&gt;New crawl&lt;/code&gt; on the top right-hand side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2023/ahrefs/errors.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of a site showing three errors&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Here you can see that I have three errors, I will go with &lt;code&gt;Meta refresh redirect&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2023/ahrefs/errors-detail.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of error details&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Here it shows that there are 3 links which redirect the user using &lt;code&gt;meta redirect&lt;/code&gt; this affects SEO since its slow and causes the use to leave your website.&lt;/p&gt;
+&lt;p&gt;I can fix this by removing the redirect pages and redirecting the use using Cloudflare&amp;rsquo;s redirect feature as it doesn&amp;rsquo;t use &lt;code&gt;Meta refresh&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Once you have fixed all the &amp;ldquo;errors&amp;rdquo;, run another crawl and look for any other errors which are not fixed or any new errors. Repeat the cycle until you have 95-100% on site audit.&lt;/p&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2023/ahrefs/result.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;screenshot of sites being 100%&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Get a Free SSL Certificate for Your GoDaddy Subdomain using SSL Generator</title>
+        <link>https://mansoorbarri.com/guides/free-ssl-on-godaddy/</link>
+        <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/free-ssl-on-godaddy/</guid>
+        <description>&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;GoDaddy Windows Hosting: This guide assumes that you are using GoDaddy&amp;rsquo;s Windows Hosting service to host your website. If you are using a different hosting provider or operating system, the steps may vary.&lt;/p&gt;
+&lt;h2 id=&#34;step-1-generate-your-ssl-certificate&#34;&gt;Step 1: Generate your SSL certificate&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Navigate to &lt;a class=&#34;link&#34; href=&#34;https://punchsalad.com/ssl-certificate-generator/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://punchsalad.com/ssl-certificate-generator/&lt;/a&gt; in your web browser.&lt;/li&gt;
+&lt;li&gt;Enter your subdomain and email address, then click &amp;ldquo;Generate Certificate.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Follow the prompts to verify your ownership of the domain via DNS. This typically involves creating a TXT record in your DNS settings with a provided code.&lt;/li&gt;
+&lt;li&gt;Once verification is complete, you will be able to download your SSL certificate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;step-2-apply-your-ssl-certificate-to-your-godaddy-subdomain&#34;&gt;Step 2: Apply your SSL certificate to your GoDaddy subdomain&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Log in to your GoDaddy account and navigate to your domain settings.&lt;/li&gt;
+&lt;li&gt;Click on &amp;ldquo;SSL/TLS&amp;rdquo; and then &amp;ldquo;Manage&amp;rdquo; to access your SSL settings.&lt;/li&gt;
+&lt;li&gt;Copy and paste the contents of your primary cert file provided by the SSL certificate generator into the appropriate box.&lt;/li&gt;
+&lt;li&gt;Save your SSL settings.&lt;/li&gt;
+&lt;li&gt;Now go to your hosting settings for your subdomain and select your added SSL Certificate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>How To Use Cloudflare &amp; GitHub to Host Your Static Site</title>
+        <link>https://mansoorbarri.com/guides/cloudflare-hugo/</link>
+        <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/cloudflare-hugo/</guid>
+        <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve been using Hugo incorrectly by hosting only the &lt;code&gt;public/&lt;/code&gt; on github and then using Cloudflare&amp;rsquo;s nameservers on my domain, but there&amp;rsquo;s a better way that&amp;rsquo;s pretty neat.&lt;/p&gt;
+&lt;h2 id=&#34;advantage-of-doing-this&#34;&gt;Advantage Of Doing This&lt;/h2&gt;
+&lt;p&gt;The main benefit is that you have version control over your raw &lt;code&gt;.md&lt;/code&gt; files, and it takes up less storage space because you are only storing raw files, while the html files are stored with Cloudflare.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;Create a new repository or remove &lt;code&gt;public/&lt;/code&gt; files from an existing repository, then add your hugo files and proceed with the steps below.&lt;/p&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Make a new Cloudflare Pages project as follows:&lt;/strong&gt; Go to the Cloudflare Pages dashboard and press the &amp;ldquo;Create a Project&amp;rdquo; button. Choose a name for your project, a GitHub repository, and the branch that will contain your Hugo-generated static files.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Configure your build settings:&lt;/strong&gt; In the project settings, configure your static site&amp;rsquo;s build settings. You can use the default build settings or customise the build process to meet your specific requirements. For example, you might want to specify your site&amp;rsquo;s base URL or change the output directory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Build your site:&lt;/strong&gt; After you&amp;rsquo;ve configured your build settings, Cloudflare Pages will build your site for you using Hugo. Depending on the size of your site, this could take a few minutes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Preview your site:&lt;/strong&gt; Once the build process is complete, you can preview your site in the project dashboard by clicking the &amp;ldquo;Preview&amp;rdquo; button. This will open your site in a new tab, allowing you to double-check that everything is as it should be.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Deploy your site:&lt;/strong&gt; If everything looks good, click the &amp;ldquo;Deploy&amp;rdquo; button in the project dashboard to send your site to production. Cloudflare Pages will deploy your site to its global network of servers automatically, ensuring that it is fast and dependable for your visitors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Configure custom domains:&lt;/strong&gt; You can configure a custom domain for your site in the project settings. Cloudflare Pages supports a wide range of domain name providers, so you should have no trouble setting up your custom domain and ensuring that it is properly configured for your site.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;extras&#34;&gt;Extras&lt;/h2&gt;
+&lt;p&gt;Because you are now using Cloudflare, you can remove all of the settings from GitHub Pages.&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Comments on HUGO site</title>
+        <link>https://mansoorbarri.com/guides/comments-hugo/</link>
+        <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/comments-hugo/</guid>
+        <description>&lt;p&gt;Here I&amp;rsquo;m using Hugo theme called &lt;a class=&#34;link&#34; href=&#34;https://github.com/526avijitgupta/gokarna&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GoKarna&lt;/a&gt; but you can pretty much do this with any Hugo theme.&lt;/p&gt;
+&lt;h2 id=&#34;hugo-setup&#34;&gt;HUGO Setup&lt;/h2&gt;
+&lt;p&gt;make a file with the name &amp;ldquo;rawhtml.html&amp;rdquo; in /layours.shortcodes directory of your theme and put the follwing line.&lt;/p&gt;
+&lt;p&gt;*&lt;em&gt;if your don&amp;rsquo;t have the shortcodes directory, you can make one.&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{.Inner}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;utterances-setup&#34;&gt;Utterances Setup&lt;/h2&gt;
+&lt;p&gt;Add utterances to your github repository from &lt;a class=&#34;link&#34; href=&#34;https://github.com/apps/utterances&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;github.com/apps/utterances&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;then get your HTML code from &lt;a class=&#34;link&#34; href=&#34;https://utteranc.es&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;utteranc.es&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;add-comments&#34;&gt;Add comments&lt;/h2&gt;
+&lt;p&gt;Now add the raw html tag followed by your HTML code from utteranc.es and end it with closing html tag.&lt;/p&gt;
+&lt;p&gt;It will look something like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/comments-hugo/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;screenshot of the comment section in use&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+ 
+ 
+
+
+</description>
+        </item>
+        <item>
+        <title>Hosting Your Static Website for Free with GitHub: A Comprehensive Guide</title>
+        <link>https://mansoorbarri.com/guides/hosting/</link>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/hosting/</guid>
+        <description>&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;There are many ways to host static website for free. In this guide we will use github as a hosting platform. Github can only host static websites*&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Github account&lt;/li&gt;
+&lt;li&gt;Code for your website&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;main&#34;&gt;Main&lt;/h2&gt;
+&lt;h3 id=&#34;step-1-click-the--icon-and-click-new-repository&#34;&gt;Step 1: Click the &amp;ldquo;+&amp;rdquo; icon and click &amp;ldquo;New repository&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-2-set-basic-info&#34;&gt;Step 2: Set basic info&lt;/h3&gt;
+&lt;p&gt;Keep a name for your repository. Adding &amp;lsquo;.github.io&amp;quot; at the end of your repo name is important&lt;/p&gt;
+&lt;p&gt;Make sure &amp;ldquo;Add a README&amp;rdquo; file is checked&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Create repository&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022_1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-3-add-your-code&#34;&gt;Step 3: add your code&lt;/h3&gt;
+&lt;p&gt;Upload your code like so&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022_2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022_3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-4-enabling-github-pages&#34;&gt;Step 4: Enabling github pages&lt;/h3&gt;
+&lt;p&gt;Go to settings &amp;gt; Pages&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022_4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Select &amp;ldquo;main&amp;rdquo; as source and &amp;ldquo;save&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022_5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Your site domain will be given&lt;/p&gt;
+&lt;h3 id=&#34;optional-step-5-custom-domain&#34;&gt;[optional] Step 5: Custom Domain&lt;/h3&gt;
+&lt;p&gt;Enter your custom domain as shown and &amp;ldquo;save&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022_6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Add these DNS settings on your domain:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;IP&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[domain-name]&lt;/td&gt;
+&lt;td&gt;185.199.108.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[domain-name]&lt;/td&gt;
+&lt;td&gt;185.199.109.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[domain-name]&lt;/td&gt;
+&lt;td&gt;185.199.110.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;[domain-name]&lt;/td&gt;
+&lt;td&gt;185.199.111.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CNAME&lt;/td&gt;
+&lt;td&gt;www&lt;/td&gt;
+&lt;td&gt;[github-repo-name]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Your DNS table should look something like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/hosting/2022_7.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;source&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;this DNS table is for &lt;a class=&#34;link&#34; href=&#34;https://mansoor.cf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;mansoor.cf&lt;/a&gt; with &lt;a class=&#34;link&#34; href=&#34;https://github.com/mansoorbarri/website&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+ 
+ 
+
+
+</description>
+        </item>
+        
+    </channel>
+</rss>

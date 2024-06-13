@@ -13,7 +13,7 @@ The website has been great and I have been updating things especially SEO things
 ## Upwork 
 So I have been using Twitter or X much more now and I follow this web developer, [Julia](https://twitter.com/yb_fedev). She posted this thread about getting work on Upwork and it was kind of eye-opening despite by tries/experiences so I decided to try again && following what Julia said in her thread: 
 
-{{< twitter 1752610754702843977 >}}
+{{< twitter user="yb_fedev" id="1752610754702843977" >}}
 
 I am quite hopeful but lets see. 
 

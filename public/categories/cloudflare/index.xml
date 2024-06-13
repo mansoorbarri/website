@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Cloudflare on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/categories/cloudflare/</link>
+        <description>Recent content in Cloudflare on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/categories/cloudflare/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cloudflare vs Netlify | Who to choose?</title>
+        <link>https://mansoorbarri.com/guides/cloudflare-vs-netlify/</link>
+        <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/cloudflare-vs-netlify/</guid>
+        <description>&lt;p&gt;In recent years, Cloudflare just creeped out of nowhere and gain significant traction especially for their Pages &amp;amp; analytics side of things. Previously they were known for their security and that too for business and organizations, with the increase in demand for CMS like Hugo &amp;amp; Ghost; people are more likely to use headless servers to hosts their static websites.&lt;/p&gt;
+&lt;h2 id=&#34;cloudflare&#34;&gt;Cloudflare&lt;/h2&gt;
+&lt;p&gt;I have been using Cloudflare since 2022 and I still use it mainly because of these reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Price:&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; Cloudflare is quite cheap especially for high bandwidth websites, Netlify has a pricing structure where if you exceed from the pre-determined bandwidth range, you will be charged. I can’t say how much it is since its subject to change and will not stay the same in the future, you can view their pricing here: &lt;a class=&#34;link&#34; href=&#34;https://www.netlify.com/pricing/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.netlify.com/pricing/&lt;/a&gt; When it comes to Cloudflare, you get unlimited bandwidth especially via their CDN network which is unhinged to be honest.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ease of use&lt;/strong&gt;: Cloudflare does have a learning curve especially if you are new to this however its quite easy and has much more useful features, it integrates well with GitHub and is flawless when it comes to building sites from source. Usually it takes around 5-7 seconds for me to push and for my website to update (currently I have 350 pages &amp;amp; 5 redirects)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Speed:&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; The speed of Cloudflare CDN is unmatched, from building to serving the websites all across the world, its just works and it works better than anything else out there, with that pricing &amp;amp; speed its a no-brainer to use Cloudflare.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When it comes to Netlify, I haven’t yet used it however some people I know do use it and the crux is that its very very easy to use however again the bandwidth hinders you to switch as soon as you hit that limit which might be some work especially if you have a complex work flow. Using Cloudflare since day 1 is much more easier and you will benefit from it significantly more: financially as well as just website performance. Few more advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unlimited accounts&lt;/li&gt;
+&lt;li&gt;Unlimited sites&lt;/li&gt;
+&lt;li&gt;100 custom domains/website (if own a domain already)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cloudflare has a registrar as well which is great as it has cheap domains and works right of the bat with Cloudflare Pages. However, as of 2023, you cannot change Nameservers on a &lt;strong&gt;free&lt;/strong&gt; Cloudflare account so keep that in mind before buying a new domain. You can always point another domain towards Cloudflare and use it with Cloudflare’s CDN.&lt;/p&gt;
+&lt;p&gt;For all the job seekers out there, Cloudflare is used in many businesses so having experience in it already can be quite helpful.&lt;/p&gt;
+&lt;p&gt;For more information on how to use Cloudflare with GitHub, you can checkout my guide here: &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://mansoorbarri.com/guides/cloudflare-hugo/&#34; &gt;How To Use Cloudflare &amp;amp; GitHub to Host Your Static Site&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;That’s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Redired WWW to Cloudflare Pages</title>
+        <link>https://mansoorbarri.com/guides/cloudflare-www/</link>
+        <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/cloudflare-www/</guid>
+        <description>&lt;h3 id=&#34;steps&#34;&gt;Steps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Login to &lt;a class=&#34;link&#34; href=&#34;https://dash.cloudflare.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Cloudflare dashboard&lt;/a&gt; and go to your domain&amp;rsquo;s DNS.&lt;/li&gt;
+&lt;li&gt;Create a DNS A record for &lt;code&gt;www&lt;/code&gt; subdomain with the value of &lt;code&gt;192.0.2.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;www&lt;/td&gt;
+&lt;td&gt;192.0.2.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Now go to Account Home &amp;gt; Bulk Redirects &amp;gt; Create a new Bulk Redirects list &amp;gt; Create new lst&lt;/li&gt;
+&lt;li&gt;In the content type, select Redirect.&lt;/li&gt;
+&lt;li&gt;Add your redirect Source URL and Target URL. Your target URL must include &lt;code&gt;https://&lt;/code&gt; before the apex domain.&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Edit parameters&lt;/strong&gt; &amp;gt; select &lt;strong&gt;Preserve query string&lt;/strong&gt;, &lt;strong&gt;Subpath matching&lt;/strong&gt; and &lt;strong&gt;Preserve path suffix.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Add to list&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Go to &lt;strong&gt;Bulk Redirects&lt;/strong&gt; &amp;gt; &lt;strong&gt;Create Bulk Redirects&lt;/strong&gt; &amp;gt; &lt;strong&gt;select your list&lt;/strong&gt; &amp;gt; &lt;strong&gt;Save and Deploy&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cloudflare-docs&#34;&gt;Cloudflare Docs&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://developers.cloudflare.com/pages/how-to/www-redirect/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://developers.cloudflare.com/pages/how-to/www-redirect/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Expose Your Network To The Internet Without Port Forwarding</title>
+        <link>https://mansoorbarri.com/guides/expose-your-network/</link>
+        <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/expose-your-network/</guid>
+        <description>&lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
+&lt;p&gt;This method is entirely free of costs however, you will just need a cloudflare account and a domain which is using Cloudflare&amp;rsquo;s nameserver&amp;rsquo;s or is bought with Cloudflare. You can signup with cloudflare on &lt;a class=&#34;link&#34; href=&#34;https://dash.cloudflare.com/sign-up&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;cloudflare.com/signup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cloudflare Tunnel is basically a tunnel which works like a VPN, this allows you to expose anything to the internet securely. This can be a website, proxmox server, plex server, docker container or just about anything which requires you to port forward from your router. This is significant especially for those people who&amp;rsquo;s ISPs don&amp;rsquo;t allow port forwarding.&lt;/p&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;From the side panel, go to &amp;ldquo;Zero Trust&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on the &amp;ldquo;Access&amp;rdquo; tab from the side panel followed by &amp;ldquo;Tunnels&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Follow the prompts, select the free plan when it comes to that screen as the free plan is more than enough&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now go back to &amp;ldquo;Tunnels&amp;rdquo; under &amp;ldquo;Access&amp;rdquo; from the side bar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Create Tunnel&amp;rdquo; and name your tunnel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Follow through the instruction to instal a connector for your specific device and click &amp;ldquo;next&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now fill in the subdomain, domain and IP u wanna forward on. Here it should be localhost and not your public IP. Mine looks something like this:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/mansoorbarri/website/blob/main/img/guides/2022/expose-your-network/2022.png?raw=true&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Under &amp;ldquo;Additional application settings&amp;rdquo;, enable &amp;ldquo;NO TLS Verify&amp;rdquo; this option will generate a SSL vertificate for the webpage and click on &amp;ldquo;Save&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now you can access your service from outside your network without port forwarding on your router or device.&lt;/p&gt;
+&lt;h3 id=&#34;videosource&#34;&gt;Video/Source&lt;/h3&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/ey4u7OUAF3c&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;that&amp;rsquo;s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

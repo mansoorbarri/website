@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='The only guide you will need to use Github on Linux.'>
+<title>The Ultimate Guide to Github On Linux</title>
+
+<link rel='canonical' href='https://mansoorbarri.com/ultimate-gh-guide/'>
+
+<link rel="stylesheet" href="/scss/style.min.3c3ec956d235574a0421cd2d0dd52cc33b79f999091681ff7b60fef033ef391d.css"><meta property='og:title' content='The Ultimate Guide to Github On Linux'>
+<meta property='og:description' content='The only guide you will need to use Github on Linux.'>
+<meta property='og:url' content='https://mansoorbarri.com/ultimate-gh-guide/'>
+<meta property='og:site_name' content='Mansoor Barri'>
+<meta property='og:type' content='article'><meta property='article:section' content='Articles' /><meta property='article:tag' content='GitHub' /><meta property='article:published_time' content='2024-02-08T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2024-02-08T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="The Ultimate Guide to Github On Linux">
+<meta name="twitter:description" content="The only guide you will need to use Github on Linux.">
+    <link rel="shortcut icon" href="/img/logo/favicon.ico" />
+
+  
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WWSWMMPM');</script>
+
+
+
+    </head>
+    <body class="
+    article-page
+    ">
+        
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWSWMMPM"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+       
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    <img src="/img/logo/main.webp" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Mansoor Barri</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://github.com/mansoorbarri'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com/mansoorbarri'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://linkedin.com/in/mansoorbarri'
+                        target="_blank"
+                        title="LinkedIn"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-linkedin" width="24" height="24" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 11l0 5" /><path d="M8 8l0 .01" /><path d="M12 16l0 -5" /><path d="M16 16v-3a2 2 0 0 0 -4 0" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://www.fiverr.com/barri_'
+                        target="_blank"
+                        title="Fiverr"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-fiverr"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M15 3h-2a6 6 0 0 0 -6 6h-3v4h3v8h4v-7h4v7h4v-11h-8v-1.033a1.967 1.967 0 0 1 2 -1.967h2v-4z" /></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li  class='current' >
+            <a href='/articles/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Guides</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/newsletter/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-messages" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M21 14l-3 -3h-7a1 1 0 0 1 -1 -1v-6a1 1 0 0 1 1 -1h9a1 1 0 0 1 1 1v10" />
+  <path d="M14 15v2a1 1 0 0 1 -1 1h-7l-3 3v-10a1 1 0 0 1 1 -1h2" />
+</svg>
+
+
+
+                
+                <span>Newsletter</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/downloads/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Downloads</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/categories/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>Categories</span>
+            </a>
+        </li>
+        
+
+        <div class="menu-bottom-section">
+                <li id="i18n-switch">  
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                    <select name="language" onchange="window.location.href = this.selectedOptions[0].value">
+                        
+                            <option value="https://mansoorbarri.com/" selected></option>
+                        
+                    </select>
+                </li>
+            
+            
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
+        </div>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#context">Context</a></li>
+    <li><a href="#starters">Starters</a></li>
+    <li><a href="#cli">CLI</a></li>
+    <li><a href="#gh">GH</a></li>
+  </ul>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/linux/" >
+                Linux
+            </a>
+        
+            <a href="/categories/windows/" >
+                Windows
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h1 class="article-title">
+            <a href="/ultimate-gh-guide/">The Ultimate Guide to Github On Linux</a>
+        </h1>
+    
+        
+        <h3 class="article-subtitle">
+            The only guide you will need to use Github on Linux.
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Feb 08, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    4 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="context">Context</h2>
+<p>There are many ways to use Github on Linux however some are worse than others. On this site, I have shared many ways but I wanted to make <em>an ultimate guide to Github on Linux</em>.</p>
+<h2 id="starters">Starters</h2>
+<p>Github desktop is quite popular in Windows as Windows doesn’t really have a good alternative however on Linux Github doesn’t even have an official application. Even then people use an unofficial version of their desktop application made by one of Github’s employeers: <a class="link" href="https://github.com/shiftkey/desktop"  target="_blank" rel="noopener"
+    >https://github.com/shiftkey/desktop</a>.</p>
+<p>What is it good for?
+nothing. I personally use it only when everything else fails. Some reasons why I don’t recommend using it:</p>
+<ul>
+<li>Commit size restrictions</li>
+<li>bad UI</li>
+<li>relatively  slow</li>
+</ul>
+<h2 id="cli">CLI</h2>
+<p>The only reasonable way to use Github on Linux would be using the CLI. Some find it daunting (<em>that’s when you use Github desktop</em>) but but but. With just a bit of learning curve, you can become a lot faster and better at pushing stuff on Github.</p>
+<p>For a normal CLI experience, you don’t need to install anything new except <code>git</code> which you probably have installed by default as most distributions come with it. Alternatively, you can use these commands to install it</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt update <span class="o">&amp;&amp;</span> sudo apt install git -y
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>then you can commit &amp; push code using:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git init 
+</span></span><span class="line"><span class="cl">git add . 
+</span></span><span class="line"><span class="cl">git commit -m “<span class="o">{</span>commit-message<span class="o">}</span>” 
+</span></span><span class="line"><span class="cl">git push
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>yes it is that long and winded.</p>
+<h2 id="gh">GH</h2>
+<p>This is by far the best way to do anything to do with commits &amp; pushing code to Github. It is available on Windows however I don’t really have good experiences with it. I still have it though and use it whenever I can.</p>
+<h3 id="what-is-gh-though">What is gh though?</h3>
+<p>It is a cli version of Github, the application. You can pull, push, commit, do PRs and much more. &amp;&amp; more importantly its faster than other ways.</p>
+<p>Personally, I have been using it just for a year which is weird because I don’t know how I lived without it. I use it with SSH login and I never have to deal with logins and other Github annoyances ever again.</p>
+<h3 id="okay-but-how-do-you-do-this-gh-thing">okay, but how do you do this gh thing?</h3>
+<p>I have made various articles before however here is everything you have to do to gh with SSH:</p>
+<h3 id="install-gh">Install GH</h3>
+<p>Debian</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt install gh -y
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Windows</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">winget install -e GitHub.cli
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Mac</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">brew install gh
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="create-ssh-keys">Create SSH keys</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ssh-keygen -t ed25519 -C <span class="s2">&#34;your-email&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Enter this command &amp; go with default options. Then:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">eval</span> <span class="s2">&#34;</span><span class="k">$(</span>ssh-agent -s<span class="k">)</span><span class="s2">&#34;</span>
+</span></span><span class="line"><span class="cl">ssh-add ~/.ssh/id_ed25519.pub
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="add-ssh-keys-to-github">add ssh keys to github</h3>
+<ul>
+<li>Use the following command to copy the public key:</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">cat ¬/.ssh/id_ed22519.pub
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>Log in to your GitHub account and go to “Settings” from the drop-down menu under your profile picture in the upper-right corner.</li>
+<li>Click on “SSH and GPG keys” on the left-hand menu, and then click on the “New SSH key” button.</li>
+<li>In the “Key” field, copy and paste the contents of your public key file give the key a descriptive name.</li>
+<li>Finally, click the “Add SSH key” button to save your new key.</li>
+<li>Test your connection: <code>ssh -T [git@github.com](mailto:git@github.com)</code></li>
+</ul>
+<h3 id="setup-gh-for-the-first-time-device-based">Setup GH for the first time (device based)</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">gh auth login 
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>go through the prompts and use <code>SSH</code> as an authentication method.</p>
+<h3 id="set-github-to-use-ssh">Set Github to use SSH</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">gh config <span class="nb">set</span> -h github.com git_protocol ssh
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>now set your repository for SSH authentication. You have to do this for local repositories only <em>(repositories which are already cloned on your system)</em></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git remote set-url origin git@github.com:mansoorbarri/website.git
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><em>change “mansoorbarri/website” with your username/repostiory</em></p>
+<h3 id="set-gpg-keys-optional">Set GPG keys (optional)</h3>
+<p>Now  this step isn’t really important however this will make it so your commits has that “verified” tag on your commits.</p>
+<ul>
+<li>Generate GPG keys:</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">gpg --full-generate-key
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><em>when it asks for your name and email, enter your Github username under name &amp;&amp; Github email under email.</em></p>
+<ul>
+<li>Log in to your GitHub account and go to “Settings” from the drop-down menu under your profile picture in the upper-right corner.</li>
+<li>Click on “SSH and GPG keys” on the left-hand menu, and then click on the “New GPG key” button.</li>
+<li>Use this command to get your GPG key:</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">gpg --armor --export &lt;your email&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>copy the whole output <em>(yes, including “—-BEGIN PGP PUBLIC KEY BLOCK—-”)</em></p>
+<h3 id="sign-commits-using-gpg-keys">sign commits using GPG keys</h3>
+<p>use this command to see all the GPG keys</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="nx">gpg</span> <span class="o">--</span><span class="nx">list</span><span class="o">-</span><span class="nx">secret</span><span class="o">-</span><span class="nx">keys</span> <span class="o">--</span><span class="nx">keyid</span><span class="o">-</span><span class="nx">format</span><span class="o">=</span><span class="kr">long</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>The output will look something like this:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">$ gpg --list-secret-keys --keyid-format<span class="o">=</span>long
+</span></span><span class="line"><span class="cl">/Users/anar/.gnupg/secring.gpg
+</span></span><span class="line"><span class="cl">------------------------------------
+</span></span><span class="line"><span class="cl">sec   4096R/3AA5C34371567BD2 2016-03-10 <span class="o">[</span>expires: 2017-03-10<span class="o">]</span>
+</span></span><span class="line"><span class="cl">uid                          anar &lt;anar@example.com&gt;
+</span></span><span class="line"><span class="cl">ssb   4096R/4BB6D45482678BE3 2016-03-10
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>copy <code>3AA5C34371567BD2</code> from <code>sec   4096R/3AA5C34371567BD2 2016-03-10 [expires: 2017-03-10]</code></p>
+<p><em>your key will be different</em></p>
+<p>now run:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git config --global user.signingkey &lt;your GPG key ID&gt;
+</span></span><span class="line"><span class="cl">git config --global commit.gpgsign <span class="nb">true</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>that’s it.</p>
+<p>From now, when you clone your repositories from <a class="link" href="http://Github.com"  target="_blank" rel="noopener"
+    >Github.com</a>, it will clone it using the “SSH” tab rather than “HTTPS” which will automatically make sure that your project uses SSH as the authentication method.</p>
+<p>You don&rsquo;t have to use these methods &amp;&amp; using Github Desktop on Linux is absolutely fine however you will be missing out on a lot of performance gains. :(</p>
+<p>-MB</p>
+<hr>
+
+    <div id="scroll-progress"></div>
+<script>
+    const scrollProgress = document.getElementById('scroll-progress');
+    const height =
+      document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    
+    window.addEventListener('scroll', () => {
+      const scrollTop =
+        document.body.scrollTop || document.documentElement.scrollTop;
+      scrollProgress.style.width = `${(scrollTop / height) * 100}%`;
+    });
+</script>
+<style>
+#scroll-progress {
+    position: fixed;
+    top: 0px;
+    width: 0%;
+    height: 4px;
+    background: #7983ff;
+    left: 0px;
+    z-index: 1;
+}
+</style>
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/github/">GitHub</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content horizontal-scrollbar">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/could-not-read-username/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">fatal: could not read username for https://github.com: terminal prompts disabled</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/github-spam-fix/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">How Can GitHub Fix Spamming?</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/guides/better-github/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Better Way To Use GitHub</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/npm-hugo/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Use npm with Hugo</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/css-integrity-error-hugo/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">CSS Integrity Error Hugo</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+
+     
+    
+        
+    <script src="https://utteranc.es/client.js" 
+        repo="mansoorbarri/website"
+        issue-term="title"
+        
+        label="comments"
+        
+        crossorigin="anonymous"
+        async
+        >
+</script>
+
+<style>
+    .utterances {
+        max-width: unset;
+    }
+</style>
+
+<script>
+    let utterancesLoaded = false;
+
+    function setUtterancesTheme(theme) {
+        let utterances = document.querySelector('.utterances iframe');
+        if (utterances) {
+            utterances.contentWindow.postMessage(
+                {
+                    type: 'set-theme',
+                    theme: `github-${theme}`
+                },
+                'https://utteranc.es'
+            );
+        }
+    }
+
+    addEventListener('message', event => {
+        if (event.origin !== 'https://utteranc.es') return;
+
+        
+        utterancesLoaded = true;
+        setUtterancesTheme(document.documentElement.dataset.scheme)
+    });
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (!utterancesLoaded) return;
+        setUtterancesTheme(e.detail)
+    })
+</script>
+
+
+<div class="news">
+    <style>
+        .news {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+    <script async data-uid="3c2395f583" src="https://mansoorbarri.ck.page/3c2395f583/index.js"></script>
+</div>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2024 Mansoor Barri
+    </section>
+    <section>
+        <a href="/terms-and-conditions">Terms & Conditions</a> | <a href="/privacy-policy"> Privacy Policy </a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>UFW on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/tags/ufw/</link>
+        <description>Recent content in UFW on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/ufw/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Automatic Updates on Linux</title>
+        <link>https://mansoorbarri.com/guides/auto-updates/</link>
+        <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/auto-updates/</guid>
+        <description>&lt;h1 id=&#34;brief&#34;&gt;Brief&lt;/h1&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/mvo5/unattended-upgrades&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Unattendeed Upgrades&lt;/a&gt; - Automatic installation of security upgrades on apt based systems.&lt;/p&gt;
+&lt;h1 id=&#34;install&#34;&gt;install&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt install unattended-upgrades -y
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;enable-automatic-updates&#34;&gt;Enable Automatic Updates&lt;/h1&gt;
+&lt;p&gt;enable automatic updates by:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dpkg-reconfigure -plow unattended-upgrades 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;-plow&amp;rdquo; is to set prorioty as low for unattended upgrades.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;select &amp;ldquo;yes&amp;rdquo; from these options:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/auto-updates/2022.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of the command&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;other-configsources&#34;&gt;Other config/sources&lt;/h1&gt;
+&lt;p&gt;For more about configuration, go through &lt;a class=&#34;link&#34; href=&#34;https://haydenjames.io/how-to-enable-unattended-upgrades-on-ubuntu-debian/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this blog&lt;/a&gt; by Hayden James.&lt;/p&gt;
+&lt;p&gt;that’s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

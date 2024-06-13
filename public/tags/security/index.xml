@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Security on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/tags/security/</link>
+        <description>Recent content in Security on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/security/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Importance of 2FA &amp; how to enable it</title>
+        <link>https://mansoorbarri.com/guides/2fa/</link>
+        <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/2fa/</guid>
+        <description>&lt;p&gt;Two-Factor Authentication (2FA) is crucial for online security because it adds an extra layer of protection. It requires users to provide two forms of authentication before accessing an account, making it harder for attackers to gain unauthorized access.&lt;/p&gt;
+&lt;p&gt;2FA prevents common threats like stolen passwords, phishing attacks, and credential reuse. It&amp;rsquo;s widely used in both personal and business settings to comply with security standards, prevent data breaches, and provide peace of mind.&lt;/p&gt;
+&lt;h2 id=&#34;enabling-2fa&#34;&gt;Enabling 2FA&lt;/h2&gt;
+&lt;p&gt;First you should install an app which stores and generates these codes. I prefer &lt;a class=&#34;link&#34; href=&#34;https://authy.com/download/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Authy&lt;/a&gt; as it is available on various operating systems and is better secure.&lt;/p&gt;
+&lt;h3 id=&#34;google&#34;&gt;Google&lt;/h3&gt;
+&lt;p&gt;On Google account:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;go to &lt;a class=&#34;link&#34; href=&#34;https://myaccount.google.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://myaccount.google.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Secuirty &amp;gt; 2-Step Verification&lt;/li&gt;
+&lt;li&gt;Follow the steps for authentication app&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On Instagram:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Settings &amp;gt; Password and Security &amp;gt; Two-factor authentication&lt;/li&gt;
+&lt;li&gt;Follow the steps for authentication app&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On Twitter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Settings and Support &amp;gt; Settings and privacy &amp;gt; Security and account access &amp;gt; security &amp;gt; Two-factor authentication&lt;/li&gt;
+&lt;li&gt;Follow the steps for authentication app&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On Linkedin:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Settings &amp;amp; Privacy &amp;gt; Sign in &amp;amp; security &amp;gt; Two step verification&lt;/li&gt;
+&lt;li&gt;Follow the steps for authentication app&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On other applicatons/platforms, there should be similar steps.&lt;/p&gt;
+&lt;h2 id=&#34;note&#34;&gt;Note&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Disable 2FA by phone number if you can as it is insecure and can be bypassed.&lt;/li&gt;
+&lt;li&gt;Some platforms may specific &amp;ldquo;authentication app&amp;rdquo; as &amp;ldquo;microsoft authenticator&amp;rdquo; or any other authenticator app however it will allow Authy to work as well.&lt;/li&gt;
+&lt;li&gt;Try to enable 2FA on all the accounts that you hold.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Npm on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/tags/npm/</link>
+        <description>Recent content in Npm on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/npm/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Use npm with Hugo</title>
+        <link>https://mansoorbarri.com/npm-hugo/</link>
+        <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/npm-hugo/</guid>
+        <description>&lt;p&gt;I was developing a new Hugo theme and wanted to use Tailwind, and if you did not know, Tailwind is installed in a project using Nodejs. More specifically, &lt;a class=&#34;link&#34; href=&#34;https://www.npmjs.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;npm&lt;/a&gt; however I did not know how do I use Hugo with npm and deploy it to Cloudflare. kinda dumb.&lt;/p&gt;
+&lt;p&gt;Turns out, its quite easy.&lt;/p&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;p&gt;Initialise npm to your project, or in this case, install Tailwind.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;from your Hugo project root, Install Tailwind:&lt;/li&gt;
+&lt;li&gt;set your Tailwind config&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now you will have to set scripts so you can run Hugo using node. It sounds complicated but its not.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;install &lt;code&gt;npm-run-all&lt;/code&gt; by running:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm i -D npm-run-all
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Set scripts in &lt;code&gt;package.json&lt;/code&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;#34;scripts&amp;#34;: {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;dev-hugo&amp;#34;: &amp;#34;hugo server --disableFastRender&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;dev-tailwind&amp;#34;: &amp;#34;npx tailwindcss -i assets/css/raw.main.css -o static/css/main.css --watch&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;dev&amp;#34;: &amp;#34;run-p dev-hugo dev-tailwind&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;build&amp;#34;: &amp;#34;npx tailwindcss -i assets/css/raw.main.css -o static/css/main.css &amp;amp;&amp;amp; hugo &amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  },
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;#34;devDependencies&amp;#34;: {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;npm-run-all&amp;#34;: &amp;#34;^4.1.5&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;#34;tailwindcss&amp;#34;: &amp;#34;^3.3.3&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;So what I did here is that I made a script called &lt;code&gt;dev-hugo&lt;/code&gt; which runs hugo server then I made another script called &lt;code&gt;dev-tailwind&lt;/code&gt; which runs Tailwind then I combine both &lt;em&gt;&amp;ldquo;dev-&amp;rdquo;&lt;/em&gt; scripts so both can run simultanously; which is also why we need the &lt;code&gt;npm-run-all&lt;/code&gt; package.&lt;/p&gt;
+&lt;p&gt;The combined script is called &lt;code&gt;dev&lt;/code&gt; however you can change the name of script to whatever you want. Also, I made another script to actually build my Hugo site along with the Tailwind CSS.&lt;/p&gt;
+&lt;p&gt;In summary, I have two main scripts which I will be using: &lt;code&gt;dev&lt;/code&gt; &amp;amp; &lt;code&gt;build&lt;/code&gt;. Now to run Hugo locally, run: &lt;code&gt;npm run dev&lt;/code&gt; &amp;amp; to build the website i.e., on Cloudflare, run: &lt;code&gt;npm run build&lt;/code&gt; and it should all work.&lt;/p&gt;
+&lt;p&gt;I still don&amp;rsquo;t understand some part of this but hey, it works. Here is the project which uses npm + Hugo + Tailwind + Cloudflare: &lt;a class=&#34;link&#34; href=&#34;https://github.com/mansoorbarri/Davlux&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/mansoorbarri/Davlux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media0.giphy.com/media/n9ewEcw0oyHEYEuH1c/giphy.gif?cid=6c09b952c006y487vdha53s91oql9chudnh5vqeoafochdus&amp;amp;ep=v1_internal_gif_by_id&amp;amp;rid=giphy.gif&amp;amp;ct=g&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;a man throwing his computer in a trash bin&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;-MB&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

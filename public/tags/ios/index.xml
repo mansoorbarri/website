@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>IOS on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/tags/ios/</link>
+        <description>Recent content in IOS on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/ios/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Transfer Data From Iphone To Android Using Copy My Data</title>
+        <link>https://mansoorbarri.com/guides/iphone-to-android/</link>
+        <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/iphone-to-android/</guid>
+        <description>&lt;p&gt;While switching from an iPhone to an Android phone can be thrilling, the data transfer process can also be difficult. Fortunately, there are a number of apps available to make the process simpler, with &amp;ldquo;Copy My Data&amp;rdquo; being one of the most well-liked. You can quickly and effortlessly move your contacts, images, and other data between devices using this app, which is available for both iPhone and Android devices.&lt;/p&gt;
+&lt;h2 id=&#34;download-links&#34;&gt;Download Links&lt;/h2&gt;
+&lt;p&gt;First, you have to install &amp;ldquo;Copy My Data&amp;rdquo; on both devices&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://apps.apple.com/us/app/copy-my-data-smart-transfer/id870099476&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IOS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.mediamushroom.copymydata&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Android&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data-transfer&#34;&gt;Data Transfer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make sure both phones are on  the same network&lt;/li&gt;
+&lt;li&gt;Open the app on both devices&lt;/li&gt;
+&lt;li&gt;Select &amp;ldquo;Wifi&amp;rdquo; as the medium for transfer&lt;/li&gt;
+&lt;li&gt;Select your Iphone on your Android phone and vise versa&lt;/li&gt;
+&lt;li&gt;Select the data you want to transfer i.e. contacts, photoes, calender et cetra&lt;/li&gt;
+&lt;li&gt;Wait for the transfer to be completed
+&lt;em&gt;(The transfer process may take a few minutes, depending on the number of contacts you are transferring)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Verify that all the data you selected was transfered successfully.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

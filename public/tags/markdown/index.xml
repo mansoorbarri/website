@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Markdown on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/tags/markdown/</link>
+        <description>Recent content in Markdown on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Convert Your Markdown File to a Medium Post</title>
+        <link>https://mansoorbarri.com/guides/md-to-medium/</link>
+        <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/md-to-medium/</guid>
+        <description>&lt;p&gt;Following these steps will allow you to convert your Markdown file into a Medium post using the Markdown-to-Medium tool.&lt;/p&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Go to the Markdown-to-Medium website at &lt;a class=&#34;link&#34; href=&#34;https://markdown-to-medium.surge.sh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://markdown-to-medium.surge.sh/&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Copy the text from your Markdown file and paste it into the text box on the Markdown-to-Medium website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Copy the &amp;ldquo;MEDIUM&amp;rdquo; code that the website generates (the right side of the website).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Log in to your Medium account and create a new post.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paste the &amp;ldquo;MEDIUM&amp;rdquo; code into your new medium post.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Preview and publish your post.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

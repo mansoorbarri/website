@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Webcam on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/tags/webcam/</link>
+        <description>Recent content in Webcam on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/webcam/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Using Canon Camera as Webcam</title>
+        <link>https://mansoorbarri.com/guides/cannon-camera-as-webcam/</link>
+        <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/cannon-camera-as-webcam/</guid>
+        <description>&lt;p&gt;*&lt;em&gt;&lt;strong&gt;Note that the official Canon webcam utility software is only available for Windows and macOS operating systems. Linux users might have to look for third-party solutions or workarounds.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;To use your Canon camera as a webcam, you&amp;rsquo;ll need the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Canon camera that supports the EOS Webcam Utility software, list: &lt;a class=&#34;link&#34; href=&#34;https://www.usa.canon.com/cameras/eos-webcam-utility#model&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.usa.canon.com/cameras/eos-webcam-utility#model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A USB cable to connect your camera to your computer&lt;/li&gt;
+&lt;li&gt;The EOS Webcam Utility software (download it from the Canon website)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;p&gt;Once you have the requirements ready, follow these steps to use your Canon camera as a webcam:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install the &lt;a class=&#34;link&#34; href=&#34;https://www.canon.co.uk/cameras/eos-webcam-utility/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;EOS Webcam Utility software&lt;/a&gt; on your computer (Windows or macOS only).&lt;/li&gt;
+&lt;li&gt;Connect your Canon camera to your computer using the USB cable.&lt;/li&gt;
+&lt;li&gt;Turn on your camera and set it to the movie shooting mode.&lt;/li&gt;
+&lt;li&gt;Launch the EOS Webcam Utility software on your computer.&lt;/li&gt;
+&lt;li&gt;Choose your Canon camera as the video source in your video conferencing or live streaming software (e.g., Zoom, Skype, OBS Studio).&lt;/li&gt;
+&lt;li&gt;Adjust the camera settings (e.g., focus, aperture, exposure) in your camera&amp;rsquo;s menu as needed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

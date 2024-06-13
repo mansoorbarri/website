@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Android on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/categories/android/</link>
+        <description>Recent content in Android on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/categories/android/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CSS Integrity Error Hugo</title>
+        <link>https://mansoorbarri.com/css-integrity-error-hugo/</link>
+        <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/css-integrity-error-hugo/</guid>
+        <description>&lt;h1 id=&#34;fix-css-integrity-error-in-hugo&#34;&gt;Fix CSS integrity error in Hugo&lt;/h1&gt;
+&lt;p&gt;While developing multiple Hugo themes I ran into this issue where the CSS or the JS would not load on the deployed website, it does work on &lt;a class=&#34;link&#34; href=&#34;http://localhost&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;localhost&lt;/a&gt; when you run &lt;code&gt;hugo server&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The issue is from your service providers’ side, providers like Cloudflare pages or GitHub pages store a cache version of your website. The cache version’s CSS integrity would be different to your latest CSS integrity which is why it would not load the CSS. A short term fix would be toclear the cache on your service providers dashboard. For Cloudflare:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your pages site’s setttings&lt;/li&gt;
+&lt;li&gt;Then go to &lt;em&gt;Builds &amp;amp; deployments&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Under &lt;em&gt;Build cache&lt;/em&gt; click on &lt;em&gt;clear cache&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For GitHub pages and other service providers, the steps would be similar.&lt;/p&gt;
+&lt;p&gt;To fix this permanently, clear out the &lt;em&gt;integrity&lt;/em&gt; value like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2024/css-integrity-error-hugo/code-screenshot.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;screenshot of the code with integrity removed&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;-MB&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Mirror Android Screen with Sound Wirelessly</title>
+        <link>https://mansoorbarri.com/guides/wireless-android-screen-mirror/</link>
+        <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/wireless-android-screen-mirror/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Disclaimer: this only works when your phone and computer is on the same network&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Previously I have explained how you can &lt;a class=&#34;link&#34; href=&#34;https://mansoorbarri.com/guides/android-screen-mirror&#34; &gt;mirror your android phone&lt;/a&gt; on machine however you can also do it wirelessly as well in a different method but kinda the same.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Install &lt;code&gt;scrcpy&lt;/code&gt; &amp;amp; &lt;code&gt;sndcpy&lt;/code&gt; just like how it is mentioned in the previous guide: &lt;a class=&#34;link&#34; href=&#34;https://mansoorbarri.com/guides/android-screen-mirror/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mansoorbarri.com/guides/android-screen-mirror/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Then install ADB:
+debian linux&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;apt&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;android&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sdk&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;platform&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Windows&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Download ADB Platform Tools&lt;/li&gt;
+&lt;li&gt;Extract Tools to C:\Windows (This allows you to run adb.exe and fastboot.exe from anywhere)&lt;/li&gt;
+&lt;li&gt;Install drivers for your phone - Install Android Device Drivers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now connect your phone using a USB cable and run:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb connect {ip}:5555
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;where &lt;code&gt;{ip}&lt;/code&gt; is your phone&amp;rsquo;s IP for example, &lt;code&gt;adb connect 127.0.0.1:5555&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;now disconnect the USB cable and run &lt;code&gt;sndcpy&lt;/code&gt; or/and &lt;code&gt;scrcpy&lt;/code&gt; and you should be able to connect over wifi.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: the adb wireless connection may disconnect when your phone or computer restarts&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>The Perfect Phone</title>
+        <link>https://mansoorbarri.com/guides/the-perfect-phone/</link>
+        <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/the-perfect-phone/</guid>
+        <description>&lt;p&gt;The aim of this &amp;ldquo;perfect phone is to have as much distractions as possible and have everything at ease rather than going through various manus.&lt;/p&gt;
+&lt;h2 id=&#34;things-used&#34;&gt;Things used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Debloater:    &lt;a class=&#34;link&#34; href=&#34;https://github.com/0x192/universal-android-debloater/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Universal Android Debloater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Launcher:     &lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=bitpit.launcher&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Niagra Launcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Icon Pack:    &lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.natewren.linesfree&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lines Icon Pack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notifications:   &lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.jamworks.dynamicspot&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dynamic Island&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;debloat&#34;&gt;Debloat&lt;/h2&gt;
+&lt;p&gt;Install ADB:&lt;/p&gt;
+&lt;p&gt;debian linux&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;apt&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;android&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sdk&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;platform&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Windows&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Download ADB Platform Tools&lt;/li&gt;
+&lt;li&gt;Extract Tools to C:\Windows (This allows you to run adb.exe and fastboot.exe from anywhere)&lt;/li&gt;
+&lt;li&gt;Install drivers for your phone - Install Android Device Drivers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;now install the universal debloater tool from their Github &amp;amp; run the program: &lt;a class=&#34;link&#34; href=&#34;https://github.com/0x192/universal-android-debloater/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/0x192/universal-android-debloater/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/0x192/universal-android-debloater/raw/main/resources/screenshots/v0.5.0.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of the tool&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Now make sure &amp;ldquo;Recommended&amp;rdquo; is selected from the top dropdown menu and then uninstall whatever you don&amp;rsquo;t want.&lt;/p&gt;
+&lt;h2 id=&#34;cosmeticmy-setup&#34;&gt;Cosmetic/my setup&lt;/h2&gt;
+&lt;p&gt;Now install the launcher &amp;amp;/or icon pack and style your device how you want it to be.&lt;/p&gt;
+&lt;p&gt;My setup turned out to be like this:&lt;/p&gt;
+
+&lt;video width=&#34;235&#34; height=&#34;500&#34; autoplay loop&gt;
+  &lt;source src=&#34;https://mansoorbarri.com/img/guides/2023/the-perfect-phone/my-setup.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+&lt;h2 id=&#34;fixtip&#34;&gt;Fix/tip&lt;/h2&gt;
+&lt;p&gt;When you are using Dynamic Island, it will still show up along with your default notification style which is annoying and you have to pay to remove the default notifier.&lt;/p&gt;
+&lt;p&gt;To get around this, use ADB to disable default notification like so:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb shell settings put global heads_up_notifications_enabled 0
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&amp;amp; to enable default notifier:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;adb shell settings put global heads_up_notifications_enabled 1
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Transfer Data From Iphone To Android Using Copy My Data</title>
+        <link>https://mansoorbarri.com/guides/iphone-to-android/</link>
+        <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/iphone-to-android/</guid>
+        <description>&lt;p&gt;While switching from an iPhone to an Android phone can be thrilling, the data transfer process can also be difficult. Fortunately, there are a number of apps available to make the process simpler, with &amp;ldquo;Copy My Data&amp;rdquo; being one of the most well-liked. You can quickly and effortlessly move your contacts, images, and other data between devices using this app, which is available for both iPhone and Android devices.&lt;/p&gt;
+&lt;h2 id=&#34;download-links&#34;&gt;Download Links&lt;/h2&gt;
+&lt;p&gt;First, you have to install &amp;ldquo;Copy My Data&amp;rdquo; on both devices&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://apps.apple.com/us/app/copy-my-data-smart-transfer/id870099476&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IOS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.mediamushroom.copymydata&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Android&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data-transfer&#34;&gt;Data Transfer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make sure both phones are on  the same network&lt;/li&gt;
+&lt;li&gt;Open the app on both devices&lt;/li&gt;
+&lt;li&gt;Select &amp;ldquo;Wifi&amp;rdquo; as the medium for transfer&lt;/li&gt;
+&lt;li&gt;Select your Iphone on your Android phone and vise versa&lt;/li&gt;
+&lt;li&gt;Select the data you want to transfer i.e. contacts, photoes, calender et cetra&lt;/li&gt;
+&lt;li&gt;Wait for the transfer to be completed
+&lt;em&gt;(The transfer process may take a few minutes, depending on the number of contacts you are transferring)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Verify that all the data you selected was transfered successfully.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>How To Get a Email Verified Badge</title>
+        <link>https://mansoorbarri.com/guides/email-cert/</link>
+        <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/email-cert/</guid>
+        <description>&lt;h2 id=&#34;email-certificates&#34;&gt;Email Certificates?&lt;/h2&gt;
+&lt;p&gt;Yes, these are certificate which verifies that you are using a certain type of encryption (S/MIME) when sending mails. This is rare because it’s not really necessary plus it’s a pain to set it up correctly.&lt;/p&gt;
+&lt;h2 id=&#34;getting-email-certificate&#34;&gt;Getting Email Certificate&lt;/h2&gt;
+ 
+Go to &lt;a href=&#34;https://extrassl.actalis.it/portal/uapub/freemail?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Actalis&#39;s website&lt;/a&gt;
+
+
+&lt;p&gt;Enter the email you want to verify, click on “send verification email” and enter the OTP from the email.&lt;/p&gt;
+&lt;p&gt;*&lt;em&gt;Note: sometimes the email goes to the spam folder so make sure you check that as well&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Then check all the terms and condition and click on “Submit Request”.&lt;/p&gt;
+&lt;p&gt;On the next page it will show you a password, Save this password or better just print this page to a PDF file since this password will NOT be shown to you ever again and there is no way to get this page back.&lt;/p&gt;
+&lt;p&gt;Next download the .zip file they sent on your email and extract the certificate which is in .pfx file.&lt;/p&gt;
+&lt;h2 id=&#34;installing-certificates-on-your-machine&#34;&gt;Installing Certificates on your machine&lt;/h2&gt;
+&lt;p&gt;*&lt;em&gt;You don’t have to perform this step on Linux machines.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Open the .pfx file and go through the prompts:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/email-cert/installing/2022.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of the wizard&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/email-cert/installing/2022_1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of the wizard&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/email-cert/installing/2022_2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of the wizard&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Here you have to enter the password which was given before (the one your printed).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/email-cert/installing/2022_3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Screenshot of the wizard&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;export-intermediate-certificate&#34;&gt;Export Intermediate Certificate&lt;/h2&gt;
+&lt;p&gt;This is an important step as some email clients require you to have intermediate certificate as well like &lt;a class=&#34;link&#34; href=&#34;https://mansoorbarri.com/guides/email-cert/#Apple-Mail&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apple Mail&lt;/a&gt;. For other common clients like Outlook, you do &lt;strong&gt;NOT&lt;/strong&gt; need this certificate so you can &lt;a class=&#34;link&#34; href=&#34;https://mansoorbarri.com/guides/email-cert/#installing-certificates-on-email-clients&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;skip&lt;/a&gt; this step.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Search for “Manage User Certificate” on Windows&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Under Personal -&amp;gt; Certificates&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Double click on your email’s certificate and go to “Certificate Path”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Double click on the middle certificate and go to “details” tab&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on “Copy to file” and go with default options in the prompt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Give it a name, usually “Actalis Client Authentication CA G3” as that is the default name.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;installing-certificates-on-email-clients&#34;&gt;Installing Certificates on Email Clients&lt;/h2&gt;
+&lt;h4 id=&#34;you-cannot-use-gmail-web-or-android-app-to-send-emails-with-a-smime-certificate&#34;&gt;*YOU CANNOT USE GMAIL WEB OR ANDROID APP TO SEND EMAILS WITH A S/MIME CERTIFICATE&lt;/h4&gt;
+&lt;h3 id=&#34;outlook&#34;&gt;Outlook&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Go to File -&amp;gt; Options -&amp;gt; Trust Center -&amp;gt; Trust Center Settings -&amp;gt; Email Security -&amp;gt; Settings&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on “new” and give it a name&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Choose” the certificate&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Change the hash algorithm to “SHA256”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Check “Send clear text signed message…&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;thunderbird&#34;&gt;Thunderbird&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Go to security settings: Hamburger button (☰) -&amp;gt; Settings -&amp;gt; Privacy &amp;amp; Security&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scroll down to “Certificates” and click on “Manage Certificates”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Import the .pfx file and enter the password shown before.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now, go to account security settings: Hamburger button -&amp;gt; Account Settings -&amp;gt; End-To-End Encryption&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“Select” the certificate and click “OK” &amp;amp; “Yes” on the next dialogue box&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;apple-mail&#34;&gt;Apple Mail&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mail yourself both certificate, Personal and Intermediate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open the mail and open the Personal Certificate by clicking on it then choose to install it on the Iphone/Ipad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Go to the settings app and there will be a new menu named “Profile Downloaded” then click “Install” then click “install” and then “Install” again one last time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now it will ask for that password from before.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now go back to the email and click on the Intermediate Certificate and repeat the steps.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now enable sending emails with this certificate by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Settings -&amp;gt; Mail -&amp;gt; Accounts -&amp;gt; [Your Email] -&amp;gt; Account -&amp;gt; Advanced&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scroll down to “S/MIME” and click on “Sign” and toggle the switch. You might have to select a certificate if you have multiple certificates for one email address.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android&#34;&gt;Android&lt;/h3&gt;
+&lt;p&gt;You can send the .pfx file through email and install it by opening the file and entering the password.&lt;/p&gt;
+&lt;p&gt;You have to search for intrustions for individually because Gmail app or web doesn’t support sending emails with S/MIME protocol.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remember to send test email(s) to check if the email signing if working correctly and as intended.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;video-resource&#34;&gt;Video Resource&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/3ne0d37cZyc&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;that&amp;rsquo;s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+ 
+ 
+
+
+</description>
+        </item>
+        <item>
+        <title>Mirror Android Screen with Sound</title>
+        <link>https://mansoorbarri.com/guides/android-screen-mirror/</link>
+        <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/android-screen-mirror/</guid>
+        <description>&lt;h1 id=&#34;brief&#34;&gt;Brief&lt;/h1&gt;
+&lt;p&gt;You can&amp;rsquo;t mirror screen and sound together so we&amp;rsquo;ll use two different tools to do the job. This method can be done on Linux &amp;amp; Windows but I am using Linux (Debian) in this case.&lt;/p&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Genymobile/Scrcpy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Scrcpy&lt;/a&gt; - for screen mirror&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/rom1v/sndcpy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;sndcpy&lt;/a&gt; - for sound&lt;/p&gt;
+&lt;h1 id=&#34;install&#34;&gt;Install&lt;/h1&gt;
+&lt;p&gt;Scrcpy:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt install scrcpy -y 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Sndcpy:
+download the &lt;a class=&#34;link&#34; href=&#34;https://github.com/rom1v/sndcpy#get-the-app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;latest release&lt;/a&gt; and extract the files&lt;/p&gt;
+&lt;h1 id=&#34;mirror&#34;&gt;Mirror&lt;/h1&gt;
+&lt;h3 id=&#34;screen-with-scrcpy&#34;&gt;Screen with Scrcpy&lt;/h3&gt;
+&lt;p&gt;First, go to your device settings and enable developer mode then, connect your Android device to your computer with your charger.&lt;/p&gt;
+&lt;p&gt;Run Scrcpy on your computer terminal&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Scrcpy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;you should see your phone screen on another window like this&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/android-screen-mirror/2022.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;picture of the new window&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;sound-with-sndcpy&#34;&gt;Sound with Sndcpy&lt;/h3&gt;
+&lt;p&gt;Run the linux file from the extracted files&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;./sndcpy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Now you can play anything to check everything.&lt;/p&gt;
+&lt;h1 id=&#34;recommendation&#34;&gt;Recommendation&lt;/h1&gt;
+&lt;p&gt;I use Scrcpy with some switches like:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Scrcpy --turn-screen-off --stay-awake
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;You can see more on their Github page @ &lt;a class=&#34;link&#34; href=&#34;https://github.com/Genymobile/Scrcpy#features&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Scrcpy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;amp; while using Sndcpy, just reduce the volume to 0% on the phone so you don&amp;rsquo;t hear &amp;ldquo;echo&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>SSH into Termux</title>
+        <link>https://mansoorbarri.com/guides/termux-ssh/</link>
+        <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/termux-ssh/</guid>
+        <description>&lt;p&gt;Just do the following steps:&lt;/p&gt;
+&lt;h2 id=&#34;install-openssh-on-termux&#34;&gt;Install OpenSSH on Termux:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pkg upgrade &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; pkg install openssh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;setup-a-password-for-termux&#34;&gt;Setup a password for Termux:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;passwd
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;get-your-username&#34;&gt;Get your username:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;whoami
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;start-ssh-server&#34;&gt;Start SSH server&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sshd
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;connect&#34;&gt;Connect!&lt;/h2&gt;
+&lt;p&gt;From your computer ssh like usual; the default port Termux uses for SSH is 8022.&lt;/p&gt;
+&lt;p&gt;example:&lt;/p&gt;
+&lt;p&gt;my IP is 192.168.0.10&lt;/p&gt;
+&lt;p&gt;my username: u0_a231&lt;/p&gt;
+&lt;p&gt;so my command would be:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh u0_a231@192.168.0.10 -p &lt;span class=&#34;m&#34;&gt;8022&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+ 
+
+&lt;video width=100% muted autoplay loop&gt;
+    &lt;source src=&#34;https://github.com/mansoorbarri/website/blob/main/images/termux-ssh/main.m4v?raw=true&#34; type=&#34;video/webm&#34;&gt;
+        your browser doesn&#39;t support video tag.
+&lt;/video&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Right click and check &amp;ldquo;Show all controls&amp;rdquo; to see video controls&lt;/em&gt;*&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+ 
+ 
+
+
+</description>
+        </item>
+        <item>
+        <title>Fixed - Termux Repository Under Maintenance Issue</title>
+        <link>https://mansoorbarri.com/guides/termux-repo/</link>
+        <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/termux-repo/</guid>
+        <description>&lt;h2 id=&#34;error&#34;&gt;Error&lt;/h2&gt;
+&lt;p&gt;error looks something like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/termux-repo/2022.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;screenshot of the error&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This error usually occurs on older version of termux specially when you install termux from Play Store. It is recommended to install it from F-Droid since it has the latest &amp;amp; greatest version.&lt;/p&gt;
+&lt;h2 id=&#34;fix&#34;&gt;Fix&lt;/h2&gt;
+&lt;p&gt;visit []Termux on F-Droid](&lt;a class=&#34;link&#34; href=&#34;https://f-droid.org/en/packages/com.termux/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://f-droid.org/en/packages/com.termux/&lt;/a&gt;) and install the APK normally.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOTE: INSTALL THE F-DROID APPLICATION IS NOT IMPORTANT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mansoorbarri.com/img/guides/2022/termux-repo/2022_1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;step screenshot&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it ✌🏽&lt;/p&gt;
+&lt;hr&gt;
+ 
+ 
+
+
+</description>
+        </item>
+        
+    </channel>
+</rss>

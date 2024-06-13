@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Privacy on Mansoor Barri</title>
+        <link>https://mansoorbarri.com/tags/privacy/</link>
+        <description>Recent content in Privacy on Mansoor Barri</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Mansoor Barri</copyright>
+        <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mansoorbarri.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Guide to Digital Privacy</title>
+        <link>https://mansoorbarri.com/guides/data-privacy/</link>
+        <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/data-privacy/</guid>
+        <description>&lt;p&gt;In the age of social media, online shopping, and other digital conveniences, it&amp;rsquo;s crucial to protect your personal information online. Hence why we&amp;rsquo;ve put together this guide to help you safeguard your digital privacy.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-digital-privacy-important&#34;&gt;Why is digital privacy important?&lt;/h3&gt;
+&lt;p&gt;Your private information is priceless and might be misused if it ends up in the wrong hands. Your personal information may be used by hackers and other cybercriminals for identity theft, fraud, or even blackmail.&lt;/p&gt;
+&lt;p&gt;Additionally, businesses may share your personal information with third parties without your permission or use it for targeted advertising. This may result in intrusive and obtrusive advertisements as well as possible privacy violations.&lt;/p&gt;
+&lt;h3 id=&#34;tips-for-protecting-your-digital-privacy&#34;&gt;Tips for protecting your digital privacy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use strong passwords:&lt;/strong&gt; Choose passwords that are long, complex, and difficult to guess. Avoid using the same password for multiple accounts, and consider using a password manager to keep track of your passwords.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider using a password manager to generate and store complex passwords. This can help you keep track of your passwords without having to remember them all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enable two-factor authentication:&lt;/strong&gt; Two-factor authentication (2FA) adds an extra layer of security to your online accounts by requiring an additional verification step beyond your password. This may involve entering a code sent to your phone or email, using a biometric identifier like a fingerprint or facial recognition, or answering a security question.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Most major online services offer 2FA, and it&amp;rsquo;s a good idea to enable it whenever possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use a VPN:&lt;/strong&gt; A virtual private network (VPN) encrypts your internet connection and masks your IP address, making it more difficult for hackers to intercept your online activity. VPNs are especially useful when using public Wi-Fi networks, which are often unsecured and vulnerable to snooping.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When choosing a VPN, look for one that has a no-logging policy and strong encryption protocols.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be wary of phishing scams:&lt;/strong&gt; Cybercriminals frequently use phishing scams to steal personal information. Typically, these scams involve phoney emails or messages that appear to be coming from a reliable source, like a bank or online retailer. You might be prompted by the message to click a link, enter your password, or give sensitive data.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Always check the sender&amp;rsquo;s email address twice and scan the message for any spelling or grammar mistakes to avoid falling for phishing scams. If in doubt, get in touch with the company to confirm the message&amp;rsquo;s legitimacy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use privacy settings:&lt;/strong&gt; The majority of social media platforms provide privacy settings so you can decide who can see your posts and personal data. To make sure that you&amp;rsquo;re not sharing more information than you intended, it&amp;rsquo;s crucial to review and modify these settings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can make your profile private, for instance, so that only your approved contacts can view your posts and profile details. Using your social media login information allows you to control what data apps and websites can access.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Keep your software up to date:&lt;/strong&gt; Cybercriminals may take advantage of software flaws to seize control of your device or access your personal data. Maintaining your software is crucial for this reason.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;By following these tips, you can significantly reduce your risk of falling victim to cybercrime and protect your digital privacy. Remember to stay vigilant and use common sense when sharing personal information online.&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Block Websites On Your Home Network</title>
+        <link>https://mansoorbarri.com/guides/home-security/</link>
+        <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://mansoorbarri.com/guides/home-security/</guid>
+        <description>&lt;h2 id=&#34;brief&#34;&gt;Brief&lt;/h2&gt;
+&lt;p&gt;OpenDNS has a home network security system that you can enable by changing DNS settings on your router&amp;rsquo;s admin page. Because some Internet Service Providers (ISPs), such as Virgin Media, do not allow you to change your DNS, this method may not work for you.&lt;/p&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;p&gt;To begin, sign up for OpenDNS, at &lt;a class=&#34;link&#34; href=&#34;https://signup.opendns.com/homefree/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;www.opendns.com/homefree&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scroll down to enter your information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Access your router&amp;rsquo;s administration page; the address is usually printed on the back of the router. then locate the DNS settings and enter the following DNS addresses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;208.67.222.222&lt;/li&gt;
+&lt;li&gt;208.67.220.220&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now check your settings by going to &lt;a class=&#34;link&#34; href=&#34;https://welcome.opendns.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;opendns.com/welcome&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Login to &lt;a class=&#34;link&#34; href=&#34;https://login.opendns.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;OpenDNS CPanel&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on &amp;ldquo;Add a network&amp;rdquo; then click on &amp;ldquo;ADD THIS NETWORK&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lastly, give your network a name&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recommended-settings&#34;&gt;Recommended Settings&lt;/h2&gt;
+&lt;p&gt;I recommend the &amp;ldquo;Moderate&amp;rdquo; filtering level option because it has a good balance of websites to block and websites not to block. You can add or remove any domains under &amp;ldquo;Manage individual domains&amp;rdquo; if you don&amp;rsquo;t want it to block a website or vice versa.&lt;/p&gt;
+&lt;p&gt;Another tip is to enable stats and logs so you can see which sites are being visited the most (especially those that are blocked) and by which IP address.&lt;/p&gt;
+&lt;p&gt;that&amp;rsquo;s it &amp;lt;3&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
