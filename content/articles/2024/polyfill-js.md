@@ -1,6 +1,6 @@
 ---
 title: "What we can learn from the polyfill.js attack" 
-description: 
+description: "Learn from the Polyfill.js attack, where compromised code injected malware into popular websites && what we can learn from this attack" 
 date: "2024-06-29"
 url: "/polyfill-js/"
 draft: false
