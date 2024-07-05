@@ -1,6 +1,6 @@
 ---
 title: "How Internet Firewalls Work?"
-description: 
+description: "Discover how Pakistan's new internet firewall operates using DNS poisoning, TCP attacks, and invisible bans to control online content. Understand the technical aspects and the need for decentralized platforms to ensure free information flow."
 date: "2024-07-05"
 url: "/internet-firewall-pk/"
 draft: false
@@ -71,3 +71,10 @@ To counter these restrictions, we need decentralized platforms that operate abov
 -MB 
 
 ---
+
+## Sources
+
+https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://www.youtube.com/watch?v=yrcaHGqTqHk
+https://www.youtube.com/watch?v=d28NUwAF-3M
