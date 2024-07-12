@@ -1,6 +1,6 @@
 ---
 title: "Reset BIOS Adminstration Password"
-description: 
+description: "step-by-step guide shows you how to use the "System Disabled" code and an online tool to regain access, saving you from expensive repair fees." 
 date: "2024-07-08"
 url: "/bios-password/"
 draft: false
