@@ -40,7 +40,7 @@ hugo new site {sitename}
 
 ```markdown
 cd {sitename}
-git clone <https://github.com/mansoorbarri/coming-soon.git> themes/coming-soon
+git clone https://github.com/mansoorbarri/glim-midnight themes/glim-midnight
 
 ```
 
@@ -48,7 +48,7 @@ or you can use `submodule` if you already have GitHub repository for your websit
 
 ```markdown
 git init
-git submodule add <https://github.com/mansoorbarri/glim-midnight.git> themes/glim-midnight
+git submodule add https://github.com/mansoorbarri/glim-midnight.git themes/glim-midnight
 
 ```
 
