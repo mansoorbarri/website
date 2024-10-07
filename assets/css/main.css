@@ -568,10 +568,6 @@ video {
   margin-bottom: 2rem;
 }
 
-.mb-16 {
-  margin-bottom: 4rem;
-}
-
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -584,12 +580,12 @@ video {
   margin-top: 0.5rem;
 }
 
-.mt-8 {
-  margin-top: 2rem;
-}
-
 .mt-24 {
   margin-top: 6rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
 }
 
 .block {
@@ -765,6 +761,9 @@ video {
 pre {
   white-space: pre-wrap;
   overflow-wrap: break-word;
+  background-color: #303030  !important;
+  border-radius: 10px  !important;
+  padding: 10px  !important;
 }
 
 code {
@@ -814,4 +813,3 @@ code {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
-  

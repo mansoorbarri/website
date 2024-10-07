@@ -11,10 +11,12 @@
 }
   
 pre {
-    @apply whitespace-pre-wrap break-words;
-  }
+  @apply whitespace-pre-wrap break-words;
+  background-color: #303030  !important;
+  border-radius: 10px  !important;
+  padding: 10px  !important;
+}
   
-  code {
-    @apply whitespace-pre-wrap;
-  }
-  
+code {
+  @apply whitespace-pre-wrap;
+}
