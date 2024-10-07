@@ -1,133 +1,30 @@
-baseurl = "https://mansoorbarri.com/"
-languageCode = "en-us"
-theme = "hugo-theme-stack"
-paginate = 20
+baseURL = "https://dev.mansoorbarri.com"
+languageCode = 'en-us'
 title = "Mansoor Barri"
-copyright = "Mansoor Barri"
-
-googleAnalytics = ""
-
-DefaultContentLanguage = "en"
-hasCJKLanguage = false
-
-[params]
-    mainSections = ["articles"]
-    featuredImageField = "image"
-    rssFullContent = true
-    favicon = "/img/logo/favicon.ico"
-
-    [params.dateFormat]
-        published = "Jan 02, 2006"
-        lastUpdated = "Jan 02, 2006 15:04 MST"
-
-    [params.sidebar]
-        emoji = ""
-        subtitle = ""
-        [params.sidebar.avatar]
-            enabled = true
-            local = false
-            src = "/img/logo/main.webp"
-
-    [params.article]
-        math = false
-        toc = true
-        readingTime = true
-        [params.article.license]
-            enabled = false
-            default = "Licensed under CC BY-NC-SA 4.0"
-
-    [params.comments]
-        enabled = true
-        provider = "utterances"
-        [params.comments.utterances]
-            repo = "mansoorbarri/website"
-            issueTerm = "title"
-            label = "comments"
-
-    [[params.widgets.homepage]]
-        type = "search"
-
-    [[params.widgets.page]]
-        type = "toc"
-    
-    taxonomiesExcludedFromSitemap = ["tags", "categories"]
-
-[params.opengraph]
-    [params.opengraph.twitter]
-        site = ""
-        card = "summary_large_image"
-
-[params.defaultImage.opengraph]
-    enabled = false
-    local = false
-    src = ""
-
-[params.colorScheme]
-    toggle = true
-    default = "auto"
-
-[params.imageProcessing]
-    [params.imageProcessing.cover]
-        enabled = true
-    [params.imageProcessing.content]
-        enabled = true
 
 [menu]
-    [[menu.social]]
-    identifier = "github"
-    name = "GitHub"
-    url = "https://github.com/mansoorbarri"
-    params.icon = "brand-github"
-    weight = 1  
+  [[menu.main]]
+    name = "blogs"
+    url = "/blogs"
+    weight = 1
 
-    [[menu.social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/mansoorbarri"
-    params.icon = "brand-twitter"
+  [[menu.main]]
+    name = "tags"
+    url = "/tags"
     weight = 2
 
-    [[menu.social]]
-    identifier = "linkedin"
-    name = "LinkedIn"
-    url = "https://linkedin.com/in/mansoorbarri"
-    params.icon = "brand-linkedin"
-    weight = 3 
-
-    [[menu.social]]
-    identifier = "fiverr"
-    name = "Fiverr"
-    url = "https://www.fiverr.com/barri_"
-    params.icon = "brand-fiverr"
-    weight = 4 
-
-
-[related]
-    includeNewer = true
-    threshold = 60
-    toLower = false
-
-    [[related.indices]]
-        name = "tags"
-        weight = 100
-
-    [[related.indices]]
-        name = "categories"
-        weight = 200
-
-[markup.goldmark.renderer]
-    unsafe = true
-
-[markup.tableOfContents]
-    endLevel = 2
-    ordered = false
-    startLevel = 2
-
-[markup.highlight]
-    noClasses = false
-    codeFences = true
-    guessSyntax = true
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
-    tabWidth = 4
+[params]
+    wiki = "likh."
+    hero = "just a **techie**."
+    paginate = 10
+    search = true
+    mainSections = ["blogs"]
+    projects = [    
+        {name = "Coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
+        {name = "Hugo-Validator", url = "https://github.com/mansoorbarri/hugo-validator", description = "A theme submission validation script for Hugo."},       
+    ]
+    socials = [        
+    {name = "github", username = "mansorbarri"},       
+    {name = "linkedin", username = "in/mansoorbarri"},       
+    {name = "twitter", username = "mansoorbarri"},     
+    ]

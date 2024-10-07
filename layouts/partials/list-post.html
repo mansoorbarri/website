@@ -1,0 +1,17 @@
+
+<div class="mx-auto max-w-container px-4">
+    <main class="prose">
+        <h1>{{ .Title }}</h1>
+        <div class="my-8"></div>    
+        <div class="flex flex-col gap-11">
+            {{ range .Paginator.Pages }}
+            <article class="flex flex-col gap-3">
+            <a href="{{ .Permalink }}" target="_self" class="underline decoration-neutral-600 underline-offset-4 transition-colors focus:decoration-neutral-500 focus:outline-offset-6 hover:decoration-neutral-500">
+                <!--[--> <span class="text-lg text-imp font-semibold">{{ .Params.title }}</span> <!--]-->
+            </a>
+            <span>{{ .Params.description }}</span> <span>{{ .Date.Format "January 2, 2006" }}</span> 
+            </article>
+            {{ end }}
+        </div>
+    </main>
+</div>

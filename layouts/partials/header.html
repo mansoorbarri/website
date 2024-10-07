@@ -1,0 +1,29 @@
+<header class="flex items-center justify-between h-10 mt-2">
+    <h1 class="text-neutral-500">
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    </h1>
+
+    <!-- Centered Search Box (only visible if .Site.Params.search is true) -->
+    {{ if .Site.Params.search }}
+    <div class="flex-1 flex justify-center">
+        <form action="https://duckduckgo.com/" method="get" class="w-full flex justify-center">
+            <input 
+                type="hidden" name="sites" value="{{ .Site.BaseURL }}">
+            <input 
+                type="text" 
+                name="q"
+                placeholder="Search..." 
+                class="w-1/2 px-4 py-2 border-b-2 border-neutral-700 text-white-800 bg-transparent focus:outline-none focus:ring-0 focus:border-b-neutral-500"
+            />
+        </form>
+    </div>
+    {{ end }}
+
+    <div class="flex gap-x-4 text-neutral-500">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL | absURL }}" target="_self" class="hover:underline hover:underline-offset-4 hover:transition-transform">
+            {{ .Name }}
+        </a>
+        {{ end }}
+    </div>
+</header>
