@@ -57,4 +57,3 @@ You can find guides for all of the scripts here: [/python](/tags/python/)
 
 that's all <3
 
----

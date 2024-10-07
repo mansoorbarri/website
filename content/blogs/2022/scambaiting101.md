@@ -72,4 +72,3 @@ Scambaiting is fun and helpful but be careful because these are criminals.
 
 that's it ✌🏽
 
----

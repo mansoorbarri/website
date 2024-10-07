@@ -30,4 +30,3 @@ Additionally, you can change the frequency of notifications about your analytics
 
 That's it <3 
 
----

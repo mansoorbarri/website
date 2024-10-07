@@ -31,4 +31,3 @@ Now restart the laptop and the BIOS should be accessable.
 
 -MB
 
----

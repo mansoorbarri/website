@@ -60,4 +60,3 @@ You can see more on their Github page @ [Scrcpy](https://github.com/Genymobile/S
 
 that's it ✌🏽
 
----

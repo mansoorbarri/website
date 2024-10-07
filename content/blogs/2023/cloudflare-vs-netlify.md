@@ -33,4 +33,3 @@ For more information on how to use Cloudflare with GitHub, you can checkout my g
 
 That’s it <3
 
----

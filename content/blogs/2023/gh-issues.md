@@ -38,4 +38,3 @@ whenever you are creating an issue on GitHub, write stuff which might help you i
 
 That’s it <3
 
----

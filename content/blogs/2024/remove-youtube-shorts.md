@@ -33,4 +33,3 @@ I personally use the Remove YouTube Shorts extension as you just have to install
 
 -MB
 
----

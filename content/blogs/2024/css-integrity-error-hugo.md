@@ -31,4 +31,3 @@ For GitHub pages and other service providers, the steps would be similar.
 
 -MB
 
----
