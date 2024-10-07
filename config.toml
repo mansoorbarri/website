@@ -1,4 +1,4 @@
-baseURL = "http://0.0.0.0:8080/"
+baseURL = "https://dev.mansoorbarri.com"
 languageCode = 'en-us'
 title = "Mansoor Barri"
 
