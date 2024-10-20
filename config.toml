@@ -94,14 +94,6 @@ hasCJKLanguage = false
     params.icon = "brand-linkedin"
     weight = 3 
 
-    [[menu.social]]
-    identifier = "fiverr"
-    name = "Fiverr"
-    url = "https://www.fiverr.com/barri_"
-    params.icon = "brand-fiverr"
-    weight = 4 
-
-
 [related]
     includeNewer = true
     threshold = 60
