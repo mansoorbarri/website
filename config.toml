@@ -15,6 +15,7 @@ hasCJKLanguage = false
     featuredImageField = "image"
     rssFullContent = true
     favicon = "/img/logo/favicon.ico"
+    description = "Barri is known for a few things. Creator of Sehat Saathi, Hugo theme Validator, and a few other things."
 
     [params.dateFormat]
         published = "Jan 02, 2006"
