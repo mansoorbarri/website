@@ -47,5 +47,3 @@ In 2024, the browser wars are far from over. Arc’s pivot is a reminder of how 
 I do think that they should not pause developing Arc, but rather continue to innovate and improve the browser. It has quite a small user base but a passionate one. I think it is important to keep Arc alive and keep the browser evolving.
 
 -MB 
-
----

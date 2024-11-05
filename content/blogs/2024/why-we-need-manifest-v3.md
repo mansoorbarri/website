@@ -49,5 +49,3 @@ For example, a key feature of the popular uBlock Origin is its ability to let us
 While these changes will impact adblockers, it’s clear Google’s primary focus is on improving security and privacy for all users. However, the trade-off is that it limits the dynamic nature of adblockers and other similar extensions.
 
 -MB 
-
----
