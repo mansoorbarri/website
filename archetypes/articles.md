@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description: 
+description: ""
 date: "{{ dateFormat "2006-01-02" .Date }}"
 url: "/{{ .Name }}/"
 draft: false
