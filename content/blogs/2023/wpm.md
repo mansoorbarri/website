@@ -32,7 +32,6 @@ Here are some videos & websites I used to help with the learning and practicing.
 - Ali Abdaal: https://www.youtube.com/watch?v=wmQt-QM0mbQ
 - Monkey Type: https://monkeytype.com/
 - Touch Typing: https://www.typing.com/en-gb/student/lessons
-- When I first hit 100 WPM: [Icks and Observations](/newsletter/icks-and-observations)
 
 That's it <3 
 
