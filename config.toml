@@ -15,17 +15,18 @@ paginate = 5
     weight = 2
 
 [params]
-    wiki = "likh."
-    hero = "just a **techie**."
-    search = true
-    mainSections = ["blogs"]
-    projects = [    
-        {name = "sehat saathi", url = "https://sehatsaathi.hepton.uk", description = "Clinic management for caregivers."},       
-        {name = "Coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
-        {name = "Hugo-Validator", url = "https://github.com/mansoorbarri/hugo-validator", description = "A theme submission validation script for Hugo."},       
-    ]
-    socials = [        
-    {name = "github", username = "mansorbarri"},       
-    {name = "linkedin", username = "in/mansoorbarri"},       
-    {name = "twitter", username = "mansoorbarri"},     
-    ]
+  description = "known for a few things. creator of Sehat Saathi, Hugo theme Validator, and a few other things."
+  wiki = "likh."
+  hero = "just a **techie**."
+  search = true
+  mainSections = ["blogs"]
+  projects = [    
+      {name = "sehat saathi", url = "https://sehatsaathi.hepton.uk", description = "Clinic management for caregivers."},       
+      {name = "Coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
+      {name = "Hugo-Validator", url = "https://github.com/mansoorbarri/hugo-validator", description = "A theme submission validation script for Hugo."},       
+  ]
+  socials = [        
+  {name = "github", username = "mansorbarri"},       
+  {name = "linkedin", username = "in/mansoorbarri"},       
+  {name = "twitter", username = "mansoorbarri"},     
+  ]
