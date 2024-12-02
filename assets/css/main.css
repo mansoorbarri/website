@@ -707,10 +707,6 @@ video {
   background-color: transparent;
 }
 
-.fill-white {
-  fill: #fff;
-}
-
 .fill-neutral-500 {
   fill: #737373;
 }
@@ -853,10 +849,6 @@ pre {
 
 code {
   white-space: pre-wrap;
-}
-
-.hover\:fill-\[var\(--accent-color\)\]:hover {
-  fill: var(--accent-color);
 }
 
 .hover\:fill-white:hover {
