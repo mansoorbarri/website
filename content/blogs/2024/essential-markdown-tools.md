@@ -29,7 +29,7 @@ Just a simple website which turns anything into Markdown. This is particularly u
 
 ## Markdown Editor
 This tool is useful when you want to edit on a public computer. A saver for me as I do most of my work from college.
-![A screenshot of the markdown editor](img/guides/2024/essential-markdown-tools/markdown-editor.png)
+![A screenshot of the markdown editor](/img/guides/2024/essential-markdown-tools/markdown-editor.png)
 
 ## codimd
 I have actually never used this one however it can be useful if you collaborate with multiple people in a Markdown project. 

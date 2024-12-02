@@ -50,7 +50,7 @@ Follow these steps to fix the error:
 
 5. **HTTPS vs. SSH**:
    - Consider using SSH instead of HTTPS for authentication. 
-   - Learn how to setup SSH: http://mansoorbarri.com/ultimate-gh-guide/
+   - Learn how to setup SSH: https://mansoorbarri.com/ultimate-gh-guide/
 
 6. **Test Your Configuration**:
    - Run the following command to verify your Git configuration:
