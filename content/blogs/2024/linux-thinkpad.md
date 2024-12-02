@@ -1,5 +1,5 @@
 ---
-title: "Using Linix on a ThinkPad"
+title: "Using Linux on a ThinkPad"
 description: "my brief experience with thinkpads and linux"
 date: "2024-09-17"
 url: "/linux-thinkpad/"

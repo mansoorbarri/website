@@ -1,5 +1,5 @@
 ---
-title: "Why I Left Startup The Journey"
+title: "Why I Left The StartupJourney"
 description: "Building a clinic management system: A journey of growth."
 date: "2024-11-19"
 url: "/why-i-left-startup-journey/"
