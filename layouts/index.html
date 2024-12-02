@@ -17,8 +17,8 @@
         </div>    
        <div class="mt-12"></div>
        <h2>Blog</h2>
+       {{ range .Paginator.Pages }}
        <div class="flex flex-col gap-4">
-        {{ range .Paginator.Pages }}
         <article class="flex justify-between">
            <a href="{{ .Permalink }}" target="_self" class="underline decoration-neutral-600 underline-offset-4 transition-colors focus:decoration-neutral-500 focus:outline-offset-6 hover:decoration-neutral-500">
             <span>{{ .Params.title }}</span>

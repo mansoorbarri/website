@@ -2,6 +2,7 @@ baseURL = "https://dev.mansoorbarri.com"
 languageCode = 'en-us'
 title = "Mansoor Barri"
 
+paginate = 5
 [menu]
   [[menu.main]]
     name = "blogs"
@@ -16,7 +17,6 @@ title = "Mansoor Barri"
 [params]
     wiki = "likh."
     hero = "just a **techie**."
-    paginate = 10
     search = true
     mainSections = ["blogs"]
     projects = [    
