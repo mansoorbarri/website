@@ -648,6 +648,11 @@ video {
   width: 75%;
 }
 
+.w-max {
+  width: -moz-max-content;
+  width: max-content;
+}
+
 .flex-1 {
   flex: 1 1 0%;
 }
