@@ -22,8 +22,8 @@ paginate = 5
   mainSections = ["blogs"]
   projects = [    
       {name = "sehat saathi", url = "https://sehatsaathi.hepton.uk", description = "Clinic management for caregivers."},       
-      {name = "Coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
-      {name = "Hugo-Validator", url = "https://github.com/mansoorbarri/hugo-validator", description = "A theme submission validation script for Hugo."},       
+      {name = "coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
+      {name = "hugo validator", url = "https://github.com/mansoorbarri/hugo-validator", description = "A theme submission validation script for Hugo."},       
   ]
   socials = [        
   {name = "github", url = "https://github.com/mansoorbarri"},
