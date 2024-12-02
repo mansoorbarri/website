@@ -10,7 +10,19 @@
                     <span class="text-lg text-imp font-semibold">{{ .Params.title }}</span>
                 </a>
                 <span>{{ .Params.description }}</span>
-                <span>{{ .Date.Format "January 2, 2006" }}</span> 
+                <div class="flex">
+                    <span>{{ .Date.Format "January 2, 2006" }}</span>
+                    <span class="px-2">•</span>
+                    <span class="text-neutral-500">
+                      {{ with .Params.tags }}
+                        {{ range $index, $tag := . }}
+                          <a href="/tags/{{ $tag | urlize }}" class="hover:underline">{{ $tag }}</a>{{ if lt $index (sub (len .) 1) }}{{ end }}
+                        {{ end }}
+                      {{ end }}
+                    </span>
+                  </div>
+                  
+                                 
             </article>
             {{ end }}
         </div>
