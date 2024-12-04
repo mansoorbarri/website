@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev-hugo": "hugo server --disableFastRender",
+    "dev-hugo": "hugo server --disableFastRender -FD",
     "dev-tailwind": "npx tailwindcss -i assets/css/raw.main.css -o assets/css/main.css --watch",
     "dev": "run-p dev-hugo dev-tailwind",
     "build": "npx tailwindcss -i assets/css/raw.main.css -o assets/css/main.css && hugo "

@@ -20,3 +20,11 @@ pre {
 code {
   @apply whitespace-pre-wrap;
 }
+
+#content a {
+  text-decoration: underline;
+}
+
+#content a:hover {
+  color: white;
+}

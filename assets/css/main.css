@@ -851,6 +851,14 @@ code {
   white-space: pre-wrap;
 }
 
+#content a {
+  text-decoration: underline;
+}
+
+#content a:hover {
+  color: white;
+}
+
 .hover\:fill-white:hover {
   fill: #fff;
 }
