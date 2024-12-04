@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description: ""
 date: {{ .Date }}
 url: "/{{ .Name | urlize }}/"
-draft: true
+draft: false
 categories: 
   -
   - 
