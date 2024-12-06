@@ -21,7 +21,7 @@ code {
   @apply whitespace-pre-wrap;
 }
 
-#content a {
+.post a {
   text-decoration: underline;
 }
 
