@@ -1,0 +1,7 @@
+<figure>
+  <video controls muted preload="auto" width="640" height="360" title="{{ .Get "title" }}">
+    <source src="{{ .Get "src" }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption class="text-center top-5 font-semibold">{{ .Get "caption" }}</figcaption>
+</figure>
