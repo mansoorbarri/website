@@ -570,6 +570,10 @@ video {
   right: 1.25rem;
 }
 
+.top-5 {
+  top: 1.25rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;

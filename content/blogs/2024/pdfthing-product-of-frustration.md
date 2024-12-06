@@ -27,6 +27,8 @@ For a long time, I relied on [this compression tool](https://pdfcompressor.com/)
 
 I had to repeat this process for every single document, every single time. It was slow, tedious, and frustrating. I tried other tools too—some were paid, some had file size limits, and others were painfully slow. None of them worked the way I wanted. That’s when I decided to build my own solution.
 
+{{< video src="/img/guides/2024/pdfthing-product-of-frustration/pdfcompress.mp4" caption="pdfcompress demo" >}} 
+
 ## Act 2: The Idea
 
 The idea for **pdfthing** hit me after watching [Theo's](https://x.com/theo) video on [QuickPic](https://www.youtube.com/watch?v=G2_D2bYFjY4). He talked about solving problems with simple, practical solutions, and I thought, “Why not fix my PDF problem?”
@@ -52,6 +54,12 @@ Here’s why **pdfthing** stands out:
 
 ### The Catch  
 Currently, the compression tool works entirely client-side. That’s because hosting on **Vercel** doesn’t allow running command-line tools like `ghostscript`. While the tool can run with **Docker**, I’m not deploying it just yet—that’s still under development. For now, you get a fast, local-only tool that’s simple and effective.
+
+{{< video src="/img/guides/2024/pdfthing-product-of-frustration/pdfthing.mp4" caption="pdfthing demo" >}} 
+
+{{< rawhtml >}}
+<div style="text-align: center; font-style: italic">the video is at normal speed</div>
+{{< /rawhtml >}}
 
 ## What’s Next?
 
