@@ -8,8 +8,6 @@ categories:
   - review
 tags:
   - 2024 review
-images:
-  - /img/feature.png
 ---
 
 2024 was unlike previous years. My focus shifted towards prioritising quality over quantity in the content I create, which is why my posts have been less frequent. Here's a look back at the year, highlighting things I’ve stopped doing, things I’ve started doing, and what I hope to achieve in 2025.

@@ -16,4 +16,4 @@
 {{- partial "stylesheet.html" . -}}
 <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta name="author" content="{{ .Site.Title }}">
-{{ partial "opengraph.html" . }}
+{{- partial "opengraph.html" . -}}

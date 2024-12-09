@@ -1,6 +1,6 @@
 ---
 title: "pdfthing - A Product of Frustration"
-description: "pdfthing is a simple, fast, and reliable PDF utility built to tackle the frustrations of existing tools. It compresses files 10% faster with no quality loss and works entirely locally."
+description: "pdfthing is a simple, fast, and reliable PDF utility built to tackle the frustrations of existing tools."
 date: "2024-12-06"
 url: "/pdfthing-product-of-frustration/"
 draft: false
