@@ -20,6 +20,8 @@ paginate = 5
   hero = "just a **techie**."
   search = true
   mainSections = ["blogs"]
+  images = ['/img/feature.png']
+  title = 'My cool site'
   projects = [    
       {name = "pdfthing", url = "https://pdfthing.mansoorbarri.com", description = "a PDF utility done right."},       
       {name = "coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
