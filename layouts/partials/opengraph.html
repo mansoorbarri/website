@@ -3,9 +3,9 @@
 
 {{ $uniqueName := "" }}
 {{ with .File }}
-  {{ $uniqueName = printf "og-image-%s.svg" .UniqueID }}
+  {{ $uniqueName = printf "og/og-image-%s.svg" .UniqueID }}
 {{ else }}
-  {{ $uniqueName = "og-image-default.svg" }}
+  {{ $uniqueName = "og/og-image-default.svg" }}
 {{ end }}
 
 {{ $svg := printf `
@@ -38,7 +38,7 @@
 </svg>
 ` $title $description | safeHTML }}
 
-{{ $generatedSVG := resources.FromString $uniqueName $svg }}
+{{ $generatedSVG := resources.FromString $uniqueName $svg | resources.ExecuteAsTemplate $uniqueName . }}
 
 <meta property="og:image" content="{{ $generatedSVG.Permalink }}" />
 <meta property="og:image:type" content="image/svg+xml" />
