@@ -1,0 +1,13 @@
+<div class="prose mx-auto max-w-container px-6 font-Switzer">
+   <hr>
+   <footer class="flex justify-between">
+      <span>{{ .Site.Title }} • {{ now.Format "2006" }}</span> 
+      <div class="flex gap-4">
+         {{ range .Site.Params.socials }}
+         <a href="{{ .url }}" target="_blank" class=" decoration-neutral-600 underline-offset-4 transition-colors focus:decoration-neutral-500 focus:outline-offset-6 hover:decoration-neutral-500 hover:text-white">
+            <i class="ti ti-brand-{{ .name }}" title="{{ .name }}"></i>
+         </a>
+         {{ end }}
+      </div>
+   </footer>
+</div>

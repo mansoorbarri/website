@@ -1,0 +1,19 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{{ if .Site.Params.favicon }}
+<link rel="icon" type="image/x-icon" href="{{- .Site.Params.favicon | relURL -}}">
+{{- else -}}
+<link rel="icon" type="image/x-icon" href="https://mansoorbarri.com/img/logo/favicon.ico">
+{{ end }}
+<title>
+    {{ if eq .RelPermalink "/" }}
+      {{ .Site.Title }}
+    {{ else }}
+      {{ .Title }} • {{ .Site.Title }}
+    {{ end }}
+</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css" />
+{{- partial "stylesheet.html" . -}}
+<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="author" content="{{ .Site.Title }}">
+{{- partial "opengraph.html" . -}}

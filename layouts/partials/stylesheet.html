@@ -1,0 +1,5 @@
+{{- $cssMain := resources.Get "css/main.css" | minify -}}    
+<link rel="stylesheet" type="text/css" href="{{ $cssMain.Permalink }}">
+
+{{- $cssAstro := resources.Get "css/astro.css" | minify -}}
+<link rel="stylesheet" type="text/css" href="{{ $cssAstro.Permalink }}"> 

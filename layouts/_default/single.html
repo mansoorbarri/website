@@ -1,0 +1,19 @@
+{{ define "main" }}
+    <div class="prose tracking-wide post">
+    <h1 class="py-5 text-center">{{ .Title }}</h1>
+    <p>
+        {{ .Content }}
+    </p>
+
+<hr> 
+<script src="https://utteranc.es/client.js" 
+    repo="mansoorbarri/website"
+    issue-term="title"
+    label="comments"
+    crossorigin="anonymous"
+    theme="photon-dark"
+    async>
+</script>
+
+{{- partial "back-to-top.html" . -}}
+{{ end }}

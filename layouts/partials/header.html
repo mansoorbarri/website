@@ -1,0 +1,18 @@
+<header class="flex items-center justify-between h-10 mt-2">
+    <h1 class="text-neutral-500">
+        <a class="hover:text-white" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    </h1>
+
+    <!-- Centered Search Box (only visible if .Site.Params.search is true) -->
+    {{ if .Site.Params.search }}
+        {{- partial "search.html" . -}}
+    {{ end }}
+ 
+    <div class="flex gap-x-4 text-neutral-500">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL | absURL }}" target="_self" class="hover:underline hover:underline-offset-4 hover:transition-transform">
+            {{ .Name }}
+        </a>
+        {{ end }}
+    </div>
+</header>
