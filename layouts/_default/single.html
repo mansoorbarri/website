@@ -1,7 +1,10 @@
 {{ define "main" }}
     <div class="prose tracking-wide post">
-    <h1 class="py-5 text-center">{{ .Title }}</h1>
-    <p>
+    <h1 class="text-center">{{ .Title }}</h1>
+    <div class="text-center">
+        <span class="text-neutral-500">{{ .Params.Description }}</span>
+    </div>
+        <p>
         {{ .Content }}
     </p>
 
