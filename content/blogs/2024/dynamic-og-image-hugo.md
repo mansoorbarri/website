@@ -1,6 +1,6 @@
 ---
 title: "Dynamic OpenGraph Images on Hugo"
-description: "Learn how to dynamically generate OpenGraph images for your Hugo site using SVGs and partials, inspired by Next.js's next/og module."
+description: "Learn how to dynamically generate OpenGraph images for your Hugo site."
 date: "2024-12-16"
 url: "/dynamic-og-image-hugo/"
 draft: false
