@@ -30,3 +30,6 @@ paginate = 5
   {name = "linkedin", url = "https://www.linkedin.com/in/mansoorbarri/"},
   {name = "x", url = "https://x.com/mansoorbarri"},
   ]
+
+[outputs]
+  home = ["HTML", "CSS", "JS"]
