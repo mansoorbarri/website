@@ -14,9 +14,11 @@
 </title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css" />
 {{- partial "stylesheet.html" . -}}
+{{- partial "js.html" . -}}
 <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta name="author" content="{{ .Site.Title }}">
 {{- partial "opengraph.html" . -}}
 <!-- adsense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5174559718233522"
 crossorigin="anonymous"></script>
+
