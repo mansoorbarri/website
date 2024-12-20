@@ -1,0 +1,2 @@
+{{- $jsCopy := resources.Get "js/copy.js" | minify -}}    
+<script src="{{ $jsCopy.Permalink }}"></script>
