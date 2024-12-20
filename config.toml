@@ -31,5 +31,4 @@ paginate = 5
   {name = "x", url = "https://x.com/mansoorbarri"},
   ]
 
-[outputs]
-  home = ["HTML", "CSS", "JS"]
+
