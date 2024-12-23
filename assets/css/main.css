@@ -562,28 +562,12 @@ video {
   position: fixed;
 }
 
-.absolute {
-  position: absolute;
-}
-
-.relative {
-  position: relative;
-}
-
 .bottom-0 {
   bottom: 0px;
 }
 
-.right-2 {
-  right: 0.5rem;
-}
-
 .right-5 {
   right: 1.25rem;
-}
-
-.top-2 {
-  top: 0.5rem;
 }
 
 .top-5 {
@@ -716,10 +700,6 @@ video {
   white-space: nowrap;
 }
 
-.rounded {
-  border-radius: 0.25rem;
-}
-
 .rounded-full {
   border-radius: 9999px;
 }
@@ -731,11 +711,6 @@ video {
 .border-neutral-500 {
   --tw-border-opacity: 1;
   border-color: rgb(115 115 115 / var(--tw-border-opacity));
-}
-
-.bg-gray-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(229 231 235 / var(--tw-bg-opacity));
 }
 
 .bg-transparent {
@@ -763,11 +738,6 @@ video {
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-}
-
-.py-1 {
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
 }
 
 .pb-1 {
@@ -802,11 +772,6 @@ video {
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
-}
-
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
 }
 
 .font-bold {
@@ -899,6 +864,40 @@ code {
   color: white;
 }
 
+.code-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+pre {
+  padding: 1rem;
+  background: #f5f5f5;
+  border-radius: 8px;
+  overflow: auto;
+  margin: 0;
+  /* Ensure no extra spacing */
+  position: relative;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 0.1rem;
+  right: 0.1rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: bold;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  color: #171717;
+  background: white;
+}
+
 .hover\:fill-white:hover {
   fill: #fff;
 }
@@ -943,12 +942,5 @@ code {
 @media (min-width: 768px) {
   .md\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  .dark\:bg-gray-700 {
-    --tw-bg-opacity: 1;
-    background-color: rgb(55 65 81 / var(--tw-bg-opacity));
   }
 }
