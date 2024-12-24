@@ -562,6 +562,14 @@ video {
   position: fixed;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
 .bottom-0 {
   bottom: 0px;
 }
@@ -702,6 +710,10 @@ video {
 
 .rounded-full {
   border-radius: 9999px;
+}
+
+.border {
+  border-width: 1px;
 }
 
 .border-b-2 {
