@@ -19,36 +19,4 @@
 </script>
 
 {{- partial "back-to-top.html" . -}}
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-        document.querySelectorAll("pre").forEach((preBlock) => {
-        // Create a wrapper div to position elements
-        const wrapper = document.createElement("div");
-        wrapper.className = "code-wrapper";
-
-        // Create the copy button
-        const button = document.createElement("button");
-        button.textContent = "📋";
-        button.className = "copy-btn";
-
-        // Wrap the pre block
-        preBlock.parentNode.insertBefore(wrapper, preBlock);
-        wrapper.appendChild(preBlock);
-        wrapper.appendChild(button);
-
-        // Add the copy functionality
-        button.addEventListener("click", function () {
-            const codeText = preBlock.querySelector("code").textContent;
-            navigator.clipboard.writeText(codeText).then(() => {
-            button.textContent = "✅";
-            setTimeout(() => {
-                button.textContent = "📋";
-            }, 2000);
-            }).catch(err => {
-            console.error("Failed to copy: ", err);
-            });
-        });
-        });
-    });
-</script>  
 {{ end }}
