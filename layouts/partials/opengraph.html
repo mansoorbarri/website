@@ -1,5 +1,5 @@
 {{ $title := .Title }}
-{{ $description := .Description | default .Summary | truncate 150 }}
+{{ $description := .Description | default .Site.Params.description | default .Summary | truncate 150 }}
 
 {{ $uniqueName := "" }}
 {{ with .File }}
