@@ -72,4 +72,4 @@ I’m already thinking about what’s next for **pdfthing**:
 
 Because it’s built for **you**—someone who wants PDF tools that are simple, fast, and reliable. No ads, no bloat, no unnecessary clicks. Just a tool that works.
 
-Check it out at [** pdfthing.hepton.uk**](https:// pdfthing.hepton.uk) and let me know what you think!
+Check it out at *[pdfthing.hepton.uk](https://pdfthing.hepton.uk)* and let me know what you think! Check  Check
