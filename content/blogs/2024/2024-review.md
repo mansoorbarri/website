@@ -42,4 +42,16 @@ While one of my projects didn’t pan out as expected, the experience was invalu
 
 With much of the foundational learning done, I’m ready to build something meaningful—something people genuinely need or something I personally find valuable. As of now, I don’t have a specific idea, but I’m excited to see where the journey takes me. 👀  
 
+### Tools for 2025 
+I have used various tools in the past, but I’ve never really explored them in depth. I am excited to learn more about the tools I use alreayd and how I can use them to their full potential. especially things like vim, git, and the terminal. 
+
+the list of tools I want to explore more is as follows:
+
+- vim
+- tmux
+- git cli 
+- hugo 
+
+lets see where this goes!
+
 2024 has been a year of recalibration. By focusing on what matters most, I’ve set the stage for a purposeful and productive 2025.
