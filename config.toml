@@ -15,7 +15,7 @@ paginate = 5
     weight = 2
 
 [params]
-  description = "known for a few things. creator of Sehat Saathi, Hugo theme Validator, and a few other things."
+  description = "known for a few things. developer of pdfthing, Hugo theme Validator, and a few other things."
   wiki = "likh."
   hero = "just a **techie**."
   search = true
