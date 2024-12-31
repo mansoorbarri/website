@@ -1,15 +1,24 @@
 {{ define "main" }}
     <div class="prose tracking-wide post">
+        <h1 class="text-center">{{ .Title }}</h1>
+        <div class="text-center">
+            <span class="text-neutral-500">{{ .Params.Description }}</span>
+        </div>
+            <p>
+            {{ .Content }}
+        </p>
 
-{{ if eq .Type "post" }}
-    {{- partial "post.html" . -}}
-{{ else }}
-    {{- partial "page.html" . -}}
-{{ end }}
-
-
+        <hr> 
+        <script src="https://utteranc.es/client.js" 
+            repo="mansoorbarri/website"
+            issue-term="title"
+            label="comments"
+            crossorigin="anonymous"
+            theme="photon-dark"
+            async>
+        </script>
         {{- partial "back-to-top.html" . -}}
-{{ if (findRE "code.*?" .Content 1) }}
+    {{ if (findRE "code.*?" .Content 1) }}
     {{- $ccJS := resources.Get "js/copy-code.js" | minify -}}
     <script type="text/javascript" src="{{ $ccJS.Permalink }}"></script>
     <style type="text/css">
@@ -36,6 +45,5 @@
         .highlight-copy-btn:hover {
             background: #1a1c1c; 
         }
-    </style>
-{{ end  }}
+    </style>    {{ end  }}
 {{ end }}
