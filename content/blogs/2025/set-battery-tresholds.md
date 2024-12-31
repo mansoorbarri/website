@@ -1,7 +1,7 @@
 ---
 title: "How to Set Battery Thresholds on Linux"
 description: "A very simple guide to setting battery thresholds on Linux for your laptops."
-date: "2025-01-01"
+date: "2025-01-02"
 url: "/set-battery-tresholds/"
 draft: false
 categories: 
