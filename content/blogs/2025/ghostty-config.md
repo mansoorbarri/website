@@ -16,7 +16,7 @@ using Ghostty has been a great experience. However, getting it exactly where I w
 Here is a look into my Ghostty config. Just to give a bit of context, I daily drive Debian Linux and using my terminal with tmux. 
 
 ## Ghostty Config
-```config
+```bash
 # ~/.config/ghostty/config
 
 font-family = "Geist Mono"

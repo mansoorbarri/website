@@ -886,6 +886,10 @@ blockquote {
   padding: 1em 1.5em;
 }
 
+code {
+  background-color: #303030
+}
+
 .hover\:fill-white:hover {
   fill: #fff;
 }
