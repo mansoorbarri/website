@@ -28,6 +28,7 @@ paginate = 5
   socials = [        
   {name = "github", url = "https://github.com/mansoorbarri"},
   {name = "linkedin", url = "https://www.linkedin.com/in/mansoorbarri/"},
+  {name = "bluesky", url = "https://bsky.app/profile/mansoorbarri.com"},
   {name = "x", url = "https://x.com/mansoorbarri"},
   ]
 
