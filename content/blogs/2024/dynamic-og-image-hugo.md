@@ -3,7 +3,7 @@ title: "Dynamic OpenGraph Images on Hugo"
 description: "Learn how to dynamically generate OpenGraph images for your Hugo site."
 date: "2024-12-16"
 url: "/dynamic-og-image-hugo/"
-draft: false
+draft: true 
 categories:
   - OpenGraph
 tags:
