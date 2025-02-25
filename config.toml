@@ -2,7 +2,7 @@ baseURL = "https://mansoorbarri.com"
 languageCode = 'en-us'
 title = "Mansoor Barri"
 
-paginate = 5
+pagination.pagerSize = 5
 [menu]
   [[menu.main]]
     name = "blogs"
