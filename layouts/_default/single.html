@@ -2,6 +2,9 @@
     <div class="prose tracking-wide post">
         <h1 class="text-center">{{ .Title }}</h1>
         <div class="text-center">
+            <span>{{ .Date.Format "3 January, 2006" }}</span>
+        </div>
+        <div class="text-center">
             <span class="text-neutral-500">{{ .Params.Description }}</span>
         </div>
             <p>
