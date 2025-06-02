@@ -18,7 +18,7 @@ pagination.pagerSize = 5
   description = "known for a few things. developer of pdfthing, Hugo theme Validator, and a few other things."
   wiki = "likh."
   hero = "just a **techie**."
-  search = true
+  search = false
   mainSections = ["blogs"]
   projects = [    
       {name = "pdfthing", url = "https://pdfthing.hepton.uk", description = "a PDF utility done right."},       
