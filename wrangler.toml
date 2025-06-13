@@ -5,6 +5,6 @@ compatibility_date = "2025-06-12"
 directory = "./public"
 
 routes = [
-  { pattern = "mansoorbarri.com", custom_domain = true }
+  { pattern = "mansoorbarri.com", custom_domain = true },
   { pattern = "www.mansoorbarri.com", custom_domain = true }
 ]
