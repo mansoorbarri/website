@@ -1,6 +1,6 @@
 ---
 title: "Migrate Hugo Website from Cloudflare Pages to Worker"
-description: "A guide through the painful process of migrating from Cloudfalre Pages to Workers for your Hugo Website."
+description: "A guide through the painful process of migrating from Cloudflare Pages to Workers for your Hugo Website."
 date: "2025-06-12"
 url: "/pages-to-workers-cf/"
 draft: false
