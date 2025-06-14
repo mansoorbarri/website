@@ -24,11 +24,17 @@ compatibility_date = "2025-06-12"
 
 [assets]
 directory = "./public"
+
+routes = [
+  { pattern = "mansoorbarri.com", custom_domain = true },
+  { pattern = "www.mansoorbarri.com", custom_domain = true }
+]
 ```
 
 - `name`: the name is just name of the worker. I have it same as the my repository as it keeps things consistant.
 - `compatibility_date`: set this to the current date.
 - `directory`: this is the directory which will be the root of your website once built. in Hugo's case, its the `/public/` directory. 
+- `routes`: are custom domain which you have to add here and at your CF dashboard as well for this to work. ***(this is really important trust me)***
 
 Push this to your repository and continue on CF Dashboard: https://dsah.cloudflare.com
 
