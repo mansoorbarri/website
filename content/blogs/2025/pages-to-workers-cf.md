@@ -31,7 +31,7 @@ routes = [
 ]
 ```
 
-- `name`: the name is just name of the worker. I have it same as the my repository as it keeps things consistant.
+- `name`: the name is just name of the worker. I have it same as the my repository as it keeps things consistent.
 - `compatibility_date`: set this to the current date.
 - `directory`: this is the directory which will be the root of your website once built. in Hugo's case, its the `/public/` directory. 
 - `routes`: are custom domain which you have to add here and at your CF dashboard as well for this to work. ***(this is really important trust me)***
@@ -40,8 +40,14 @@ Push this to your repository and continue on CF Dashboard: https://dsah.cloudfla
 
 Once in your dashboard:
 - go to "Compute (Workers)" > "Workers & Pages" from the right sidebar.
-- "Create" > choose where you want to import your source code from. *import from respository* in my case.
+- "Create" > choose where you want to import your source code from. *import from repository* in my case.
 - everything should be fine except add `hugo` in "Build command". *note: this is the command which will be used to trigger the site build*
 - "Save and Deploy"
 
 That should trigger the first build using workers. You can go in settings and setup other things like custom domains. This should be easy and similar to Pages settings.
+
+## Advanced Setup
+For advanced setups like building on a specific Hugo version and/or using Dart SASS, you will have to implement a much complex build system.
+
+[JMooring](https://github.com/jmooring) has a create repository explaining everything, check it out here: https://github.com/jmooring/hosting-cloudflare-worker
+
