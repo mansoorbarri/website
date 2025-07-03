@@ -8,7 +8,7 @@ categories:
   - Website 
 tags:
   - Hugo
-  - Cloudfalre
+  - Cloudflare
 ---
 
 Cloudflare announced that they will be moving off their Pages product and continue with Workers instead. Pages will be there but just maintaining it till end of life.
@@ -45,6 +45,13 @@ Once in your dashboard:
 - "Save and Deploy"
 
 That should trigger the first build using workers. You can go in settings and setup other things like custom domains. This should be easy and similar to Pages settings.
+
+## Hugo Build Version on CF
+If you are experiencing build issues, especially issues related to Hugo Version, you can specify the Hugo version in the CFW dashboard: 
+- go to "Compute (Workers)" > "Workers & Pages" from the right sidebar.
+- click on your worker and go to "Settings"
+- scroll down to the end and find "Variables and Secrets" under "Build" 
+- add `HUGO_VERSION` with the version you want to use. like ` 0.147.3`
 
 ## Advanced Setup
 For advanced setups like building on a specific Hugo version and/or using Dart SASS, you will have to implement a much complex build system.
