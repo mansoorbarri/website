@@ -57,6 +57,9 @@ I took the site offline again and dug into the logs. I couldn't find a name, but
 
 As of now, we still haven't caught them, but the clues leads me to this one person only.
 
+![screenshot of activity log](/img/guides/2025/i-got-hacked/activity-log.webp)
+*Two activity spike when the hacker was active*
+
 ## What I Learned from This
 
 I spent the whole night and the next morning re-building the system with proper **authentication**, **authorization**, and **validation**. The system is now under review by the event hosts, and I've made some major changes:
