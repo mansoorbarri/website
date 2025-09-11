@@ -2,7 +2,7 @@
 title: "I Built a Website and It Got Hacked."
 description: "My website was a disaster. It got hacked during a live event. Read about my mistakes and the security lessons I learned."
 date: "2025-09-11"
-url: "/npm-got-hacked/"
+url: "/i-got-hacked/"
 draft: false
 categories: 
   - web development
