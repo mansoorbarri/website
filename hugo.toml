@@ -20,10 +20,10 @@ pagination.pagerSize = 5
   hero = "just a **techie**."
   search = false
   mainSections = ["blogs"]
-  projects = [    
+  projects = [
+      {name = "vstrips", url = "https://geofs-vstrips.vercel.app", description = "a virtual ATC strips system for the GeoFS community."},
       {name = "pdfthing", url = "https://pdfthing.mansoorbarri.com", description = "a PDF utility done right."},       
       {name = "coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
-      {name = "hugo validator", url = "https://github.com/mansoorbarri/hugo-validator", description = "A theme submission validation script for Hugo."},       
   ]
   socials = [        
   {name = "github", url = "https://github.com/mansoorbarri"},
