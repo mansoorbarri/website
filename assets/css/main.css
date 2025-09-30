@@ -880,7 +880,7 @@ blockquote {
   background-color: rgb(82 82 82 / var(--un-border-opacity));
   border-left: 4px solid #ccc;
   color: rgb(255 255 255/var(--un-outline-color-opacity));
-  font-size: 1.2em;
+  font-size: 1em;
   font-style: italic;
   margin: 1em 0;
   padding: 1em 1.5em;
