@@ -25,19 +25,32 @@ pnpm add @opennextjs/cloudflare@latest
 pnpm add -D wrangler@latest
 ```
 
-- then you need to setup your `wrangler.toml` file: 
-```toml
-  main = ".open-next/worker.js" # LEAVE THIS AS IT IS 
-  name = "atcserver-vstrips" # THIS IS NAME FOR YOUR PROJECT. THIS SHOULD BE SAME AS THE NAME IN packages.json
-  compatibility_date = "2025-04-01" # LEAVE THIS AS IT IS
-  compatibility_flags = ["nodejs_compat"] # LEAVE THIS AS IT IS
-[assets]
-  directory = ".open-next/assets"  # LEAVE THIS AS IT IS
-  binding = "ASSETS" # LEAVE THIS AS IT IS
-[observability.logs]
-  enabled = true # THIS IS TO LOG SERVER LOGS. ITS BETTER TO KEEP THIS ENABLED
+- then you need to setup your `wrangler.toml` file, this should be in the root of your project: 
+```jsonc
+{
+  "main": ".open-next/worker.js",
+  "name": "docthing",
+  "compatibility_date": "2025-03-25",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "observability": {
+    "logs": {
+      "enabled": true
+    }
+  }
+}
 ```
-`wrangler.toml` should be in the root of your project.
+> - `main` is the file that will be used to build your worker. keep this as it is.
+> - `name` is the name of your project. 
+> - `compatibility_date` is the date of the compatibility of your worker. keep this as it is.
+> - `compatibility_flags` is the compatibility flags of your worker. keep this as it is.
+> - `assets` is the assets that will be used to build your worker. keep this as it is.
+> - `observability` is the observability of your worker. keep this as it is **if you want to use server logs**.
 
 - now make another file in the root of your project named `open-next.config.ts`
 ```ts 
