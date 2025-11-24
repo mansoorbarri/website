@@ -35,7 +35,7 @@ Here are the key focal points I wanted to prioritise for my version:
 - The exclusion of "Foos"
 - Minimal bandwidth usage without compromising on features
 
-Introducing [GeoFS-Radar](https://geofs-radar.vercel.app). This is a fork of the original GeoFS-FlightRadar but built on the T3 stack. Here is how I addressed the issues I was facing:
+Introducing [GeoFS-Radar](https://radar.xyzmani.com). This is a fork of the original GeoFS-FlightRadar but built on the T3 stack. Here is how I addressed the issues I was facing:
 
 - **Flight information:** regarding altitude, I implemented logic to use MSL below FL180 and ASL at and above FL180. Additionally, the interface displays both ASL and MSL on a sidebar containing all the details about the flight. For speed, I ensured that the user-side of the app transmits the current speed with every position update request.
 - **Exclude Foos:** Whilst it is not entirely possible to completely block them since anyone can install the user script and begin sending data, I have configured the system to display these flights as "unknown". Usually, these "Foos" are new or occasional players who do not use add-ons, so it has not been a major issue thus far.
