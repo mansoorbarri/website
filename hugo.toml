@@ -21,9 +21,9 @@ pagination.pagerSize = 5
   search = false
   mainSections = ["blogs"]
   projects = [
+      {name = "RadarThing", url = "https://radarthing.com", description = "A radar for GeoFS."},       
       {name = "vstrips", url = "https://github.com/mansoorbarri/geofs-vstrips", description = "a virtual ATC strips system for the GeoFS community."},
       {name = "pdfthing", url = "https://pdfthing.mansoorbarri.com", description = "a PDF utility done right."},       
-      {name = "coming Soon", url = "https://github.com/mansoorbarri/coming-soon/", description = "A hugo theme for your website pre-public look."},       
   ]
   socials = [        
   {name = "github", url = "https://github.com/mansoorbarri"},
