@@ -7,7 +7,6 @@ export const site = {
   wiki: "likh.",
   hero: "just a techie.",
   email: "mansoorb@mansoorbarri.com",
-  resume: "/Mansoor-Barri.pdf",
   nav: [
     { name: "blogs", url: "/blogs/" },
     { name: "tags", url: "/tags/" },

@@ -39,7 +39,7 @@ const work = (await getCollection("work")).sort((a, b) => a.data.order - b.data.
       <p class="mt-2 text-sm leading-relaxed text-subtle">
         I'm looking for junior developer roles and software degree apprenticeships. Happy to talk through any of the code above.
       </p>
-      <a href={site.resume} class="link mt-4 inline-block text-sm">download my cv →</a>
+      <a href={`mailto:${site.email}?subject=Job%20opportunity`} class="link mt-4 inline-block text-sm">email me →</a>
     </div>
     <div class="rise rounded-lg border border-white/5 bg-surface p-6" style="--i:7">
       <h3 class="text-text">need something built?</h3>

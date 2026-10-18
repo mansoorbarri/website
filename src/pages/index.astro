@@ -7,7 +7,6 @@ import { site } from "../site";
 const links = [
   { name: "blogs", url: "/blogs/" },
   { name: "tags", url: "/tags/" },
-  { name: "resume", url: site.resume },
 ];
 let i = 1;
 ---
@@ -26,10 +25,6 @@ let i = 1;
         <p class="mt-1 text-sm text-muted">{site.hero}</p>
       </header>
 
-      <div class="mb-2">
-        <Row href="/hire/" i={i++} featured>hire me</Row>
-      </div>
-
       <nav class="flex flex-col">
         {site.projects.map((p) => (
           <Row href={p.url} i={i++}>
@@ -37,6 +32,7 @@ let i = 1;
             <span class="block text-xs text-muted">{p.description}</span>
           </Row>
         ))}
+        <Row href="/hire/" i={i++} featured>hire me</Row>
         {links.map((l) => <Row href={l.url} i={i++}>{l.name}</Row>)}
       </nav>
 
