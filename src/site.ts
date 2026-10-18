@@ -15,7 +15,7 @@ export const site = {
   projects: [
     { name: "RadarThing", url: "https://radarthing.com", description: "a radar for GeoFS." },
     { name: "vstrips", url: "https://github.com/mansoorbarri/geofs-vstrips", description: "a virtual ATC strips system for the GeoFS community." },
-    { name: "pdfthing", url: "https://pdfthing.mansoorbarri.com", description: "a PDF utility done right." },
+    { name: "Jban", url: "https://jban.xyzmani.com", description: "a kanban board that asks why a task didn't get done." },
   ],
   socials: [
     { name: "gh", title: "GitHub", url: "https://github.com/mansoorbarri" },
