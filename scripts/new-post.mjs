@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Usage: npm run new -- "My Guide Title" [--tags Linux,Arch] [--category Linux] [--draft]
+// Usage: pnpm new "My Guide Title" [--tags Linux,Arch] [--category Linux] [--draft]
 import { existsSync, mkdirSync, writeFileSync } from "node:fs";
 import { parseArgs } from "node:util";
 
@@ -14,7 +14,7 @@ const { values, positionals } = parseArgs({
 
 const title = positionals.join(" ").trim();
 if (!title) {
-  console.error('Usage: npm run new -- "My Guide Title" [--tags Linux,Arch] [--category Linux] [--draft]');
+  console.error('Usage: pnpm new "My Guide Title" [--tags Linux,Arch] [--category Linux] [--draft]');
   process.exit(1);
 }
 

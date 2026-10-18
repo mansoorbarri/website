@@ -5,15 +5,15 @@ My personal site: blog, projects and a [/hire](https://mansoorbarri.com/hire/) p
 ## Develop
 
 ```bash
-npm install
-npm run dev       # http://localhost:4321 (drafts are shown in dev)
-npm run build     # outputs to dist/
+pnpm install
+pnpm dev       # http://localhost:4321 (drafts are shown in dev)
+pnpm build     # outputs to dist/
 ```
 
 ## Write a new guide
 
 ```bash
-npm run new -- "How to Set Up Tailscale" --tags Linux,Networking --category Linux
+pnpm new "How to Set Up Tailscale" --tags Linux,Networking --category Linux
 ```
 
 This creates `content/blogs/<year>/<slug>.md` with the front matter filled in, plus an image folder at
