@@ -1,37 +1,44 @@
 ---
 import Base from "../layouts/Base.astro";
-import PostList from "../components/PostList.astro";
-import SectionTitle from "../components/SectionTitle.astro";
-import { getPosts } from "../lib/posts";
+import Row from "../components/Row.astro";
+import Socials from "../components/Socials.astro";
 import { site } from "../site";
 
-const posts = (await getPosts()).slice(0, 8);
+const links = [
+  { name: "blogs", url: "/blogs/" },
+  { name: "tags", url: "/tags/" },
+];
+let i = 1;
 ---
 
-<Base>
-  <section>
-    <p class="text-sm text-neutral-500">{site.wiki}</p>
-    <p class="mt-1 text-neutral-300 [&_strong]:font-semibold [&_strong]:text-white" set:html={site.hero} />
-    <p class="mt-4 text-neutral-400">
-      Building something? <a href="/hire/" class="link text-neutral-200">I'm available for work</a>.
-    </p>
-  </section>
-
-  <section class="mt-14">
-    <SectionTitle>Projects</SectionTitle>
-    <div class="grid grid-cols-2 gap-6 sm:grid-cols-3">
-      {site.projects.map((p) => (
-        <div>
-          <a href={p.url} class="link font-medium text-neutral-100">{p.name}</a>
-          <p class="mt-2 text-sm text-neutral-400">{p.description}</p>
-        </div>
-      ))}
+<Base bare>
+  <main class="relative flex min-h-screen flex-col items-center justify-center overflow-hidden px-6 py-16">
+    <div
+      class="pointer-events-none absolute top-1/2 left-1/2 h-[600px] w-[600px] -translate-x-1/2 -translate-y-1/2 rounded-full opacity-[0.04]"
+      style="background: radial-gradient(circle, var(--color-accent) 0%, transparent 70%)"
+    >
     </div>
-  </section>
 
-  <section class="mt-14">
-    <SectionTitle>Blog</SectionTitle>
-    <PostList posts={posts} />
-    <a href="/blogs/" class="mt-6 inline-block text-sm text-neutral-500 transition-colors hover:text-white">all posts →</a>
-  </section>
+    <div class="relative z-10 w-full max-w-sm">
+      <header class="rise mb-16">
+        <h1 class="text-xl tracking-tight">{site.handle}</h1>
+        <p class="mt-1 text-sm text-muted">{site.hero}</p>
+      </header>
+
+      <nav class="flex flex-col">
+        {site.projects.map((p) => (
+          <Row href={p.url} i={i++}>
+            {p.name}
+            <span class="block text-xs text-muted">{p.description}</span>
+          </Row>
+        ))}
+        <Row href="/hire/" i={i++} featured>hire me</Row>
+        {links.map((l) => <Row href={l.url} i={i++}>{l.name}</Row>)}
+      </nav>
+
+      <footer class="rise mt-16 flex items-center gap-x-5 border-t border-white/5 pt-6 text-sm tracking-wider" style={`--i:${i}`}>
+        <Socials />
+      </footer>
+    </div>
+  </main>
 </Base>

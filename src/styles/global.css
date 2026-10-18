@@ -2,66 +2,90 @@
 @plugin "@tailwindcss/typography";
 
 @font-face {
-  font-family: Switzer;
-  src: url(/fonts/Switzer.woff2) format("woff2");
-  font-weight: 300 900;
-  font-display: swap;
-}
-@font-face {
-  font-family: Hack;
-  src: url(/fonts/Hack.woff2) format("woff2");
+  font-family: "Geist Mono";
+  src: url(/fonts/GeistMono-Variable.woff2) format("woff2");
+  font-weight: 100 900;
   font-display: swap;
 }
 
 @theme {
-  --font-sans: Switzer, ui-sans-serif, system-ui, sans-serif;
-  --font-mono: Hack, ui-monospace, monospace;
-  --color-bg: #171717;
-  --color-surface: #212121;
+  --font-sans: "Geist Mono", ui-monospace, monospace;
+  --font-mono: "Geist Mono", ui-monospace, monospace;
+  --color-void: #050505;
+  --color-surface: #0a0a0a;
+  --color-text: #fafafa;
+  --color-subtle: #a3a3a3;
+  --color-muted: #525252;
+  --color-accent: #22d3ee;
 }
 
 @layer base {
   html { color-scheme: dark; }
-  body { @apply bg-bg text-neutral-300 font-sans antialiased; }
-  ::selection { @apply bg-neutral-600 text-white; }
+  body { @apply bg-void font-mono text-text antialiased; }
+  ::selection { @apply bg-accent/20; }
 }
 
+/* Inline text link. */
 @utility link {
-  @apply underline decoration-neutral-600 underline-offset-4 transition-colors hover:text-white hover:decoration-neutral-400;
+  @apply text-text underline decoration-white/20 underline-offset-4 transition-colors hover:decoration-accent/60;
+}
+
+/* A full-width row link with a thin accent line that sweeps in on hover. */
+@utility row {
+  @apply relative flex items-baseline justify-between gap-4 py-3;
+  &::after {
+    content: "";
+    @apply absolute bottom-2 left-0 h-px w-0 bg-accent/40 transition-all duration-300 ease-out;
+  }
+  &:hover::after, &:focus-visible::after { @apply w-full; }
+}
+
+/* Staggered entrance. Set --i on each element to offset it. */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: none; }
+}
+.rise {
+  animation: rise 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: calc(min(var(--i, 0), 12) * 50ms);
+}
+@media (prefers-reduced-motion: reduce) {
+  .rise { animation: none; }
 }
 
 /* Long-form content: blog posts and case studies. */
 .prose {
-  --tw-prose-body: var(--color-neutral-300);
-  --tw-prose-headings: var(--color-neutral-100);
-  --tw-prose-links: var(--color-neutral-100);
-  --tw-prose-bold: var(--color-neutral-100);
-  --tw-prose-quotes: var(--color-neutral-300);
-  --tw-prose-quote-borders: var(--color-neutral-600);
-  --tw-prose-code: var(--color-neutral-200);
-  --tw-prose-counters: var(--color-neutral-500);
-  --tw-prose-bullets: var(--color-neutral-600);
-  --tw-prose-hr: var(--color-neutral-800);
-  --tw-prose-th-borders: var(--color-neutral-700);
-  --tw-prose-td-borders: var(--color-neutral-800);
-  --tw-prose-captions: var(--color-neutral-500);
+  --tw-prose-body: var(--color-subtle);
+  --tw-prose-headings: var(--color-text);
+  --tw-prose-links: var(--color-text);
+  --tw-prose-bold: var(--color-text);
+  --tw-prose-quotes: var(--color-subtle);
+  --tw-prose-quote-borders: rgb(255 255 255 / 0.1);
+  --tw-prose-code: var(--color-text);
+  --tw-prose-counters: var(--color-muted);
+  --tw-prose-bullets: var(--color-muted);
+  --tw-prose-hr: rgb(255 255 255 / 0.06);
+  --tw-prose-th-borders: rgb(255 255 255 / 0.1);
+  --tw-prose-td-borders: rgb(255 255 255 / 0.06);
+  --tw-prose-captions: var(--color-muted);
   @apply max-w-none;
 }
-.prose a { @apply link; }
+.prose :where(h1, h2, h3, h4) { @apply font-medium tracking-tight; }
+.prose blockquote { @apply border-white/10 font-normal not-italic; }
+.prose a { @apply link font-normal; }
 .prose :where(code):not(:where(pre *)) {
-  @apply rounded bg-surface px-1.5 py-0.5 font-normal before:content-none after:content-none;
+  @apply rounded border border-white/5 bg-surface px-1.5 py-0.5 font-normal before:content-none after:content-none;
 }
 .prose pre {
-  @apply relative rounded-lg border border-neutral-800 text-sm;
+  @apply relative rounded-lg border border-white/5 text-sm;
   background-color: var(--color-surface) !important;
 }
-.prose img, .prose video { @apply mx-auto rounded-lg; }
+.prose img, .prose video { @apply mx-auto rounded-lg border border-white/5; }
 .prose figcaption { @apply text-center; }
 .prose .embed { @apply relative aspect-video; }
 .prose .embed iframe { @apply absolute inset-0 h-full w-full rounded-lg; }
-.prose blockquote { @apply font-normal not-italic; }
 
 .copy-btn {
-  @apply absolute top-2 right-2 rounded-md border border-neutral-700 bg-bg px-2 py-0.5 font-sans text-xs text-neutral-400 opacity-0 transition hover:text-white;
+  @apply absolute top-2 right-2 rounded-md border border-white/10 bg-void px-2 py-0.5 text-xs text-muted opacity-0 transition hover:text-text;
 }
 pre:hover .copy-btn, .copy-btn:focus { @apply opacity-100; }

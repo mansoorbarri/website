@@ -1,5 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
+import PageHeader from "./PageHeader.astro";
 import PostList from "./PostList.astro";
 import type { Post } from "../lib/posts";
 interface Props { label: string; name: string; posts: Post[] }
@@ -7,7 +8,6 @@ const { label, name, posts } = Astro.props;
 ---
 
 <Base title={name} description={`Posts filed under ${name}.`}>
-  <p class="text-sm text-neutral-500">{label}</p>
-  <h1 class="mb-10 text-2xl font-semibold text-neutral-100">{name}</h1>
-  <PostList posts={posts} />
+  <PageHeader title={name} count={posts.length}>{label.toLowerCase()}</PageHeader>
+  <PostList posts={posts} start={1} />
 </Base>

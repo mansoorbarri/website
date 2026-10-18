@@ -1,0 +1,7 @@
+---
+import { site } from "../site";
+---
+
+{site.socials.map((s) => (
+  <a href={s.url} title={s.title} class="text-muted transition-colors duration-200 hover:text-text">{s.name}</a>
+))}
