@@ -1,6 +1,6 @@
 # mansoorbarri.com
 
-My personal site: blog, projects and a [/hire](https://mansoorbarri.com/hire/) page. Built with [Astro](https://astro.build) + Tailwind, deployed to Cloudflare Workers.
+My personal site: blog, projects and a [/hire](https://mansoorbarri.com/hire/) page. Built with [Astro](https://astro.build) + Tailwind, deployed to Vercel.
 
 ## Develop
 

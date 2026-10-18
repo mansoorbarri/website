@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/page/:n", "destination": "/", "permanent": true },
+    { "source": "/blogs/page/:n", "destination": "/blogs/", "permanent": true },
+    { "source": "/tags/page/:n", "destination": "/tags/", "permanent": true },
+    { "source": "/categories/page/:n", "destination": "/categories/", "permanent": true },
+    { "source": "/tags/:tag/page/:n", "destination": "/tags/:tag/", "permanent": true },
+    { "source": "/categories/:cat/page/:n", "destination": "/categories/:cat/", "permanent": true }
+  ]
+}
