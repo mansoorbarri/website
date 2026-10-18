@@ -1,0 +1,30 @@
+---
+// A list link in the style of the rest of the site: label left, meta or an
+// arrow (on hover) right, and an accent line that sweeps underneath.
+interface Props {
+  href: string;
+  i?: number;
+  meta?: string;
+  featured?: boolean;
+}
+const { href, i = 0, meta, featured = false } = Astro.props;
+const external = /^https?:/.test(href);
+---
+
+<a
+  href={href}
+  class="group row rise"
+  style={`--i:${i}`}
+  {...external && { target: "_blank", rel: "noopener noreferrer" }}
+>
+  <span class:list={["min-w-0 transition-colors duration-200", featured ? "text-text" : "text-subtle group-hover:text-text"]}>
+    <slot />
+  </span>
+  {meta ? (
+    <span class="shrink-0 text-sm text-muted tabular-nums">{meta}</span>
+  ) : (
+    <span class="shrink-0 text-muted opacity-0 transition-all duration-200 group-hover:translate-x-0.5 group-hover:opacity-100">
+      {external ? "↗" : "→"}
+    </span>
+  )}
+</a>

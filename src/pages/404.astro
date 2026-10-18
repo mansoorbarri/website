@@ -1,8 +1,9 @@
 ---
 import Base from "../layouts/Base.astro";
+import PageHeader from "../components/PageHeader.astro";
 ---
 
 <Base title="Not found">
-  <h1 class="text-2xl font-semibold text-neutral-100">404</h1>
-  <p class="mt-3 text-neutral-400">That page doesn't exist. <a href="/blogs/" class="link">Browse the blog</a> instead.</p>
+  <PageHeader title="404">that page doesn't exist.</PageHeader>
+  <a href="/blogs/" class="rise link text-sm" style="--i:1">browse the blog →</a>
 </Base>

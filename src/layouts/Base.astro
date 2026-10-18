@@ -1,63 +1,72 @@
 ---
 import "../styles/global.css";
+import Socials from "../components/Socials.astro";
 import { site } from "../site";
 
 interface Props {
   title?: string;
   description?: string;
   type?: "website" | "article";
+  /** Skip the header and footer; the page draws its own. */
+  bare?: boolean;
+  width?: "narrow" | "wide";
 }
-const { title, description = site.description, type = "website" } = Astro.props;
+const { title, description = site.description, type = "website", bare = false, width = "wide" } = Astro.props;
 const fullTitle = title ? `${title} • ${site.title}` : site.title;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const here = Astro.url.pathname;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class="h-full bg-void">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <meta name="author" content={site.title} />
-    <meta name="theme-color" content="#171717" />
+    <meta name="theme-color" content="#050505" />
     <link rel="canonical" href={canonical} />
     <link rel="icon" href="/img/logo/favicon.ico" />
     <link rel="alternate" type="application/rss+xml" title={site.title} href="/index.xml" />
-    <link rel="preload" href="/fonts/Switzer.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/GeistMono-Variable.woff2" as="font" type="font/woff2" crossorigin />
     <meta property="og:title" content={title ?? site.title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={type} />
     <meta property="og:url" content={canonical} />
     <meta name="twitter:card" content="summary" />
   </head>
-  <body>
-    <div class="mx-auto flex min-h-screen max-w-2xl flex-col px-5">
-      <header class="flex items-center justify-between py-6">
-        <a href="/" class="text-neutral-500 transition-colors hover:text-white">{site.title}</a>
-        <nav class="flex gap-4 text-neutral-500">
-          {site.nav.map((item) => (
-            <a
-              href={item.url}
-              class:list={["transition-colors hover:text-white", here.startsWith(item.url) && "text-neutral-200"]}
-            >
-              {item.name}
-            </a>
-          ))}
-        </nav>
-      </header>
+  <body class="min-h-full">
+    {bare ? (
+      <slot />
+    ) : (
+      <div class:list={["mx-auto flex min-h-screen w-full flex-col px-6", width === "narrow" ? "max-w-2xl" : "max-w-3xl"]}>
+        <header class="rise flex items-baseline justify-between gap-4 py-8 text-sm">
+          <a href="/" class="text-muted transition-colors duration-200 hover:text-text">{site.handle}</a>
+          <nav class="flex gap-5">
+            {site.nav.map((item) => (
+              <a
+                href={item.url}
+                class:list={[
+                  "transition-colors duration-200 hover:text-text",
+                  here.startsWith(item.url) ? "text-text" : "text-muted",
+                ]}
+              >
+                {item.name}
+              </a>
+            ))}
+          </nav>
+        </header>
 
-      <main class="flex-1 py-8">
-        <slot />
-      </main>
+        <main class="flex-1 py-10">
+          <slot />
+        </main>
 
-      <footer class="flex items-center justify-between border-t border-neutral-800 py-6 text-sm text-neutral-500">
-        <span>{site.title} • {new Date().getFullYear()}</span>
-        <div class="flex gap-4">
-          {site.socials.map((s) => <a href={s.url} class="transition-colors hover:text-white">{s.name}</a>)}
-        </div>
-      </footer>
-    </div>
+        <footer class="mt-16 mb-8 flex items-center justify-center gap-x-6 border-t border-white/5 pt-8 text-sm tracking-wider">
+          <Socials />
+        </footer>
+      </div>
+    )}
   </body>
 </html>

@@ -1,17 +1,18 @@
 ---
 import Base from "../layouts/Base.astro";
+import PageHeader from "./PageHeader.astro";
 import type { Post } from "../lib/posts";
 interface Props { title: string; base: string; terms: [string, { name: string; posts: Post[] }][] }
 const { title, base, terms } = Astro.props;
 ---
 
 <Base title={title}>
-  <h1 class="mb-10 text-2xl font-semibold text-neutral-100">{title}</h1>
-  <ul class="flex flex-wrap gap-x-5 gap-y-3">
+  <PageHeader title={title.toLowerCase()} count={terms.length} />
+  <ul class="rise flex flex-wrap gap-x-6 gap-y-3" style="--i:1">
     {terms.map(([slug, t]) => (
       <li>
-        <a href={`/${base}/${slug}/`} class="link">{t.name}</a>
-        <span class="text-sm text-neutral-600">{t.posts.length}</span>
+        <a href={`/${base}/${slug}/`} class="text-subtle transition-colors duration-200 hover:text-text">{t.name}</a>
+        <span class="ml-1 text-xs text-muted">{t.posts.length}</span>
       </li>
     ))}
   </ul>
