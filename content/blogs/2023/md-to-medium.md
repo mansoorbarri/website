@@ -9,7 +9,7 @@ tags:
 url : "/guides/md-to-medium/"
 type: "post"
 showtableOfContents: true
-descripton: "Convert your Markdown file to a Medium post with our guide. Follow our step-by-step instructions to publish your content and reach a wider audience"
+description: "Convert your Markdown file to a Medium post with our guide. Follow our step-by-step instructions to publish your content and reach a wider audience"
 ---
 
 Following these steps will allow you to convert your Markdown file into a Medium post using the Markdown-to-Medium tool.

@@ -1,0 +1,7 @@
+---
+import TermIndex from "../../components/TermIndex.astro";
+import { getPosts, terms } from "../../lib/posts";
+const list = terms(await getPosts(), "categories");
+---
+
+<TermIndex title="Categories" base="categories" terms={list} />

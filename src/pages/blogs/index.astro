@@ -1,0 +1,21 @@
+---
+import Base from "../../layouts/Base.astro";
+import PostList from "../../components/PostList.astro";
+import SectionTitle from "../../components/SectionTitle.astro";
+import { getPosts } from "../../lib/posts";
+
+const posts = await getPosts();
+const years = Map.groupBy(posts, (p) => p.data.date.getUTCFullYear());
+---
+
+<Base title="Blogs" description="Guides and notes on Linux, Windows, Hugo, web development and more.">
+  <h1 class="mb-10 text-2xl font-semibold text-neutral-100">Blogs <span class="text-neutral-600">{posts.length}</span></h1>
+  <div class="flex flex-col gap-12">
+    {[...years].map(([year, list]) => (
+      <section>
+        <SectionTitle>{year}</SectionTitle>
+        <PostList posts={list} />
+      </section>
+    ))}
+  </div>
+</Base>

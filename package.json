@@ -1,15 +1,23 @@
 {
+  "name": "mansoorbarri.com",
+  "type": "module",
+  "private": true,
   "scripts": {
-    "dev-hugo": "hugo server --disableFastRender -FD",
-    "dev-tailwind": "npx tailwindcss -i assets/css/raw.main.css -o assets/css/main.css --watch",
-    "dev": "run-p dev-hugo dev-tailwind",
-    "build": "npx tailwindcss -i assets/css/raw.main.css -o assets/css/main.css && hugo --minify"
-  },
-  "devDependencies": {
-    "npm-run-all": "^4.1.5",
-    "tailwindcss": "^3.4.4"
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "new": "node scripts/new-post.mjs"
   },
   "dependencies": {
-    "clipboard": "^2.0.11"
-  }
+    "@astrojs/rss": "^4.0.19",
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.4.0",
+    "js-yaml": "^5.5.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "packageManager": "pnpm@10.30.1"
 }
