@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@font-face {
+  font-family: Switzer;
+  src: url(/fonts/Switzer.woff2) format("woff2");
+  font-weight: 300 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: Hack;
+  src: url(/fonts/Hack.woff2) format("woff2");
+  font-display: swap;
+}
+
+@theme {
+  --font-sans: Switzer, ui-sans-serif, system-ui, sans-serif;
+  --font-mono: Hack, ui-monospace, monospace;
+  --color-bg: #171717;
+  --color-surface: #212121;
+}
+
+@layer base {
+  html { color-scheme: dark; }
+  body { @apply bg-bg text-neutral-300 font-sans antialiased; }
+  ::selection { @apply bg-neutral-600 text-white; }
+}
+
+@utility link {
+  @apply underline decoration-neutral-600 underline-offset-4 transition-colors hover:text-white hover:decoration-neutral-400;
+}
+
+/* Long-form content: blog posts and case studies. */
+.prose {
+  --tw-prose-body: var(--color-neutral-300);
+  --tw-prose-headings: var(--color-neutral-100);
+  --tw-prose-links: var(--color-neutral-100);
+  --tw-prose-bold: var(--color-neutral-100);
+  --tw-prose-quotes: var(--color-neutral-300);
+  --tw-prose-quote-borders: var(--color-neutral-600);
+  --tw-prose-code: var(--color-neutral-200);
+  --tw-prose-counters: var(--color-neutral-500);
+  --tw-prose-bullets: var(--color-neutral-600);
+  --tw-prose-hr: var(--color-neutral-800);
+  --tw-prose-th-borders: var(--color-neutral-700);
+  --tw-prose-td-borders: var(--color-neutral-800);
+  --tw-prose-captions: var(--color-neutral-500);
+  @apply max-w-none;
+}
+.prose a { @apply link; }
+.prose :where(code):not(:where(pre *)) {
+  @apply rounded bg-surface px-1.5 py-0.5 font-normal before:content-none after:content-none;
+}
+.prose pre {
+  @apply relative rounded-lg border border-neutral-800 text-sm;
+  background-color: var(--color-surface) !important;
+}
+.prose img, .prose video { @apply mx-auto rounded-lg; }
+.prose figcaption { @apply text-center; }
+.prose .embed { @apply relative aspect-video; }
+.prose .embed iframe { @apply absolute inset-0 h-full w-full rounded-lg; }
+.prose blockquote { @apply font-normal not-italic; }
+
+.copy-btn {
+  @apply absolute top-2 right-2 rounded-md border border-neutral-700 bg-bg px-2 py-0.5 font-sans text-xs text-neutral-400 opacity-0 transition hover:text-white;
+}
+pre:hover .copy-btn, .copy-btn:focus { @apply opacity-100; }

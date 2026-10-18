@@ -1,0 +1,10 @@
+---
+import TermPage from "../../components/TermPage.astro";
+import { getPosts, terms } from "../../lib/posts";
+
+export async function getStaticPaths() {
+  return terms(await getPosts(), "categories").map(([term, t]) => ({ params: { term }, props: t }));
+}
+---
+
+<TermPage label="category" name={Astro.props.name} posts={Astro.props.posts} />

@@ -1,8 +1,7 @@
 
 ---
 title: "4 Essential Markdown Tools"
-description: "A brief guide to 4 essential markdown tools which are great in variety of 
-things"
+description: "A brief guide to 4 essential markdown tools which are great in variety of things"
 date: "2024-06-03"
 url: "/essential-markdown-tools/"
 draft: false

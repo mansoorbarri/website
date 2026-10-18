@@ -1,0 +1,18 @@
+---
+import Base from "../layouts/Base.astro";
+import type { Post } from "../lib/posts";
+interface Props { title: string; base: string; terms: [string, { name: string; posts: Post[] }][] }
+const { title, base, terms } = Astro.props;
+---
+
+<Base title={title}>
+  <h1 class="mb-10 text-2xl font-semibold text-neutral-100">{title}</h1>
+  <ul class="flex flex-wrap gap-x-5 gap-y-3">
+    {terms.map(([slug, t]) => (
+      <li>
+        <a href={`/${base}/${slug}/`} class="link">{t.name}</a>
+        <span class="text-sm text-neutral-600">{t.posts.length}</span>
+      </li>
+    ))}
+  </ul>
+</Base>

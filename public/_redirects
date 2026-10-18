@@ -1,0 +1,7 @@
+# Hugo paginated lists → single-page lists
+/page/*                    /                     301
+/blogs/page/*              /blogs/               301
+/tags/page/*               /tags/                301
+/categories/page/*         /categories/          301
+/tags/:tag/page/*          /tags/:tag/           301
+/categories/:cat/page/*    /categories/:cat/     301

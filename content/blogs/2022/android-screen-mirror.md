@@ -5,7 +5,7 @@ categories: ["Android"]
 type: "post"
 url : "/guides/android-screen-mirror/"
 showtableOfContents: true
-descripition: "Mirror your Android screen with sound: Learn how to do it wirelessly or with cables. Enjoy your favorite content on a bigger screen. Read our article."
+description: "Mirror your Android screen with sound: Learn how to do it wirelessly or with cables. Enjoy your favorite content on a bigger screen. Read our article."
 ---
 # Brief
 
