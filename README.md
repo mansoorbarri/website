@@ -25,7 +25,7 @@ Front matter:
 | ------------- | -------- | --------------------------------------------- |
 | `title`       | yes      |                                               |
 | `url`         | yes      | the page's permanent URL, e.g. `/my-guide/`   |
-| `date`        | yes      | future-dated posts stay hidden until that day |
+| `date`        | yes      | future-dated posts are left out of builds before that date; rebuild on or after it to publish |
 | `description` | no       | shown under the title and in search results   |
 | `tags`        | no       |                                               |
 | `categories`  | no       |                                               |

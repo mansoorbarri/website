@@ -5,6 +5,7 @@
 import { readFile } from "node:fs/promises";
 import { glob } from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { load as parseYaml } from "js-yaml";
 import type { Loader } from "astro/loaders";
 
@@ -64,8 +65,8 @@ export function hugoLoader({ base }: { base: string }): Loader {
   return {
     name: "hugo-markdown",
     async load({ store, parseData, renderMarkdown, generateDigest, config, watcher, logger }) {
-      const root = new URL(base, config.root);
-      const rootPath = root.pathname;
+      const rootPath = fileURLToPath(new URL(base, config.root));
+      const projectRoot = fileURLToPath(config.root);
 
       async function loadFile(rel: string) {
         const file = path.join(rootPath, rel);
@@ -85,7 +86,7 @@ export function hugoLoader({ base }: { base: string }): Loader {
           id,
           data: await parseData({ id, data, filePath: file }),
           body,
-          filePath: path.relative(config.root.pathname, file),
+          filePath: path.relative(projectRoot, file),
           digest,
           rendered,
         });

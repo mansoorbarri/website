@@ -19,6 +19,10 @@ if (!title) {
 }
 
 const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+if (!slug) {
+  console.error(`Couldn't make a URL slug from "${title}". Use at least one letter or number.`);
+  process.exit(1);
+}
 const today = new Date().toISOString().slice(0, 10);
 const year = today.slice(0, 4);
 const file = `content/blogs/${year}/${slug}.md`;

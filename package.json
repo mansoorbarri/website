@@ -10,11 +10,13 @@
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
-    "@astrojs/sitemap": "^3.7.4",
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^7.4.0",
     "js-yaml": "^5.5.0",
     "tailwindcss": "^4.3.3"
+  },
+  "engines": {
+    "node": ">=22.22.0"
   }
 }

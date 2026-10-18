@@ -11,9 +11,13 @@ export async function getPosts(): Promise<Post[]> {
   return posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 }
 
-/** Matches Hugo's urlize so existing /tags/ and /categories/ URLs keep working. */
+/**
+ * Close to Hugo's urlize, so existing /tags/ and /categories/ URLs keep working:
+ * lowercases, turns whitespace into "-", and keeps letters, marks, digits and . _ - + ~.
+ * Unlike Hugo it drops / \ # %, which would split or truncate the URL path.
+ */
 export const slugify = (s: string) =>
-  s.trim().toLowerCase().replace(/\s+/g, "-").replace(/[^\p{L}\p{N}_-]+/gu, "");
+  s.trim().toLowerCase().replace(/\s+/g, "-").replace(/[^\p{L}\p{M}\p{N}._+~-]+/gu, "");
 
 /** Group terms (tags or categories) across posts. */
 export function terms(posts: Post[], key: "tags" | "categories") {
